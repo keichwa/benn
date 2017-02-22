@@ -118,3 +118,188 @@
 :AUSL:
 :S_KOM:    128-129
 :END:     
+** 1933-08-02
+   :PROPERTIES:
+   :CUSTOM_ID:       po1933-08-02
+   :END:      
+*** BPo1966
+:PROPERTIES:
+:S:        130
+:AUSL:
+:S_KOM:    130
+:END:     
+** 1933-08-05
+   :PROPERTIES:
+   :CUSTOM_ID:       po1933-08-05
+   :END:      
+*** BPo1966
+:PROPERTIES:
+:S:        131
+:AUSL:
+:S_KOM:    131
+:END:     
+** 1933-08-09
+   :PROPERTIES:
+   :CUSTOM_ID:       po1933-08-09
+   :END:      
+*** BPo1966
+:PROPERTIES:
+:S:        132-133
+:AUSL:
+:S_KOM:    
+:END:     
+** 1933-08-14
+   :PROPERTIES:
+   :CUSTOM_ID:       po1933-08-14
+   :END:      
+*** BPo1966
+:PROPERTIES:
+:S:        133-135
+:AUSL:
+:S_KOM:    133-135
+:END:     
+** 1933-08-24
+   :PROPERTIES:
+   :CUSTOM_ID:       po1933-08-24
+   :END:      
+*** BPo1966
+:PROPERTIES:
+:S:        135-136
+:AUSL:
+:S_KOM:    135-136
+:END:     
+** 1933-09-03
+   :PROPERTIES:
+   :CUSTOM_ID:       po1933-09-03
+   :END:      
+*** BPo1966
+:PROPERTIES:
+:S:        136-137
+:AUSL:
+:S_KOM:    
+:END:     
+** 1933-09-07
+   :PROPERTIES:
+   :CUSTOM_ID:       po1933-09-07
+   :END:      
+*** BPo1966
+:PROPERTIES:
+:S:        137-138
+:AUSL:
+:S_KOM:    137-138
+:END:     
+** 1933-09-14
+   :PROPERTIES:
+   :CUSTOM_ID:       po1933-09-14
+   :END:      
+*** BPo1966
+:PROPERTIES:
+:S:        138-139
+:AUSL:
+:S_KOM:    
+:END:     
+** 1933-09-19
+   :PROPERTIES:
+   :CUSTOM_ID:       po1933-09-19
+   :END:      
+*** BPo1966
+:PROPERTIES:
+:S:        139
+:AUSL:
+:S_KOM:    139
+:END:     
+** 1933-09-19 (2)
+   :PROPERTIES:
+   :CUSTOM_ID:       po1933-09-19_2
+   :END:      
+*** BPo1966
+:PROPERTIES:
+:S:        140
+:AUSL:
+:S_KOM:    
+:END:     
+** 1933-10-05
+   :PROPERTIES:
+   :CUSTOM_ID:       po1933-10-05
+   :END:      
+*** BPo1966
+:PROPERTIES:
+:S:        141
+:AUSL:
+:S_KOM:    
+:END:     
+** 1933-10-09
+   :PROPERTIES:
+   :CUSTOM_ID:       po1933-10-09
+   :END:      
+*** BPo1966
+:PROPERTIES:
+:S:        141-142
+:AUSL:
+:S_KOM:    142
+:END:     
+
+** 1933-10-21
+   :PROPERTIES:
+   :CUSTOM_ID:       po1933-10-21
+   :END:      
+*** BPo1966
+:PROPERTIES:
+:S:        142
+:AUSL:
+:S_KOM:    142
+:END:     
+** 1933-11-03
+   :PROPERTIES:
+   :CUSTOM_ID:       po1933-11-03
+   :END:      
+*** BPo1966
+:PROPERTIES:
+:S:        142-143
+:AUSL:
+:S_KOM:    
+:END:     
+
+** 1933-11-07
+   :PROPERTIES:
+   :CUSTOM_ID:       po1933-11-07
+   :END:      
+Beilage: Bekenntnis zum Expressionismus; [[*BPo1966][BPo1966]], 143.
+*** BPo1966
+:PROPERTIES:
+:S:        143-144
+:AUSL:
+:S_KOM:    143-144
+:END:     
+** 1933-11-21
+   :PROPERTIES:
+   :CUSTOM_ID:       po1933-11-21
+   :END:      
+*** BPo1966
+:PROPERTIES:
+:S:        144-145
+:AUSL:
+:S_KOM:    144-145
+:END:     
+
+** 1933-12-01
+   :PROPERTIES:
+   :CUSTOM_ID:       po1933-12-01
+   :END:      
+*** BPo1966
+:PROPERTIES:
+:S:        145
+:AUSL:
+:S_KOM:    
+:END:     
+
+** 1933-12-09
+   :PROPERTIES:
+   :CUSTOM_ID:       po1933-12-09
+   :END:      
+*** BPo1966
+:PROPERTIES:
+:S:        145
+:AUSL:
+:S_KOM:    
+:END:     
