@@ -1,0 +1,293 @@
+#+STARTUP: content
+#+STARTUP: showall
+ #+STARTUP: showeverything
+#+TITLE: Benn - Oelze
+
+* Oelze, Friedrich Wilhelm
+:PROPERTIES:
+:EMPF:     1
+:END:
+** 1932-12-21
+   :PROPERTIES:
+   :CUSTOM_ID:       oe1932-12-21
+   :END:      
+*** BOe2016
+:PROPERTIES:
+:NR:       1
+:BD:       I
+:S:        21
+:FAKS:     20; 21
+:AUSL:
+:S_KOM:      333
+:END:      
+    Verkleinertes faksimile; plus faksimile der vorderseite des umschlags.
+*** BOe
+:PROPERTIES:
+:MED:      
+:NR:       1
+:BD:       I
+:S:        7
+:FAKS:     
+:S_KOM:      
+:END:      
+** 1933-01-27
+   :PROPERTIES:
+   :CUSTOM_ID: oe1933-01-27
+   :END:      
+*** BOe2016
+:PROPERTIES:
+:NR:       2
+:BD:       I
+:S:        22-23
+:FAKS:     
+:AUSL:
+:S_KOM:      
+:END:      
+*** BOe
+:PROPERTIES:
+:MED:      
+:NR:       2
+:BD:       I
+:S:        
+:FAKS:     
+:S_KOM:      
+:END:      
+** 1933-07-03
+   :PROPERTIES:
+   :CUSTOM_ID: oe1933-07-03
+   :END:      
+*** BOe2016
+    :PROPERTIES:
+    :NR:       3
+    :BD:       1
+    :S:        23
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    394
+    :END:
+*** BOe
+:PROPERTIES:
+:BD:       I
+:S:        
+:FAKS:     
+:S_KOM:      
+:NR:       3
+:END:
+** 1933-08-02
+   :PROPERTIES:
+   :CUSTOM_ID: oe1933-08-02
+   :TRAD:
+   :END:      
+*** BOe2016
+    :PROPERTIES:
+    :NR:       4
+    :BD:       1
+    :S:        23-24
+    :AUSL:     f
+    :FAKS:     f
+    :S_KOM:    395
+    :END:
+*** BOe
+    :PROPERTIES:
+    :NR:       4
+    :BD:       1
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1933-12-21
+   :PROPERTIES:
+   :CUSTOM_ID: oe1933-12-21
+   :TRAD:
+   :END:      
+*** BOe2016
+    :PROPERTIES:
+    :NR:       5
+    :BD:       1
+    :S:        24
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    395
+    :END:
+*** BOe
+    :PROPERTIES:
+    :NR:       5
+    :BD:       1
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1938-03-20
+   :PROPERTIES:
+   :CUSTOM_ID:
+   :END:      
+*** BOe2016
+:PROPERTIES:
+:NR:       224
+:BD:       I
+:S:    256-257    
+:FAKS:     
+:AUSL:
+:S_KOM:      498
+:END:      
+*** BOe
+:PROPERTIES:
+:MED:      
+:NR:       136
+:BD:       I
+:S:        
+:FAKS:     
+:S_KOM:      
+:END:      
+** 1938-03-26
+   :PROPERTIES:
+   :CUSTOM_ID:
+   :END:      
+*** BOe2016
+:PROPERTIES:
+:NR:   225
+:BD:       I
+:S:    257-259
+:FAKS:     258
+:AUSL:
+:S_KOM:      498f.
+:END:      
+*** BOe
+:PROPERTIES:
+:MED:      
+:NR:   
+:BD:       I
+:S:        
+:FAKS:     
+:S_KOM:      
+:END:      
+** 1938-04-01
+   :PROPERTIES:
+   :CUSTOM_ID:
+   :END:      
+*** BOe2016
+:PROPERTIES:
+:NR:       226
+:BD:       I
+:S:    229    
+:FAKS:     
+:AUSL:
+:S_KOM:      499
+:END:      
+*** BOe
+:PROPERTIES:
+:MED:      
+:NR:   
+:BD:       I
+:S:        
+:FAKS:     
+:S_KOM:      
+:END:      
+** 1934-02-02
+   :PROPERTIES:
+   :CUSTOM_ID: oe1934-02-02
+   :TRAD:
+   :END:      
+*** BOe2016
+    :PROPERTIES:
+    :NR:       6
+    :BD:       1
+    :S:        25
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    396
+    :END:
+*** BOe
+    :PROPERTIES:
+    :NR:       6
+    :BD:       1
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1934-02-16
+   :PROPERTIES:
+   :CUSTOM_ID: oe1934-02-16
+   :TRAD:
+   :END:      
+*** BOe2016
+    :PROPERTIES:
+    :NR:       7
+    :BD:       1
+    :S:        25-26
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    396-397
+    :END:
+*** BOe
+    :PROPERTIES:
+    :NR:       7
+    :BD:       1
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1934-04-25
+   :PROPERTIES:
+   :CUSTOM_ID: oe1934-04-25
+   :TRAD:
+   :END:      
+*** BOe2016
+    :PROPERTIES:
+    :NR:       8
+    :BD:       1
+    :S:        26-28
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    397-398
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       8
+    :BD:       1
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+* Benn
+:PROPERTIES:
+:END:
+** 1932-12-21 (vor 1932-12-21)
+   :PROPERTIES:
+   :TRAD:     verloren
+   :END:
+In [[#oe1932-12-21]] erwähnt.
+** 1933-01-27 (vor 1933-01-27)
+   :PROPERTIES:
+   :TRAD:     verloren
+   :END:
+In [[#oe1933-01-27]] erwähnt.
+** 1933-07-03 (vor 1933-07-03)
+   :PROPERTIES:
+   :TRAD:     verloren
+   :END:      
+In [[#oe1933-07-03]] erwähnt.
+
+** 1933-08-01
+   :PROPERTIES:
+   :TRAD:     verloren
+   :END:      
+In [[#oe1933-08-02]] erwähnt.
+** 1933-12-21 (vor 1933-12-21)
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1933-12-21
+   :TRAD: verloren
+   :END:      
+   In [[#oe1933-12-21]] erwähnt
+*** BOe2016
+    :PROPERTIES:
+    :NR:       
+    :BD:       
+    :S:        
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    
+    :END:
+:PROPERTIES:
+:END:
