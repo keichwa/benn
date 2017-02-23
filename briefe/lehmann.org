@@ -1,0 +1,31 @@
+#+STARTUP: content
+#+STARTUP: showall
+ #+STARTUP: showeverything
+#+TITLE: Benn - Lehmann
+
+* Lehmann, Wilhelm
+:PROPERTIES:
+:EMPF:     1
+:FROM_All: Benn
+:TO_All: Lehmann, Wilhelm
+:END:
+** 1956-05-08
+   :PROPERTIES:
+   :CUSTOM_ID:       le1956-05-08
+   :END:      
+*** BPo1966
+:PROPERTIES:
+:S:        148 (anm. 12a)
+:AUSL:
+:S_KOM:      
+:END:      
+* Benn
+:PROPERTIES:
+:FROM_All: Lehmann, Wilhelm
+:TO_All: Benn
+:END:
+** 1956-05-02 (vor 1956-05-02)
+   :PROPERTIES:
+   :TRAD:     Q
+   :END:
+In [[#po1956-05-08]] erwähnt: "Gruß zum Geburtstag".

@@ -6,6 +6,8 @@
 * Porada, Käthe von
 :PROPERTIES:
 :EMPF:     1
+:FROM_All: Benn
+:TO_All: Porada, Käthe von
 :END:
 ** 1933-07-04
    :PROPERTIES:
@@ -218,7 +220,7 @@
 :AUSL:
 :S_KOM:    
 :END:     
-** 1933-10-05
+q** 1933-10-05
    :PROPERTIES:
    :CUSTOM_ID:       po1933-10-05
    :END:      
@@ -303,3 +305,73 @@ Beilage: Bekenntnis zum Expressionismus; [[*BPo1966][BPo1966]], 143.
 :AUSL:
 :S_KOM:    
 :END:     
+
+** 1952-05-09
+   :PROPERTIES:
+   :CUSTOM_ID:       po1952-05-09
+   :END:      
+*** BPo1966
+:PROPERTIES:
+:S:        146
+:AUSL:
+:S_KOM:    146
+:END:     
+** 1954-08-24
+   :PROPERTIES:
+   :CUSTOM_ID:       po1954-08-24
+   :END:      
+*** BPo1966
+:PROPERTIES:
+:S:        146-147
+:AUSL:
+:S_KOM:    146-147
+:END:
+
+** 1955-01-13
+   :PROPERTIES:
+   :CUSTOM_ID:       po1955-01-13
+   :END:      
+*** BPo1966
+:PROPERTIES:
+:S:        147
+:AUSL:
+:S_KOM:    
+:END:
+** 1956-04-04
+   :PROPERTIES:
+   :CUSTOM_ID:       po1956-04-04
+   :END:      
+*** BPo1966
+:PROPERTIES:
+:S:        147-148
+:AUSL:
+:S_KOM:    148
+:END:
+* Benn
+:PROPERTIES:
+:FROM_All: Porada, Käthe von
+:TO_All: Benn
+:END:
+** 1952-05-09 (vor 1952-05-09)
+   :PROPERTIES:
+   :TRAD:     Q
+   :END:
+In [[#po1952-05-09]] erwähnt; dort vermutet vom 1952-05-06 lt. poststempel.
+
+** 1954-06-26
+   :PROPERTIES:
+   :TRAD:     Q
+   :END:
+In [[#po1954-08-24]] erwähnt.
+
+** 1954-08-15
+   :PROPERTIES:
+   :TRAD:     Q
+   :END:
+In [[#po1954-08-24]] erwähnt.
+
+** 1955-01-13 (vor 1955-01-13)
+   :PROPERTIES:
+   :TRAD:     Q
+   :END:
+In [[#po1955-01-13]] erwähnt.

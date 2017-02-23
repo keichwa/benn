@@ -252,6 +252,8 @@
     :END:
 * Benn
 :PROPERTIES:
+:FROM_All: Oelze, Friedrich Wilhelm
+:TO_All: Benn
 :END:
 ** 1932-12-21 (vor 1932-12-21)
    :PROPERTIES:
