@@ -1,0 +1,2 @@
+* Gottfried Benn: Metadaten zu Briefen und anderen Dokumenten
+Organisiert in textdateien (Emacs org-mode).
