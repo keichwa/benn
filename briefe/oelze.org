@@ -241,7 +241,6 @@
     :FAKS:     
     :S_KOM:    397-398
     :END:
-
 *** BOe
     :PROPERTIES:
     :NR:       8
@@ -270,7 +269,6 @@ In [[#oe1933-01-27]] erwähnt.
    :TRAD:     verloren
    :END:      
 In [[#oe1933-07-03]] erwähnt.
-
 ** 1933-08-01
    :PROPERTIES:
    :TRAD:     verloren
@@ -282,14 +280,10 @@ In [[#oe1933-08-02]] erwähnt.
    :TRAD: verloren
    :END:      
    In [[#oe1933-12-21]] erwähnt
-*** BOe2016
-    :PROPERTIES:
-    :NR:       
-    :BD:       
-    :S:        
-    :AUSL:     
-    :FAKS:     
-    :S_KOM:    
-    :END:
-:PROPERTIES:
-:END:
+
+** 1934-04-25 (vor 1934-04-25)
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1934-04-25
+   :TRAD: verloren
+   :END:      
+   Mehrere schreiben, in [[#oe1934-04-25]] erwähnt.

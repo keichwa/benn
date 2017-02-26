@@ -1,0 +1,28 @@
+#+STARTUP: content
+#+STARTUP: showall
+ #+STARTUP: showeverything
+#+TITLE: Benn - Zech
+
+* Zech, Paul
+:PROPERTIES:
+:EMPF:     1
+:FROM_All: Benn
+:TO_All: Zech, Paul
+:END:
+** 19
+   :PROPERTIES:
+   :CUSTOM_ID:       
+   :END:      
+*** BPo1966
+:PROPERTIES:
+:S:        148 (anm. 12a)
+:AUSL:
+:S_KOM:      
+:END:      
+* Benn
+:PROPERTIES:
+:FROM_All: Zech, Paul
+:TO_All: Benn
+:END:
+
+

@@ -1,0 +1,33 @@
+#+STARTUP: content
+#+STARTUP: showall
+ #+STARTUP: showeverything
+#+TITLE: Benn - Münchhausen
+
+* Münchhausen, Boerries von
+:PROPERTIES:
+:EMPF:     1
+:FROM_All: Benn
+:TO_All: Münchhausen, Boerries von
+:GEB: 1874
+:TOD: 1945
+:END:
+** 1934
+   :PROPERTIES:
+   :CUSTOM_ID:       
+   :END:      
+*** BMue1981
+:PROPERTIES:
+:S:        
+:AUSL:
+:S_KOM:      
+:END:      
+* Benn
+:PROPERTIES:
+:FROM_All: Münchhausen, Boerries von
+:TO_All: Benn
+:END:
+** 1956-05-02 (vor 1956-05-02)
+   :PROPERTIES:
+   :TRAD:     Q
+   :END:      
+
