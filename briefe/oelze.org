@@ -253,6 +253,28 @@
     :AUSL:     
     :S_KOM:    
     :END:
+** 1934-06-13
+   :PROPERTIES:
+   :CUSTOM_ID: oe1934-06-13
+   :TRAD:
+   :END:      
+*** BOe2016
+    :PROPERTIES:
+    :NR:       9
+    :BD:       1
+    :S:        28
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    398-399
+    :END:
+*** BOe
+    :PROPERTIES:
+    :NR:       9
+    :BD:       1
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
 * Benn
 :PROPERTIES:
 :FROM: Oelze, Friedrich Wilhelm
@@ -290,4 +312,10 @@ In [[#oe1933-08-02]] erwähnt.
    :TRAD: verloren
    :END:      
    Mehrere schreiben, in [[#oe1934-04-25]] erwähnt.
+** 1934-06-13 (vor 1934-06-13)
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1934-06-13
+   :TRAD: verloren
+   :END:      
+   In [[#oe1934-06-13]] erwähnt.
 

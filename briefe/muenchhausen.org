@@ -26,8 +26,12 @@
 :FROM_All: Münchhausen, Boerries von
 :TO_All: Benn
 :END:
-** 1956-05-02 (vor 1956-05-02)
-   :PROPERTIES:
-   :TRAD:     Q
-   :END:      
+** 1934-04-17
+*** BMue1981
+:PROPERTIES:
+:S:        162
+:AUSL:
+:S_KOM:      
+:END:      
+
 
