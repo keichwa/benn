@@ -1,13 +1,13 @@
 #+STARTUP: content
 #+STARTUP: showall
- #+STARTUP: showeverything
+# +STARTUP: showeverything
 #+TITLE: Benn - Porada
 
 * Porada, Käthe von
 :PROPERTIES:
 :EMPF:     1
-:FROM_All: Benn
-:TO_All: Porada, Käthe von
+:FROM: Benn
+:TO: Porada, Käthe von
 :END:
 ** 1933-07-04
    :PROPERTIES:
@@ -349,8 +349,8 @@ Beilage: Bekenntnis zum Expressionismus; [[*BPo1966][BPo1966]], 143.
 :END:
 * Benn
 :PROPERTIES:
-:FROM_All: Porada, Käthe von
-:TO_All: Benn
+:FROM: Porada, Käthe von
+:TO: Benn
 :END:
 ** 1952-05-09 (vor 1952-05-09)
    :PROPERTIES:
