@@ -1,14 +1,18 @@
 #+STARTUP: content
 #+STARTUP: showall
- #+STARTUP: showeverything
+# +STARTUP: showeverything
 #+TITLE: Benn - Martina Bally
 
 * Bally, Martina
 :PROPERTIES:
 :EMPF:     1
+:FROM: Benn
+:TO: Bally, Martina
 :END:
 * Benn
 :PROPERTIES:
+:TO: Benn
+:FROM: Bally, Martina
 :END:
 ** 1933-08-14 (vor 1933-08-14)
    :PROPERTIES:

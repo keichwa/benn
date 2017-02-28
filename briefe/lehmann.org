@@ -1,13 +1,13 @@
 #+STARTUP: content
 #+STARTUP: showall
- #+STARTUP: showeverything
+# #+STARTUP: showeverything
 #+TITLE: Benn - Lehmann
 
 * Lehmann, Wilhelm
 :PROPERTIES:
 :EMPF:     1
-:FROM_All: Benn
-:TO_All: Lehmann, Wilhelm
+:FROM: Benn
+:TO: Lehmann, Wilhelm
 :END:
 ** 1956-05-08
    :PROPERTIES:
@@ -21,8 +21,8 @@
 :END:      
 * Benn
 :PROPERTIES:
-:FROM_All: Lehmann, Wilhelm
-:TO_All: Benn
+:FROM: Lehmann, Wilhelm
+:TO: Benn
 :END:
 ** 1956-05-02 (vor 1956-05-02)
    :PROPERTIES:

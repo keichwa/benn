@@ -1,16 +1,20 @@
 #+STARTUP: content
 #+STARTUP: showall
- #+STARTUP: showeverything
+# +STARTUP: showeverything
 #+TITLE: Benn - Oelze
+# #+COLUMNS: %25ITEM %TAGS %PRIORITY %TODO
 
 * Oelze, Friedrich Wilhelm
 :PROPERTIES:
 :EMPF:     1
+:FROM: Benn
+:TO: Oelze, Friedrich Wilhelm
 :END:
 ** 1932-12-21
    :PROPERTIES:
    :CUSTOM_ID:       oe1932-12-21
-   :END:      
+#   :COLUMNS:  %3BD %S %NR %FAKS
+   :END:
 *** BOe2016
 :PROPERTIES:
 :NR:       1
@@ -248,7 +252,7 @@
     :S:        
     :AUSL:     
     :S_KOM:    
-    :END:
+    :END:      
 ** 1934-06-13
    :PROPERTIES:
    :CUSTOM_ID: oe1934-06-13
@@ -273,8 +277,8 @@
     :END:
 * Benn
 :PROPERTIES:
-:FROM_All: Oelze, Friedrich Wilhelm
-:TO_All: Benn
+:FROM: Oelze, Friedrich Wilhelm
+:TO: Benn
 :END:
 ** 1932-12-21 (vor 1932-12-21)
    :PROPERTIES:
@@ -302,7 +306,6 @@ In [[#oe1933-08-02]] erwähnt.
    :TRAD: verloren
    :END:      
    In [[#oe1933-12-21]] erwähnt
-
 ** 1934-04-25 (vor 1934-04-25)
    :PROPERTIES:
    :CUSTOM_ID: oeb1934-04-25
@@ -315,3 +318,4 @@ In [[#oe1933-08-02]] erwähnt.
    :TRAD: verloren
    :END:      
    In [[#oe1934-06-13]] erwähnt.
+
