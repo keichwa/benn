@@ -390,6 +390,346 @@ Verkleinertes faksimile, vorder- und rückseite der postkarte.
     :AUSL:     
     :S_KOM:    
     :END:
+** 1934-10-05
+   :PROPERTIES:
+   :CUSTOM_ID: oe1934-10-05
+   :TRAD:
+   :END:      
+Widmung
+*** BOe2016
+    :PROPERTIES:
+    :NR:       15
+    :BD:       1
+    :S:        32
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    400
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       15
+    :BD:       1
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1934-11-18
+   :PROPERTIES:
+   :CUSTOM_ID: oe1934-11-18
+   :TRAD:
+   :END:      
+*** BOe2016
+    :PROPERTIES:
+    :NR:       16
+    :BD:       1
+    :S:        32
+    :AUSL:     
+    :FAKS:     33
+    :S_KOM:    400-402
+    :END:
+*** BOe
+    :PROPERTIES:
+    :NR:       16
+    :BD:       1
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1934-11-24
+   :PROPERTIES:
+   :CUSTOM_ID: oe1934-11-24
+   :TRAD:
+   :END:      
+*** BOe2016
+    :PROPERTIES:
+    :NR:       17
+    :BD:       1
+    :S:        34-35
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    402-403
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       17
+    :BD:       1
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1935-01-01
+   :PROPERTIES:
+   :CUSTOM_ID: oe1935-01-01
+   :TRAD:
+   :END:      
+*** BOe2016
+    :PROPERTIES:
+    :NR:       18
+    :BD:       1
+    :S:        36
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    404
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       18
+    :BD:       1
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1935-01-30
+   :PROPERTIES:
+   :CUSTOM_ID: oe1935-01-30
+   :TRAD:
+   :END:      
+*** BOe2016
+    :PROPERTIES:
+    :NR:       19
+    :BD:       1
+    :S:        36-37
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    404-405
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       19
+    :BD:       1
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1935-02-17
+   :PROPERTIES:
+   :CUSTOM_ID: oe1935-02-17
+   :TRAD:
+   :END:      
+*** BOe2016
+    :PROPERTIES:
+    :NR:       20
+    :BD:       1
+    :S:        37-38
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    405
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       20
+    :BD:       1
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1935-03-09
+   :PROPERTIES:
+   :CUSTOM_ID: oe1935-03-09
+   :TRAD:
+   :END:      
+*** BOe2016
+    :PROPERTIES:
+    :NR:       21
+    :BD:       1
+    :S:        38-39
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    406
+    :END:
+*** BOe
+    :PROPERTIES:
+    :NR:       21
+    :BD:       1
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1935-03-27
+   :PROPERTIES:
+   :CUSTOM_ID: oe1935-03-27
+   :TRAD:
+   :END:      
+*** BOe2016
+    :PROPERTIES:
+    :NR:       22
+    :BD:       1
+    :S:        39
+    :AUSL:     
+    :FAKS:     40
+    :S_KOM:    406
+    :END:
+*** BOe
+    :PROPERTIES:
+    :NR:       22
+    :BD:       1
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1935-04-07
+   :PROPERTIES:
+   :CUSTOM_ID: oe1935-04-07
+   :TRAD:
+   :END:      
+*** BOe2016
+    :PROPERTIES:
+    :NR:       24
+    :BD:       1
+    :S:        44-45
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    407
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       23
+    :BD:       1
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1935-04-29
+   :PROPERTIES:
+   :CUSTOM_ID: oe1935-04-29
+   :TRAD:
+   :END:      
+*** BOe2016
+    :PROPERTIES:
+    :NR:       26
+    :BD:       1
+    :S:        46
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    408
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       24
+    :BD:       1
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1935-05-05
+   :PROPERTIES:
+   :CUSTOM_ID: oe1935-05-05
+   :TRAD:
+   :END:      
+*** BOe2016
+    :PROPERTIES:
+    :NR:       27
+    :BD:       1
+    :S:        47
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    408-409
+    :END:
+*** BOe
+    :PROPERTIES:
+    :NR:       25
+    :BD:       1
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1935-05-20
+   :PROPERTIES:
+   :CUSTOM_ID: oe1935-05-20
+   :TRAD:
+   :END:      
+*** BOe2016
+    :PROPERTIES:
+    :NR:       29
+    :BD:       1
+    :S:        48-49
+    :AUSL:     
+    :FAKS:     409 (vorderseite der karte, stark verkleinert)
+    :S_KOM:    410
+    :END:
+*** BOe
+    :PROPERTIES:
+    :NR:       26
+    :BD:       1
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1935-05-24
+   :PROPERTIES:
+   :CUSTOM_ID: oe1935-05-24
+   :TRAD:
+   :END:      
+*** BOe2016
+    :PROPERTIES:
+    :NR:       30
+    :BD:       1
+    :S:        49
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    410
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       27
+    :BD:       1
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1935-05-25
+   :PROPERTIES:
+   :CUSTOM_ID: oe1935-05-25
+   :TRAD:
+   :END:      
+*** BOe2016
+    :PROPERTIES:
+    :NR:       31
+    :BD:       1
+    :S:        49
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    410
+    :END:
+*** BOe
+    :PROPERTIES:
+    :NR:       28
+    :BD:       1
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1935-06-04
+   :PROPERTIES:
+   :CUSTOM_ID: oe1935-06-04
+   :TRAD:
+   :END:      
+*** BOe2016
+    :PROPERTIES:
+    :NR:       32
+    :BD:       1
+    :S:        50-51
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    411
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       29
+    :BD:       1
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
 * Benn
 :PROPERTIES:
 :FROM: Oelze, Friedrich Wilhelm
@@ -439,9 +779,6 @@ In [[#oe1933-08-02]] erwähnt.
    :TRAD: verloren
    :END:      
    In [[#oe1934-07-27]] erwähnt.
-
-
-
 ** 1934-08-22 (vor 1934-08-22)
    :PROPERTIES:
    :CUSTOM_ID: oeb1934-08-22
@@ -454,3 +791,77 @@ In [[#oe1933-08-02]] erwähnt.
    :TRAD: verloren
    :END:      
    2 briefe, in [[#oe1934-09-07]] erwähnt.
+** 1934-11-18 (vor 1934-11-18)
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1934-11-18
+   :TRAD: verloren
+   :END:      
+   2 briefe, in [[#oe1934-11-18]] erwähnt.
+** 1935-01-01 (vor 1935-01-01)
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1935-01-01
+   :TRAD: verloren
+   :END:      
+   In [[#oe1935-01-01]] erwähnt.
+** 1935-01-28 (vor 1935-01-28)
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1935-01-28
+   :TRAD: verloren
+   :END:      
+   In [[#oe1935-01-30]] erwähnt.
+** 1935-02-17 (vor 1935-02-17)
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1935-02-17
+   :TRAD: verloren
+   :END:      
+   In [[#oe1935-02-17]] erwähnt.
+** 1935-03-31
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1935-03-31
+   :TRAD:
+   :END:      
+*** BOe2016
+    :PROPERTIES:
+    :NR:       23
+    :BD:       1
+    :S:        41
+    :AUSL:     
+    :FAKS:     42-43
+    :S_KOM:    406-407
+    :END:
+:PROPERTIES:
+:END:
+
+** 1935-04-28
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1935-04-28
+   :TRAD:
+   :END:     
+Davor fehlt mindestens ein brief.
+*** BOe2016
+    :PROPERTIES:
+    :NR:       25
+    :BD:       1
+    :S:        45-46
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    407-408
+    :END:
+:PROPERTIES:
+:END:
+** 1935-05-08
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1935-05-08
+   :TRAD:
+   :END:      
+*** BOe2016
+    :PROPERTIES:
+    :NR:       28
+    :BD:       1
+    :S:        48
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    409
+    :END:
+:PROPERTIES:
+:END:
