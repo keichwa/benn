@@ -1146,6 +1146,196 @@ Widmung
     :AUSL:     
     :S_KOM:    
     :END:
+** 1935-10-21
+   :PROPERTIES:
+   :CUSTOM_ID: oe1935-10-21
+   :TRAD:
+   :END:      
+*** BOe2016
+    :PROPERTIES:
+    :NR:       54
+    :BD:       1
+    :S:        81-83
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    424
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       48
+    :BD:       1
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1935-10-23
+   :PROPERTIES:
+   :CUSTOM_ID: oe1935-10-23
+   :TRAD:
+   :END:      
+*** BOe2016
+    :PROPERTIES:
+    :NR:       55
+    :BD:       1
+    :S:        83-84
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    424
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       49
+    :BD:       1
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1935-10-25
+   :PROPERTIES:
+   :CUSTOM_ID: oe1935-10-25
+   :TRAD:
+   :END:      
+Zusammen mit [[#oe1935-10-23]] verschickt.
+** 1935-11-03
+   :PROPERTIES:
+   :CUSTOM_ID: oe1935-11-03
+   :TRAD:
+   :END:      
+*** BOe2016
+    :PROPERTIES:
+    :NR:       56
+    :BD:       1
+    :S:        84-85
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    425
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       50
+    :BD:       1
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1935-11-11
+   :PROPERTIES:
+   :CUSTOM_ID: oe1935-11-11
+   :TRAD:
+   :END:      
+*** BOe2016
+    :PROPERTIES:
+    :NR:       58
+    :BD:       1
+    :S:        86-87
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    426
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       51
+    :BD:       1
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1935-11-21
+   :PROPERTIES:
+   :CUSTOM_ID: oe1935-11-21
+   :TRAD:
+   :END:      
+*** BOe2016
+    :PROPERTIES:
+    :NR:       62
+    :BD:       1
+    :S:        93-94
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    428
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       52
+    :BD:       1
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 
+   :PROPERTIES:
+   :CUSTOM_ID: oe1935-12-02
+   :TRAD:
+   :END:      
+*** BOe1935-12-022016
+    :PROPERTIES:
+    :NR:       63
+    :BD:       1
+    :S:        94
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    428-429
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       53
+    :BD:       1
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1935-12-09
+   :PROPERTIES:
+   :CUSTOM_ID: oe1935-12-09
+   :TRAD:
+   :END:      
+*** BOe2016
+    :PROPERTIES:
+    :NR:       64
+    :BD:       1
+    :S:        94-95
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    429
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       54
+    :BD:       1
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1935-12-12
+   :PROPERTIES:
+   :CUSTOM_ID: oe1935-12-12
+   :TRAD:
+   :END:      
+*** BOe2016
+    :PROPERTIES:
+    :NR:       65
+    :BD:       1
+    :S:        95
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    430-431
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       55
+    :BD:       1
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
 * Benn
 :PROPERTIES:
 :FROM: Oelze, Friedrich Wilhelm
@@ -1347,3 +1537,101 @@ Davor fehlt mindestens ein brief.
     :END:
 :PROPERTIES:
 :END:
+** 1935-10-20
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1935-10-20
+   :TRAD:
+   :END:      
+*** BOe2016
+    :PROPERTIES:
+    :NR:       53
+    :BD:       1
+    :S:        79-81
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    423-424
+    :END:
+:PROPERTIES:
+:END:
+** 1935-10-23 (vor 1935-10-23)
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1935-10-23
+   :TRAD: verloren
+   :END:      
+   In [[#oe1935-10-23]] erwähnt.
+** 1935-10-25 (vor 1935-10-25)
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1935-10-25
+   :TRAD: verloren
+   :END:      
+   In [[#oe1935-10-25][oe1935-10-25]] erwähnt.
+** 1935-11-03
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1935-11-03
+   :TRAD:
+   :END:      
+*** BOe2016
+    :PROPERTIES:
+    :NR:       57
+    :BD:       1
+    :S:        85-86
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    425
+    :END:
+:PROPERTIES:
+:END:
+** 1935-11-12
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1935-11-12
+   :TRAD:
+   :END:      
+*** BOe2016
+    :PROPERTIES:
+    :NR:       59
+    :BD:       1
+    :S:        87-89
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    426
+    :END:
+:PROPERTIES:
+:END:
+** 1935-11-15
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1935-11-15
+   :TRAD:
+   :END:      
+*** BOe2016
+    :PROPERTIES:
+    :NR:       60
+    :BD:       1
+    :S:        90-91
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    426-427
+    :END:
+:PROPERTIES:
+:END:
+** 1935-11-17
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1935-11-17
+   :TRAD:
+   :END:      
+*** BOe2016
+    :PROPERTIES:
+    :NR:       61
+    :BD:       1
+    :S:        91-92
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    427-428
+    :END:
+:PROPERTIES:
+:END:
+** 1935-12-09 (vor 1935-12-09)
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1935-12-09
+   :TRAD: verloren
+   :END:      
+   In [[#oe1935-12-09][oe1935-12-09]] erwähnt.
