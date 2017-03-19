@@ -1318,6 +1318,7 @@ Zusammen mit [[#oe1935-10-23]] verschickt.
    :CUSTOM_ID: oe1935-12-12
    :TRAD:
    :END:      
+Danach separatsendung BOe2016, 1, 431
 *** BOe2016
     :PROPERTIES:
     :NR:       65
@@ -1331,6 +1332,282 @@ Zusammen mit [[#oe1935-10-23]] verschickt.
 *** BOe
     :PROPERTIES:
     :NR:       55
+    :BD:       1
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1935-12-23
+   :PROPERTIES:
+   :CUSTOM_ID: oe1935-12-23
+   :TRAD:
+   :END:      
+*** BOe2016
+    :PROPERTIES:
+    :NR:       66
+    :BD:       1
+    :S:        96
+    :AUSL:     
+    :FAKS:     97
+    :S_KOM:    431-432
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       56
+    :BD:       1
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1935-12-26
+   :PROPERTIES:
+   :CUSTOM_ID: oe1935-12-26
+   :TRAD:
+   :END:      
+*** BOe2016
+    :PROPERTIES:
+    :NR:       67
+    :BD:       1
+    :S:        96/98
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    432
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       57
+    :BD:       1
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1936-01-02
+   :PROPERTIES:
+   :CUSTOM_ID: oe1936-01-02
+   :TRAD:
+   :END:      
+*** BOe2016
+    :PROPERTIES:
+    :NR:       70
+    :BD:       1
+    :S:        105
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    434
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       58
+    :BD:       1
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1936-01-09
+   :PROPERTIES:
+   :CUSTOM_ID: oe1936-01-09
+   :TRAD:
+   :END:      
+*** BOe2016
+    :PROPERTIES:
+    :NR:       73
+    :BD:       1
+    :S:        107
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    435
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       59
+    :BD:       1
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1936-01-13
+   :PROPERTIES:
+   :CUSTOM_ID: oe1936-01-13
+   :TRAD:
+   :END:      
+*** BOe2016
+    :PROPERTIES:
+    :NR:       75
+    :BD:       1
+    :S:        108-110
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    435-436
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       60
+    :BD:       1
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1936-01-19
+   :PROPERTIES:
+   :CUSTOM_ID: oe1936-01-19
+   :TRAD:
+   :END:      
+*** BOe2016
+    :PROPERTIES:
+    :NR:       77
+    :BD:       1
+    :S:        111-112
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    436
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       61
+    :BD:       1
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1936-01-24
+   :PROPERTIES:
+   :CUSTOM_ID: oe1936-01-24
+   :TRAD:
+   :END:      
+*** BOe2016
+    :PROPERTIES:
+    :NR:       79
+    :BD:       1
+    :S:        114-116
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    437
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       62
+    :BD:       1
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1936-01-27
+   :PROPERTIES:
+   :CUSTOM_ID: oe1936-01-27
+   :TRAD:
+   :END:      
+*** BOe2016
+    :PROPERTIES:
+    :NR:       81
+    :BD:       1
+    :S:        117-119
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    437-38
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       63
+    :BD:       1
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1936-02-01
+   :PROPERTIES:
+   :CUSTOM_ID: oe1936-02-01
+   :TRAD:
+   :END:      
+*** BOe2016
+    :PROPERTIES:
+    :NR:       83
+    :BD:       1
+    :S:        122
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    439
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       64
+    :BD:       1
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1936-02-06
+   :PROPERTIES:
+   :CUSTOM_ID: oe1936-02-06
+   :TRAD:
+   :END:      
+*** BOe2016
+    :PROPERTIES:
+    :NR:       86
+    :BD:       1
+    :S:        125
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    440
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       65
+    :BD:       1
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1936-02-10
+   :PROPERTIES:
+   :CUSTOM_ID: oe1936-02-10
+   :TRAD:
+   :END:      
+*** BOe2016
+    :PROPERTIES:
+    :NR:       88
+    :BD:       1
+    :S:        127-28
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    441
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       66
+    :BD:       1
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1936-02-18
+   :PROPERTIES:
+   :CUSTOM_ID: oe1936-02-18
+   :TRAD:
+   :END:      
+*** BOe2016
+    :PROPERTIES:
+    :NR:       91
+    :BD:       1
+    :S:        131-32
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    442
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       67
     :BD:       1
     :S:        
     :AUSL:     
@@ -1635,3 +1912,256 @@ Davor fehlt mindestens ein brief.
    :TRAD: verloren
    :END:      
    In [[#oe1935-12-09][oe1935-12-09]] erwähnt.
+** 1935-12-20 (vor 1935-12-20)
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1935-12-20
+   :TRAD: verloren
+   :END:      
+In eb1935-12-20 (BB, 130) lt. kommentar von [[#oe1935-12-12]], 431 erwähnt.
+
+** 1935-12-24 (wohl 1935-12-24)
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1935-12-24
+   :TRAD: verloren
+   :END:      
+In [[#oe1935-12-26]] erwähnt; unklar.
+** 1935-12-27
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1935-12-27
+   :TRAD:
+   :END:      
+*** BOe2016
+    :PROPERTIES:
+    :NR:       68
+    :BD:       1
+    :S:        100-102
+    :AUSL:     
+    :FAKS:     99 (1. seite, verkleinert)
+    :S_KOM:    433
+    :END:
+:PROPERTIES:
+:END:
+** 1935-12-31
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1935-12-31
+   :TRAD:
+   :END:      
+*** BOe2016
+    :PROPERTIES:
+    :NR:       69
+    :BD:       1
+    :S:        102-104
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    433
+    :END:
+:PROPERTIES:
+:END:
+** 1936-01-07
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1936-01-07
+   :TRAD:
+   :END:      
+*** BOe2016
+    :PROPERTIES:
+    :NR:       71
+    :BD:       1
+    :S:        106
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    434
+    :END:
+:PROPERTIES:
+:END:
+** 1936-01-08
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1936-01-08
+   :TRAD:
+   :END:      
+*** BOe2016
+    :PROPERTIES:
+    :NR:       72
+    :BD:       1
+    :S:        106-107
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    434
+    :END:
+:PROPERTIES:
+:END:
+** 1936-01-12
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1936-01-12
+   :TRAD:
+   :END:      
+*** BOe2016
+    :PROPERTIES:
+    :NR:       74
+    :BD:       1
+    :S:        108
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    435
+    :END:
+:PROPERTIES:
+:END:
+** 1936-01-16
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1936-01-16
+   :TRAD:
+   :END:      
+*** BOe2016
+    :PROPERTIES:
+    :NR:       76
+    :BD:       1
+    :S:        110-111
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    76
+    :END:
+:PROPERTIES:
+:END:
+** 1936-01-22
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1936-01-22
+   :TRAD:
+   :END:      
+*** BOe2016
+    :PROPERTIES:
+    :NR:       78
+    :BD:       1
+    :S:        112-114
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    436-437
+    :END:
+:PROPERTIES:
+:END:
+** 1936-01-25
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1936-01-25
+   :TRAD:
+   :END:      
+*** BOe2016
+    :PROPERTIES:
+    :NR:       80
+    :BD:       1
+    :S:        116-117
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    437
+    :END:
+:PROPERTIES:
+:END:
+** 1936-01-29
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1936-01-29
+   :TRAD:
+   :END:      
+*** BOe2016
+    :PROPERTIES:
+    :NR:       82
+    :BD:       1
+    :S:        119-22
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    438-39
+    :END:
+:PROPERTIES:
+:END:
+** 1936-02-02
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1936-02-02
+   :TRAD:
+   :END:      
+*** BOe2016
+    :PROPERTIES:
+    :NR:       84
+    :BD:       1
+    :S:        123-24
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    439-40
+    :END:
+:PROPERTIES:
+:END:
+** 1936-02-03
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1936-02-03
+   :TRAD:
+   :END:      
+*** BOe2016
+    :PROPERTIES:
+    :NR:       85
+    :BD:       1
+    :S:        124
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    440
+    :END:
+:PROPERTIES:
+:END:
+** 1936-02-09
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1936-02-09
+   :TRAD:
+   :END:      
+*** BOe2016
+    :PROPERTIES:
+    :NR:       87
+    :BD:       1
+    :S:        126-27
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    440-41
+    :END:
+:PROPERTIES:
+:END:
+** 1936-02-12
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1936-02-12
+   :TRAD:
+   :END:      
+*** BOe2016
+    :PROPERTIES:
+    :NR:       89
+    :BD:       1
+    :S:        128-31
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    441-42
+    :END:
+:PROPERTIES:
+:END:
+** 1936-02-17
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1936-02-17
+   :TRAD:
+   :END:      
+*** BOe2016
+    :PROPERTIES:
+    :NR:       90
+    :BD:       1
+    :S:        131
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    442
+    :END:
+:PROPERTIES:
+:END:
+** 1936-02-21
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1936-02-21
+   :TRAD:
+   :END:      
+*** BOe2016
+    :PROPERTIES:
+    :NR:       92
+    :BD:       1
+    :S:        132-33
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    442
+    :END:
+:PROPERTIES:
+:END:
