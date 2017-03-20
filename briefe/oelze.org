@@ -2165,3 +2165,19 @@ In [[#oe1935-12-26]] erwähnt; unklar.
     :END:
 :PROPERTIES:
 :END:
+** 1936-02-25
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1936-02-25
+   :TRAD:
+   :END:      
+*** BOe2016
+    :PROPERTIES:
+    :NR:       93
+    :BD:       1
+    :S:        133
+    :AUSL:     
+    :FAKS:     443 (verkleinerte vorderseite der postkarte)
+    :S_KOM:    443
+    :END:
+:PROPERTIES:
+:END:

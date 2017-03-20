@@ -1,0 +1,27 @@
+#+STARTUP: content
+#+STARTUP: showall
+# +STARTUP: showeverything
+#+TITLE: Benn - Benn, Ruth
+# #+COLUMNS: %25ITEM %TAGS %PRIORITY %TODO
+
+* Benn, Ruth
+:PROPERTIES:
+:EMPF:     1
+:FROM: Benn
+:TO: Benn, Ruth
+:GEB:      
+:TOD:      
+:END:
+** 1900-01-09
+   :PROPERTIES:
+   :CUSTOM_ID:       br1900-01-09
+#   :COLUMNS:  %3BD %S %NR %FAKS
+   :END:
+*** AB1957
+:PROPERTIES:
+:S:        9-10
+:FAKS:     8 (seite 1)
+:AUSL:
+:S_KOM:
+:END:      
+
