@@ -1,0 +1,29 @@
+#+STARTUP: content
+#+STARTUP: showall
+# +STARTUP: showeverything
+#+TITLE: Benn - Büller-Klinkowström, Ellinor
+# #+COLUMNS: %25ITEM %TAGS %PRIORITY %TODO
+
+* Büller-Klinkowström, Ellinor
+:PROPERTIES:
+:EMPF:     1
+:FROM: Benn
+:TO: Büller-Klinkowström, Ellinor
+:GEB:      1886
+:TOD:      1944
+:END:
+** 1932-12-21
+   :PROPERTIES:
+   :CUSTOM_ID:       oe1932-12-21
+#   :COLUMNS:  %3BD %S %NR %FAKS
+   :END:
+*** BOe2016
+:PROPERTIES:
+:NR:       1
+:BD:       I
+:S:        21
+:FAKS:     20; 21
+:AUSL:
+:S_KOM:      333
+:END:      
+
