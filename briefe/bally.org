@@ -8,7 +8,14 @@
 :EMPF:     1
 :FROM: Benn
 :TO: Bally, Martina
+:GEB:      1893
+:TOD:      1965
 :END:
+** 1936-05-12 (oder 1936-05-11?)
+   :PROPERTIES:
+   :TRAD:     
+   :END:
+In [[#oe1936-05-17]] erwähnt.  Adressat lt. kommentar s. 451.
 * Benn
 :PROPERTIES:
 :TO: Benn
@@ -19,3 +26,4 @@
    :TRAD:     
    :END:
 In [[#po1933-08-14]] erwähnt.
+

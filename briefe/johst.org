@@ -1,0 +1,21 @@
+#+STARTUP: content
+#+STARTUP: showall
+# +STARTUP: showeverything
+#+TITLE: Benn - Hanns Johst
+
+* Johst, Hanns
+:PROPERTIES:
+:EMPF:     1
+:FROM: Benn
+:TO: Johst, Hanns
+:GEB:      
+:TOD:      
+:END:
+** 1936-05-09
+In [[#oe1936-05-12]] erwähnt (114, mit kommentar s. 450).
+* Benn
+** 1936-05-12
+   :PROPERTIES:
+   :TRAD:     
+   :END:      
+Telegramm. In [[#oe1936-05-17]] erwähnt.  S. a. 114, s. 450.

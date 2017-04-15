@@ -1715,6 +1715,98 @@ Erwähnt in [[#oeb1936-04-09]]
     :AUSL:     
     :S_KOM:    
     :END:
+** 1936-04-21
+   :PROPERTIES:
+   :CUSTOM_ID: oe1936-04-21
+   :TRAD:
+   :END:      
+*** BOe2016
+    :PROPERTIES:
+    :NR:       111
+    :BD:       1
+    :S:        149
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    448
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       72
+    :BD:       1
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1936-05-08
+   :PROPERTIES:
+   :CUSTOM_ID: oe1936-05-08
+   :TRAD:
+   :END:      
+*** BOe2016
+    :PROPERTIES:
+    :NR:       113
+    :BD:       1
+    :S:        150
+    :AUSL:     
+    :FAKS:     151 (Beilage)
+    :S_KOM:    449
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       73
+    :BD:       1
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1936-05-12
+   :PROPERTIES:
+   :CUSTOM_ID: oe1936-05-12
+   :TRAD:
+   :END:      
+*** BOe2016
+    :PROPERTIES:
+    :NR:       114
+    :BD:       1
+    :S:        152
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    450
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       74
+    :BD:       1
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1936-05-17
+   :PROPERTIES:
+   :CUSTOM_ID: oe1936-05-17
+   :TRAD:
+   :END:      
+*** BOe2016
+    :PROPERTIES:
+    :NR:       116
+    :BD:       1
+    :S:        153-54
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    451
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       75
+    :BD:       1
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
 * Benn
 :PROPERTIES:
 :FROM: Oelze, Friedrich Wilhelm
@@ -2012,7 +2104,7 @@ Davor fehlt mindestens ein brief.
    :PROPERTIES:
    :CUSTOM_ID: oeb1935-12-09
    :TRAD: verloren
-   :END:      
+   :END:
    In [[#oe1935-12-09][oe1935-12-09]] erwähnt.
 ** 1935-12-20 (vor 1935-12-20)
    :PROPERTIES:
@@ -2472,6 +2564,60 @@ In [[#oe1935-12-26]] erwähnt; unklar.
     :AUSL:     
     :FAKS:     
     :S_KOM:    448
+    :END:
+:PROPERTIES:
+:END:
+** 1936-04-20
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1936-04-20
+   :TRAD:
+   :END:      
+*** BOe2016
+    :PROPERTIES:
+    :NR:       110
+    :BD:       1
+    :S:        147-48
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    448
+    :END:
+:PROPERTIES:
+:END:
+** 1936-05-01
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1936-05-01
+   :TRAD:
+   :END:      
+*** BOe2016
+    :PROPERTIES:
+    :NR:       112
+    :BD:       1
+    :S:        149-50
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    449
+    :END:
+:PROPERTIES:
+:END:
+** 1936-05-12 (vor 1936-05-12)
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1936-05-12
+   :TRAD: verloren
+   :END:      
+   In [[#oe1936-05-12][oe1936-05-12]] und [[#oe1936-05-17]] erwähnt.
+** 1936-05-15 (oder -16)
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1936-05-15
+   :TRAD:
+   :END:      
+*** BOe2016
+    :PROPERTIES:
+    :NR:       115
+    :BD:       1
+    :S:        153
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    450-51
     :END:
 :PROPERTIES:
 :END:
