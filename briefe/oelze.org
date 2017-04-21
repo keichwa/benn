@@ -1807,6 +1807,212 @@ Erwähnt in [[#oeb1936-04-09]]
     :AUSL:     
     :S_KOM:    
     :END:
+** 1936-05-21
+   :PROPERTIES:
+   :CUSTOM_ID: oe1936-05-21
+   :TRAD:
+   :END:      
+*** BOe2016
+    :PROPERTIES:
+    :NR:       119
+    :BD:       1
+    :S:        156
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    452
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       76
+    :BD:       1
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1936-05-26
+   :PROPERTIES:
+   :CUSTOM_ID: oe1936-05-26
+   :TRAD:
+   :END:      
+*** BOe2016
+    :PROPERTIES:
+    :NR:       121
+    :BD:       1
+    :S:        157-58
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    452-53
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       77
+    :BD:       1
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1936-05-26
+   :PROPERTIES:
+   :CUSTOM_ID: oe1936-05-26-2
+   :TRAD:
+   :END:      
+*** BOe2016
+    :PROPERTIES:
+    :NR:       122
+    :BD:       1
+    :S:        158
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    453
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       78
+    :BD:       1
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1936-05-28
+   :PROPERTIES:
+   :CUSTOM_ID: oe1936-05-28
+   :TRAD:
+   :END:      
+*** BOe2016
+    :PROPERTIES:
+    :NR:       124
+    :BD:       1
+    :S:        159-61
+    :AUSL:     
+    :FAKS:     160
+    :S_KOM:    453-54
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       79
+    :BD:       1
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1936-05-29
+   :PROPERTIES:
+   :CUSTOM_ID: oe1936-05-29
+   :TRAD:
+   :END:      
+*** BOe2016
+    :PROPERTIES:
+    :NR:       126
+    :BD:       1
+    :S:        162-64
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    454-55
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       80
+    :BD:       1
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1936-06-04
+   :PROPERTIES:
+   :CUSTOM_ID: oe1936-06-04
+   :TRAD:
+   :END:      
+*** BOe2016
+    :PROPERTIES:
+    :NR:       129
+    :BD:       1
+    :S:        166
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    455
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       81(?)
+    :BD:       1
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1936-06-07
+   :PROPERTIES:
+   :CUSTOM_ID: oe1936-06-07
+   :TRAD:
+   :END:      
+*** BOe2016
+    :PROPERTIES:
+    :NR:       131
+    :BD:       1
+    :S:        167-68
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    456
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       82
+    :BD:       1
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1936-06-11
+   :PROPERTIES:
+   :CUSTOM_ID: oe1936-06-11
+   :TRAD:
+   :END:      
+*** BOe2016
+    :PROPERTIES:
+    :NR:       134
+    :BD:       1
+    :S:        171
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    457
+    :END:
+*** BOe
+    :PROPERTIES:
+    :NR:       83
+    :BD:       1
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1936-06-16
+   :PROPERTIES:
+   :CUSTOM_ID: oe1936-06-16
+   :TRAD:
+   :END:      
+*** BOe2016
+    :PROPERTIES:
+    :NR:       138
+    :BD:       1
+    :S:        174-75
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    458
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       84
+    :BD:       1
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
 * Benn
 :PROPERTIES:
 :FROM: Oelze, Friedrich Wilhelm
@@ -2618,6 +2824,188 @@ In [[#oe1935-12-26]] erwähnt; unklar.
     :AUSL:     
     :FAKS:     
     :S_KOM:    450-51
+    :END:
+:PROPERTIES:
+:END:
+** 1936-05-17
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1936-05-17
+   :TRAD:
+   :END:      
+*** BOe2016
+    :PROPERTIES:
+    :NR:       117
+    :BD:       1
+    :S:        154-55
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    451
+    :END:
+:PROPERTIES:
+:END:
+** 1936-05-18
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1936-05-18
+   :TRAD:
+   :END:      
+*** BOe2016
+    :PROPERTIES:
+    :NR:       118
+    :BD:       1
+    :S:        155-56
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    451-52
+    :END:
+:PROPERTIES:
+:END:
+** 1936-05-25
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1936-05-25
+   :TRAD:
+   :END:      
+*** BOe2016
+    :PROPERTIES:
+    :NR:       120
+    :BD:       1
+    :S:        156-57
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    452
+    :END:
+:PROPERTIES:
+:END:
+** 1936-05-27
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1936-05-27
+   :TRAD:
+   :END:      
+*** BOe2016
+    :PROPERTIES:
+    :NR:       123
+    :BD:       1
+    :S:        159
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    453
+    :END:
+:PROPERTIES:
+:END:
+** 1936-05-28
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1936-05-28
+   :TRAD:
+   :END:      
+*** BOe2016
+    :PROPERTIES:
+    :NR:       125
+    :BD:       1
+    :S:        161-62
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    454
+    :END:
+:PROPERTIES:
+:END:
+** 1936-05-29
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1936-05-29
+   :TRAD:
+   :END:      
+*** BOe2016
+    :PROPERTIES:
+    :NR:       127
+    :BD:       1
+    :S:        164
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    455
+    :END:
+:PROPERTIES:
+:END:
+** 1936-05-30
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1936-05-30
+   :TRAD:
+   :END:      
+*** BOe2016
+    :PROPERTIES:
+    :NR:       128
+    :BD:       1
+    :S:        165
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    455
+    :END:
+:PROPERTIES:
+:END:
+** 1936-06-05
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1936-06-05
+   :TRAD:
+   :END:      
+*** BOe2016
+    :PROPERTIES:
+    :NR:       130
+    :BD:       1
+    :S:        166-67
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    456
+    :END:
+:PROPERTIES:
+:END:
+** 1936-06-07 (?)
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1936-06-07
+   :TRAD: verloren
+   :END:      
+Telegramm.  Erwähnt in [[#oe1936-06-07]].
+** 1936-06-07
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1936-06-07
+   :TRAD:
+   :END:      
+*** BOe2016
+    :PROPERTIES:
+    :NR:       132
+    :BD:       1
+    :S:        169
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    456
+    :END:
+:PROPERTIES:
+:END:
+** 1936-06-08
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1936-06-08
+   :TRAD:
+   :END:      
+*** BOe2016
+    :PROPERTIES:
+    :NR:       133
+    :BD:       1
+    :S:        169-71
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    456-57
+    :END:
+:PROPERTIES:
+:END:
+** 1936-06-11
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1936-06-11
+   :TRAD:
+   :END:      
+*** BOe2016
+    :PROPERTIES:
+    :NR:       135
+    :BD:       1
+    :S:        172-73
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    457-58
     :END:
 :PROPERTIES:
 :END:
