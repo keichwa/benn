@@ -2013,6 +2013,144 @@ Erwähnt in [[#oeb1936-04-09]]
     :AUSL:     
     :S_KOM:    
     :END:
+** 1936-07-02
+   :PROPERTIES:
+   :CUSTOM_ID: oe1936-07-02
+   :TRAD:
+   :END:      
+*** BOe2016
+    :PROPERTIES:
+    :NR:       141
+    :BD:       1
+    :S:        177-78
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    459-60
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       85
+    :BD:       1
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1936-07-12
+   :PROPERTIES:
+   :CUSTOM_ID: oe1936-07-12
+   :TRAD:
+   :END:      
+*** BOe2016
+    :PROPERTIES:
+    :NR:       144
+    :BD:       1
+    :S:        182-83
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    461-62
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       86
+    :BD:       1
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1936-07-24
+   :PROPERTIES:
+   :CUSTOM_ID: oe1936-07-24
+   :TRAD:
+   :END:      
+*** BOe2016
+    :PROPERTIES:
+    :NR:       146
+    :BD:       1
+    :S:        185-86
+    :AUSL:     
+    :FAKS:     463 (bildseiten der postkarten)
+    :S_KOM:    462/463
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       87
+    :BD:       1
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1936-07-28
+   :PROPERTIES:
+   :CUSTOM_ID: oe1936-07-28
+   :TRAD:
+   :END:      
+*** BOe2016
+    :PROPERTIES:
+    :NR:       149
+    :BD:       1
+    :S:        188-90
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    464
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       88
+    :BD:       1
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1936-07-30
+   :PROPERTIES:
+   :CUSTOM_ID: oe1936-07-30
+   :TRAD:
+   :END:      
+*** BOe2016
+    :PROPERTIES:
+    :NR:       151
+    :BD:       1
+    :S:        191
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    464
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       89
+    :BD:       1
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1936-08-09
+   :PROPERTIES:
+   :CUSTOM_ID: oe1936-08-09
+   :TRAD:
+   :END:      
+*** BOe2016
+    :PROPERTIES:
+    :NR:       153
+    :BD:       1
+    :S:        193
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    465
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       90
+    :BD:       1
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
 * Benn
 :PROPERTIES:
 :FROM: Oelze, Friedrich Wilhelm
@@ -3006,6 +3144,182 @@ Telegramm.  Erwähnt in [[#oe1936-06-07]].
     :AUSL:     
     :FAKS:     
     :S_KOM:    457-58
+    :END:
+:PROPERTIES:
+:END:
+** 1936-06-13
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1936-06-13
+   :TRAD:
+   :END:      
+*** BOe2016
+    :PROPERTIES:
+    :NR:       136
+    :BD:       1
+    :S:        173
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    458
+    :END:
+:PROPERTIES:
+:END:
+** 1936-06-14 (oder 1936-06-15)
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1936-06-14
+   :TRAD:
+   :END:      
+*** BOe2016
+    :PROPERTIES:
+    :NR:       137
+    :BD:       1
+    :S:        174
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    458
+    :END:
+:PROPERTIES:
+:END:
+** 1936-06-18
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1936-06-18
+   :TRAD:
+   :END:      
+*** BOe2016
+    :PROPERTIES:
+    :NR:       139
+    :BD:       1
+    :S:        175-76
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    459
+    :END:
+:PROPERTIES:
+:END:
+** 1936-07-01
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1936-07-01
+   :TRAD:
+   :END:      
+*** BOe2016
+    :PROPERTIES:
+    :NR:       140
+    :BD:       1
+    :S:        176-77
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    459
+    :END:
+:PROPERTIES:
+:END:
+** 1936-07-04
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1936-07-04
+   :TRAD:
+   :END:      
+*** BOe2016
+    :PROPERTIES:
+    :NR:       142
+    :BD:       1
+    :S:        179-80
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    460-61
+    :END:
+:PROPERTIES:
+:END:
+** 1936-07-11
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1936-07-11
+   :TRAD:
+   :END:      
+*** BOe2016
+    :PROPERTIES:
+    :NR:       143
+    :BD:       1
+    :S:        181-82
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    461
+    :END:
+:PROPERTIES:
+:END:
+** 1936-07-20
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1936-07-20
+   :TRAD:
+   :END:      
+*** BOe2016
+    :PROPERTIES:
+    :NR:       145
+    :BD:       1
+    :S:        183-85
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    462
+    :END:
+:PROPERTIES:
+:END:
+** 1936-07-24
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1936-07-24
+   :TRAD:
+   :END:      
+*** BOe2016
+    :PROPERTIES:
+    :NR:       147
+    :BD:       1
+    :S:        186-88
+    :AUSL:     
+    :FAKS:     187 (bildseite der postkarte)
+    :S_KOM:    462-63
+    :END:
+:PROPERTIES:
+:END:
+** 1936-07-27
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1936-07-27
+   :TRAD:
+   :END:      
+*** BOe2016
+    :PROPERTIES:
+    :NR:       148
+    :BD:       1
+    :S:        188
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    463
+    :END:
+:PROPERTIES:
+:END:
+** 1936-07-29
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1936-07-29
+   :TRAD:
+   :END:      
+*** BOe2016
+    :PROPERTIES:
+    :NR:       150
+    :BD:       1
+    :S:        190-91
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    464
+    :END:
+:PROPERTIES:
+:END:
+** 1936-07-31
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1936-07-31
+   :TRAD:
+   :END:      
+*** BOe2016
+    :PROPERTIES:
+    :NR:       152
+    :BD:       1
+    :S:        192
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    464
     :END:
 :PROPERTIES:
 :END:
