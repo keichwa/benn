@@ -2542,6 +2542,29 @@ Erwähnt in [[#oeb1936-04-09]]
     :AUSL:     
     :S_KOM:    
     :END:
+** 1936-11-16
+   :PROPERTIES:
+   :CUSTOM_ID: oe1936-11-16
+   :TRAD:
+   :END:      
+*** BOe2016
+    :PROPERTIES:
+    :NR:       187
+    :BD:       1
+    :S:        224
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    479
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       108
+    :BD:       1
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
 * Benn
 :PROPERTIES:
 :FROM: Oelze, Friedrich Wilhelm
@@ -3996,6 +4019,38 @@ Notizen, auf dem umschlag von [[#oe1936-08-18]].
     :AUSL:     
     :FAKS:     
     :S_KOM:    479
+    :END:
+:PROPERTIES:
+:END:
+** 1936-11-20
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1936-11-20
+   :TRAD:
+   :END:      
+*** BOe2016
+    :PROPERTIES:
+    :NR:       188
+    :BD:       1
+    :S:        224-25
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    479-80
+    :END:
+:PROPERTIES:
+:END:
+** 1936-11-27
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1936-11-27
+   :TRAD:
+   :END:      
+*** BOe2016
+    :PROPERTIES:
+    :NR:       189
+    :BD:       1
+    :S:        225
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    480
     :END:
 :PROPERTIES:
 :END:
