@@ -6,12 +6,59 @@
 * Zech, Paul
 :PROPERTIES:
 :EMPF:     1
-:FROM_All: Benn
-:TO_All: Zech, Paul
+:FROM: Benn
+:TO: Zech, Paul
+:GEB: 1881
+:TOD: 1946
 :END:
+** 1913-04-12
+   :PROPERTIES:
+   :CUSTOM_ID: br1913-04-12
+   :END:      
+*** AB1957
+:PROPERTIES:
+:S: 10-11
+:S_KOM: 341
+:END:
+** 1913-05-18 (wohl 1913)
+   :PROPERTIES:
+   :CUSTOM_ID: br1913-05-18
+   :END:      
+*** AB1957
+:PROPERTIES:
+:S: 11
+:S_KOM: 341
+:END:
+** 1913-09-02 (wohl 1913)
+   :PROPERTIES:
+   :CUSTOM_ID: br1913-09-02
+   :END:      
+*** AB1957
+:PROPERTIES:
+:S: 11-12
+:S_KOM: 341-42
+:END:
+** 1914-03-13
+   :PROPERTIES:
+   :CUSTOM_ID: br1914-03-13
+   :END:      
+*** AB1957
+:PROPERTIES:
+:S: 12
+:S_KOM: 
+:END:      
+** 1916-02-25
+   :PROPERTIES:
+   :CUSTOM_ID: br1916-02-25
+   :END:      
+*** AB1957
+:PROPERTIES:
+:S: 12-13
+:S_KOM: 342
+:END:      
 ** 19
    :PROPERTIES:
-   :CUSTOM_ID:       
+   :CUSTOM_ID: 
    :END:      
 *** BPo1966
 :PROPERTIES:
@@ -21,8 +68,21 @@
 :END:      
 * Benn
 :PROPERTIES:
-:FROM_All: Zech, Paul
-:TO_All: Benn
+:FROM: Zech, Paul
+:TO: Benn
 :END:
+** 1914-03-13 (vor 1914-03-13)
+   :PROPERTIES:
+   :CUSTOM_ID: brz1914-03-13
+   :END:      
+   :TRAD: verloren
+   :END:      
+   In [[#br1914-03-13]] erwähnt.
 
-
+** 1916-02-25 (vor 1916-02-25)
+   :PROPERTIES:
+   :CUSTOM_ID: brz1916-02-25
+   :END:      
+   :TRAD: verloren
+   :END:      
+   In [[#br1916-02-25]] erwähnt.

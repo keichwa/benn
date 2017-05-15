@@ -9,8 +9,9 @@
 :EMPF:     1
 :FROM: Benn
 :TO: Benn, Ruth
-:GEB:      
-:TOD:      
+:NAME_2: Rühe-Benn, Ruth
+:GEB:      1885
+:TOD:      1952
 :END:
 ** 1900-01-09
    :PROPERTIES:
