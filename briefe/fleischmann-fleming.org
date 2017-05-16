@@ -13,10 +13,33 @@
 :END:
 ** 1921-06-25
    :PROPERTIES:
-   :CUSTOM_ID: br1921-06-25
+   :CUSTOM_ID: fl1921-06-25
    :END:      
 *** AB1957
 :PROPERTIES:
 :S: 14-15
 :S_KOM: 342
+:END:
+** 1927-10-22
+   :PROPERTIES:
+   :CUSTOM_ID: fl1927-10-22
+   :END:      
+*** AB1957
+:PROPERTIES:
+:S: 25
+:S_KOM: 342
+:END:
+** 1929-02-03
+   :PROPERTIES:
+   :CUSTOM_ID: fl1929-02-03
+   :END:      
+*** AB1957
+:PROPERTIES:
+:S: 29
+:S_KOM:
+:END:
+* Benn
+:PROPERTIES:
+:FROM: Fleischmann-Fleming, Elsa
+:TO: Benn
 :END:

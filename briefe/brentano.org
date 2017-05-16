@@ -1,0 +1,27 @@
+#+STARTUP: content
+#+STARTUP: showall
+ #+STARTUP: showeverything
+#+TITLE: Benn - Brentano
+
+* Brentano, Bernard von
+:PROPERTIES:
+:EMPF:     1
+:FROM: Benn
+:TO: Brentano, Bernard von
+:GEB: 1901
+:TOD: 
+:END:
+** 1929-01-10
+   :PROPERTIES:
+   :CUSTOM_ID: bren1929-01-10
+   :END:      
+*** AB1957
+:PROPERTIES:
+:S: 28-29
+:S_KOM: 344
+:END:
+* Benn
+:PROPERTIES:
+:FROM: Brentano, Bernard von
+:TO: Benn
+:END:
