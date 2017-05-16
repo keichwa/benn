@@ -1,0 +1,22 @@
+#+STARTUP: content
+#+STARTUP: showall
+ #+STARTUP: showeverything
+#+TITLE: Benn - Fleischmann-Fleming
+
+* Fleischmann-Fleming, Elsa
+:PROPERTIES:
+:EMPF:     1
+:FROM: Benn
+:TO: Fleischmann-Fleming, Elsa
+:GEB: 
+:TOD: 
+:END:
+** 1921-06-25
+   :PROPERTIES:
+   :CUSTOM_ID: br1921-06-25
+   :END:      
+*** AB1957
+:PROPERTIES:
+:S: 14-15
+:S_KOM: 342
+:END:

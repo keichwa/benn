@@ -1,0 +1,40 @@
+#+STARTUP: content
+#+STARTUP: showall
+ #+STARTUP: showeverything
+#+TITLE: Benn - Hahn
+
+* Hahn, Dorothee
+:PROPERTIES:
+:EMPF:     1
+:FROM: Benn
+:TO: Hahn, Dorothee
+:GEB: 1900(?)
+:TOD: 
+:END:
+** 1917-09
+   :PROPERTIES:
+   :CUSTOM_ID: br1917-09
+   :END:      
+*** AB1957
+:PROPERTIES:
+:S: 13
+:S_KOM: 342
+:END:
+** 1921 (vor 1921)
+   :PROPERTIES:
+   :CUSTOM_ID: br1921
+   :END:      
+*** AB1957
+:PROPERTIES:
+:S: 13
+:S_KOM: 
+:END:
+** 1921-03
+   :PROPERTIES:
+   :CUSTOM_ID: br1921-03
+   :END:      
+*** AB1957
+:PROPERTIES:
+:S: 14
+:S_KOM: 
+:END:

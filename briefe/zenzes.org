@@ -1,0 +1,64 @@
+#+STARTUP: content
+#+STARTUP: showall
+# +STARTUP: showeverything
+#+TITLE: Benn - Gertrud Zenzes
+
+* Zenzes, Gertrud
+:PROPERTIES:
+:EMPF:     1
+:FROM: Benn
+:TO: Zenzes, Gertrud
+:GEB:      1898
+:TOD:      
+:END:
+** 1921-12-29
+   :PROPERTIES:
+   :CUSTOM_ID: ze1921-12-29
+   :TRAD:     
+   :END:
+*** AB1957
+:PROPERTIES:
+:S: 15-16
+:S_KOM: 342
+:END:
+** 1922 (wohl anfang 1922)
+   :PROPERTIES:
+   :CUSTOM_ID: ze1922
+   :TRAD:     
+   :END:
+*** AB1957
+:PROPERTIES:
+:S: 16-17
+:S_KOM:
+:END:
+** 1922-03-21
+   :PROPERTIES:
+   :CUSTOM_ID: ze1922-03-21
+   :TRAD:     
+   :END:
+*** AB1957
+:PROPERTIES:
+:S: 17
+:S_KOM: 342
+:END:
+* Benn
+:PROPERTIES:
+:TO: Benn
+:FROM: Zenzes, Gertrud
+:END:
+** 1921-12-29 (vor 1921-12-29a)
+   :PROPERTIES:
+   :TRAD:     verloren
+   :END:
+Wohl vor 1921-12-28.
+In [[#ze1921-12-29]] erwähnt.
+** 1921-12-29 (vor 1921-12-29)
+   :PROPERTIES:
+   :TRAD:     verloren
+   :END:
+In [[#ze1921-12-29]] erwähnt.
+** 1922 (wohl anfang 1922)
+   :PROPERTIES:
+   :TRAD:     verloren
+   :END:
+In [[#ze1922]] erwähnt.
