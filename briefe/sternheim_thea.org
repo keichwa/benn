@@ -1,0 +1,45 @@
+#+STARTUP: content
+#+STARTUP: showall
+# +STARTUP: showeverything
+#+TITLE: Benn - Thea Sternheim
+
+* Sternheim, Thea
+:PROPERTIES:
+:EMPF:     1
+:FROM: Benn
+:TO: Sternheim, Thea
+:GEB:      
+:TOD:      
+:END:
+** 1928-05-04
+   :PROPERTIES:
+   :CUSTOM_ID: stt1928-05-04
+   :TRAD:     
+   :END:
+*** AB1957
+:PROPERTIES:
+:S: 27
+:S_KOM: 343-44
+:END:
+** 1928-07-03
+   :PROPERTIES:
+   :CUSTOM_ID: stt1928-07-03
+   :TRAD:     
+   :END:
+*** AB1957
+:PROPERTIES:
+:S: 28
+:S_KOM: 344
+:END:
+
+* Benn
+:PROPERTIES:
+:TO: Benn
+:FROM: Sternheim, Thea
+:END:
+** 1928-05-04 (vor 1928-05-04)
+   :PROPERTIES:
+   :TRAD:     verloren
+   :END:
+Buchsendung in [[#stt1928-05-04]] erwähnt.
+
