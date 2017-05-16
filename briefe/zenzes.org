@@ -103,6 +103,36 @@ Widmung in "Gesammelte Schriften".
 :FAKS: 22 (1. seite)
 :S_KOM:
 :END:
+** 1926-09-04
+   :PROPERTIES:
+   :CUSTOM_ID: ze1926-09-04
+   :TRAD:     
+   :END:
+*** AB1957
+:PROPERTIES:
+:S: 23-24
+:S_KOM: 343
+:END:
+** 1926-11-23
+   :PROPERTIES:
+   :CUSTOM_ID: ze1926-11-23
+   :TRAD:     
+   :END:
+*** AB1957
+:PROPERTIES:
+:S: 24-25
+:S_KOM: 343
+:END:
+** 1928-05-01
+   :PROPERTIES:
+   :CUSTOM_ID: ze1928-05-01
+   :TRAD:     
+   :END:
+*** AB1957
+:PROPERTIES:
+:S: 25-27
+:S_KOM: 343
+:END:
 
 * Benn
 :PROPERTIES:
