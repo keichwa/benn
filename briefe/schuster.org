@@ -1,0 +1,23 @@
+#+STARTUP: content
+#+STARTUP: showall
+ #+STARTUP: showeverything
+#+TITLE: Benn - Schuster
+
+* Schuster, Alice
+:PROPERTIES:
+:EMPF:     1
+:FROM: Benn
+:TO: Schuster, Alice
+:GEB: 
+:TOD: 
+:END:
+** 1926-02-20 (und 1926-02-27)
+   :PROPERTIES:
+   :CUSTOM_ID: schu1926-02-20
+   :END:   
+Widmung in "Spaltung".   
+*** AB1957
+:PROPERTIES:
+:S: 21
+:S_KOM: 343
+:END:

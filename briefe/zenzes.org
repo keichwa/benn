@@ -41,6 +41,69 @@
 :S: 17
 :S_KOM: 342
 :END:
+** 1922-04-15
+   :PROPERTIES:
+   :CUSTOM_ID: ze1922-04-15
+   :TRAD:     
+   :END:
+*** AB1957
+:PROPERTIES:
+:S: 18-19
+:S_KOM:
+:END:
+** 1922 (wohl 1922a)
+   :PROPERTIES:
+   :CUSTOM_ID: ze1922a
+   :TRAD:     
+   :END:
+*** AB1957
+:PROPERTIES:
+:S: 19
+:S_KOM:
+:END:
+** 1922-05-03
+   :PROPERTIES:
+   :CUSTOM_ID: ze1922-05-03
+   :TRAD:     
+   :END:
+*** AB1957
+:PROPERTIES:
+:S: 19-20
+:S_KOM:
+:END:
+** 1922-05-24
+   :PROPERTIES:
+   :CUSTOM_ID: ze1922-05-24
+   :TRAD:     
+   :END:
+Widmung in "Gesammelte Schriften".
+*** AB1957
+:PROPERTIES:
+:S: 20
+:S_KOM: 343
+:END:
+** 1922-09-18
+   :PROPERTIES:
+   :CUSTOM_ID: ze1922-09-18
+   :TRAD:     
+   :END:
+*** AB1957
+:PROPERTIES:
+:S: 20-21
+:S_KOM:
+:END:
+** 1922-12-31
+   :PROPERTIES:
+   :CUSTOM_ID: ze1922-12-31
+   :TRAD:     
+   :END:
+*** AB1957
+:PROPERTIES:
+:S: 21
+:FAKS: 22 (1. seite)
+:S_KOM:
+:END:
+
 * Benn
 :PROPERTIES:
 :TO: Benn
@@ -62,3 +125,28 @@ In [[#ze1921-12-29]] erwähnt.
    :TRAD:     verloren
    :END:
 In [[#ze1922]] erwähnt.
+** 1922-04-15 (vor 1922-04-15)
+   :PROPERTIES:
+   :TRAD:     verloren
+   :END:
+In [[#ze1922-04-15]] erwähnt.
+** 1922-05-03 (vor 1922-05-03)
+   :PROPERTIES:
+   :TRAD:     verloren
+   :END:
+In [[#ze1922-05-03]] erwähnt.
+** 1926-09-04 (vor 1926-09-04)
+   :PROPERTIES:
+   :TRAD:     verloren
+   :END:
+In [[#ze1926-09-04]] erwähnt; mehrere sendungen oder mehrteilig.
+** 1926-11-23 (vor 1926-11-23)
+   :PROPERTIES:
+   :TRAD:     verloren
+   :END:
+In [[#ze1926-11-23]] erwähnt.
+** 1928-05-01 (vor 1928-05-01)
+   :PROPERTIES:
+   :TRAD:     verloren
+   :END:
+In [[#ze1928-05-01]], 25 erwähnt.
