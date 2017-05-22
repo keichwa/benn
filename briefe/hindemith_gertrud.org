@@ -1,0 +1,53 @@
+#+STARTUP: content
+#+STARTUP: showall
+ #+STARTUP: showeverythingn
+#+TITLE: Benn - Gertrud Hindemith
+
+* Hindemith, Gertrud
+:PROPERTIES:
+:CUSTOM_ID: hindemith_gertrud_1900
+:EMPF:     1
+:FROM: Benn
+:TO: Hindemith, Gertrud
+:GEB: 1900
+:TOD: 
+:END:
+** 1930-05-22
+   :PROPERTIES:
+   :CUSTOM_ID: hig1930-05-22
+   :END:   
+*** AB1957
+:PROPERTIES:
+:S: 35-36
+:S_KOM: 344-45
+:END:
+** 1930-06-06
+   :PROPERTIES:
+   :CUSTOM_ID: hig1930-06-06
+   :END:   
+*** AB1957
+:PROPERTIES:
+:S: 36-37
+:S_KOM:
+:END:
+** 1930-07-08
+   :PROPERTIES:
+   :CUSTOM_ID: hig1930-07-08
+   :END:   
+*** AB1957
+:PROPERTIES:
+:S: 37
+:S_KOM:
+:END:
+Brief eigentlich an [[hindemith_paul_1895]] ([[hip1930-07-08]]).
+
+* Benn
+:PROPERTIES:
+:FROM: Hindemith, Paul
+:TO: Benn
+:END:
+** 1929-01-31xxxxxx
+   :PROPERTIES:
+   :TRAD:     verloren
+   :END:
+
