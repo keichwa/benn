@@ -22,14 +22,33 @@
 :S_KOM: 
 :END:
 Auch an [[#hindemith_gertrud_1900]].
+** 1930-07-29
+   :PROPERTIES:
+   :CUSTOM_ID: hip1930-07-29
+   :END:   
+*** AB1957
+:PROPERTIES:
+:S: 37-38
+:S_KOM: 
+:END:
+** 1930-08-02
+   :PROPERTIES:
+   :CUSTOM_ID: hip1930-08-02
+   :END:   
+*** AB1957
+:PROPERTIES:
+:S: 38-39
+:S_KOM: 
+:END:
 
 * Benn
 :PROPERTIES:
 :FROM: Hindemith, Paul
 :TO: Benn
 :END:
-** 1929-01-31xxxxxx
+** 1930-08-02 (vor 1930-08-02)
    :PROPERTIES:
    :TRAD:     verloren
    :END:
+Erwähnt in [[#hip1930-08-02]].
 
