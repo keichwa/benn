@@ -31,6 +31,16 @@ Auch an Ewald Wasmuth, den Ehemann ([[#wasmuth_ewald_1890]]).
 :S: 31
 :S_KOM:
 :END:
+** 1929-05-10
+   :PROPERTIES:
+   :CUSTOM_ID: was1929-05-10
+   :END:   
+*** AB1957
+:PROPERTIES:
+:S: 33-32
+:S_KOM:
+:END:
+
 
 * Benn
 :PROPERTIES:

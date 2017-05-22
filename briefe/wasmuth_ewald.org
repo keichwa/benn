@@ -17,14 +17,14 @@
    :CUSTOM_ID: wae1929-02-21
    :END:   
 Auch an Ewald Wasmuth, Sophias ([[#wasmuth_sophia_]]) Ehemann. Siehe [[was1929-02-21]].
-** 1929-02-24xxx
+** 1929-03-04
    :PROPERTIES:
-   :CUSTOM_ID: 
+   :CUSTOM_ID: was1929-03-04
    :END:   
 *** AB1957
 :PROPERTIES:
-:S: 
-:S_KOM:
+:S: 33
+:S_KOM: 344
 :END:
 
 * Benn

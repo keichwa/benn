@@ -1,0 +1,35 @@
+#+STARTUP: content
+#+STARTUP: showall
+ #+STARTUP: showeverythingn
+#+TITLE: Benn - Paul Hindemith
+
+* Hindemith, Paul
+:PROPERTIES:
+:CUSTOM_ID: hindemith_paul_1895
+:EMPF:     1
+:FROM: Benn
+:TO: Hindemith, Paul
+:GEB: 1895
+:TOD: 
+:END:
+** 1930-07-08
+   :PROPERTIES:
+   :CUSTOM_ID: hip1930-07-08
+   :END:   
+*** AB1957
+:PROPERTIES:
+:S: 37
+:S_KOM: 
+:END:
+Auch an [[#hindemith_gertrud_1900]].
+
+* Benn
+:PROPERTIES:
+:FROM: Hindemith, Paul
+:TO: Benn
+:END:
+** 1929-01-31xxxxxx
+   :PROPERTIES:
+   :TRAD:     verloren
+   :END:
+
