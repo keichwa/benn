@@ -1,0 +1,39 @@
+#+STARTUP: content
+#+STARTUP: showall
+ #+STARTUP: showeverythingn
+#+TITLE: Benn - Ewald Wasmuth
+
+* Wasmuth, Ewald
+:PROPERTIES:
+:CUSTOM_ID: wasmuth_ewald_1890
+:EMPF:     1
+:FROM: Benn
+:TO: Wasmuth, Ewald
+:GEB: 1890
+:TOD: 
+:END:
+** 1929-02-21
+   :PROPERTIES:
+   :CUSTOM_ID: wae1929-02-21
+   :END:   
+Auch an Ewald Wasmuth, Sophias ([[#wasmuth_sophia_]]) Ehemann. Siehe [[was1929-02-21]].
+** 1929-02-24xxx
+   :PROPERTIES:
+   :CUSTOM_ID: 
+   :END:   
+*** AB1957
+:PROPERTIES:
+:S: 
+:S_KOM:
+:END:
+
+* Benn
+:PROPERTIES:
+:FROM: Wasmuth, Ewald
+:TO: Benn
+:END:
+** 1929-01-31xxxxxx
+   :PROPERTIES:
+   :TRAD:     verloren
+   :END:
+

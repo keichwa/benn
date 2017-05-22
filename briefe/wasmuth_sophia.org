@@ -5,6 +5,7 @@
 
 * Wasmuth, Sophia
 :PROPERTIES:
+:CUSTOM_ID: wasmuth_sophia_
 :EMPF:     1
 :FROM: Benn
 :TO: Wasmuth, Sophia
@@ -14,12 +15,23 @@
 ** 1929-02-21
    :PROPERTIES:
    :CUSTOM_ID: was1929-02-21
-   :END:      
+   :END:   
+Auch an Ewald Wasmuth, den Ehemann ([[#wasmuth_ewald_1890]]).   
 *** AB1957
 :PROPERTIES:
 :S: 30
 :S_KOM: 344
 :END:
+** 1929-02-24
+   :PROPERTIES:
+   :CUSTOM_ID: was1929-02-24
+   :END:   
+*** AB1957
+:PROPERTIES:
+:S: 31
+:S_KOM:
+:END:
+
 * Benn
 :PROPERTIES:
 :FROM: Wasmuth, Sophia

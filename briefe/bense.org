@@ -13,3 +13,13 @@
 :END:
 *** 1935-05-20
 Erwähnt in file:briefe/oelze.org::#oe1935-06-04.
+* Benn
+:PROPERTIES:
+:TO: Benn
+:FROM: Bense, Max
+:END:
+** 1937-03-05 (vor 1937-03-05)
+   :PROPERTIES:
+   :TRAD:     verloren
+   :END:
+Buchsendung in [[#oe1937-03-05]] erwähnt.
