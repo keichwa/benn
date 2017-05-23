@@ -40,6 +40,26 @@ Auch an [[#hindemith_gertrud_1900]].
 :S: 38-39
 :S_KOM: 
 :END:
+** 1930-10-29
+   :PROPERTIES:
+   :CUSTOM_ID: hip1930-10-29
+   :END:   
+*** AB1957
+:PROPERTIES:
+:S: 39-40
+:S_KOM: 
+:END:
+** 1930-11-25
+   :PROPERTIES:
+   :CUSTOM_ID: hip1930-11-25
+   :END:   
+*** AB1957
+:PROPERTIES:
+:S: 40-41
+:S_KOM: 
+:END:
+
+
 
 * Benn
 :PROPERTIES:
