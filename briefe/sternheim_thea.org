@@ -71,7 +71,16 @@
 :S: 51-53
 :S_KOM: 346
 :END:
-
+** 1932-11-19
+   :PROPERTIES:
+   :CUSTOM_ID: stt1932-11-19
+   :TRAD:     
+   :END:
+*** AB1957
+:PROPERTIES:
+:S: 53-54
+:S_KOM: 346
+:END:
 
 * Benn
 :PROPERTIES:
@@ -93,6 +102,15 @@ Karte in [[#stt1932-04-16]] erwähnt.
    :TRAD:     
    :END:
 2. karte in [[#stt1932-04-16]] erwähnt, mit unterschrift der kinder.
+** 1932-11-19 (vor 1932-11-19)
+   :PROPERTIES:
+   :TRAD:     
+   :END:
+In [[#stt1932-11-19]] erwähnt.
+
+
+
+
 
 
 
