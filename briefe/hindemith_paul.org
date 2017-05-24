@@ -58,9 +58,60 @@ Auch an [[#hindemith_gertrud_1900]].
 :S: 40-41
 :S_KOM: 
 :END:
-
-
-
+** 1931-03-31
+   :PROPERTIES:
+   :CUSTOM_ID: hip1931-03-31
+   :END:   
+*** AB1957
+:PROPERTIES:
+:S: 42-43
+:S_KOM: 345
+:END:
+** 1931-05-22
+   :PROPERTIES:
+   :CUSTOM_ID: hip1931-05-22
+   :END:   
+*** AB1957
+:PROPERTIES:
+:S: 43-44
+:S_KOM: 
+:END:
+** 1931-05-24
+   :PROPERTIES:
+   :CUSTOM_ID: hip1931-05-24
+   :END:   
+*** AB1957
+:PROPERTIES:
+:S: 44
+:S_KOM: 
+:END:
+** 1931-06-12
+   :PROPERTIES:
+   :CUSTOM_ID: hip1931-06-12
+   :END:   
+*** AB1957
+:PROPERTIES:
+:S: 45
+:S_KOM: 
+:END:
+** 1931-06-14
+   :PROPERTIES:
+   :CUSTOM_ID: hip1931-06-14
+   :END:   
+*** AB1957
+:PROPERTIES:
+:S: 45-46
+:S_KOM: 345
+:END:
+** 1931-08-25
+   :PROPERTIES:
+   :CUSTOM_ID: hip1931-08-25
+   :END:   
+*** AB1957
+:PROPERTIES:
+:S: 48-49
+:S_KOM:
+:END:
 * Benn
 :PROPERTIES:
 :FROM: Hindemith, Paul

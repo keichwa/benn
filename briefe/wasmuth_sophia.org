@@ -41,7 +41,6 @@ Auch an Ewald Wasmuth, den Ehemann ([[#wasmuth_ewald_1890]]).
 :S_KOM:
 :END:
 
-
 * Benn
 :PROPERTIES:
 :FROM: Wasmuth, Sophia

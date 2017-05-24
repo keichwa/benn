@@ -38,6 +38,15 @@
 :S: 29
 :S_KOM:
 :END:
+** 1931-08-12
+   :PROPERTIES:
+   :CUSTOM_ID: fl1931-08-12
+   :END:      
+*** AB1957
+:PROPERTIES:
+:S: 47
+:S_KOM: 345
+:END:
 * Benn
 :PROPERTIES:
 :FROM: Fleischmann-Fleming, Elsa

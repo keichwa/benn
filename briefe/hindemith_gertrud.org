@@ -40,6 +40,16 @@
 :S_KOM:
 :END:
 Brief eigentlich an [[hindemith_paul_1895]] ([[hip1930-07-08]]).
+** 1931-08-25
+   :PROPERTIES:
+   :CUSTOM_ID: hig1931-08-25
+   :END:   
+*** AB1957
+:PROPERTIES:
+:S: 48-49
+:S_KOM:
+:END:
+Brief eigentlich an [[hindemith_paul_1895]] ([[hip1931-08-25]]).
 
 * Benn
 :PROPERTIES:

@@ -144,6 +144,18 @@ Widmung in "Gesammelte Schriften".
 :S: 31-33
 :S_KOM: 344
 :END:
+** 1931-12-28
+   :PROPERTIES:
+   :CUSTOM_ID: ze1931-12-28
+   :TRAD:     
+   :END:
+*** AB1957
+:PROPERTIES:
+:AUSL: t
+:S: 50-51
+:S_KOM: 345-46
+:END:
+
 
 * Benn
 :PROPERTIES:
@@ -197,3 +209,8 @@ In [[#ze1928-05-01]], 25 erwähnt.
    :TRAD:     verloren
    :END:
 In [[#ze1929-02-24]] erwähnt.
+** 1931-12-28 (vor 1931-12-28)
+   :PROPERTIES:
+   :TRAD:     verloren
+   :END:
+In [[#ze1931-12-28]] erwähnt.

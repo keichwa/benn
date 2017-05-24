@@ -31,6 +31,47 @@
 :S: 28
 :S_KOM: 344
 :END:
+** 1931-07-25
+   :PROPERTIES:
+   :CUSTOM_ID: stt1931-07-25
+   :TRAD:     
+   :END:
+*** AB1957
+:PROPERTIES:
+:S: 46
+:S_KOM:
+:END:
+** 1931-08-18
+   :PROPERTIES:
+   :CUSTOM_ID: stt1931-08-18
+   :TRAD:     
+   :END:
+*** AB1957
+:PROPERTIES:
+:S: 47
+:S_KOM:
+:END:
+** 1931-08-31
+   :PROPERTIES:
+   :CUSTOM_ID: stt1931-08-31
+   :TRAD:     
+   :END:
+*** AB1957
+:PROPERTIES:
+:S: 49
+:S_KOM:
+:END:
+** 1932-04-16
+   :PROPERTIES:
+   :CUSTOM_ID: stt1932-04-16
+   :TRAD:     
+   :END:
+*** AB1957
+:PROPERTIES:
+:S: 51-53
+:S_KOM: 346
+:END:
+
 
 * Benn
 :PROPERTIES:
@@ -39,7 +80,20 @@
 :END:
 ** 1928-05-04 (vor 1928-05-04)
    :PROPERTIES:
-   :TRAD:     verloren
+   :TRAD:     
    :END:
 Buchsendung in [[#stt1928-05-04]] erwähnt.
+** 1932-04-16 (vor 1932-04-16)
+   :PROPERTIES:
+   :TRAD:     
+   :END:
+Karte in [[#stt1932-04-16]] erwähnt.
+** 1932-04-16 (vor 1932-04-16a)
+   :PROPERTIES:
+   :TRAD:     
+   :END:
+2. karte in [[#stt1932-04-16]] erwähnt, mit unterschrift der kinder.
+
+
+
 

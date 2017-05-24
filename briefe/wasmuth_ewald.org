@@ -19,21 +19,31 @@
 Auch an Ewald Wasmuth, Sophias ([[#wasmuth_sophia_]]) Ehemann. Siehe [[was1929-02-21]].
 ** 1929-03-04
    :PROPERTIES:
-   :CUSTOM_ID: was1929-03-04
+   :CUSTOM_ID: wae1929-03-04
    :END:   
 *** AB1957
 :PROPERTIES:
 :S: 33
 :S_KOM: 344
 :END:
+** 1931-12-17
+   :PROPERTIES:
+   :CUSTOM_ID: wae1931-12-17
+   :END:   
+*** AB1957
+:PROPERTIES:
+:S: 50
+:S_KOM: 345
+:END:
+
 
 * Benn
 :PROPERTIES:
 :FROM: Wasmuth, Ewald
 :TO: Benn
 :END:
-** 1929-01-31xxxxxx
+** 1931-12-17 (vor 1931-12-17)
    :PROPERTIES:
    :TRAD:     verloren
    :END:
-
+Erwähnt in [[#wae1931-12-17]].
