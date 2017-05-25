@@ -1,0 +1,49 @@
+#+STARTUP: content
+#+STARTUP: showall
+ #+STARTUP: showeverything
+#+TITLE: Benn - Rychner
+
+* Rychner, Max
+:PROPERTIES:
+:EMPF:     1
+:FROM_All: Benn
+:TO_All: Rychner, Max
+:GEB: 1897
+:TOD: 
+:END:
+** 1930-09-06
+  :PROPERTIES:
+  :CUSTOM_ID: ry1930-09-06
+  :TRAD:     
+  :END:
+*** AB1957
+:PROPERTIES:
+:S: 39
+:S_KOM: 345
+:END:
+** 1932-05-12
+  :PROPERTIES:
+  :CUSTOM_ID: ry1932-05-12
+  :TRAD:     
+  :END:
+*** AB1957
+:PROPERTIES:
+:S: 53
+:S_KOM: 346
+:END:
+
+* Benn
+:PROPERTIES:
+:TO: Benn
+:FROM: Rychner
+:END:
+** 1930-09-06 (vor 1930-09-06)
+   :PROPERTIES:
+   :TRAD:     
+   :END:
+Erwähnt in [[#ry1930-09-06]].
+** 1932-05-12 (vor 1932-05-12)
+   :PROPERTIES:
+   :TRAD:     
+   :END:
+Erwähnt in [[#ry1932-05-12]].

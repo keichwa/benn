@@ -1,0 +1,30 @@
+#+STARTUP: content
+#+STARTUP: showall
+ #+STARTUP: showeverythingn
+#+TITLE: Benn - Richard Gabel
+
+* Gabel, Richard
+:PROPERTIES:
+:CUSTOM_ID: gabel_richard_1903
+:EMPF:     1
+:FROM: Benn
+:TO: Gabel, Richard
+:GEB: 1903
+:TOD: 
+:END:
+** 1931-02-23
+   :PROPERTIES:
+   :CUSTOM_ID: ga1931-02-23
+   :END:   
+*** AB1957
+:PROPERTIES:
+:S: 41-42
+:S_KOM: 345
+:END:
+
+* Benn
+:PROPERTIES:
+:FROM: Gabel, Richard
+:TO: Benn
+:END:
+
