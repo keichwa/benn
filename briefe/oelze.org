@@ -3069,6 +3069,29 @@ Erwähnt in [[#oeb1936-04-09]]
     :AUSL:     
     :S_KOM:    
     :END:
+** 1937-12-31
+   :PROPERTIES:
+   :CUSTOM_ID: oe1937-12-31
+   :TRAD:
+   :END:      
+*** BOe2016
+    :PROPERTIES:
+    :NR:       219
+    :BD:       1
+    :S:        249-50
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    496
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       131
+    :BD:       1
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
 * Benn
 :PROPERTIES:
 :FROM: Oelze, Friedrich Wilhelm
@@ -4569,3 +4592,15 @@ Nachtrag 1937-10-27.
     :FAKS:     
     :S_KOM:    492
     :END:
+** 1937-11-15 (vor 1937-11-15)
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1937-11-15
+   :TRAD: verloren
+   :END:      
+Erwähnt in [[#oe1937-11-15]]: "Ihre mannigfachen Sendungen".
+** 1937-12-29 (vor 1937-12-29)
+   :PROPERTIES:
+   :CUSTOM_ID: oe1937-12-29
+   :TRAD: verloren
+   :END:      
+Erwähnt in [[#oe1937-12-29]].
