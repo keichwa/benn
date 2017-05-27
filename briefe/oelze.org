@@ -3575,6 +3575,144 @@ Erwähnt in [[#oeb1936-04-09]]
     :AUSL:     
     :S_KOM:    
     :END:
+** 1938-10-30
+   :PROPERTIES:
+   :CUSTOM_ID: oe1938-10-30
+   :TRAD:
+   :END:      
+*** BOe2016
+    :PROPERTIES:
+    :NR:       243
+    :BD:       1
+    :S:        274
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    506-07
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       153
+    :BD:       1
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1938-11-14
+   :PROPERTIES:
+   :CUSTOM_ID: oe1938-11-14
+   :TRAD:
+   :END:      
+*** BOe2016
+    :PROPERTIES:
+    :NR:       244
+    :BD:       1
+    :S:        274-75
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    507
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       154
+    :BD:       1
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1938-12-08
+   :PROPERTIES:
+   :CUSTOM_ID: oe1938-12-08
+   :TRAD:
+   :END:      
+*** BOe2016
+    :PROPERTIES:
+    :NR:       245
+    :BD:       1
+    :S:        275
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    507
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       155
+    :BD:       1
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1938-12-11
+   :PROPERTIES:
+   :CUSTOM_ID: oe1938-12-11
+   :TRAD:
+   :END:      
+*** BOe2016
+    :PROPERTIES:
+    :NR:       246
+    :BD:       1
+    :S:        275-77
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    507-08
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       156
+    :BD:       1
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1938-12-23
+   :PROPERTIES:
+   :CUSTOM_ID: oe1938-12-23
+   :TRAD:
+   :END:      
+*** BOe2016
+    :PROPERTIES:
+    :NR:       247
+    :BD:       1
+    :S:        277
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    508
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       157
+    :BD:       1
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1938-12-27
+   :PROPERTIES:
+   :CUSTOM_ID: oe1938-12-27
+   :TRAD:
+   :END:      
+*** BOe2016
+    :PROPERTIES:
+    :NR:       248
+    :BD:       1
+    :S:        278
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    508
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       158
+    :BD:       1
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
 * Benn
 :PROPERTIES:
 :FROM: Oelze, Friedrich Wilhelm
@@ -5181,3 +5319,21 @@ Erwähnt in [[#oe1938-09-25]].
    :TRAD: verloren
    :END:      
 Erwähnt in [[#oe1938-10-19]].
+** 1938-11-13
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1938-11-13
+   :TRAD: verloren
+   :END:      
+Erwähnt in [[#oe1938-11-14]].
+** 1938-12-08 (vor 1938-12-08)
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1938-12-08
+   :TRAD: verloren
+   :END:      
+Erwähnt in [[#oe1938-12-08]].
+** 1938-12-23 (vor 1938-12-23)
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1938-12-23
+   :TRAD: verloren
+   :END:      
+Erwähnt in [[#oe1938-12-23]].
