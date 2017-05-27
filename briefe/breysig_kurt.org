@@ -1,0 +1,22 @@
+#+STARTUP: content
+#+STARTUP: showall
+# +STARTUP: showeverything
+#+TITLE: Benn - Breysig, Kurt
+
+* Breysig, Kurt
+:PROPERTIES:
+:EMPF:     1
+:FROM: Benn
+:TO: Breysig, Kurt
+:GEB:      1866
+:TOD:      1940
+:END:
+** 1938
+
+* Benn
+** 1938
+   :PROPERTIES:
+   :TRAD:     
+   :END:      
+
+
