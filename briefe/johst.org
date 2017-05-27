@@ -8,8 +8,8 @@
 :EMPF:     1
 :FROM: Benn
 :TO: Johst, Hanns
-:GEB:      
-:TOD:      
+:GEB:      1890
+:TOD:      1978
 :END:
 ** 1936-05-09
 In [[#oe1936-05-12]] erwähnt (114, mit kommentar s. 450).
@@ -19,3 +19,9 @@ In [[#oe1936-05-12]] erwähnt (114, mit kommentar s. 450).
    :TRAD:     
    :END:      
 Telegramm. In [[#oe1936-05-17]] erwähnt.  S. a. 114, s. 450.
+** 1938-03-29
+   :PROPERTIES:
+   :CUSTOM_ID: jo1938-03-29
+   :TRAD: 
+   :END:      
+Regest in kommentar zu  [[#oe1938-04-24]]; BOe2016, 1, s. 500 (nr. 228).

@@ -1,0 +1,22 @@
+#+STARTUP: content
+#+STARTUP: showall
+# +STARTUP: showeverything
+#+TITLE: Benn - Breysig, Gertrud
+
+* Breysig, Gertrud
+:PROPERTIES:
+:EMPF:     1
+:FROM: Benn
+:TO: Breysig, Gertrud
+:GEB:      
+:TOD:      
+:END:
+** 1938
+
+* Benn
+** 1938-08-07 (vor 1938-08-07)
+   :PROPERTIES:
+   :TRAD:     
+   :END:      
+Telegramm. In [[#oe1932-12-21]] erwähnt.  S. a. 237, s. 503.
+

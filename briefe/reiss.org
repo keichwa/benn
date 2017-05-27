@@ -1,0 +1,35 @@
+#+STARTUP: content
+#+STARTUP: showall
+ #+STARTUP: showeverything
+#+TITLE: Benn - Reiss
+
+* Reiss, Erich
+:PROPERTIES:
+:EMPF:     1
+:FROM_All: Benn
+:TO_All: Reiss, Erich
+:GEB: 1887
+:TOD: 1951
+:END:
+** 
+  :PROPERTIES:
+  :CUSTOM_ID: 
+  :TRAD:     
+  :END:
+*** AB1957
+:PROPERTIES:
+:S: 
+:S_KOM: 
+:END:
+
+* Benn
+:PROPERTIES:
+:TO: Benn
+:FROM: Reiss
+:END:
+** 
+   :PROPERTIES:
+   :TRAD:     
+   :END:
+Erwähnt in [[#]].
+
