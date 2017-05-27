@@ -3092,6 +3092,489 @@ Erwähnt in [[#oeb1936-04-09]]
     :AUSL:     
     :S_KOM:    
     :END:
+** 1938-01-21
+   :PROPERTIES:
+   :CUSTOM_ID: oe1938-01-21
+   :TRAD:
+   :END:      
+*** BOe2016
+    :PROPERTIES:
+    :NR:       220
+    :BD:       1
+    :S:        251
+    :AUSL:     
+    :FAKS:     252
+    :S_KOM:    497
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       132
+    :BD:       1
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1938-01-23
+   :PROPERTIES:
+   :CUSTOM_ID: oe1938-01-23
+   :TRAD:
+   :END:      
+*** BOe2016
+    :PROPERTIES:
+    :NR:       221
+    :BD:       1
+    :S:        251/53
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    497
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       133
+    :BD:       1
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1938-02-26
+   :PROPERTIES:
+   :CUSTOM_ID: oe1938-02-26
+   :TRAD:
+   :END:      
+*** BOe2016
+    :PROPERTIES:
+    :NR:       222
+    :BD:       1
+    :S:        253-55
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    496-97
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       134
+    :BD:       1
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1938-02-28
+   :PROPERTIES:
+   :CUSTOM_ID: oe1938-02-28
+   :TRAD:
+   :END:      
+*** BOe2016
+    :PROPERTIES:
+    :NR:       223
+    :BD:       1
+    :S:        255-56
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    498
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       135
+    :BD:       1
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1938-03-20
+   :PROPERTIES:
+   :CUSTOM_ID: oe1938-03-20
+   :TRAD:
+   :END:      
+*** BOe2016
+    :PROPERTIES:
+    :NR:       224
+    :BD:       1
+    :S:        256-57
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    498
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       136
+    :BD:       1
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1938-03-26
+   :PROPERTIES:
+   :CUSTOM_ID: oe1938-03-26
+   :TRAD:
+   :END:      
+*** BOe2016
+    :PROPERTIES:
+    :NR:       225
+    :BD:       1
+    :S:        257/59
+    :AUSL:     
+    :FAKS:     258
+    :S_KOM:    498-99
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       137
+    :BD:       1
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1938-04-01
+   :PROPERTIES:
+   :CUSTOM_ID: oe1938-04-01
+   :TRAD:
+   :END:      
+*** BOe2016
+    :PROPERTIES:
+    :NR:       226
+    :BD:       1
+    :S:        259
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    499
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       138
+    :BD:       1
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1938-04-12
+   :PROPERTIES:
+   :CUSTOM_ID: oe1938-04-12
+   :TRAD:
+   :END:      
+*** BOe2016
+    :PROPERTIES:
+    :NR:       227
+    :BD:       1
+    :S:        259
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    499
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       139
+    :BD:       1
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1938-04-24
+   :PROPERTIES:
+   :CUSTOM_ID: oe1938-04-24
+   :TRAD:
+   :END:      
+*** BOe2016
+    :PROPERTIES:
+    :NR:       228
+    :BD:       1
+    :S:        260-61
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    499-500
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       140
+    :BD:       1
+    :S:        
+    :AUSL:     t
+    :S_KOM:    
+    :END:
+** 1938-05-11
+   :PROPERTIES:
+   :CUSTOM_ID: oe1938-05-11
+   :TRAD:
+   :END:      
+*** BOe2016
+    :PROPERTIES:
+    :NR:       229
+    :BD:       1
+    :S:        261-62
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    500
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       141
+    :BD:       1
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1938-05-17
+   :PROPERTIES:
+   :CUSTOM_ID: oe1938-05-17
+   :TRAD:
+   :END:      
+*** BOe2016
+    :PROPERTIES:
+    :NR:       230
+    :BD:       1
+    :S:        262
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    500
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       142
+    :BD:       1
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1938-05-19
+   :PROPERTIES:
+   :CUSTOM_ID: oe1938-05-19
+   :TRAD:
+   :END:      
+*** BOe2016
+    :PROPERTIES:
+    :NR:       231
+    :BD:       1
+    :S:        263
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    500
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       143
+    :BD:       1
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1938-05-29
+   :PROPERTIES:
+   :CUSTOM_ID: oe1938-05-29
+   :TRAD:
+   :END:      
+*** BOe2016
+    :PROPERTIES:
+    :NR:       232
+    :BD:       1
+    :S:        263
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    501
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       144
+    :BD:       1
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1938-06-29
+   :PROPERTIES:
+   :CUSTOM_ID: oe1938-06-29
+   :TRAD:
+   :END:      
+*** BOe2016
+    :PROPERTIES:
+    :NR:       233
+    :BD:       1
+    :S:        263-65
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    501
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       145
+    :BD:       1
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1938-07-06
+   :PROPERTIES:
+   :CUSTOM_ID: oe1938-07-06
+   :TRAD:
+   :END:      
+*** BOe2016
+    :PROPERTIES:
+    :NR:       234
+    :BD:       1
+    :S:        265-66
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    501-02
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       146
+    :BD:       1
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1938-07-24
+   :PROPERTIES:
+   :CUSTOM_ID: oe1938-07-24
+   :TRAD:
+   :END:      
+*** BOe2016
+    :PROPERTIES:
+    :NR:       235
+    :BD:       1
+    :S:        267
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    502
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       147
+    :BD:       1
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1938-08-07
+   :PROPERTIES:
+   :CUSTOM_ID: oe1938-08-07
+   :TRAD:
+   :END:      
+*** BOe2016
+    :PROPERTIES:
+    :NR:       237
+    :BD:       1
+    :S:        269
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    503
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       148
+    :BD:       1
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1938-09-25
+   :PROPERTIES:
+   :CUSTOM_ID: oe1938-09-25
+   :TRAD:
+   :END:      
+*** BOe2016
+    :PROPERTIES:
+    :NR:       239
+    :BD:       1
+    :S:        271-72
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    504
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       149
+    :BD:       1
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1938-09-30
+   :PROPERTIES:
+   :CUSTOM_ID: oe1938-09-30
+   :TRAD:
+   :END:      
+*** BOe2016
+    :PROPERTIES:
+    :NR:       240
+    :BD:       1
+    :S:        272
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    505
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       150
+    :BD:       1
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1938-10-02
+   :PROPERTIES:
+   :CUSTOM_ID: oe1938-10-02
+   :TRAD:
+   :END:      
+*** BOe2016
+    :PROPERTIES:
+    :NR:       241
+    :BD:       1
+    :S:        272-73
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    505
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       151
+    :BD:       1
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1938-10-19
+   :PROPERTIES:
+   :CUSTOM_ID: oe1938-10-19
+   :TRAD:
+   :END:      
+*** BOe2016
+    :PROPERTIES:
+    :NR:       242
+    :BD:       1
+    :S:        273-74
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    506
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       152
+    :BD:       1
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
 * Benn
 :PROPERTIES:
 :FROM: Oelze, Friedrich Wilhelm
@@ -4600,7 +5083,101 @@ Nachtrag 1937-10-27.
 Erwähnt in [[#oe1937-11-15]]: "Ihre mannigfachen Sendungen".
 ** 1937-12-29 (vor 1937-12-29)
    :PROPERTIES:
-   :CUSTOM_ID: oe1937-12-29
+   :CUSTOM_ID: oeb1937-12-29
    :TRAD: verloren
    :END:      
 Erwähnt in [[#oe1937-12-29]].
+** 1938-02-26 (vor 1938-02-26)
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1938-02-26
+   :TRAD: verloren
+   :END:      
+Erwähnt in [[#oe1938-02-26]].
+** 1938-02-28 (vor 1938-02-28)
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1938-02-28
+   :TRAD: verloren
+   :END:      
+Erwähnt in [[#oe1938-02-28]].
+** 1938-03-20 (vor 1938-03-20)
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1938-03-20
+   :TRAD: verloren
+   :END:      
+Erwähnt in [[#oe1938-03-20]]: "Brief aus Bremen".
+** 1938-03-20 (vor 1938-03-20a)
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1938-03-20
+   :TRAD: verloren
+   :END:      
+Erwähnt in [[#oe1938-03-20]]: "Gruß von der Reise".
+** 1938-04-12 (vor 1938-04-12)
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1938-04-12
+   :TRAD: verloren
+   :END:      
+Erwähnt in [[#oe1938-04-12]].
+** 1938-04-24 (vor 1938-04-24)
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1938-04-24
+   :TRAD: verloren
+   :END:      
+Erwähnt in [[#oe1938-04-24]]: "Gruß zu Ostern".
+** 1938-05-29 (vor 1938-05-29)
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1938-05-29
+   :TRAD: verloren
+   :END:      
+Erwähnt in [[#oe1938-05-29]].
+** 1938-06-29 (vor 1938-06-29)
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1938-06-29
+   :TRAD: verloren
+   :END:      
+Erwähnt in [[#oe1938-06-29]].
+** 1938-07-06 (vor 1938-07-06)
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1938-07-06
+   :TRAD: verloren
+   :END:      
+Erwähnt in [[#oe1938-07-06]].
+** 1938-07-27
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1938-07-27
+   :TRAD:
+   :END:      
+*** BOe2016
+    :PROPERTIES:
+    :NR:       236
+    :BD:       1
+    :S:        267-68
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    503
+    :END:
+** 1938-08-13
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1938-08-13
+   :TRAD:
+   :END:      
+*** BOe2016
+    :PROPERTIES:
+    :NR:       238
+    :BD:       1
+    :S:        270-71
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    503-04
+    :END:
+** 1938-09-25 (vor 1938-09-25)
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1938-09-25
+   :TRAD: verloren
+   :END:      
+Erwähnt in [[#oe1938-09-25]].
+** 1938-10-19 (vor 1938-10-19)
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1938-10-19
+   :TRAD: verloren
+   :END:      
+Erwähnt in [[#oe1938-10-19]].
