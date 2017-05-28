@@ -3713,6 +3713,121 @@ Erwähnt in [[#oeb1936-04-09]]
     :AUSL:     
     :S_KOM:    
     :END:
+** 1939-01-01
+   :PROPERTIES:
+   :CUSTOM_ID: oe1939-01-01
+   :TRAD:
+   :END:      
+*** BOe2016
+    :PROPERTIES:
+    :NR:       249
+    :BD:       1
+    :S:        279
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    509
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       159
+    :BD:       1
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1939-04-10
+   :PROPERTIES:
+   :CUSTOM_ID: oe1939-04-10
+   :TRAD:
+   :END:      
+*** BOe2016
+    :PROPERTIES:
+    :NR:       253
+    :BD:       1
+    :S:        284
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    510
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       160
+    :BD:       1
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1939-05-04
+   :PROPERTIES:
+   :CUSTOM_ID: oe1939-05-04
+   :TRAD:
+   :END:      
+*** BOe2016
+    :PROPERTIES:
+    :NR:       256
+    :BD:       1
+    :S:        287
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    511
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       161
+    :BD:       1
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1939-05-08
+   :PROPERTIES:
+   :CUSTOM_ID: oe1939-05-08
+   :TRAD:
+   :END:      
+*** BOe2016
+    :PROPERTIES:
+    :NR:       257
+    :BD:       1
+    :S:        288
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    511-12
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       162
+    :BD:       1
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1939-07-15
+   :PROPERTIES:
+   :CUSTOM_ID: oe1939-07-15
+   :TRAD:
+   :END:      
+*** BOe2016
+    :PROPERTIES:
+    :NR:       259
+    :BD:       1
+    :S:        289-90
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    513-14
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       163
+    :BD:       1
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
 * Benn
 :PROPERTIES:
 :FROM: Oelze, Friedrich Wilhelm
@@ -5337,3 +5452,139 @@ Erwähnt in [[#oe1938-12-08]].
    :TRAD: verloren
    :END:      
 Erwähnt in [[#oe1938-12-23]].
+** 1939-01-01 (vor 1939-01-01)
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1939-01-01
+   :TRAD: verloren
+   :END:      
+Erwähnt in [[#oe1939-01-01]]: "Weihnachtsbrief".
+** 1939-01-17
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1939-01-17
+   :TRAD:
+   :END:      
+*** BOe2016
+    :PROPERTIES:
+    :NR:       250
+    :BD:       1
+    :S:        280
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    509
+    :END:
+** 1939-02-14
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1939-02-14
+   :TRAD:
+   :END:      
+*** BOe2016
+    :PROPERTIES:
+    :NR:       251
+    :BD:       1
+    :S:        280/82
+    :AUSL:     
+    :FAKS:     281 (1. seite)
+    :S_KOM:    509-10
+    :END:
+** 1939-02-21
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1939-02-21
+   :TRAD:
+   :END:      
+*** BOe2016
+    :PROPERTIES:
+    :NR:       252
+    :BD:       1
+    :S:        283-84
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    510
+    :END:
+** 1939-04-10 (vor 1939-04-10)
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1939-04-10
+   :TRAD: verloren
+   :END:      
+Erwähnt in [[#oe1939-04-10]].
+** 1939-04-16
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1939-04-16
+   :TRAD:
+   :END:      
+*** BOe2016
+    :PROPERTIES:
+    :NR:       254
+    :BD:       1
+    :S:        284-85
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    510-11
+    :END:
+** 1939-05-01
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1939-05-01
+   :TRAD:
+   :END:      
+*** BOe2016
+    :PROPERTIES:
+    :NR:       255
+    :BD:       1
+    :S:        285-87
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    511
+    :END:
+** 1939-07-13 (vor 1939-07-13)
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1939-07-13
+   :TRAD: verloren
+   :END:      
+Erwähnt in [[#oe1939-07-15]]: "Brief und für die beiden zurückliegenden".
+** 1939-07-14 (vor 1939-07-14)
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1939-07-14
+   :TRAD: verloren
+   :END:      
+Erwähnt in [[#oe1939-07-15]]: "Brief und für die beiden zurückliegenden".
+** 1939-07-15
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1939-07-15
+   :TRAD:
+   :END:      
+*** BOe2016
+    :PROPERTIES:
+    :NR:       258
+    :BD:       1
+    :S:        288
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    512
+    :END:
+** 1939-07-17
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1939-07-17
+   :TRAD:
+   :END:      
+*** BOe2016
+    :PROPERTIES:
+    :NR:       260
+    :BD:       1
+    :S:        290-91
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    512-13
+    :END:
+** 1939-07-25
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1939-07-25
+   :TRAD:
+   :END:      
+*** BOe2016
+    :PROPERTIES:
+    :NR:       261
+    :BD:       1
+    :S:        292
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    513
+    :END:
