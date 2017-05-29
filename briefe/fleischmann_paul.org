@@ -1,0 +1,28 @@
+#+STARTUP: content
+#+STARTUP: showall
+ #+STARTUP: showeverything
+#+TITLE: Benn - Paul Fleischmann
+
+* Fleischmann, Paul
+:PROPERTIES:
+:EMPF:     1
+:FROM: Benn
+:TO: Fleischmann, Paul
+:GEB: 
+:TOD: 
+:END:
+
+** 1935-03-31
+   :PROPERTIES:
+   :CUSTOM_ID: flp1935-03-31
+   :END:      
+*** AB1957
+:PROPERTIES:
+:S: 64-65
+:S_KOM: 348
+:END:
+* Benn
+:PROPERTIES:
+:FROM: Fleischmann, Paul
+:TO: Benn
+:END:
