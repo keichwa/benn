@@ -1,0 +1,35 @@
+#+STARTUP: content
+#+STARTUP: showall
+ #+STARTUP: showeverything
+#+TITLE: Benn - Maraun
+
+* Maraun, Frank
+:PROPERTIES:
+:EMPF:     1
+:FROM_All: Benn
+:TO_All: Maraun, Frank
+:GEB: 1903
+:TOD: 19
+:END:
+** 1935-03-30
+  :PROPERTIES:
+  :CUSTOM_ID: ma1935-03-30
+  :TRAD:     
+  :END:
+*** AB1957
+:PROPERTIES:
+:S: 64
+:S_KOM: 
+:END:
+
+* Benn
+:PROPERTIES:
+:TO: Benn
+:FROM: Maraun, Frank
+:END:
+** 
+   :PROPERTIES:
+   :TRAD:     
+   :END:
+Erwähnt in [[#]].
+
