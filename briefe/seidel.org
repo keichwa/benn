@@ -1,0 +1,110 @@
+#+STARTUP: content
+#+STARTUP: showall
+# +STARTUP: showeverything
+#+TITLE: Benn - Ina Seidel
+
+* Seidel, Ina
+:PROPERTIES:
+:EMPF:     1
+:FROM: Benn
+:TO: Seidel, Ina
+:GEB:      1885
+:TOD:      1974
+:END:
+** 1933-03-02
+   :PROPERTIES:
+   :CUSTOM_ID: se1933-03-02
+   :TRAD:     
+   :END:      
+*** AB1957
+:PROPERTIES:
+:S: 54
+:S_KOM: 346
+:END:
+** 1933-08-06
+   :PROPERTIES:
+   :CUSTOM_ID: se1933-08-06
+   :TRAD:     
+   :END:      
+*** AB1957
+:PROPERTIES:
+:S: 55
+:S_KOM: 346
+:END:
+** 1933-11-07
+   :PROPERTIES:
+   :CUSTOM_ID: se1933-11-07
+   :TRAD:     
+   :END:      
+*** AB1957
+:PROPERTIES:
+:S: 56
+:S_KOM: 346-47
+:END:
+** 1934-04-26
+   :PROPERTIES:
+   :CUSTOM_ID: se1934-04-26
+   :TRAD:     
+   :END:      
+*** AB1957
+:PROPERTIES:
+:S: 57
+:S_KOM: 347
+:END:
+** 1934-08-27
+   :PROPERTIES:
+   :CUSTOM_ID: se1934-08-27
+   :TRAD:     
+   :END:      
+*** AB1957
+:PROPERTIES:
+:S: 58
+:S_KOM: 347
+:END:
+** 1934-09-30
+   :PROPERTIES:
+   :CUSTOM_ID: se1934-09-30
+   :TRAD:     
+   :END:      
+*** AB1957
+:PROPERTIES:
+:S: 59-61
+:S_KOM: 347-48
+:END:      
+** 1934-12-12
+   :PROPERTIES:
+   :CUSTOM_ID: se1934-12-12
+   :TRAD:     
+   :END:      
+*** AB1957
+:PROPERTIES:
+:S: 62-63
+:S_KOM: 348
+:END:      
+
+
+* Benn
+:PROPERTIES:
+:TO: Benn
+:FROM: Seidel, Ina
+:END:
+** 1933-03-02 (vor 1933-03-02)
+   :PROPERTIES:
+   :TRAD:     
+   :END:
+In [[#se1933-03-02]] erwähnt: "vielen Dank für Ihre schönen Gedichte".
+** 1933-08-06 (vor 1933-08-06)
+   :PROPERTIES:
+   :TRAD:     
+   :END:
+In [[#se1933-08-06]] erwähnt: "vielen Dank für Ihren Brief".
+** 1934-08-27 (vor 1934-08-27)
+   :PROPERTIES:
+   :TRAD:     
+   :END:
+In [[#se1934-08-27]] erwähnt: "Ihre Karte".
+** 1934-09-30 (vor 1934-09-30)
+   :PROPERTIES:
+   :TRAD:     
+   :END:
+In [[#se1934-09-30]] erwähnt: "Ihren Brief".
