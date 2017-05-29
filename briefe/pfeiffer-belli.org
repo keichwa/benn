@@ -1,0 +1,36 @@
+#+STARTUP: content
+#+STARTUP: showall
+ #+STARTUP: showeverything
+#+TITLE: Benn - Pfeiffer-Belli
+
+* Pfeiffer-Belli, Erich
+:PROPERTIES:
+:EMPF:     1
+:FROM_All: Benn
+:TO_All: Pfeiffer-Belli, Erich
+:CUSTOM_ID: 
+:GEB: 1901
+:TOD: 19
+:END:
+** 1936-04-30
+  :PROPERTIES:
+  :CUSTOM_ID: pf1936-04-30
+  :TRAD:     
+  :END:
+*** AB1957
+:PROPERTIES:
+:S: 69-70
+:S_KOM: 349
+:END:
+
+* Benn
+:PROPERTIES:
+:TO: Benn
+:FROM: Pfeiffer-Belli
+:END:
+** 
+   :PROPERTIES:
+   :TRAD:     
+   :END:
+Erwähnt in [[#]].
+
