@@ -11,13 +11,72 @@
 :GEB: 1910
 :TOD: 1990
 :END:
-*** 1935-05-20
+** 1933-03-17
+  :PROPERTIES:
+  :CUSTOM_ID: bense1933-03-17
+  :TRAD:     
+  :END:
+*** AB1957
+:PROPERTIES:
+:S: 54-55
+:S_KOM: 
+:END:
+** 1934-06-13
+  :PROPERTIES:
+  :CUSTOM_ID: bense1934-06-13
+  :TRAD:     
+  :END:
+*** AB1957
+:PROPERTIES:
+:S: 57-58
+:S_KOM: 
+:END:
+** 1934-10-30
+  :PROPERTIES:
+  :CUSTOM_ID: bense1934-10-30
+  :TRAD:     
+  :END:
+*** AB1957
+:PROPERTIES:
+:S: 61-62
+:S_KOM: 
+:END:
+** 1935-02-17
+  :PROPERTIES:
+  :CUSTOM_ID: bense1935-02-17
+  :TRAD:     
+  :END:
+*** AB1957
+:PROPERTIES:
+:S: 63
+:S_KOM: 348
+:END:
+
+
+** 1935-05-20
 Erwähnt in file:briefe/oelze.org::#oe1935-06-04.
 * Benn
 :PROPERTIES:
 :TO: Benn
 :FROM: Bense, Max
 :END:
+** 1933-03-17 (vor 1933-03-17)
+   :PROPERTIES:
+   :TRAD:     verloren
+   :END:
+In [[#bense1933-03-17]] erwähnt: "Gruß".
+** 1934-06-13 (vor 1934-06-13)
+   :PROPERTIES:
+   :TRAD:     
+   :END:
+In [[#bense1934-06-13]] erwähnt: "Ihr Schreiben".
+** 1935-02-17 (vor 1935-02-17)
+   :PROPERTIES:
+   :CUSTOM_ID: 
+   :TRAD: 
+   :END:      
+Erwähnt in [[#bense1935-02-17]].
+
 ** 1937-03-05 (vor 1937-03-05)
    :PROPERTIES:
    :TRAD:     verloren
