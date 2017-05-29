@@ -3828,6 +3828,168 @@ Erwähnt in [[#oeb1936-04-09]]
     :AUSL:     
     :S_KOM:    
     :END:
+** 1939-08-01
+   :PROPERTIES:
+   :CUSTOM_ID: oe1939-08-01
+   :TRAD:
+   :END:      
+*** BOe2016
+    :PROPERTIES:
+    :NR:       262
+    :BD:       1
+    :S:        292-93
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    514
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       164
+    :BD:       1
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1939-08-13
+   :PROPERTIES:
+   :CUSTOM_ID: oe1939-08-13
+   :TRAD:
+   :END:      
+3 entwürfe.
+*** BOe2016
+    :PROPERTIES:
+    :NR:       263
+    :BD:       1
+    :S:        293-94
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    514-18
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       165
+    :BD:       1
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1939-10-10
+   :PROPERTIES:
+   :CUSTOM_ID: oe1939-10-10
+   :TRAD:
+   :END:      
+*** BOe2016
+    :PROPERTIES:
+    :NR:       264
+    :BD:       1
+    :S:        295-96
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    519
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       166
+    :BD:       1
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1939-11-08
+   :PROPERTIES:
+   :CUSTOM_ID: oe1939-11-08
+   :TRAD:
+   :END:      
+*** BOe2016
+    :PROPERTIES:
+    :NR:       265
+    :BD:       1
+    :S:        296
+    :AUSL:     
+    :FAKS:     297
+    :S_KOM:    519
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       167
+    :BD:       1
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1939-12-13
+   :PROPERTIES:
+   :CUSTOM_ID: oe1939-12-13
+   :TRAD:
+   :END:      
+*** BOe2016
+    :PROPERTIES:
+    :NR:       266
+    :BD:       1
+    :S:        298-99
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    519-20
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       168
+    :BD:       1
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1939-12-25
+   :PROPERTIES:
+   :CUSTOM_ID: oe1939-12-25
+   :TRAD:
+   :END:      
+*** BOe2016
+    :PROPERTIES:
+    :NR:       267
+    :BD:       1
+    :S:        299-300
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    520
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       169
+    :BD:       1
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1940-01-21
+   :PROPERTIES:
+   :CUSTOM_ID: oe1940-01-21
+   :TRAD:
+   :END:      
+*** BOe2016
+    :PROPERTIES:
+    :NR:       268
+    :BD:       1
+    :S:        301
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    522
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       170
+    :BD:       1
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
 * Benn
 :PROPERTIES:
 :FROM: Oelze, Friedrich Wilhelm
@@ -5588,3 +5750,27 @@ Erwähnt in [[#oe1939-07-15]]: "Brief und für die beiden zurückliegenden".
     :FAKS:     
     :S_KOM:    513
     :END:
+** 1939-08-13 (vor 1939-08-13)
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1939-08-13
+   :TRAD: verloren
+   :END:      
+Erwähnt in [[#oe1939-08-13]].
+** 1939-10-07
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1939-10-07
+   :TRAD: verloren
+   :END:      
+Erwähnt in [[#oe1939-10-10]].
+** 1939-12-13 (vor 1939-12-13)
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1939-12-13
+   :TRAD: verloren
+   :END:      
+Erwähnt in [[#oe1939-12-13]].
+** 1939-12-30 (und 1939-12-31)
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1939-12-30
+   :TRAD: verloren
+   :END:      
+Erwähnt in [[#oe1940-01-21]].

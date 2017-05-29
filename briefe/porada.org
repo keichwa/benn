@@ -8,6 +8,8 @@
 :EMPF:     1
 :FROM: Benn
 :TO: Porada, Käthe von
+:GEB:
+:TOD:
 :END:
 ** 1933-07-04
    :PROPERTIES:
