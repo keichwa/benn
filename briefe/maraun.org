@@ -62,6 +62,16 @@
 :S: 67-69
 :S_KOM: 349
 :END:
+** 1936-05-11
+  :PROPERTIES:
+  :CUSTOM_ID: ma1936-05-11
+  :TRAD:     
+  :END:
+*** AB1957
+:PROPERTIES:
+:S: 70-72
+:S_KOM: 349
+:END:
 * Benn
 :PROPERTIES:
 :TO: Benn
@@ -77,3 +87,8 @@ Erwähnt in [[#ma1935-08-15]]: "Karte aus Prerow".
    :TRAD:     
    :END:
 Erwähnt in [[#ma1936-04-12]]: "Karte".
+** 1936-05-11 (vor 1936-05-11)
+   :PROPERTIES:
+   :TRAD:     
+   :END:
+Erwähnt in [[#ma1936-05-11]]: "Ihr Telegramm, Ihre Wünsche".
