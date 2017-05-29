@@ -1,0 +1,28 @@
+#+STARTUP: content
+#+STARTUP: showall
+ #+STARTUP: showeverythingn
+#+TITLE: Benn - Charlotte Oelze
+
+* Oelze, Charlotte
+:PROPERTIES:
+:CUSTOM_ID: oelze_charlotte
+:EMPF:     1
+:FROM: Benn
+:TO: Oelze, Charlotte
+:GEB: 
+:TOD: 
+:END:
+** 
+   :PROPERTIES:
+   :CUSTOM_ID: 
+   :END:   
+* Benn
+:PROPERTIES:
+:FROM: Oelze, Charlotte
+:TO: Benn
+:END:
+** 1939-10-10 (vor 1939-10-10)
+   :PROPERTIES:
+   :TRAD:     verloren
+   :END:
+Erwähnt in [[#oe1939-10-10]].
