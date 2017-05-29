@@ -8,8 +8,9 @@
 :EMPF:     1
 :FROM_All: Benn
 :TO_All: Maraun, Frank
+:CUSTOM_ID: maraun_frank_1903
 :GEB: 1903
-:TOD: 19
+:TOD: 1981
 :END:
 ** 1935-03-30
   :PROPERTIES:
@@ -21,15 +22,58 @@
 :S: 64
 :S_KOM: 
 :END:
-
+** 1935-05-05
+  :PROPERTIES:
+  :CUSTOM_ID: ma1935-05-05
+  :TRAD:     
+  :END:
+*** AB1957
+:PROPERTIES:
+:S: 65-66
+:S_KOM: 348
+:END:
+** 1935-08-15
+  :PROPERTIES:
+  :CUSTOM_ID: ma1935-08-15
+  :TRAD:     
+  :END:
+*** AB1957
+:PROPERTIES:
+:S: 66
+:S_KOM: 348
+:END:
+** 1935-10-20
+  :PROPERTIES:
+  :CUSTOM_ID: ma1935-10-20
+  :TRAD:     
+  :END:
+*** AB1957
+:PROPERTIES:
+:S: 66-67
+:S_KOM: 348-49
+:END:
+** 1936-04-12
+  :PROPERTIES:
+  :CUSTOM_ID: ma1936-04-12
+  :TRAD:     
+  :END:
+*** AB1957
+:PROPERTIES:
+:S: 67-69
+:S_KOM: 349
+:END:
 * Benn
 :PROPERTIES:
 :TO: Benn
 :FROM: Maraun, Frank
 :END:
-** 
+** 1935-08-15 (vor 1935-08-15)
    :PROPERTIES:
    :TRAD:     
    :END:
-Erwähnt in [[#]].
-
+Erwähnt in [[#ma1935-08-15]]: "Karte aus Prerow".
+** 1936-04-12 (vor 1936-04-12)
+   :PROPERTIES:
+   :TRAD:     
+   :END:
+Erwähnt in [[#ma1936-04-12]]: "Karte".
