@@ -8,6 +8,7 @@
 :EMPF:     1
 :FROM: Benn
 :TO: Fleischmann, Paul
+:CUSTOM_ID: fleischmann_paul
 :GEB: 
 :TOD: 
 :END:
@@ -15,7 +16,8 @@
 ** 1935-03-31
    :PROPERTIES:
    :CUSTOM_ID: flp1935-03-31
-   :END:      
+   :END: 
+Auch an #fleischmann-fleming
 *** AB1957
 :PROPERTIES:
 :S: 64-65
