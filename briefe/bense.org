@@ -51,10 +51,18 @@
 :S: 63
 :S_KOM: 348
 :END:
-
-
 ** 1935-05-20
 Erwähnt in file:briefe/oelze.org::#oe1935-06-04.
+** 1937-03-21
+  :PROPERTIES:
+  :CUSTOM_ID: bense1937-03-21
+  :TRAD:     
+  :END:
+*** AB1957
+:PROPERTIES:
+:S: 77-78
+:S_KOM: 350
+:END:
 * Benn
 :PROPERTIES:
 :TO: Benn
