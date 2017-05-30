@@ -72,6 +72,16 @@
 :S: 70-72
 :S_KOM: 349
 :END:
+** 1936-06-07
+  :PROPERTIES:
+  :CUSTOM_ID: ma1936-06-07
+  :TRAD:     
+  :END:
+*** AB1957
+:PROPERTIES:
+:S: 73
+:S_KOM: 349
+:END:
 * Benn
 :PROPERTIES:
 :TO: Benn
