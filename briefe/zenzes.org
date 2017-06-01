@@ -155,6 +155,39 @@ Widmung in "Gesammelte Schriften".
 :S: 50-51
 :S_KOM: 345-46
 :END:
+** 1933-09-23
+   :PROPERTIES:
+   :CUSTOM_ID: ze1933-09-23
+   :TRAD:     
+   :END:
+*** BZ2006
+:PROPERTIES:
+:AUSL:
+:S: 
+:S_KOM: 
+:END:
+** 1947-04-25
+   :PROPERTIES:
+   :CUSTOM_ID: ze1947-04-25
+   :TRAD:     
+   :END:
+*** BZ2006
+:PROPERTIES:
+:AUSL:
+:S: 
+:S_KOM: 
+:END:
+** 1949-06-25
+   :PROPERTIES:
+   :CUSTOM_ID: ze1949-06-25
+   :TRAD:     
+   :END:
+*** BZ2006
+:PROPERTIES:
+:AUSL:
+:S: 
+:S_KOM: 
+:END:
 
 
 * Benn
@@ -214,3 +247,14 @@ In [[#ze1929-02-24]] erwähnt.
    :TRAD:     verloren
    :END:
 In [[#ze1931-12-28]] erwähnt.
+** 1933-09-23 (vor 1933-09-23)
+   :PROPERTIES:
+   :TRAD:     
+   :END:
+In [[#ze1933-09-23]] erwähnt: "für Ihren Brief und die Zeitschriften und
+die Zeitungsauschnitte".
+** 1949-06-21
+   :PROPERTIES:
+   :TRAD:     
+   :END:
+In [[#ze1949-06-25]] erwähnt: "Brief".
