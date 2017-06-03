@@ -3875,6 +3875,11 @@ Erwähnt in [[#oeb1936-04-09]]
     :AUSL:     
     :S_KOM:    
     :END:
+*** AB1957
+:PROPERTIES:
+:S: 78-80
+:S_KOM: 
+:END:
 ** 1939-10-10
    :PROPERTIES:
    :CUSTOM_ID: oe1939-10-10
@@ -3985,6 +3990,282 @@ Erwähnt in [[#oeb1936-04-09]]
 *** BOe
     :PROPERTIES:
     :NR:       170
+    :BD:       1
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1940-03-03
+   :PROPERTIES:
+   :CUSTOM_ID: oe1940-03-03
+   :TRAD:
+   :END:      
+*** BOe2016
+    :PROPERTIES:
+    :NR:       269
+    :BD:       1
+    :S:        202
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    522
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       171
+    :BD:       1
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1940-03-31
+   :PROPERTIES:
+   :CUSTOM_ID: oe1940-03-31
+   :TRAD:
+   :END:      
+*** BOe2016
+    :PROPERTIES:
+    :NR:       270
+    :BD:       1
+    :S:        302
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    523
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       172
+    :BD:       1
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1940-04-22
+   :PROPERTIES:
+   :CUSTOM_ID: oe1940-04-22
+   :TRAD:
+   :END:      
+*** BOe2016
+    :PROPERTIES:
+    :NR:       271
+    :BD:       1
+    :S:        303
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    523
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       173
+    :BD:       1
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1940-04-28
+   :PROPERTIES:
+   :CUSTOM_ID: oe1940-04-28
+   :TRAD:
+   :END:      
+*** BOe2016
+    :PROPERTIES:
+    :NR:       272
+    :BD:       1
+    :S:        303
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    523
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       174
+    :BD:       1
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1940-04-29
+   :PROPERTIES:
+   :CUSTOM_ID: oe1940-04-29
+   :TRAD:
+   :END:      
+*** BOe2016
+    :PROPERTIES:
+    :NR:       273
+    :BD:       1
+    :S:        304
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    524
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       175
+    :BD:       1
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1940-05-06
+   :PROPERTIES:
+   :CUSTOM_ID: oe1940-05-06
+   :TRAD:
+   :END:      
+*** BOe2016
+    :PROPERTIES:
+    :NR:       274
+    :BD:       1
+    :S:        304-05
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    524
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       176
+    :BD:       1
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1940-05-21
+   :PROPERTIES:
+   :CUSTOM_ID: oe1940-05-21
+   :TRAD:
+   :END:      
+*** BOe2016
+    :PROPERTIES:
+    :NR:       275
+    :BD:       1
+    :S:        305
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    524
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       177
+    :BD:       1
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1940-05-29
+   :PROPERTIES:
+   :CUSTOM_ID: oe1940-05-29
+   :TRAD:
+   :END:      
+*** BOe2016
+    :PROPERTIES:
+    :NR:       276
+    :BD:       1
+    :S:        306-07
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    524-25
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       178
+    :BD:       1
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1940-06-16
+   :PROPERTIES:
+   :CUSTOM_ID: oe1940-06-16
+   :TRAD:
+   :END:      
+*** BOe2016
+    :PROPERTIES:
+    :NR:       277
+    :BD:       1
+    :S:        307
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    525
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       179
+    :BD:       1
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1940-07-06
+   :PROPERTIES:
+   :CUSTOM_ID: oe1940-07-06
+   :TRAD:
+   :END:      
+*** BOe2016
+    :PROPERTIES:
+    :NR:       278
+    :BD:       1
+    :S:        308
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    525-26
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       180
+    :BD:       1
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1940-07-17
+   :PROPERTIES:
+   :CUSTOM_ID: oe1940-07-17
+   :TRAD:
+   :END:      
+*** BOe2016
+    :PROPERTIES:
+    :NR:       279
+    :BD:       1
+    :S:        308-11
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    526
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       181
+    :BD:       1
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1940-08-13
+   :PROPERTIES:
+   :CUSTOM_ID: oe1940-08-13
+   :TRAD:
+   :END:      
+*** BOe2016
+    :PROPERTIES:
+    :NR:       280
+    :BD:       1
+    :S:        311-12
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    527
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       182
     :BD:       1
     :S:        
     :AUSL:     
@@ -5774,3 +6055,69 @@ Erwähnt in [[#oe1939-12-13]].
    :TRAD: verloren
    :END:      
 Erwähnt in [[#oe1940-01-21]].
+** 1940-03-31 (vor 1940-03-31)
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1940-03-31
+   :TRAD: verloren
+   :END:      
+Erwähnt in [[#oe1940-03-31]]: "Brief und Karte".
+** 1940-03-31 (vor 1940-03-31a)
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1940-03-31a
+   :TRAD: verloren
+   :END:      
+Erwähnt in [[#oe1940-03-31]]: "Brief und Karte".
+** 1940-04-22 (vor 1940-04-22)
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1940-04-22
+   :TRAD: verloren
+   :END:      
+Erwähnt in [[#oe1940-04-22]]: "Sie schreiben, ...".
+** 1940-05-08
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1940-05-08
+   :TRAD: verloren
+   :END:      
+Erwähnt in [[#oe1940-05-21]]: "Brief".
+** 1940-05-29 (vor 1940-05-29)
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1940-05-29
+   :TRAD: verloren
+   :END:      
+Erwähnt in [[#oe1940-05-29]]: "die beiden Schreiben".
+** 1940-05-29 (vor 1940-05-29a)
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1940-05-29a
+   :TRAD: verloren
+   :END:      
+Erwähnt in [[#oe1940-05-29]]: "die beiden Schreiben".
+** 1940-06-16 (vor 1940-06-16)
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1940-06-16
+   :TRAD: verloren
+   :END:      
+Erwähnt in [[#oe1940-06-16]]: "Brief".
+** 1940-07-06 (vor 1940-07-06)
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1940-07-06
+   :TRAD: verloren
+   :END:      
+Erwähnt in [[#oe1940-07-06]]: "Brief aus Lübeck".
+** 1940-07-06 (vor 1940-07-06)
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1940-07-06
+   :TRAD: verloren
+   :END:  
+Erwähnt in [[#oe1940-07-06]]: "Brief aus Lübeck".
+** 1940-07-17 (vor 1940-07-17)
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1940-07-17
+   :TRAD: verloren
+   :END:  
+Erwähnt in [[#oe1940-07-06]]: "Brief".
+** 1940-08-13 (vor 1940-08-13)
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1940-08-13
+   :TRAD: verloren
+   :END:  
+Erwähnt in [[#oe1940-08-13]]: "Brief".
