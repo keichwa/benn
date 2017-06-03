@@ -4271,6 +4271,145 @@ Erwähnt in [[#oeb1936-04-09]]
     :AUSL:     
     :S_KOM:    
     :END:
+** 1940-08-25
+   :PROPERTIES:
+   :CUSTOM_ID: oe1940-08-25
+   :TRAD:
+   :END:      
+*** BOe2016
+    :PROPERTIES:
+    :NR:       281
+    :BD:       1
+    :S:        313
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    527-28
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       183
+    :BD:       1
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1940-09-05
+   :PROPERTIES:
+   :CUSTOM_ID: oe1940-09-05
+   :TRAD:
+   :END:      
+*** BOe2016
+    :PROPERTIES:
+    :NR:       282
+    :BD:       1
+    :S:        314-15
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    528-29
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       184
+    :BD:       1
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1940-09-08 (Entwurf)
+   :PROPERTIES:
+   :CUSTOM_ID: oe1940-09-08
+   :TRAD:
+   :TRANS: Entwurf    
+   :END:
+Nicht abgesandt.
+*** BOe2016
+    :PROPERTIES:
+    :NR:       
+    :BD:       1
+    :S:        528-29 (Kommentar zu nr. 282)
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    528-29
+    :END:
+*** BOe
+    :PROPERTIES:
+    :NR:       
+    :BD:       
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1940-09-22
+   :PROPERTIES:
+   :CUSTOM_ID: oe1940-09-22
+   :TRAD:
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       283
+    :BD:       1
+    :S:        316-16
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    529
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       185
+    :BD:       1
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1940-10-08
+   :PROPERTIES:
+   :CUSTOM_ID: oe1940-10-08
+   :TRAD:
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       284
+    :BD:       1
+    :S:        316/18
+    :AUSL:     
+    :FAKS:     317 (beilage)
+    :S_KOM:    529
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       186
+    :BD:       1
+    :S:        
+    :AUSL:     t
+    :S_KOM:    
+    :END:
+** 1940-10-27
+   :PROPERTIES:
+   :CUSTOM_ID: oe1940-10-27
+   :TRAD:
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       285
+    :BD:       1
+    :S:        318/20
+    :AUSL:     
+    :FAKS:     319 (1. seite)
+    :S_KOM:    530
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       187
+    :BD:       1
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
 * Benn
 :PROPERTIES:
 :FROM: Oelze, Friedrich Wilhelm
@@ -6121,3 +6260,39 @@ Erwähnt in [[#oe1940-07-06]]: "Brief".
    :TRAD: verloren
    :END:  
 Erwähnt in [[#oe1940-08-13]]: "Brief".
+** 1940-09-05 (vor 1940-09-05)
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1940-09-05
+   :TRAD: verloren
+   :END:
+Erwähnt in [[#oe1940-09-08]]: "Brief".
+** 1940-09-22 (vor 1940-09-22)
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1940-09-22
+   :TRAD: verloren
+   :END:
+Erwähnt in [[#oe1940-09-22]]: "Schreiben".
+** 1940-09-22 (vor 1940-09-22a)
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1940-09-22a
+   :TRAD: verloren
+   :END:
+Erwähnt in [[#oe1940-09-22]]: "Heinebrief".
+** 1940-09-22 (vor 1940-09-22b)
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1940-09-22b
+   :TRAD: verloren
+   :END:
+Erwähnt in [[#oe1940-09-22]]: "den letzten mit den herrlichen Zitaten".
+** 1940-10-08 (vor 1940-10-08)
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1940-10-08
+   :TRAD: verloren
+   :END:
+Erwähnt in [[#oe1940-10-08]]: "Ihren langen interessanten Brief".
+** 1940-10-27 (vor 1940-10-27)
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1940-10-27
+   :TRAD: verloren
+   :END:
+Erwähnt in [[#oe1940-10-27]]: "Ihre schönen Karten aus München".
