@@ -1,0 +1,29 @@
+#+STARTUP: content
+#+STARTUP: showall
+ #+STARTUP: showeverything
+#+TITLE: Benn - Kilpper
+
+* Bense, Max
+:PROPERTIES:
+:EMPF:     1
+:FROM_All: Benn
+:TO_All: Kilpper, Gustav
+:GEB: 1879
+:TOD: 
+:END:
+** 1942-02-12
+  :PROPERTIES:
+  :CUSTOM_ID: ki1942-02-12
+  :TRAD:     
+  :END:
+*** AB1957
+:PROPERTIES:
+:S: 89-90
+:S_KOM: 
+:END:
+* Benn
+:PROPERTIES:
+:TO: Benn
+:FROM: Kilpper, Gustav
+:END:
+
