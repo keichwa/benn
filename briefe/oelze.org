@@ -4521,6 +4521,75 @@ Nicht abgesandt.
     :AUSL:     
     :S_KOM:    
     :END:
+** 1940-12-15
+   :PROPERTIES:
+   :CUSTOM_ID: oe1940-12-15
+   :TRAD:
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       291
+    :BD:       1
+    :S:        326
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    533
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       193
+    :BD:       1
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1940-12-22
+   :PROPERTIES:
+   :CUSTOM_ID: oe1940-12-22
+   :TRAD:
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       292
+    :BD:       1
+    :S:        327
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    533-34
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       194
+    :BD:       1
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1940-12-31
+   :PROPERTIES:
+   :CUSTOM_ID: oe1940-12-31
+   :TRAD:
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       293
+    :BD:       1
+    :S:        328
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    534
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       195
+    :BD:       1
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
 * Benn
 :PROPERTIES:
 :FROM: Oelze, Friedrich Wilhelm
@@ -6431,12 +6500,26 @@ Hotel in Hbg.".
    :CUSTOM_ID: oeb1940-11-25
    :TRAD: verloren
    :END:
-Erwähnt in [[#oe1940-11-25]]: "Ihr Madonnenbild aus Bremen."
+Erwähnt in [[#oe1940-11-25]]: "Ihr Madonnenbild aus Bremen"
 ** 1940-12-03 (vor 1940-12-03)
    :PROPERTIES:
    :CUSTOM_ID: oeb1940-12-03
    :TRAD: verloren
    :END:
-Erwähnt in [[#oe1940-12-03]]: "Karte aus Wesselburen."
+Erwähnt in [[#oe1940-12-03]]: "Karte aus Wesselburen"
+** 1940-12-15 (vor 1940-12-15)
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1940-12-15
+   :TRAD: verloren
+   :END:
+Erwähnt in [[#oe1940-12-15]]: "Rücksendung"
+** 1940-12-31 (vor 1940-12-31)
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1940-12-31
+   :TRAD: verloren
+   :END:
+Erwähnt in [[#oe1940-12-31]]: "Weihnachtsbrief"
+
+
 
 
