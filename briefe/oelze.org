@@ -4590,6 +4590,144 @@ Nicht abgesandt.
     :AUSL:     
     :S_KOM:    
     :END:
+** 1941-01-26
+   :PROPERTIES:
+   :CUSTOM_ID: oe1941-01-26
+   :TRAD:
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       294
+    :BD:       1
+    :S:        329
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    535
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       196
+    :BD:       1
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1941-02-11
+   :PROPERTIES:
+   :CUSTOM_ID: oe1941-02-11
+   :TRAD:
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       295
+    :BD:       1
+    :S:        329-30
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    535-36
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       197
+    :BD:       1
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1941-02-21
+   :PROPERTIES:
+   :CUSTOM_ID: oe1941-02-21
+   :TRAD:
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       296
+    :BD:       1
+    :S:        330-31
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    536
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       198
+    :BD:       1
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1941-03-09
+   :PROPERTIES:
+   :CUSTOM_ID: oe1941-03-09
+   :TRAD:
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       297
+    :BD:       1
+    :S:        331-33
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    536
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       199
+    :BD:       1
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1941-03-25
+   :PROPERTIES:
+   :CUSTOM_ID: oe1941-03-25
+   :TRAD:
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       298
+    :BD:       1
+    :S:        333-34
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    537
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       200
+    :BD:       1
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1941-04-10
+   :PROPERTIES:
+   :CUSTOM_ID: oe1941-04-10
+   :TRAD:
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       299
+    :BD:       1
+    :S:        334-36
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    537-38
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       201
+    :BD:       1
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
 * Benn
 :PROPERTIES:
 :FROM: Oelze, Friedrich Wilhelm
@@ -6519,7 +6657,33 @@ Erwähnt in [[#oe1940-12-15]]: "Rücksendung"
    :TRAD: verloren
    :END:
 Erwähnt in [[#oe1940-12-31]]: "Weihnachtsbrief"
-
-
-
-
+** 1941-01-26 (vor 1941-01-26)
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1941-01-26
+   :TRAD: verloren
+   :END:
+Erwähnt in [[#oe1941-01-26]]: "Brief von Ihnen"
+** 1941-02-09
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1941-02-09
+   :TRAD: verloren
+   :END:
+Erwähnt in [[#oe1941-02-11]]: "Briefchen".
+** 1941-02-21 (vor 1941-02-21)
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1941-02-21
+   :TRAD: verloren
+   :END:
+Erwähnt in [[#oe1941-02-21]].
+** 1941-03-09 (vor 1941-03-09)
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1941-03-09
+   :TRAD: verloren
+   :END:
+Erwähnt in [[#oe1941-03-09]]: "Brief".
+** 1941-03-25 (vor 1941-03-25)
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1941-03-25
+   :TRAD: verloren
+   :END:
+Erwähnt in [[#oe1941-03-25]]: "Brief".
