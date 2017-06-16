@@ -38,6 +38,13 @@
 :S: 11-12
 :S_KOM: 341-42
 :END:
+*** B1962
+    :PROPERTIES:
+    :S:        6-7
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    185
+    :END:
 ** 1914-03-13
    :PROPERTIES:
    :CUSTOM_ID: br1914-03-13
@@ -56,6 +63,13 @@
 :S: 12-13
 :S_KOM: 342
 :END:      
+*** B1962
+    :PROPERTIES:
+    :S:        7
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    185
+    :END:
 ** 19
    :PROPERTIES:
    :CUSTOM_ID: 

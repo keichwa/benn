@@ -1,0 +1,42 @@
+#+STARTUP: content
+#+STARTUP: showall
+ #+STARTUP: showeverything
+#+TITLE: Benn - Vietta
+
+* Vietta, Egon
+:PROPERTIES:
+:EMPF:     1
+:FROM_All: Benn
+:TO_All: Vietta, Egon
+:CUSTOM_ID: 
+:GEB: 1903
+:TOD: 1959
+:END:
+** 1936-11-08
+  :PROPERTIES:
+  :CUSTOM_ID: vi1936-11-08 
+  :TRAD:     
+  :END:
+*** AB1957
+:PROPERTIES:
+:S: 75-76
+:S_KOM: 350
+:END:
+
+* Benn
+:PROPERTIES:
+:TO: Benn
+:FROM: Reiss
+:END:
+** 1936-10-12
+   :PROPERTIES:
+   :TRAD:     
+   :END:
+Erwähnt in [[#vi1936-11-08]]: "Brief".
+** xxx1936-11-08 (vor 1936-11-08)
+   :PROPERTIES:
+   :TRAD:     
+   :END:
+Erwähnt in [[#vi1936-11-08]]: "Brief".
+
+

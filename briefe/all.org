@@ -8,5 +8,7 @@
 #+INCLUDE: "oelze.org"
 * Benn - Porada
 #+INCLUDE: "porada.org"
+* Benn - Zenzes
+#+INCLUDE: "zenzes.org"
 * Anmerkungen zur Überlieferung
 #+INCLUDE: "trad.org"

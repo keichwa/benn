@@ -25,4 +25,11 @@
 :AUSL:
 :S_KOM:
 :END:      
+*** B1962
+    :PROPERTIES:
+    :S:        5-6
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    185
+    :END:
 
