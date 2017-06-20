@@ -31,10 +31,38 @@
 :S: 90-91
 :S_KOM: 351
 :END:
-
+** 1943-10-17
+  :PROPERTIES:
+  :CUSTOM_ID: ki1943-10-17
+  :TRAD:     
+  :END:
+*** AB1957
+:PROPERTIES:
+:S: 91-92
+:S_KOM: 351
+:END:
+** 1943-10-28
+  :PROPERTIES:
+  :CUSTOM_ID: ki1943-10-28
+  :TRAD:     
+  :END:
+*** AB1957
+:PROPERTIES:
+:S: 92-93
+:S_KOM: 351
+:END:
 * Benn
 :PROPERTIES:
 :TO: Benn
 :FROM: Kilpper, Gustav
 :END:
+** 1943-10-25
+  :PROPERTIES:
+  :CUSTOM_ID: kib1943-10-25
+  :TRAD:     verloren
+  :END:
+Erwähnt in [[#ki1943-10-28]]: "freundlichen Brief".
+
+
+
 
