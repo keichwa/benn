@@ -3,7 +3,7 @@
  #+STARTUP: showeverything
 #+TITLE: Benn - Kilpper
 
-* Bense, Max
+* Kilpper, Gustav
 :PROPERTIES:
 :EMPF:     1
 :FROM_All: Benn
@@ -21,6 +21,17 @@
 :S: 89-90
 :S_KOM: 
 :END:
+** 1943-01-11
+  :PROPERTIES:
+  :CUSTOM_ID: ki1943-01-11
+  :TRAD:     
+  :END:
+*** AB1957
+:PROPERTIES:
+:S: 90-91
+:S_KOM: 351
+:END:
+
 * Benn
 :PROPERTIES:
 :TO: Benn

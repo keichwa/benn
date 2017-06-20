@@ -4673,7 +4673,6 @@ Nicht abgesandt.
     :FAKS:     
     :S_KOM:    536
     :END:
-
 *** BOe
     :PROPERTIES:
     :NR:       199
@@ -4682,11 +4681,17 @@ Nicht abgesandt.
     :AUSL:     
     :S_KOM:    
     :END:
+*** AB1957
+:PROPERTIES:
+:S: 84-86
+:AUSL: 
+:S_KOM: 350
+:END:
 ** 1941-03-25
-   :PROPERTIES:
-   :CUSTOM_ID: oe1941-03-25
-   :TRAD:
-   :END:
+    :PROPERTIES:
+    :CUSTOM_ID: oe1941-03-25
+    :TRAD:
+    :END:
 *** BOe2016
     :PROPERTIES:
     :NR:       298
@@ -4952,6 +4957,177 @@ Nicht abgesandt.
 *** BOe
     :PROPERTIES:
     :NR:       211
+    :BD:       1
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1941-08-24
+   :PROPERTIES:
+   :CUSTOM_ID: oe1941-08-24
+   :TRAD:
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       312
+    :BD:       1
+    :S:        348-49
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    544
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       212
+    :BD:       1
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1941-09-13
+   :PROPERTIES:
+   :CUSTOM_ID: oe1941-09-13
+   :TRAD:
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       314
+    :BD:       1
+    :S:        351-53
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    545-46
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       213
+    :BD:       1
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1941-09-29
+   :PROPERTIES:
+   :CUSTOM_ID: oe1941-09-29
+   :TRAD:
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       315
+    :BD:       1
+    :S:        353
+    :AUSL:     
+    :FAKS:     354/355
+    :S_KOM:    546
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       214
+    :BD:       1
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1941-10-05
+   :PROPERTIES:
+   :CUSTOM_ID: oe1941-10-05
+   :TRAD:
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       316
+    :BD:       1
+    :S:        356
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    547
+    :END:
+*** BOe
+    :PROPERTIES:
+    :NR:       215
+    :BD:       1
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+*** AB1957
+:PROPERTIES:
+:S: 86-88
+:AUSL: 
+:S_KOM: 350-51
+:END:
+** 1941-10-13
+   :PROPERTIES:
+   :CUSTOM_ID: oe1941-10-13
+   :TRAD:
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       318
+    :BD:       1
+    :S:        358
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    549
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       216
+    :BD:       1
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1941-10-24
+   :PROPERTIES:
+   :CUSTOM_ID: oe1941-10-24
+   :TRAD:
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       320
+    :BD:       1
+    :S:        360
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    550
+    :END:
+*** BOe
+    :PROPERTIES:
+    :NR:       217
+    :BD:       1
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+*** AB1957
+:PROPERTIES:
+:S: 88-89
+:AUSL: 
+:S_KOM:
+:END:
+** 1941-11-03
+   :PROPERTIES:
+   :CUSTOM_ID: oe1941-11-03
+   :TRAD:
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       321
+    :BD:       1
+    :S:        361
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    550
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       218
     :BD:       1
     :S:        
     :AUSL:     
@@ -6998,3 +7174,63 @@ Erwähnt in [[#oe1941-05-05]]: "Brief".
     :FAKS:     
     :S_KOM:    544
     :END:
+** 1941-09-09
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1941-09-09
+   :TRAD:
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       313
+    :BD:       1
+    :S:        349-51
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    545
+    :END:
+** 1941-09-23
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1941-09-23
+   :TRAD: verloren
+   :END:
+   Erwähnt in [[#oe1941-09-29]]: "Brief vom 23.9.41".
+** 1941-10-05
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1941-10-05
+   :TRAD: verloren
+   :END:
+   Erwähnt in [[#oe1941-10-05]]: "den letzten Brief".
+** 1941-10-09
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1941-10-09
+   :TRAD:
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       317
+    :BD:       1
+    :S:        357-58
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    547-49
+    :END:
+** 1941-10-22
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1941-10-22
+   :TRAD:
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       319
+    :BD:       1
+    :S:        359
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    549-50
+    :END:
+** 1941-11-02 (wohl 1941-11-02)
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1941-11-02
+   :TRAD: verloren
+   :END:
+   Erwähnt in [[#oe1941-11-03]]: "Brief".
