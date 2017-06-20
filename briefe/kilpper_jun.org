@@ -1,0 +1,29 @@
+#+STARTUP: content
+#+STARTUP: showall
+ #+STARTUP: showeverything
+#+TITLE: Benn - Kilpper jun.
+
+* Kilpper, Gustav jun.
+:PROPERTIES:
+:EMPF:     1
+:FROM_All: Benn
+:TO_All: Kilpper, Gustav jun.
+:GEB: 
+:TOD: 
+:END:
+** 194??
+* Benn
+:PROPERTIES:
+:TO: Benn
+:FROM: Kilpper, Gustav jun.
+:END:
+** 1943-10-25
+  :PROPERTIES:
+  :CUSTOM_ID: kijb1943-10-25
+  :TRAD:     verloren (?)
+  :END:
+Erwähnt in [[#ki1943-10-28]]: "Brief".
+
+
+
+
