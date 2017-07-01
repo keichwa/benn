@@ -5408,6 +5408,383 @@ Nicht abgesandt.
     :AUSL:     
     :S_KOM:    
     :END:
+** 1942-04-11
+   :PROPERTIES:
+   :CUSTOM_ID: oe1942-04-11
+   :TRAD:
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       342
+    :BD:       1
+    :S:        22-24
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    408-09
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       231
+    :BD:       1
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1942-04-24
+   :PROPERTIES:
+   :CUSTOM_ID: oe1942-04-24
+   :TRAD:
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       343
+    :BD:       2
+    :S:        24-25
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    409
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       232
+    :BD:       1
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1942-05-02
+   :PROPERTIES:
+   :CUSTOM_ID: oe1942-05-02
+   :TRAD:
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       344
+    :BD:       2
+    :S:        25-26
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    410
+    :END:
+*** BOe
+    :PROPERTIES:
+    :NR:       233
+    :BD:       1
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1942-05-30
+   :PROPERTIES:
+   :CUSTOM_ID: oe1942-05-30
+   :TRAD:
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       345
+    :BD:       2
+    :S:        26-27
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    410
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       234
+    :BD:       1
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1942-06-17
+   :PROPERTIES:
+   :CUSTOM_ID: oe1942-06-17
+   :TRAD:
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       346
+    :BD:       2
+    :S:        27
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    410
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       235
+    :BD:       1
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1942-07-05
+   :PROPERTIES:
+   :CUSTOM_ID: oe1942-07-05
+   :TRAD:
+   :ORT: Berlin
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       349
+    :BD:       2
+    :S:        30
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    412
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       236
+    :BD:       1
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1942-08-01
+   :PROPERTIES:
+   :CUSTOM_ID: oe1942-08-01
+   :TRAD:
+   :ORT: Berlin
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       351
+    :BD:       2
+    :S:        32
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    413
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       237
+    :BD:       1
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1942-09-21
+   :PROPERTIES:
+   :CUSTOM_ID: oe1942-09-21
+   :TRAD:
+   :ORT: [Berlin]
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       353
+    :BD:       2
+    :S:        34
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    413-14
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       238
+    :BD:       1
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1942-09-26
+   :PROPERTIES:
+   :CUSTOM_ID: oe1942-09-26
+   :TRAD:
+   :ORT: [Berlin]
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       354
+    :BD:       2
+    :S:        34-35
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    414-15
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       239
+    :BD:       1
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1942-10-14
+   :PROPERTIES:
+   :CUSTOM_ID: oe1942-10-14
+   :TRAD:
+   :ORT: Berlin
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       355
+    :BD:       2
+    :S:        35-36
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    415
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       240
+    :BD:       1
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1942-11-09
+   :PROPERTIES:
+   :CUSTOM_ID: oe1942-11-09
+   :TRAD:
+   :ORT: Berlin
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       356
+    :BD:       2
+    :S:        37
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    415
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       241
+    :BD:       1
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1942-11-16
+   :PROPERTIES:
+   :CUSTOM_ID: oe1942-11-16
+   :TRAD:
+   :ORT: Berlin
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       357
+    :BD:       2
+    :S:        37
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    416
+    :END:
+*** BOe
+    :PROPERTIES:
+    :NR:       242
+    :BD:       1
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1942-12-04
+   :PROPERTIES:
+   :CUSTOM_ID: oe1942-12-04
+   :TRAD:
+   :ORT: [Berlin]
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       358
+    :BD:       2
+    :S:        38
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    416
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       243
+    :BD:       1
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1943-01-02
+   :PROPERTIES:
+   :CUSTOM_ID: oe1943-01-02
+   :TRAD:
+   :ORT: Berlin
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       359
+    :BD:       2
+    :S:        39
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    417
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       244
+    :BD:       1
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1943-02-28
+   :PROPERTIES:
+   :CUSTOM_ID: oe1943-02-28
+   :TRAD:
+   :ORT: Berlin
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       360
+    :BD:       2
+    :S:        40-41
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    416-17
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       245
+    :BD:       1
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1943-03-28
+   :PROPERTIES:
+   :CUSTOM_ID: oe1943-03-28
+   :TRAD:
+   :ORT: Berlin
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       361
+    :BD:       2
+    :S:        41-42
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    418
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       246
+    :BD:       1
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
 * Benn
 :PROPERTIES:
 :FROM: Oelze, Friedrich Wilhelm
@@ -7652,3 +8029,169 @@ Erwähnt in [[#oe1941-05-05]]: "Brief".
    :TRAD: verloren
    :END:
    Erwähnt in [[#oe1942-03-17]]: "Ihres Briefes".
+** 1942-04-11 (vor 1942-04-11)
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1942-04-11
+   :TRAD: verloren
+   :END:
+   Erwähnt in [[#oe1942-04-11]]: "Brief aus Brüssel".
+** 1942-04-24 (vor 1942-04-24)
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1942-04-24
+   :TRAD: verloren
+   :END:
+   Erwähnt in [[#oe1942-04-24]]: "Ihre beiden Briefe".
+** 1942-04-24 (vor 1942-04-24)
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1942-04-24a
+   :TRAD: verloren
+   :END:
+   Erwähnt in [[#oe1942-04-24]]: "Ihre beiden Briefe".
+** 1942-05-02 (vor 1942-05-02)
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1942-05-02
+   :TRAD: verloren
+   :END:
+   Erwähnt in [[#oe1942-05-02]]: "Karte aus Antwerpen".
+** 1942-05-02 (vor 1942-05-02)
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1942-05-02a
+   :TRAD: verloren
+   :END:
+   Erwähnt in [[#oe1942-05-02]]: "Geburtstagsbrief".
+** 1942-05-17
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1942-05-17
+   :TRAD: verloren
+   :END:
+   Erwähnt in [[#oe1942-05-30]]: "Brief".
+** 1942-06-20
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1942-06-20
+   :TRAD:
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       347
+    :BD:       2
+    :S:        27-29
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    410-11
+    :END:
+** 1942-06-30
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1942-06-30
+   :TRAD:
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       348
+    :BD:       2
+    :S:        29-30
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    411-12
+    :END:
+** 1942-07-25 (wohl vor 1942-07-26)
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1942-07-25
+   :TRAD: verloren
+   :ORT: Ehrwald
+   :END:
+   Erwähnt in [[#oe1942-08-01]]: "Briefe aus Ehrwald und Köln".
+** 1942-07-26
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1942-07-26
+   :TRAD:
+   :ORT: Köln
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       350
+    :BD:       2
+    :S:        31
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    412
+    :END:
+** 1942-08-22
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1942-08-22
+   :TRAD:
+   :ORT: Brüssel
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       352
+    :BD:       2
+    :S:        32-33
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    413
+    :END:
+** 1942-09-21 (1942-09-03/21)
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1942-09-21
+   :TRAD: verloren
+   :ORT: Paris
+   :END:
+   Erwähnt in [[#oe1942-09-21]]: "Karte aus Paris".
+** 1942-09-23
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1942-09-23
+   :TRAD: verloren
+   :ORT:
+   :END:
+   Erwähnt in [[#oe1942-09-26]]: "Ihre Zeilen".
+** 1942-10-08
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1942-10-08
+   :TRAD: verloren
+   :ORT:
+   :END:
+   Erwähnt in [[#oe1942-10-14]]: "Brief".
+** 1942-11-09 (vor 1942-11-09)
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1942-11-09
+   :TRAD: verloren
+   :ORT:
+   :END:
+   Erwähnt in [[#oe1942-11-09]]: "beiden letzten Briefe".
+** 1942-11-09 (vor 1942-11-09)
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1942-11-09a
+   :TRAD: verloren
+   :ORT:
+   :END:
+   Erwähnt in [[#oe1942-11-09]]: "beiden letzten Briefe".
+** 1942-11-13
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1942-11-13
+   :TRAD: verloren
+   :ORT:
+   :END:
+   Erwähnt in [[#oe1942-11-16]]: "Ihr Brief vom 13. XI 42".
+** 1942-12-31
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1942-12-31
+   :TRAD: verloren
+   :ORT:
+   :END:
+   Erwähnt in [[#oe1943-01-02]]: "Ihren Brief vom 31. XII 42".
+** 1943-02-28 (vor 1943-02-28)
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1943-02-28
+   :TRAD: verloren
+   :ORT:
+   :END:
+   Erwähnt in [[#oe1943-02-28]]: "Lebenszeichen".
+** 1943-03-28 (vor 1943-03-28)
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1943-03-28
+   :TRAD: verloren
+   :ORT:
+   :END:
+   Erwähnt in [[#oe1943-03-28]]: "Ihren vorletzten Brief", das war wohl
+   [[#oeb1943-02-28]], hier dies [[#oeb1943-03-28]] ist sozusagen der letzte,
+   der weiter unten erwähnt wird: "Im letzten Brief".
