@@ -5785,6 +5785,771 @@ Nicht abgesandt.
     :AUSL:     
     :S_KOM:    
     :END:
+** 1943-04-17
+   :PROPERTIES:
+   :CUSTOM_ID: oe1943-04-17
+   :TRAD:
+   :ORT: Berlin
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       362
+    :BD:       2
+    :S:        42-43
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    418-19
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       247
+    :BD:       1
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1943-04-19
+   :PROPERTIES:
+   :CUSTOM_ID: oe1943-04-19
+   :TRAD:
+   :ORT: Berlin
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       363
+    :BD:       2
+    :S:        43-44
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    419
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       248
+    :BD:       1
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1943-05-04
+   :PROPERTIES:
+   :CUSTOM_ID: oe1943-05-04
+   :TRAD:
+   :ORT: Berlin
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       364
+    :BD:       2
+    :S:        44-45
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    419
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       249
+    :BD:       1
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1943-05-17
+   :PROPERTIES:
+   :CUSTOM_ID: oe1943-05-17
+   :TRAD:
+   :ORT: Berlin
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       365
+    :BD:       2
+    :S:        45
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    419
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       250
+    :BD:       1
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1943-06-06
+   :PROPERTIES:
+   :CUSTOM_ID: oe1943-06-06
+   :TRAD:
+   :ORT: Berlin
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       366
+    :BD:       2
+    :S:        46
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    420
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       251
+    :BD:       1
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1943-06-27
+   :PROPERTIES:
+   :CUSTOM_ID: oe1943-06-27
+   :TRAD:
+   :ORT: Berlin
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       367
+    :BD:       2
+    :S:        46-47
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    420
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       252
+    :BD:       1
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1943-07-15
+   :PROPERTIES:
+   :CUSTOM_ID: oe1943-07-15
+   :TRAD:
+   :ORT: Berlin
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       368
+    :BD:       2
+    :S:        47
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    420
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       253
+    :BD:       1
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1943-07-30
+   :PROPERTIES:
+   :CUSTOM_ID: oe1943-07-30
+   :TRAD:
+   :ORT: Berlin
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       369
+    :BD:       2
+    :S:        47-48
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    420-21
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       254
+    :BD:       1
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1943-08-07
+   :PROPERTIES:
+   :CUSTOM_ID: oe1943-08-07
+   :TRAD:
+   :ORT: Berlin
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       370
+    :BD:       2
+    :S:        48-50
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    421
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       255
+    :BD:       1
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1943-08-14
+   :PROPERTIES:
+   :CUSTOM_ID: oe1943-08-14
+   :TRAD:
+   :ORT: Berlin
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       371
+    :BD:       2
+    :S:        50
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    371-72
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       256
+    :BD:       1
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1943-08-30
+   :PROPERTIES:
+   :CUSTOM_ID: oe1943-08-30
+   :TRAD:
+   :ORT: Landsberg
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       372
+    :BD:       2
+    :S:        50-51
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    422-23
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       257
+    :BD:       1
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1943-10-26
+   :PROPERTIES:
+   :CUSTOM_ID: oe1943-10-26
+   :TRAD:
+   :ORT: Landsberg
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       373
+    :BD:       2
+    :S:        52
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    423
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       258
+    :BD:       1
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1943-11-10
+   :PROPERTIES:
+   :CUSTOM_ID: oe1943-11-10
+   :TRAD:
+   :ORT: Landsberg
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       374
+    :BD:       2
+    :S:        52-53
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    423
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       259
+    :BD:       1
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1943-11-21
+   :PROPERTIES:
+   :CUSTOM_ID: oe1943-11-21
+   :TRAD:
+   :ORT: Landsberg
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       375
+    :BD:       2
+    :S:        53-54
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    423
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       260
+    :BD:       1
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1943-12-14
+   :PROPERTIES:
+   :CUSTOM_ID: oe1943-12-14
+   :TRAD:
+   :ORT: Landsberg
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       376
+    :BD:       2
+    :S:        54-55
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    424
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       261
+    :BD:       1
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1943-12-22
+   :PROPERTIES:
+   :CUSTOM_ID: oe1943-12-22
+   :TRAD:
+   :ORT: Landsberg
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       377
+    :BD:       2
+    :S:        55-56
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    424-25
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       262
+    :BD:       1
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1944-01-04
+   :PROPERTIES:
+   :CUSTOM_ID: oe1944-01-04
+   :TRAD:
+   :ORT: Landsberg
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       378
+    :BD:       2
+    :S:        57
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    426
+    :END:
+*** BOe
+    :PROPERTIES:
+    :NR:       263
+    :BD:       1
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1944-02-05
+   :PROPERTIES:
+   :CUSTOM_ID: oe1944-02-05
+   :TRAD:
+   :ORT: Landsberg
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       379
+    :BD:       2
+    :S:        57-58
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    426
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       264
+    :BD:       1
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1944-03-05
+   :PROPERTIES:
+   :CUSTOM_ID: oe1944-03-05
+   :TRAD:
+   :ORT: Landsberg
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       380
+    :BD:       2
+    :S:        58-59
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    426-27
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       265
+    :BD:       1
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1944-03-06
+   :PROPERTIES:
+   :CUSTOM_ID: oe1944-03-06
+   :TRAD:
+   :ORT: Landsberg
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       381
+    :BD:       2
+    :S:        59-60
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    427
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       266
+    :BD:       1
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1944-04-03
+   :PROPERTIES:
+   :CUSTOM_ID: oe1944-04-03
+   :TRAD:
+   :ORT: Landsberg
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       382
+    :BD:       2
+    :S:        60-62
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    427-28
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       267
+    :BD:       1
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1944-04-13
+   :PROPERTIES:
+   :CUSTOM_ID: oe1944-04-13
+   :TRAD:
+   :ORT: Landsberg
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       383
+    :BD:       2
+    :S:        62
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    428
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       268
+    :BD:       1
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1944-05-04 (wohl 1944-05-04)
+   :PROPERTIES:
+   :CUSTOM_ID: oe1944-05-04
+   :TRAD:
+   :ORT: Landsberg
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       384
+    :BD:       2
+    :S:        62-64
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    428-29
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       269
+    :BD:       1
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1944-05-07
+   :PROPERTIES:
+   :CUSTOM_ID: oe1944-05-07
+   :TRAD:
+   :ORT: Landsberg
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       385
+    :BD:       2
+    :S:        64
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    429
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       270
+    :BD:       1
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1944-05-10
+   :PROPERTIES:
+   :CUSTOM_ID: oe1944-05-10
+   :TRAD:
+   :ORT: Landsberg
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       386
+    :BD:       2
+    :S:        64-65
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    429
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       271
+    :BD:       1
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1944-05-31
+   :PROPERTIES:
+   :CUSTOM_ID: oe1944-05-31
+   :TRAD:
+   :ORT: Landsberg
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       387
+    :BD:       2
+    :S:        65-66
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    430-31
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       272
+    :BD:       1
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1944-06-10
+   :PROPERTIES:
+   :CUSTOM_ID: oe1944-06-10
+   :TRAD:
+   :ORT: Landsberg
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       388
+    :BD:       2
+    :S:        66
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    431
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       273
+    :BD:       1
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1944-07-12
+   :PROPERTIES:
+   :CUSTOM_ID: oe1944-07-12
+   :TRAD:
+   :ORT: Landsberg
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       389
+    :BD:       2
+    :S:        69
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    431
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       274
+    :BD:       1
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1944-07-17
+   :PROPERTIES:
+   :CUSTOM_ID: oe1944-07-17
+   :TRAD:
+   :ORT: Landsberg
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       390
+    :BD:       2
+    :S:        67-68
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    432-33
+    :END:
+*** BOe
+    :PROPERTIES:
+    :NR:       275
+    :BD:       1
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1944-08-14
+   :PROPERTIES:
+   :CUSTOM_ID: oe1944-08-14
+   :TRAD:
+   :ORT: Landsberg
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       391
+    :BD:       2
+    :S:        68
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    434
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       276
+    :BD:       1
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1944-08-20
+   :PROPERTIES:
+   :CUSTOM_ID: oe1944-08-20
+   :TRAD:
+   :ORT: Landsberg
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       392
+    :BD:       2
+    :S:        69
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    434
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       277
+    :BD:       1
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1944-08-25
+   :PROPERTIES:
+   :CUSTOM_ID: oe1944-08-25
+   :TRAD:
+   :ORT: Landsberg
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       393
+    :BD:       2
+    :S:        69-70
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    434
+    :END:
+*** BOe
+    :PROPERTIES:
+    :NR:       278
+    :BD:       1
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
 * Benn
 :PROPERTIES:
 :FROM: Oelze, Friedrich Wilhelm
@@ -8195,3 +8960,192 @@ Erwähnt in [[#oe1941-05-05]]: "Brief".
    Erwähnt in [[#oe1943-03-28]]: "Ihren vorletzten Brief", das war wohl
    [[#oeb1943-02-28]], hier dies [[#oeb1943-03-28]] ist sozusagen der letzte,
    der weiter unten erwähnt wird: "Im letzten Brief".
+** 1943-04-05
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1943-04-05
+   :TRAD: verloren
+   :ORT:
+   :END:
+   Erwähnt in [[#oe1943-04-17]]: "für Ihren Brief vom 5.d.Ms."
+** 1943-05-04 (vor 1943-05-04)
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1943-05-04
+   :TRAD: verloren
+   :ORT:
+   :END:
+   Erwähnt in [[#oe1943-05-04]]: "Ihren Geburtstagsbrief".
+** 1943-06-06 (vor 1943-06-06)
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1943-06-06
+   :TRAD: verloren
+   :ORT:
+   :END:
+   Erwähnt in [[#oe1943-06-06]]: "Ihren Brief".
+** 1943-06-27 (vor 1943-06-27)
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1943-06-27
+   :TRAD: verloren
+   :ORT: Bremen
+   :END:
+   Erwähnt in [[#oe1943-06-27]]: "Nachricht aus Bremen".
+** 1943-07-15 (vor 1943-07-15)
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1943-07-15
+   :TRAD: verloren
+   :ORT: 
+   :END:
+   Erwähnt in [[#oe1943-07-15]]: "Ihre beiden Briefe".
+** 1943-07-15 (vor 1943-07-15)
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1943-07-15a
+   :TRAD: verloren
+   :ORT: 
+   :END:
+   Erwähnt in [[#oe1943-07-15]]: "Ihre beiden Briefe".
+** 1943-07-25
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1943-07-25
+   :TRAD: verloren
+   :ORT: 
+   :END:
+   Erwähnt in [[#oe1943-07-30]]: "Brief".
+** 1943-08-14 (vor 1943-08-14)
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1943-08-14
+   :TRAD: verloren
+   :ORT: 
+   :END:
+   Erwähnt in [[#oe1943-08-14]]: "Ihre beiden Briefe".
+** 1943-08-14 (vor 1943-08-14)
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1943-08-14a
+   :TRAD: verloren
+   :ORT: 
+   :END:
+   Erwähnt in [[#oe1943-08-14]]: "Ihre beiden Briefe".
+** 1943-10-22 (wohl vor 1943-10-22)
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1943-10-22a
+   :TRAD: verloren
+   :ORT: 
+   :END:
+   Erwähnt in [[#oe1943-10-26]]: "auch für den, dem die Karte ... beilag".
+** 1943-10-22
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1943-10-22
+   :TRAD: verloren
+   :ORT: 
+   :END:
+   Erwähnt in [[#oe1943-10-26]]: "Brief".
+** 1943-11-04
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1943-11-04
+   :TRAD: verloren
+   :ORT: 
+   :END:
+   Erwähnt in [[#oe1943-11-10]]: "Brief".
+** 1943-11-21 (vor 1943-11-21)
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1943-11-21
+   :TRAD: verloren
+   :ORT: Häcklingen
+   :END:
+   Erwähnt in [[#oe1943-11-21]]: "Brief".
+** 1943-12-05
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1943-12-05
+   :TRAD: verloren
+   :ORT: 
+   :END:
+   Erwähnt in [[#oe1943-12-14]]: "2 Briefe". und  [[#oe1943-12-22]]
+** 1943-12-06
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1943-12-06
+   :TRAD: verloren
+   :ORT: 
+   :END:
+   Erwähnt in [[#oe1943-12-14]]: "2 Briefe". und  [[#oe1943-12-22]]
+** 1943-12-22 (vor 1943-12-22)
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1943-12-22
+   :TRAD: verloren
+   :ORT: Berlin
+   :END:
+   Erwähnt in [[#oe1943-12-22]]: "Brief".
+** 1943-12-31
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1943-12-31
+   :TRAD: verloren
+   :ORT: [Paris]
+   :END:
+   Erwähnt in [[#oe1944-01-04]]: "Brief".
+** 1944-01-29 (vor 1944-01-29)
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1944-01-29a
+   :TRAD: verloren
+   :ORT: 
+   :END:
+   Erwähnt in [[#oe1944-02-05]]: "vorletzten Brief".
+** 1944-01-29
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1944-01-29
+   :TRAD: verloren
+   :ORT: 
+   :END:
+   Erwähnt in [[#oe1944-02-05]]: "Brief".
+** 1944-03-01
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1944-03-01
+   :TRAD: verloren
+   :ORT: 
+   :END:
+   Erwähnt in [[#oe1944-03-06]]: "Brief".
+** 1944-04-01
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1944-04-01
+   :TRAD: verloren
+   :ORT: 
+   :END:
+   Erwähnt in [[#oe1944-04-13]]: "Brief vom 1. VI".
+** 1944-05-02 (vor 1944-05-02)
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1944-05-02
+   :TRAD: verloren
+   :ORT: 
+   :END:
+   Erwähnt in [[#oe1944-05-04]]: "Geburtstagsbrief".
+** 1944-05-03 (vor 1944-05-04)
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1944-05-04
+   :TRAD: verloren
+   :ORT: 
+   :END:
+   Erwähnt in [[#oe1944-05-04]]: "Brief".
+** 1944-06-20
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1944-06-20
+   :TRAD: verloren
+   :ORT: 
+   :END:
+   Erwähnt in [[#oe1944-07-12]]: "Brief".
+** 1944-07-08
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1944-07-08
+   :TRAD: verloren
+   :ORT: 
+   :END:
+   Erwähnt in [[#oe1944-07-17]]: "Brief".
+** 1944-07-27
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1944-07-27
+   :TRAD: verloren
+   :ORT: 
+   :END:
+   Erwähnt in [[#oe1944-08-14]]: "Brief".
+** 1944-08-17
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1944-08-17
+   :TRAD: verloren
+   :ORT: 
+   :END:
+   Erwähnt in [[#oe1944-08-20]]: "Brief".

@@ -8,6 +8,7 @@
 :EMPF:     1
 :FROM: Benn
 :TO: Schuster, Alice
+:CUSTOM_ID: schuster_alice_
 :GEB: 
 :TOD: 
 :END:
@@ -21,3 +22,15 @@ Widmung in "Spaltung".
 :S: 21
 :S_KOM: 343
 :END:
+** 1945-11-18
+   :PROPERTIES:
+   :CUSTOM_ID: schu1945-11-18
+   :TRAD:     
+   :END:      
+*** AB1957
+:PROPERTIES:
+:S: 95-97
+:S_KOM: 351
+:END:
+Auch an [[file:kraus.org::#kraus_else_c_][Kraus, Else C.]] Partnerin. Siehe [[file:kraus.org::#kr1945-11-18][1945-11-18]]
+

@@ -51,6 +51,16 @@
 :S: 92-93
 :S_KOM: 351
 :END:
+** 1943-11-06
+  :PROPERTIES:
+  :CUSTOM_ID: ki1943-11-06
+  :TRAD:     
+  :END:
+*** AB1957
+:PROPERTIES:
+:S: 93
+:S_KOM: 351
+:END:
 * Benn
 :PROPERTIES:
 :TO: Benn
@@ -62,6 +72,16 @@
   :TRAD:     verloren
   :END:
 Erwähnt in [[#ki1943-10-28]]: "freundlichen Brief".
+** 1943-11-06 (vor 1943-11-06)
+  :PROPERTIES:
+  :CUSTOM_ID: kib1943-11-06
+  :TRAD:     verloren
+  :END:
+Erwähnt in [[#ki1943-11-06]]: "Mitteilung".
+
+
+
+
 
 
 

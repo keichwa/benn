@@ -1,0 +1,444 @@
+#+STARTUP: content
+#+STARTUP: showall
+ #+STARTUP: showeverythingn
+#+TITLE: Benn - Egmont Seyerlen
+
+* Seyerlen, Egmont
+:PROPERTIES:
+:CUSTOM_ID: seyerlen_1889
+:EMPF:     1
+:FROM: Benn
+:TO: Seyerlen, Egmont
+:GEB: 1889
+:TOD: 1972
+:END:
+** 1914-03-18 (?)
+   :PROPERTIES:
+   :CUSTOM_ID: sey1914-03-18
+   :TRAD:
+   :END:
+Dat. von fremder hand.
+*** BSey1993
+    :PROPERTIES:
+    :NR:       1
+    :S:        5
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    79-80
+    :END:
+** 1922-05-20
+   :PROPERTIES:
+   :CUSTOM_ID: sey1922-05-20
+   :TRAD:
+   :END:
+Widmung
+*** BSey1993
+    :PROPERTIES:
+    :NR:       2
+    :S:        5
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    80
+    :END:
+** 1922-08-27
+   :PROPERTIES:
+   :CUSTOM_ID: sey1922-08-27
+   :TRAD:
+   :END:
+*** BSey1993
+    :PROPERTIES:
+    :NR:       3
+    :S:        6
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    80
+    :END:
+** 1922-09-14
+   :PROPERTIES:
+   :CUSTOM_ID: sey1922-09-14
+   :TRAD:
+   :END:
+*** BSey1993
+    :PROPERTIES:
+    :NR:       4
+    :S:        6
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    81
+    :END:
+** 1923-04-06
+   :PROPERTIES:
+   :CUSTOM_ID: sey1923-04-06
+   :TRAD:
+   :END:
+*** BSey1993
+    :PROPERTIES:
+    :NR:       5
+    :S:        6-7
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    81
+    :END:
+** 1923-07-03
+   :PROPERTIES:
+   :CUSTOM_ID: sey1923-07-03
+   :ORT: [Eberbach]
+   :TRAD:
+   :END:
+*** BSey1993
+    :PROPERTIES:
+    :NR:       6
+    :S:        7
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    81
+    :END:
+** 1923-07-16
+   :PROPERTIES:
+   :CUSTOM_ID: sey1923-07-16
+   :TRAD:
+   :ORT: [Berlin]
+   :END:
+*** BSey1993
+    :PROPERTIES:
+    :NR:       7
+    :S:        7
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    81-82
+    :END:
+** 1923-07-17
+   :PROPERTIES:
+   :CUSTOM_ID: sey1923-07-17
+   :TRAD:
+   :ORT: [Berlin]
+   :END:
+*** BSey1993
+    :PROPERTIES:
+    :NR:       8
+    :S:        8
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    82
+    :END:
+** 1924-04-02
+   :PROPERTIES:
+   :CUSTOM_ID: sey1924-04-02
+   :TRAD:
+   :END:
+Widmung
+*** BSey1993
+    :PROPERTIES:
+    :NR:       10
+    :S:        9
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    82
+    :END:
+** 1924-06-24
+   :PROPERTIES:
+   :CUSTOM_ID: sey1924-06-24
+   :TRAD:
+   :ORT: Hahnenklee
+   :END:
+*** BSey1993
+    :PROPERTIES:
+    :NR:       11
+    :S:        10
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    83
+    :END:
+Zugleich an winter [[file:winter.org::#win1924-06-24][1924-06-24]]
+** 1925-01-08
+   :PROPERTIES:
+   :CUSTOM_ID: sey1925-01-08
+   :TRAD:
+   :ORT: [Berlin]
+   :END:
+*** BSey1993
+    :PROPERTIES:
+    :NR:       12
+    :S:        10
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    83
+    :END:
+** 1931 (vor 1931?)
+   :PROPERTIES:
+   :CUSTOM_ID: sey1931
+   :TRAD:
+   :ORT: 
+   :END:
+*** BSey1993
+    :PROPERTIES:
+    :NR:       13
+    :S:        10
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    83
+    :END:
+** 1925-03 (?)
+   :PROPERTIES:
+   :CUSTOM_ID: sey1925-03 (?)
+   :TRAD:
+   :ORT: Paris
+   :END:
+*** BSey1993
+    :PROPERTIES:
+    :NR:       14
+    :S:        11
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    83
+    :END:
+** 1931-11 (wohl 1931-11)
+   :PROPERTIES:
+   :CUSTOM_ID: sey1931-11
+   :TRAD:
+   :ORT: 
+   :END:
+Widmung
+*** BSey1993
+    :PROPERTIES:
+    :NR:       15
+    :S:        11
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    83
+    :END:
+** 1932-05-23
+   :PROPERTIES:
+   :CUSTOM_ID: sey1932-05-23
+   :TRAD:
+   :ORT: 
+   :END:
+Widmung
+*** BSey1993
+    :PROPERTIES:
+    :NR:       16
+    :S:        12
+    :AUSL:     
+    :FAKS:     12
+    :S_KOM:    84
+    :END:
+** 1933-02-27
+   :PROPERTIES:
+   :CUSTOM_ID: sey1933-02-27
+   :TRAD:
+   :ORT: [Berlin]
+   :END:
+*** BSey1993
+    :PROPERTIES:
+    :NR:       17
+    :S:        13-15
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    84-85
+    :END:
+** 1933-04-25 (?)
+   :PROPERTIES:
+   :CUSTOM_ID: sey1933-04-25
+   :TRAD:
+   :ORT: [Berlin]
+   :END:
+Widmung
+*** BSey1993
+    :PROPERTIES:
+    :NR:       18
+    :S:        15
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    85
+    :END:
+** 1933-12
+   :PROPERTIES:
+   :CUSTOM_ID: sey1933-12
+   :TRAD:
+   :ORT: 
+   :END:
+"Weihnachtsgruß".
+*** BSey1993
+    :PROPERTIES:
+    :NR:       19
+    :S:        15
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    85
+    :END:
+** 1934-03-30 (vor 1934-03-30)
+   :PROPERTIES:
+   :CUSTOM_ID: sey1934-03-30
+   :TRAD:
+   :ORT: 
+   :END:
+*** BSey1993
+    :PROPERTIES:
+    :NR:       20
+    :S:        16
+    :AUSL:     
+    :FAKS:     16
+    :S_KOM:    85
+    :END:
+** 1935-12
+   :PROPERTIES:
+   :CUSTOM_ID: sey1935-12
+   :TRAD:
+   :ORT: [Hannover]
+   :END:
+Widmung
+*** BSey1993
+    :PROPERTIES:
+    :NR:       21
+    :S:        17
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    85-86
+    :END:
+** 1936-05-02 (?)
+   :PROPERTIES:
+   :CUSTOM_ID: sey1936-05-02 (?)
+   :TRAD:
+   :ORT: 
+   :END:
+Widmung
+*** BSey1993
+    :PROPERTIES:
+    :NR:       22
+    :S:        17
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    
+    :END:
+** 1936-07-18
+   :PROPERTIES:
+   :CUSTOM_ID: sey1936-07-18
+   :TRAD:
+   :ORT: [Hannover]
+   :END:
+*** BSey1993
+    :PROPERTIES:
+    :NR:       23
+    :S:        17
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    
+    :END:
+** 1936-12-26
+   :PROPERTIES:
+   :CUSTOM_ID: sey1936-12-26
+   :TRAD:
+   :ORT: [Hannover]
+   :END:
+*** BSey1993
+    :PROPERTIES:
+    :NR:       24
+    :S:        18-19
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    86
+    :END:
+** 1937-03-24
+   :PROPERTIES:
+   :CUSTOM_ID: sey1937-03-24
+   :TRAD:
+   :ORT: Hannover
+   :END:
+*** BSey1993
+    :PROPERTIES:
+    :NR:       25
+    :S:        19
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    86-87
+    :END:
+** 1937-07-11 (vor 1937-07-11 und 1937-07-11)
+   :PROPERTIES:
+   :CUSTOM_ID: sey1937-07-11
+   :TRAD:
+   :ORT: [Berlin]
+   :END:
+*** BSey1993
+    :PROPERTIES:
+    :NR:       26
+    :S:        19-20
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    87
+    :END:
+** 1937-09-19
+   :PROPERTIES:
+   :CUSTOM_ID: sey1937-09-19
+   :TRAD:
+   :ORT: [Berlin]
+   :END:
+*** BSey1993
+    :PROPERTIES:
+    :NR:       27
+    :S:        20
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    87-88
+    :END:
+** 1937-11-07
+   :PROPERTIES:
+   :CUSTOM_ID: sey1937-11-07
+   :TRAD:
+   :ORT: Berlin
+   :END:
+*** BSey1993
+    :PROPERTIES:
+    :NR:       28
+    :S:        20-21
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    
+    :END:
+** 1937-12-28
+   :PROPERTIES:
+   :CUSTOM_ID: sey1937-12-28
+   :TRAD:
+   :ORT: [Berlin]
+   :END:
+*** BSey1993
+    :PROPERTIES:
+    :NR:       29
+    :S:        21
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    88
+    :END:
+* Benn
+:PROPERTIES:
+:FROM: Seyerlen, Egmont
+:TO: Benn
+:END:
+** 1934-03-30
+   :PROPERTIES:
+   :CUSTOM_ID: seyb1934-03-30
+   :TRAD: verloren
+   :ORT: 
+   :END:
+   Erwähnt in [[#sey1934-03-30]]: "Karte".
+** 1936-12-26 (vor 1936-12-26)
+   :PROPERTIES:
+   :CUSTOM_ID: seyb1936-12-26
+   :TRAD: verloren
+   :ORT: 
+   :END:
+   Erwähnt in [[#sey1936-12-26]]: "Ihr Brief".
+** 1937-09-21
+   :PROPERTIES:
+   :CUSTOM_ID: seyb1937-09-21
+   :TRAD: verloren
+   :ORT: 
+   :END:
+   Erwähnt in kommentar zu [[#sey1937-09-19]], 87: "Karte 21/9. 37" (Seyerlen).
+** 1937-12-28 (vor 1937-12-28)
+   :PROPERTIES:
+   :CUSTOM_ID: seyb1937-12-28
+   :TRAD: verloren
+   :ORT: 
+   :END:
+   Erwähnt in [[#sey1937-12-28]]: "für schriftlichen Gruß!"
+

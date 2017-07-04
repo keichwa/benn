@@ -1,0 +1,35 @@
+#+STARTUP: content
+#+STARTUP: showall
+# +STARTUP: showeverything
+#+TITLE: Benn - Else C. Kraus
+
+* Kraus, Else C.
+:PROPERTIES:
+:EMPF:     1
+:FROM: Benn
+:TO: Kraus, Else C.
+:CUSTOM_ID: kraus_else_c_
+:GEB:      
+:TOD:      
+:END:
+** 1945-11-18
+   :PROPERTIES:
+   :CUSTOM_ID: kr1945-11-18
+   :TRAD:     
+   :END:      
+*** AB1957
+:PROPERTIES:
+:S: 95-97
+:S_KOM: 351
+:END:
+Auch an [[file:schuster.org::#schuster_alice_][Schuster, Alice]] Partnerin. Siehe [[file:schuster.org::#schu1945-11-18][1945-11-18]]
+* Benn
+:PROPERTIES:
+:TO: Benn
+:FROM: Kraus, Else C.
+:END:
+** 1945-11-18 (vor 1945-11-18)
+   :PROPERTIES:
+   :TRAD:     
+   :END:
+In [[#kr1945-11-18]] erwähnt: "vielen Dank für Euren Brief".

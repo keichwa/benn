@@ -1,0 +1,47 @@
+#+STARTUP: content
+#+STARTUP: showall
+ #+STARTUP: showeverythingn
+#+TITLE: Benn - Lilo Winter
+
+* Winter, Lilo
+:PROPERTIES:
+:CUSTOM_ID: 
+:EMPF:     1
+:FROM: Benn
+:TO: Winter, Lilo
+:GEB: 
+:TOD: 
+:END:
+** 1923-12-24
+   :PROPERTIES:
+   :CUSTOM_ID: win1923-12-24
+   :TRAD:
+   :END:
+*** BSey1993
+    :PROPERTIES:
+    :NR:       9
+    :S:        8-9
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    82
+    :END:
+** 1924-06-24
+   :PROPERTIES:
+   :CUSTOM_ID: win1924-06-24
+   :TRAD:
+   :ORT: Hahnenklee
+   :END:
+*** BSey1993
+    :PROPERTIES:
+    :NR:       11
+    :S:        10
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    83
+    :END:
+Zugleich an seyerlen_1889: [[file:seyerlen.org::#sey1924-06-24][1924-06-24]]
+* Benn
+:PROPERTIES:
+:FROM: Winter, Lilo
+:TO: Benn
+:END:

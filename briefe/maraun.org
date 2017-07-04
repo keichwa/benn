@@ -102,3 +102,10 @@ Erwähnt in [[#ma1936-04-12]]: "Karte".
    :TRAD:     
    :END:
 Erwähnt in [[#ma1936-05-11]]: "Ihr Telegramm, Ihre Wünsche".
+** 1943-11-10 (vor 1943-11-10)
+   :PROPERTIES:
+   :CUSTOM_ID: mab1943-11-10
+   :TRAD:     
+   :ARCHIV: 
+   :END:
+Erwähnt in [[file:oelze.org::#oe1943-11-10][1943-11-10]].

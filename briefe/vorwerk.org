@@ -1,0 +1,36 @@
+#+STARTUP: content
+#+STARTUP: showall
+# +STARTUP: showeverything
+#+TITLE: Benn - Vorwerk, Friedrich
+
+* Vorwerk, Friedrich
+:PROPERTIES:
+:EMPF:     1
+:FROM: Benn
+:TO: Vorwerk, Friedrich
+:GEB:      1893
+:TOD:      1968
+:END:
+"eine Art Lector u. liter. Agent, mit dem ich in Verbindung stehe." [[#oe1943-08-07]]
+** 1928-05-04?
+   :PROPERTIES:
+   :CUSTOM_ID: stt1928-05-04
+   :TRAD:     
+   :END:
+*** AB1957
+:PROPERTIES:
+:S: 27
+:S_KOM: 343-44
+:END:
+
+* Benn
+:PROPERTIES:
+:TO: Benn
+:FROM: Vorwerk, Friedrich
+:END:
+** 1943-08-07 (vor 1943-08-07)
+   :PROPERTIES:
+   :TRAD:     
+   :ORT:      
+   :END:
+Erwähnt in [[#oe1943-08-07]] erwähnt.
