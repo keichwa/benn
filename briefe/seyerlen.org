@@ -408,6 +408,472 @@ Widmung
     :FAKS:     
     :S_KOM:    88
     :END:
+** 1938-01-22
+   :PROPERTIES:
+   :CUSTOM_ID: sey1938-01-22
+   :TRAD:
+   :ORT: Berlin
+   :END:
+Heiratsanzeige, vordruck mit bemerkung.
+*** BSey1993
+    :PROPERTIES:
+    :NR:       30
+    :S:        22-23
+    :AUSL:     
+    :FAKS:     22-23 (verkleinert)
+    :S_KOM:    88
+    :END:
+** 1938-01-28
+   :PROPERTIES:
+   :CUSTOM_ID: sey1938-01-28
+   :TRAD:
+   :ORT: [Berlin]
+   :END:
+*** BSey1993
+    :PROPERTIES:
+    :NR:       31
+    :S:        24
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    88
+    :END:
+** 1938-06-26
+   :PROPERTIES:
+   :CUSTOM_ID: sey1938-06-26
+   :TRAD:
+   :ORT: [Berlin]
+   :END:
+*** BSey1993
+    :PROPERTIES:
+    :NR:       32
+    :S:        24-25
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    88
+    :END:
+** 1938-07-24
+   :PROPERTIES:
+   :CUSTOM_ID: sey1938-07-24
+   :TRAD:
+   :ORT: [Berlin]
+   :END:
+*** BSey1993
+    :PROPERTIES:
+    :NR:       33
+    :S:        25
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    88
+    :END:
+** 1938-12-08
+   :PROPERTIES:
+   :CUSTOM_ID: sey1938-12-08
+   :TRAD:
+   :ORT: [Berlin]
+   :END:
+*** BSey1993
+    :PROPERTIES:
+    :NR:       34
+    :S:        25-26
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    88-89
+    :END:
+** 1939-03-19
+   :PROPERTIES:
+   :CUSTOM_ID: sey1939-03-19
+   :TRAD:
+   :ORT: [Berlin]
+   :END:
+*** BSey1993
+    :PROPERTIES:
+    :NR:       35
+    :S:        26
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    89
+    :END:
+** 1939-04-10
+   :PROPERTIES:
+   :CUSTOM_ID: sey1939-04-10
+   :TRAD:
+   :ORT: [Berlin]
+   :END:
+*** BSey1993
+    :PROPERTIES:
+    :NR:       37
+    :S:        27
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    90
+    :END:
+** 1939-05-26
+   :PROPERTIES:
+   :CUSTOM_ID: sey1939-05-26
+   :TRAD:
+   :ORT: Berlin
+   :END:
+*** BSey1993
+    :PROPERTIES:
+    :NR:       38
+    :S:        27-28
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    90
+    :END:
+** 1939-10-31
+   :PROPERTIES:
+   :CUSTOM_ID: sey1939-10-31
+   :TRAD:
+   :ORT: [Berlin]
+   :END:
+*** BSey1993
+    :PROPERTIES:
+    :NR:       39
+    :S:        29
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    91-92
+    :END:
+** 1939-12-23
+   :PROPERTIES:
+   :CUSTOM_ID: sey1939-12-23
+   :TRAD:
+   :ORT: [Berlin]
+   :END:
+*** BSey1993
+    :PROPERTIES:
+    :NR:       40
+    :S:        30
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    92
+    :END:
+** 1940-04-21
+   :PROPERTIES:
+   :CUSTOM_ID: sey1940-04-21
+   :TRAD:
+   :ORT: [Berlin]
+   :END:
+*** BSey1993
+    :PROPERTIES:
+    :NR:       41
+    :S:        30-31
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    93
+    :END:
+** 1940-10-01
+   :PROPERTIES:
+   :CUSTOM_ID: sey1940-10-01
+   :TRAD:
+   :ORT: [Berlin]
+   :END:
+*** BSey1993
+    :PROPERTIES:
+    :NR:       43
+    :S:        31-32
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    93-94
+    :END:
+** 1940-10-22
+   :PROPERTIES:
+   :CUSTOM_ID: sey1940-10-22
+   :TRAD:
+   :ORT: [Berlin]
+   :END:
+*** BSey1993
+    :PROPERTIES:
+    :NR:       44
+    :S:        32-33
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    94
+    :END:
+** 1940-12-23
+   :PROPERTIES:
+   :CUSTOM_ID: sey1940-12-23
+   :TRAD:
+   :ORT: [Berlin]
+   :END:
+*** BSey1993
+    :PROPERTIES:
+    :NR:       45
+    :S:        33
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    
+    :END:
+** 1941-02
+   :PROPERTIES:
+   :CUSTOM_ID: sey1941-02
+   :TRAD:
+   :ORT: Berlin
+   :END:
+Todesanzeige Herta von Wedemeyer, Herta Benns mutter.
+*** BSey1993
+    :PROPERTIES:
+    :NR:       46
+    :S:        33-34
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    
+    :END:
+** 1941-04-14
+   :PROPERTIES:
+   :CUSTOM_ID: sey1941-04-14
+   :TRAD:
+   :ORT: [Berlin]
+   :END:
+*** BSey1993
+    :PROPERTIES:
+    :NR:       47
+    :S:        34
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    94
+    :END:
+** 1941-06-08
+   :PROPERTIES:
+   :CUSTOM_ID: sey1941-06-08
+   :TRAD:
+   :ORT: Berlin
+   :END:
+*** BSey1993
+    :PROPERTIES:
+    :NR:       48
+    :S:        34-35
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    94
+    :END:
+** 1941-07-18
+   :PROPERTIES:
+   :CUSTOM_ID: sey1941-07-18
+   :TRAD:
+   :ORT: Friedrichroda
+   :END:
+*** BSey1993
+    :PROPERTIES:
+    :NR:       49
+    :S:        36
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    94-95
+    :END:
+** 1942-05-19
+   :PROPERTIES:
+   :CUSTOM_ID: sey1942-05-19
+   :TRAD:
+   :ORT: [Berlin]
+   :END:
+*** BSey1993
+    :PROPERTIES:
+    :NR:       50
+    :S:        36
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    
+    :END:
+** 1942-10-19
+   :PROPERTIES:
+   :CUSTOM_ID: sey1942-10-19
+   :TRAD:
+   :ORT: [Berlin]
+   :END:
+*** BSey1993
+    :PROPERTIES:
+    :NR:       53
+    :S:        38
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    
+    :END:
+** 1943-08-11
+   :PROPERTIES:
+   :CUSTOM_ID: sey1943-08-11
+   :TRAD:
+   :ORT: [Berlin]
+   :END:
+*** BSey1993
+    :PROPERTIES:
+    :NR:       54
+    :S:        38
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    95
+    :END:
+** 1943-09-12
+   :PROPERTIES:
+   :CUSTOM_ID: sey1943-09-12
+   :TRAD:
+   :ORT: Landsberg
+   :END:
+*** BSey1993
+    :PROPERTIES:
+    :NR:       55
+    :S:        39-40
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    96
+    :END:
+** 1943-10-13
+   :PROPERTIES:
+   :CUSTOM_ID: sey1943-10-13
+   :TRAD:
+   :ORT: [Landsberg]
+   :END:
+Widmung
+*** BSey1993
+    :PROPERTIES:
+    :NR:       56
+    :S:        40
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    96
+    :END:
+** 1944-04-16
+   :PROPERTIES:
+   :CUSTOM_ID: sey1944-04-16
+   :TRAD:
+   :ORT: [Landsberg]
+   :END:
+*** BSey1993
+    :PROPERTIES:
+    :NR:       57
+    :S:        40-41
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    96-97
+    :END:
+** 1944-07-09
+   :PROPERTIES:
+   :CUSTOM_ID: sey1944-07-09
+   :TRAD:
+   :ORT: [Landsberg]
+   :END:
+*** BSey1993
+    :PROPERTIES:
+    :NR:       58
+    :S:        41-42
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    97
+    :END:
+** 1945-10 (wohl Oktober 1945)
+   :PROPERTIES:
+   :CUSTOM_ID: sey1945-10
+   :TRAD:
+   :ORT: 
+   :END:
+Gleicher wortlaut an Oelze
+*** BSey1993
+    :PROPERTIES:
+    :NR:       60
+    :S:        43
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    97
+    :END:
+** 1945-12-12
+   :PROPERTIES:
+   :CUSTOM_ID: sey1945-12-12
+   :TRAD:
+   :ORT: [Berlin]
+   :END:
+*** BSey1993
+    :PROPERTIES:
+    :NR:       61
+    :S:        43
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    97
+    :END:
+** 1946-01-26
+   :PROPERTIES:
+   :CUSTOM_ID: sey1946-01-26
+   :TRAD:
+   :ORT: [Berlin]
+   :END:
+*** BSey1993
+    :PROPERTIES:
+    :NR:       62
+    :S:        44
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    98
+    :END:
+** 1946-04-21 (und 1946-04-22)
+   :PROPERTIES:
+   :CUSTOM_ID: sey1946-04-21 (und 1946-04-22)
+   :TRAD:
+   :ORT: [Berlin]
+   :END:
+*** BSey1993
+    :PROPERTIES:
+    :NR:       63
+    :S:        45-46
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    99
+    :END:
+** 1947-01-07
+   :PROPERTIES:
+   :CUSTOM_ID: sey1947-01-07
+   :TRAD:
+   :ORT: [Berlin]
+   :END:
+*** BSey1993
+    :PROPERTIES:
+    :NR:       64
+    :S:        46-47
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    99
+    :END:
+** 1947-09-21
+   :PROPERTIES:
+   :CUSTOM_ID: sey1947-09-21
+   :TRAD:
+   :ORT: Berlin
+   :END:
+*** BSey1993
+    :PROPERTIES:
+    :NR:       65
+    :S:        47-48
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    100-01
+    :END:
+** 1947-12-27
+   :PROPERTIES:
+   :CUSTOM_ID: sey1947-12-27
+   :TRAD:
+   :ORT: Berlin
+   :END:
+*** BSey1993
+    :PROPERTIES:
+    :NR:       66
+    :S:        49
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    
+    :END:
+** 1948-03-28
+   :PROPERTIES:
+   :CUSTOM_ID: sey1948-03-28
+   :TRAD:
+   :ORT: Berlin
+   :END:
+*** BSey1993
+    :PROPERTIES:
+    :NR:       67
+    :S:        49-50
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    101
+    :END:
 * Benn
 :PROPERTIES:
 :FROM: Seyerlen, Egmont
@@ -441,4 +907,124 @@ Widmung
    :ORT: 
    :END:
    Erwähnt in [[#sey1937-12-28]]: "für schriftlichen Gruß!"
-
+** 1938-01-28 (vor 1938-01-28)
+   :PROPERTIES:
+   :CUSTOM_ID: seyb1938-01-28
+   :TRAD: verloren
+   :ORT: 
+   :END:
+   Erwähnt in [[#sey1938-01-28]]: "Telegramm"
+** 1938-07-24 (vor 1938-07-24)
+   :PROPERTIES:
+   :CUSTOM_ID: seyb1938-07-24
+   :TRAD: verloren
+   :ORT: 
+   :END:
+   Erwähnt in [[#sey1938-07-24]]: "Brief"
+** 1939-04-10 (vor 1939-04-10)
+   :PROPERTIES:
+   :CUSTOM_ID: seyb1939-04-10
+   :TRAD: verloren
+   :ORT: 
+   :END:
+   Erwähnt in [[#sey1939-04-10]]: "letzten lieben Brief"
+** 1939-05-26 (vor 1939-05-26)
+   :PROPERTIES:
+   :CUSTOM_ID: seyb1939-05-26
+   :TRAD: verloren
+   :ORT: 
+   :END:
+   Erwähnt in [[#sey1939-05-26]]: "langes Schreiben"
+** 1939-11 (?)
+   :PROPERTIES:
+   :CUSTOM_ID: seyb1939-11
+   :TRAD: verloren
+   :ORT: 
+   :END:
+   Erwähnt in [[#sey1939-12-23]]: "Brief aus November"
+** 1942-10-19 (vor 1942-10-19)
+   :PROPERTIES:
+   :CUSTOM_ID: seyb1942-10-19
+   :TRAD: verloren
+   :ORT: 
+   :END:
+   Erwähnt in [[#sey1942-10-19]]: "Ihren Brief".
+** 1943-09-12 (vor 1943-09-12)
+   :PROPERTIES:
+   :CUSTOM_ID: seyb1943-09-12
+   :TRAD: verloren
+   :ORT: 
+   :END:
+   Erwähnt in [[#sey1943-09-12]]: "Ihren Brief".
+** 1943-11 (vor 1943-11-30)
+   :PROPERTIES:
+   :CUSTOM_ID: seyb1943-11
+   :TRAD: verloren
+   :ORT: 
+   :END:
+   Erwähnt in [[#sey1944-04-16]]: "Eingang eines Schreibens von Mitte
+   November und zum Jahreswechsel."
+** 1944-01-01 (um 1944-01-01)
+   :PROPERTIES:
+   :CUSTOM_ID: seyb1944-01-01
+   :TRAD: verloren
+   :ORT: 
+   :END:
+   Erwähnt in [[#sey1944-04-16]]: "Eingang eines Schreibens von Mitte
+   November und zum Jahreswechsel."
+** 1944-07-06
+   :PROPERTIES:
+   :CUSTOM_ID: seyb1944-07-06
+   :TRAD: verloren
+   :ORT: 
+   :END:
+   Erwähnt in [[#sey1944-07-09]]: "Ihren Brief".
+** 1945-12-12 (vor 1945-12-12
+   :PROPERTIES:
+   :CUSTOM_ID: seyb1945-12-12
+   :TRAD: verloren
+   :ORT: 
+   :END:
+   Erwähnt in [[#sey1945-12-12]]: "Ihren Brief".
+** 1946-01-19
+   :PROPERTIES:
+   :CUSTOM_ID: seyb1946-01-19
+   :TRAD: verloren
+   :ORT: 
+   :END:
+   Erwähnt in [[#sey1946-01-26-12]]: "Ihr Brief vom 19. I.".
+** 1946-04-21 (vor 1946-04-21)
+   :PROPERTIES:
+   :CUSTOM_ID: seyb1946-04-21
+   :TRAD: verloren
+   :ORT: 
+   :END:
+   Erwähnt in [[#sey1946-04-21]]: "für den Brief".
+** 1946-12-18
+   :PROPERTIES:
+   :CUSTOM_ID: seyb1946-12-18
+   :TRAD: verloren
+   :ORT: 
+   :END:
+   Erwähnt in [[#sey1947-01-07]]: "Ihr Brief vom 18. XII. 46".
+** 1947-09-04
+   :PROPERTIES:
+   :CUSTOM_ID: seyb1947-09-04
+   :TRAD: verloren
+   :ORT: 
+   :END:
+   Erwähnt in [[#sey1947-09-21]]: "Ihren Brief vom 4. 9.".
+** 1948-04-15
+   :PROPERTIES:
+   :CUSTOM_ID: seyb1948-04-15
+   :TRAD: 
+   :ORT: Tittmoning
+   :END:
+*** BSey1993
+    :PROPERTIES:
+    :NR:       67
+    :S:        50-53
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    101
+    :END:
