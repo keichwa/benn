@@ -874,6 +874,49 @@ Gleicher wortlaut an Oelze
     :FAKS:     
     :S_KOM:    101
     :END:
+** 1948-05-18
+   :PROPERTIES:
+   :CUSTOM_ID: sey1948-05-18
+   :TRAD:
+   :ORT: [Berlin]
+   :END:
+*** BSey1993
+    :PROPERTIES:
+    :NR:       69
+    :S:        54
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    101-02
+    :END:
+** 1949-01-08
+   :PROPERTIES:
+   :CUSTOM_ID: sey1949-01-08
+   :TRAD:
+   :ORT: [Berlin]
+   :END:
+*** BSey1993
+    :PROPERTIES:
+    :NR:       70
+    :S:        55
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    102-03
+    :END:
+** 1949-07-02
+   :PROPERTIES:
+   :CUSTOM_ID: sey1949-07-02
+   :TRAD:
+   :ORT: Berlin
+   :END:
+Widmung.
+*** BSey1993
+    :PROPERTIES:
+    :NR:       71
+    :S:        56
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    103
+    :END:
 * Benn
 :PROPERTIES:
 :FROM: Seyerlen, Egmont
@@ -1022,9 +1065,16 @@ Gleicher wortlaut an Oelze
    :END:
 *** BSey1993
     :PROPERTIES:
-    :NR:       67
+    :NR:       68
     :S:        50-53
     :AUSL:     
     :FAKS:     
     :S_KOM:    101
     :END:
+** 1949-01-08 (vor 1949-01-08)
+   :PROPERTIES:
+   :CUSTOM_ID: seyb1949-01-08
+   :TRAD: verloren
+   :ORT: 
+   :END:
+   Erwähnt in [[#sey1949-01-08]]: "langen Brief".

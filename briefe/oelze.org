@@ -11065,3 +11065,18 @@ Erwähnt in [[#oe1941-05-05]]: "Brief".
     :FAKS:     
     :S_KOM:    490
     :END:
+** 1947-03-02
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1947-03-02
+   :TRAD:
+   :ORT: Bremen, Oberneuland
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       482
+    :BD:       2
+    :S:        213-15
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    492
+    :END:
