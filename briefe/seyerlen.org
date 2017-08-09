@@ -917,6 +917,136 @@ Widmung.
     :FAKS:     
     :S_KOM:    103
     :END:
+** 1950-04-09
+   :PROPERTIES:
+   :CUSTOM_ID: sey1950-04-09
+   :TRAD:
+   :ORT: Berlin
+   :END:
+Widmung.
+*** BSey1993
+    :PROPERTIES:
+    :NR:       73
+    :S:        58
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    
+    :END:
+** 1950-10
+   :PROPERTIES:
+   :CUSTOM_ID: sey1950-10
+   :TRAD:
+   :ORT: Berlin
+   :END:
+Widmung.
+*** BSey1993
+    :PROPERTIES:
+    :NR:       76
+    :S:        61
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    103-04
+    :END:
+** 1951-12-28
+   :PROPERTIES:
+   :CUSTOM_ID: sey1951-12-28
+   :TRAD:
+   :ORT: Berlin
+   :END:
+*** BSey1993
+    :PROPERTIES:
+    :NR:       77
+    :S:        61-62
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    104
+    :END:
+** 1953-12 (Ende Dezember 1953)
+   :PROPERTIES:
+   :CUSTOM_ID: sey1953-12
+   :TRAD:
+   :ORT: Berlin
+   :END:
+*** BSey1993
+    :PROPERTIES:
+    :NR:       79
+    :S:        63
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    
+    :END:
+** 1954-03-02
+   :PROPERTIES:
+   :CUSTOM_ID: sey1954-03-02
+   :TRAD:
+   :ORT: Berlin
+   :END:
+*** BSey1993
+    :PROPERTIES:
+    :NR:       80
+    :S:        63
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    105
+    :END:
+** 1954-03-16
+   :PROPERTIES:
+   :CUSTOM_ID: sey1954-03-16
+   :TRAD:
+   :ORT: Berlin
+   :END:
+*** BSey1993
+    :PROPERTIES:
+    :NR:       83
+    :S:        65-66
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    105
+    :END:
+** 1954-04-13
+   :PROPERTIES:
+   :CUSTOM_ID: sey1954-04-13
+   :TRAD:
+   :ORT: Berlin
+   :END:
+Widmung
+*** BSey1993
+    :PROPERTIES:
+    :NR:       85
+    :S:        69
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    105
+    :END:
+** 1954-06-01
+   :PROPERTIES:
+   :CUSTOM_ID: sey1954-06-01
+   :TRAD:
+   :ORT: Berlin
+   :END:
+Widmung
+*** BSey1993
+    :PROPERTIES:
+    :NR:       86
+    :S:        69
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    105-06
+    :END:
+** 1954-12
+   :PROPERTIES:
+   :CUSTOM_ID: sey1954-12
+   :TRAD:
+   :ORT: Berlin
+   :END:
+*** BSey1993
+    :PROPERTIES:
+    :NR:       87
+    :S:        70
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    
+    :END:
 * Benn
 :PROPERTIES:
 :FROM: Seyerlen, Egmont
@@ -942,7 +1072,7 @@ Widmung.
    :TRAD: verloren
    :ORT: 
    :END:
-   Erwähnt in kommentar zu [[#sey1937-09-19]], 87: "Karte 21/9. 37" (Seyerlen).
+   Erwähnt in kommentar zu [[#sey1937-09-19]], s. 87: "Karte 21/9. 37" (Seyerlen).
 ** 1937-12-28 (vor 1937-12-28)
    :PROPERTIES:
    :CUSTOM_ID: seyb1937-12-28
@@ -1071,10 +1201,129 @@ Widmung.
     :FAKS:     
     :S_KOM:    101
     :END:
-** 1949-01-08 (vor 1949-01-08)
+** 1949-12-16
    :PROPERTIES:
-   :CUSTOM_ID: seyb1949-01-08
-   :TRAD: verloren
-   :ORT: 
+   :CUSTOM_ID: seyb1949-12-16
+   :TRAD: 
+   :ORT: Tittmoning
    :END:
-   Erwähnt in [[#sey1949-01-08]]: "langen Brief".
+*** BSey1993
+    :PROPERTIES:
+    :NR:       72
+    :S:        56-58
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    103
+    :END:
+** 1950-04-15
+   :PROPERTIES:
+   :CUSTOM_ID: seyb1950-04-15
+   :TRAD: 
+   :ORT: Tittmoning
+   :END:
+*** BSey1993
+    :PROPERTIES:
+    :NR:       74
+    :S:        59
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    103
+    :END:
+** 1950-10-08
+   :PROPERTIES:
+   :CUSTOM_ID: seyb1950-10-08
+   :TRAD: 
+   :ORT: Tittmoning
+   :END:
+*** BSey1993
+    :PROPERTIES:
+    :NR:       75
+    :S:        60-61
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    103
+    :END:
+** 1952-04-13 (bzw. 1952-04-14)
+   :PROPERTIES:
+   :CUSTOM_ID: seyb1952-04-13
+   :TRAD: 
+   :ORT: Tittmoning
+   :END:
+*** BSey1993
+    :PROPERTIES:
+    :NR:       78
+    :S:        62
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    104
+    :END:
+** 1954-03-06
+   :PROPERTIES:
+   :CUSTOM_ID: seyb1954-03-06
+   :TRAD: 
+   :ORT: Tittmoning
+   :END:
+*** BSey1993
+    :PROPERTIES:
+    :NR:       81
+    :S:        64
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    
+    :END:
+** 1954-03-14
+   :PROPERTIES:
+   :CUSTOM_ID: seyb1954-03-14
+   :TRAD: 
+   :ORT: Tittmoning
+   :END:
+*** BSey1993
+    :PROPERTIES:
+    :NR:       82
+    :S:        64-65
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    
+    :END:
+** 1954-03-21
+   :PROPERTIES:
+   :CUSTOM_ID: seyb1954-03-21
+   :TRAD: 
+   :ORT: Tittmoning
+   :END:
+*** BSey1993
+    :PROPERTIES:
+    :NR:       84
+    :S:        66-68
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    105
+    :END:
+** 1954-12-21
+   :PROPERTIES:
+   :CUSTOM_ID: seyb1954-12-21
+   :TRAD: 
+   :ORT: Tittmoning
+   :END:
+*** BSey1993
+    :PROPERTIES:
+    :NR:       88
+    :S:        70-72
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    106
+    :END:
+** 1956-03-30
+   :PROPERTIES:
+   :CUSTOM_ID: seyb1956-03-30
+   :TRAD: 
+   :ORT: Tittmoning
+   :END:
+*** BSey1993
+    :PROPERTIES:
+    :NR:       89
+    :S:        72-73
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    106
+    :END:
