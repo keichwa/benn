@@ -3463,7 +3463,6 @@ Erwähnt in [[#oeb1936-04-09]]
     :FAKS:     
     :S_KOM:    502
     :END:
-
 *** BOe
     :PROPERTIES:
     :NR:       147
@@ -7762,10 +7761,628 @@ Mit widmung.
     :FAKS:     
     :S_KOM:    491
     :END:
-
 *** BOe
     :PROPERTIES:
     :NR:       327
+    :BD:       2
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1947-03-16 (und 1947-03-22)
+   :PROPERTIES:
+   :CUSTOM_ID: oe1947-03-16
+   :TRAD:
+   :ORT: Berlin
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       484
+    :BD:       2
+    :S:        217-18
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    493
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       328
+    :BD:       2
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1947-03-23
+   :PROPERTIES:
+   :CUSTOM_ID: oe1947-03-23
+   :TRAD:
+   :ORT: Berlin
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       485
+    :BD:       2
+    :S:        219
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    493
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       329
+    :BD:       2
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1947-04-12
+   :PROPERTIES:
+   :CUSTOM_ID: oe1947-04-12
+   :TRAD:
+   :ORT: Berlin
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       488
+    :BD:       2
+    :S:        222-23
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    494
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       330
+    :BD:       2
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1947-04-29
+   :PROPERTIES:
+   :CUSTOM_ID: oe1947-04-29
+   :TRAD:
+   :ORT: Berlin
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       490
+    :BD:       2
+    :S:        225-26
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    495-96
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       331
+    :BD:       2
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1947-05-24
+   :PROPERTIES:
+   :CUSTOM_ID: oe1947-05-24
+   :TRAD:
+   :ORT: Berlin
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       493
+    :BD:       2
+    :S:        230-31
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    497
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       332
+    :BD:       2
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1947-05-25
+   :PROPERTIES:
+   :CUSTOM_ID: oe1947-05-25
+   :TRAD:
+   :ORT: Berlin
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       494
+    :BD:       2
+    :S:        232
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    498
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       333
+    :BD:       2
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1947-06-15 (an Charlotte Oelze)
+   :PROPERTIES:
+   :CUSTOM_ID: oe1947-06-15
+   :TRAD:
+   :ORT: Berlin
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       496
+    :BD:       2
+    :S:        235
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    499
+    :END:
+** 1947-06-23
+   :PROPERTIES:
+   :CUSTOM_ID: oe1947-06-23
+   :TRAD:
+   :ORT: Berlin
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       498
+    :BD:       2
+    :S:        236
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    500
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       334
+    :BD:       2
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1947-06-23
+   :PROPERTIES:
+   :CUSTOM_ID: oe1947-06-23a
+   :TRAD:
+   :ORT: Berlin
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       499
+    :BD:       2
+    :S:        236
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    500
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       335
+    :BD:       2
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1947-07-07
+   :PROPERTIES:
+   :CUSTOM_ID: oe1947-07-07
+   :TRAD: verloren
+   :ORT: Berlin
+   :END:
+Telegramm, erwähnt in [[#oe1947-07-13]].  
+** 1947-07-13
+   :PROPERTIES:
+   :CUSTOM_ID: oe1947-07-13
+   :TRAD:
+   :ORT: Berlin
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       502
+    :BD:       2
+    :S:        239-40
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    501
+    :END:
+*** BOe
+    :PROPERTIES:
+    :NR:       336
+    :BD:       2
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1947-08-03
+   :PROPERTIES:
+   :CUSTOM_ID: oe1947-08-03
+   :TRAD:
+   :ORT: Berlin
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       504
+    :BD:       2
+    :S:        243-43
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    502
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       337
+    :BD:       2
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1947-08-17
+   :PROPERTIES:
+   :CUSTOM_ID: oe1947-08-17
+   :TRAD:
+   :ORT: Berlin
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       506
+    :BD:       2
+    :S:        244-45
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    503
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       338(?)
+    :BD:       2
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1947-08-22
+   :PROPERTIES:
+   :CUSTOM_ID: oe1947-08-22
+   :TRAD:
+   :ORT: Berlin
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       508
+    :BD:       2
+    :S:        246-48
+    :AUSL:     
+    :FAKS:     247 (anlage)
+    :S_KOM:    504
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       339
+    :BD:       2
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1947-09-11
+   :PROPERTIES:
+   :CUSTOM_ID: oe1947-09-11
+   :TRAD:
+   :ORT: Berlin
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       511
+    :BD:       2
+    :S:        253
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    506
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       340(?)
+    :BD:       2
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1947-09-16
+   :PROPERTIES:
+   :CUSTOM_ID: oe1947-09-16
+   :TRAD:
+   :ORT: Berlin
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       512
+    :BD:       2
+    :S:        253
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    506
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       341
+    :BD:       2
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1947-09-21
+   :PROPERTIES:
+   :CUSTOM_ID: oe1947-09-21
+   :TRAD:
+   :ORT: Berlin
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       514
+    :BD:       2
+    :S:        256
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    507
+    :END:
+*** BOe
+    :PROPERTIES:
+    :NR:       342
+    :BD:       2
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1947-09-25
+   :PROPERTIES:
+   :CUSTOM_ID: oe1947-09-25
+   :TRAD:
+   :ORT: Berlin
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       515
+    :BD:       2
+    :S:        257
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    507
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       343
+    :BD:       2
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1947-09-29
+   :PROPERTIES:
+   :CUSTOM_ID: oe1947-09-29
+   :TRAD:
+   :ORT: Berlin
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       516
+    :BD:       2
+    :S:        258
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    508
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       344
+    :BD:       2
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1947-10-02
+   :PROPERTIES:
+   :CUSTOM_ID: oe1947-10-02
+   :TRAD:
+   :ORT: Berlin
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       518
+    :BD:       2
+    :S:        259
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    508
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       345
+    :BD:       2
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1947-10-12
+   :PROPERTIES:
+   :CUSTOM_ID: oe1947-10-12
+   :TRAD:
+   :ORT: Berlin
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       520
+    :BD:       2
+    :S:        262-64
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    509-10
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       346
+    :BD:       2
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1947-11-07
+   :PROPERTIES:
+   :CUSTOM_ID: oe1947-11-07
+   :TRAD:
+   :ORT: Berlin
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       522
+    :BD:       2
+    :S:        266-67
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    510
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       347
+    :BD:       2
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1947-11-24
+   :PROPERTIES:
+   :CUSTOM_ID: oe1947-11-24
+   :TRAD:
+   :ORT: Berlin
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       525
+    :BD:       2
+    :S:        271
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    511-12
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       348
+    :BD:       2
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1947-11-25
+   :PROPERTIES:
+   :CUSTOM_ID: oe1947-11-25
+   :TRAD:
+   :ORT: Berlin
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       526
+    :BD:       2
+    :S:        272
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    512
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       349
+    :BD:       2
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1947-12-04
+   :PROPERTIES:
+   :CUSTOM_ID: oe1947-12-04
+   :TRAD:
+   :ORT: Berlin
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       529
+    :BD:       2
+    :S:        276-77
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    513
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       350
+    :BD:       2
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1947-12-18
+   :PROPERTIES:
+   :CUSTOM_ID: oe1947-12-18
+   :TRAD:
+   :ORT: Berlin
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       533
+    :BD:       2
+    :S:        280
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    515
+    :END:
+*** BOe
+    :PROPERTIES:
+    :NR:       351
+    :BD:       2
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1947-12-27
+   :PROPERTIES:
+   :CUSTOM_ID: oe1947-12-27
+   :TRAD:
+   :ORT: Berlin
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       536
+    :BD:       2
+    :S:        282-84
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    516
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       352
     :BD:       2
     :S:        
     :AUSL:     
@@ -11079,4 +11696,455 @@ Erwähnt in [[#oe1941-05-05]]: "Brief".
     :AUSL:     
     :FAKS:     
     :S_KOM:    492
+    :END:
+** 1947-03-06
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1947-03-06
+   :TRAD:
+   :ORT: Bremen, Oberneuland
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       483
+    :BD:       2
+    :S:        215-17
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    492-93
+    :END:
+** 1947-04-04
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1947-04-04
+   :TRAD:
+   :ORT: Bremen, Oberneuland
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       486
+    :BD:       2
+    :S:        219-21
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    493-94
+    :END:
+** 1947-04-05
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1947-04-05
+   :TRAD:
+   :ORT: Bremen
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       487
+    :BD:       2
+    :S:        221-22
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    494
+    :END:
+** 1947-04-28
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1947-04-28
+   :TRAD:
+   :ORT: Bremen, Oberneuland
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       489
+    :BD:       2
+    :S:        223-25
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    494-95
+    :END:
+** 1947-05-10
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1947-05-10
+   :TRAD:
+   :ORT: Bremen, Oberneuland
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       491
+    :BD:       2
+    :S:        226
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    496
+    :END:
+** 1947-05-11
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1947-05-11
+   :TRAD:
+   :ORT: Bremen, Oberneuland
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       492
+    :BD:       2
+    :S:        227-29
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    496-97
+    :END:
+** 1947-06-11
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1947-06-11
+   :TRAD:
+   :ORT: Bremen, Oberneuland
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       495
+    :BD:       2
+    :S:        232-34
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    498
+    :END:
+** 1947-06-17
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1947-06-17
+   :TRAD:
+   :ORT: Bremen, Oberneuland
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       497
+    :BD:       2
+    :S:        235-36
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    499-500
+    :END:
+** 1947-06-29
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1947-06-29
+   :TRAD:
+   :ORT: Bremen, Oberneuland
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       500
+    :BD:       2
+    :S:        237-38
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    500
+    :END:
+** 1947-06-30
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1947-06-30
+   :TRAD:
+   :ORT: Bremen, Oberneuland
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       501
+    :BD:       2
+    :S:        238
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    501
+    :END:
+** 1947-07-21
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1947-07-21
+   :TRAD:
+   :ORT: Bremen, Oberneuland
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       503
+    :BD:       2
+    :S:        240-42
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    501-02
+    :END:
+** 1947-08-04
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1947-08-04
+   :TRAD:
+   :ORT: Bremen, Oberneuland
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       505
+    :BD:       2
+    :S:        243-44
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    502-03
+    :END:
+** 1947-08-17
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1947-08-17
+   :TRAD:
+   :ORT: Bremen, Oberneuland
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       507
+    :BD:       2
+    :S:        245-46
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    503-04
+    :END:
+** 1947-09-03 (und 1947-09-04)
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1947-09-03
+   :TRAD:
+   :ORT: Bremen, Oberneuland
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       509
+    :BD:       2
+    :S:        248-50
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    504-05
+    :END:
+** 1947-09-07
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1947-09-07
+   :TRAD:
+   :ORT: Bremen, Oberneuland
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       510
+    :BD:       2
+    :S:        250-53
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    505
+    :END:
+** 1947-09-20
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1947-09-20
+   :TRAD:
+   :ORT: Bremen, Oberneuland
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       513
+    :BD:       2
+    :S:        254-55
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    506-07
+    :END:
+** 1947-09-29
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1947-09-29
+   :TRAD:
+   :ORT: Bremen, Oberneuland
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       517
+    :BD:       2
+    :S:        258-59
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    508
+    :END:
+** 1947-10-08
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1947-10-08
+   :TRAD:
+   :ORT: Bremen, Oberneuland
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       519
+    :BD:       2
+    :S:        260-62
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    509
+    :END:
+** 1947-10-13
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1947-10-13
+   :TRAD:
+   :ORT: Bremen, Oberneuland
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       521
+    :BD:       2
+    :S:        265
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    510
+    :END:
+** 1947-11-12
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1947-11-12
+   :TRAD:
+   :ORT: Bremen, Oberneuland
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       523
+    :BD:       2
+    :S:        267-70
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    511
+    :END:
+** 1947-11-21
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1947-11-21
+   :TRAD:
+   :ORT: Bremen, Oberneuland
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       524
+    :BD:       2
+    :S:        270
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    511
+    :END:
+** 1947-11-28
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1947-11-28
+   :TRAD:
+   :ORT: Bremen, Oberneuland
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       527
+    :BD:       2
+    :S:        272-74
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    512
+    :END:
+** 1947-11-29
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1947-11-29
+   :TRAD:
+   :ORT: Bremen, Oberneuland
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       528
+    :BD:       2
+    :S:        274-76
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    512-13
+    :END:
+** 1947-12-07
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1947-12-07
+   :TRAD:
+   :ORT: Bremen, Oberneuland
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       530
+    :BD:       2
+    :S:        277-78
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    514
+    :END:
+** 1947-12-08
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1947-12-08
+   :TRAD:
+   :ORT: Bremen, Oberneuland
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       531
+    :BD:       2
+    :S:        278-80
+    :AUSL:     
+    :FAKS:     279 (beilage, fotopostkarte)
+    :S_KOM:    514
+    :END:
+** 1947-12-14
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1947-12-14
+   :TRAD:
+   :ORT: Bremen, Oberneuland
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       532
+    :BD:       2
+    :S:        280
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    515
+    :END:
+** 1947-12-18
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1947-12-18
+   :TRAD:
+   :ORT: Bremen, Oberneuland
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       534
+    :BD:       2
+    :S:        281-82
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    515-16
+    :END:
+** 1947-12-27 (vor 1947-12-27)
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1947-12-27a
+   :TRAD:
+   :ORT: Bremen, Oberneuland
+   :END:
+Erwähnt in [[#oe1947-12-27]].
+*** BOe2016
+    :PROPERTIES:
+    :NR:       535
+    :BD:       2
+    :S:        282
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    516
+    :END:
+** 1947-12-27
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1947-12-27
+   :TRAD:
+   :ORT: Bremen, Oberneuland
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       537
+    :BD:       2
+    :S:        284
+    :AUSL:     
+    :FAKS:     517 (postkarte, vorderseite)
+    :S_KOM:    516-17
+    :END:
+** 1947-12-31
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1947-12-31
+   :TRAD:
+   :ORT: Bremen, Oberneuland
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       538
+    :BD:       2
+    :S:        284-85
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    517
     :END:
