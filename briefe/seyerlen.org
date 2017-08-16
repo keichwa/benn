@@ -1362,6 +1362,7 @@ Widmung.
    :TRAD: 
    :ORT: Tittmoning
    :END:
+Eigentlich an Ilse Benn.
 *** BSey1993
     :PROPERTIES:
     :NR:       92
