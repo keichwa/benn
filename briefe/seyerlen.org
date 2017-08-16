@@ -1047,6 +1047,35 @@ Widmung
     :FAKS:     
     :S_KOM:    
     :END:
+** 1956-04-03
+   :PROPERTIES:
+   :CUSTOM_ID: sey1956-04-03
+   :TRAD:
+   :ORT: Berlin
+   :END:
+*** BSey1993
+    :PROPERTIES:
+    :NR:       90
+    :S:        73-74
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    106-08
+    :END:
+** 1956-04-03
+   :PROPERTIES:
+   :CUSTOM_ID: sey1956-04-03a
+   :TRAD:
+   :ORT: Berlin
+   :END:
+Widmung.
+*** BSey1993
+    :PROPERTIES:
+    :NR:       91
+    :S:        75
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    
+    :END:
 * Benn
 :PROPERTIES:
 :FROM: Seyerlen, Egmont
@@ -1326,4 +1355,18 @@ Widmung
     :AUSL:     
     :FAKS:     
     :S_KOM:    106
+    :END:
+** 1956-07-15
+   :PROPERTIES:
+   :CUSTOM_ID: seyb1956-07-15
+   :TRAD: 
+   :ORT: Tittmoning
+   :END:
+*** BSey1993
+    :PROPERTIES:
+    :NR:       92
+    :S:        75-76
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    108
     :END:
