@@ -1,6 +1,6 @@
 #+STARTUP: content
 #+STARTUP: showall
- #+STARTUP: showeverythingn
+# +STARTUP: showeverything
 #+TITLE: Benn - Egmont Seyerlen
 
 * Seyerlen, Egmont
@@ -32,6 +32,11 @@ Dat. von fremder hand.
    :TRAD:
    :END:
 Widmung
+*** schuster92:seyerlen_benn
+    :PROPERTIES:
+    :AUSL:     
+    :FAKS:     Umschlag
+    :END:
 *** BSey1993
     :PROPERTIES:
     :NR:       2
@@ -113,6 +118,11 @@ Widmung
    :TRAD:
    :ORT: [Berlin]
    :END:
+*** schuster92:seyerlen_benn
+    :PROPERTIES:
+    :AUSL:     
+    :FAKS:     11
+    :END:
 *** BSey1993
     :PROPERTIES:
     :NR:       8
@@ -243,6 +253,11 @@ Widmung
    :ORT: [Berlin]
    :END:
 Widmung
+*** schuster92:seyerlen_benn
+    :PROPERTIES:
+    :AUSL:     
+    :FAKS:     12 (verkleinert)
+    :END:
 *** BSey1993
     :PROPERTIES:
     :NR:       18
@@ -583,6 +598,12 @@ Heiratsanzeige, vordruck mit bemerkung.
    :TRAD:
    :ORT: [Berlin]
    :END:
+*** schuster92:seyerlen_benn
+    :PROPERTIES:
+    :S: 1 (auszug)
+    :AUSL:     
+    :FAKS:     1 (postkarte, vorderseite)
+    :END:
 *** BSey1993
     :PROPERTIES:
     :NR:       44

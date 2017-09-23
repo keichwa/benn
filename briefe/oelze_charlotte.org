@@ -12,10 +12,21 @@
 :GEB: 
 :TOD: 
 :END:
-** 
+** 1947-06-15
    :PROPERTIES:
-   :CUSTOM_ID: 
-   :END:   
+   :CUSTOM_ID: oec1947-06-15
+   :TRAD:
+   :ORT: Berlin
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       496
+    :BD:       2
+    :S:        235
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    499
+    :END:
 * Benn
 :PROPERTIES:
 :FROM: Oelze, Charlotte

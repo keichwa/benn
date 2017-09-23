@@ -9,8 +9,8 @@
 :EMPF:     1
 :FROM: Benn
 :TO: Schifferli, Peter
-:GEB: 
-:TOD: 
+:GEB: 1921
+:TOD: 1980
 :END:
 ** 1947-11-23
    :PROPERTIES:
