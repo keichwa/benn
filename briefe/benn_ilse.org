@@ -1,0 +1,25 @@
+#+STARTUP: content
+#+STARTUP: showall
+# +STARTUP: showeverything
+#+TITLE: Benn - Benn, Ilse
+# #+COLUMNS: %25ITEM %TAGS %PRIORITY %TODO
+
+* Benn, Ilse
+:PROPERTIES:
+:EMPF:     1
+:FROM: Benn
+:TO: Benn, Ilse
+:NAME_2: Kaul
+:GEB:      
+:TOD:      
+:END:
+* Benn
+:PROPERTIES:
+:FROM: Benn, Ilse
+:TO: Benn
+:END:
+** 1949-07-30 (vor 1949-07-30)
+   :PROPERTIES:
+   :TRAD:     verloren
+   :END:
+Telegramm erwähnt in [[#oec1949-07-30]].
