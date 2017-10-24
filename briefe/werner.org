@@ -1,0 +1,36 @@
+#+STARTUP: content
+#+STARTUP: showall
+# +STARTUP: showeverything
+#+TITLE: Benn - Fritz Werner
+
+* Werner, Fritz
+:PROPERTIES:
+:EMPF:     1
+:FROM: Benn
+:TO: Werner, Fritz
+:CUSTOM_ID: werner_fritz
+:GEB:      
+:TOD:      
+:END:
+** 1947-04-23
+   :PROPERTIES:
+   :CUSTOM_ID: fw1947-04-23
+   :TRAD:     
+   :END:      
+
+*** AB1957
+:PROPERTIES:
+:S: 113-14
+:S_KOM: 354-55
+:END:
+* Benn
+:PROPERTIES:
+:TO: Benn
+:FROM: Werner, Fritz
+:END:
+** 1947-04-14
+   :PROPERTIES:
+   :TRAD:     
+   :END:
+In [[#fw1947-04-23-15]] erwähnt: "Brief"
+
