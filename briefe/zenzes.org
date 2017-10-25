@@ -166,6 +166,28 @@ Widmung in "Gesammelte Schriften".
 :S: 
 :S_KOM: 
 :END:
+** 1946-11-26
+   :PROPERTIES:
+   :CUSTOM_ID: ze1946-11-26
+   :TRAD:     
+   :END:
+*** AB1957
+:PROPERTIES:
+:AUSL: t
+:S: 107-09
+:S_KOM: 354
+:END:
+** 1947-03-30
+   :PROPERTIES:
+   :CUSTOM_ID: ze1947-03-30
+   :TRAD:     
+   :END:
+*** AB1957
+:PROPERTIES:
+:AUSL: 
+:S: 109-11
+:S_KOM: 354
+:END:
 ** 1947-04-25
    :PROPERTIES:
    :CUSTOM_ID: ze1947-04-25
@@ -176,6 +198,17 @@ Widmung in "Gesammelte Schriften".
 :AUSL:
 :S: 
 :S_KOM: 
+:END:
+** 1947-06-20
+   :PROPERTIES:
+   :CUSTOM_ID: ze1947-06-20
+   :TRAD:     
+   :END:
+*** AB1957
+:PROPERTIES:
+:AUSL: 
+:S: 116-17
+:S_KOM: 355
 :END:
 ** 1949-06-25
    :PROPERTIES:
@@ -188,7 +221,6 @@ Widmung in "Gesammelte Schriften".
 :S: 
 :S_KOM: 
 :END:
-
 
 * Benn
 :PROPERTIES:
@@ -253,6 +285,32 @@ In [[#ze1931-12-28]] erwähnt.
    :END:
 In [[#ze1933-09-23]] erwähnt: "für Ihren Brief und die Zeitschriften und
 die Zeitungsauschnitte".
+** 1946-10-15
+   :PROPERTIES:
+   :TRAD:     
+   :END:
+In [[#ze1946-11-26]] erwähnt: "Brief".
+** 1947-01-25
+   :PROPERTIES:
+   :TRAD:     
+   :END:
+In [[#ze1947-03-30]] erwähnt: "Briefe".
+** 1947-02-28
+   :PROPERTIES:
+   :TRAD:     
+   :END:
+In [[#ze1947-03-30]] erwähnt: "Briefe".
+** 1947-06-20 (vor 1947-06-20)
+   :PROPERTIES:
+   :TRAD:     
+   :END:
+In [[#ze1947-06-20]], s.116 erwähnt: "In einem neuerlichen Brief, dem vorletzten".
+** 1947-06-20 (vor 1947-06-20)
+   :PROPERTIES:
+   :TRAD:     
+   :END:
+In [[#ze1947-06-20]], s.116 erwähnt: "In einem neuerlichen Brief, dem
+vorletzten"; dies ist also der letzte.
 ** 1949-06-21
    :PROPERTIES:
    :TRAD:     
