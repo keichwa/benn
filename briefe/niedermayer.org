@@ -1,0 +1,41 @@
+#+STARTUP: content
+#+STARTUP: showall
+ #+STARTUP: showeverything
+#+TITLE: Benn - Niedermayer
+
+* Niedermayer, Max
+:PROPERTIES:
+:EMPF:     1
+:FROM_All: Benn
+:TO_All: Niedermayer, Max
+:CUSTOM_ID: niedermayer_max_1913???
+:GEB: 1903
+:TOD: 1981
+:END:
+** 1948-09-17
+  :PROPERTIES:
+  :CUSTOM_ID: ni1948-09-17
+  :TRAD:     
+  :END:
+"Telegramm" erwähnt in [[#ni1948-09-18]], s.124.
+** 1948-09-18
+  :PROPERTIES:
+  :CUSTOM_ID: ni1948-09-18
+  :TRAD:     
+  :END:
+*** AB1957
+:PROPERTIES:
+:S: 124-27
+:AUSL: t
+:S_KOM: 357
+:END:
+* Benn
+:PROPERTIES:
+:TO: Benn
+:FROM: Niedermayer, Max
+:END:
+** 1948-08-23
+   :PROPERTIES:
+   :TRAD:     
+   :END:
+Erwähnt in [[#ni1948-09-18]]: "Ihren Brief vom 23.8."
