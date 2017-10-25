@@ -12,15 +12,35 @@
 :GEB: 1887
 :TOD: 1951
 :END:
-** 
+** 1946-05-27
   :PROPERTIES:
-  :CUSTOM_ID: 
+  :CUSTOM_ID: re1946-05-27 
   :TRAD:     
   :END:
 *** AB1957
 :PROPERTIES:
-:S: 
+:S: 100
 :S_KOM: 
+:END:
+** 1947-04-23
+  :PROPERTIES:
+  :CUSTOM_ID: re1947-04-23
+  :TRAD:     
+  :END:
+*** AB1957
+:PROPERTIES:
+:S: 111-13
+:S_KOM: 354
+:END:
+** 1948-12-19
+  :PROPERTIES:
+  :CUSTOM_ID: re1948-12-19
+  :TRAD:     
+  :END:
+*** AB1957
+:PROPERTIES:
+:S: 131
+:S_KOM: 358
 :END:
 
 * Benn
@@ -28,9 +48,16 @@
 :TO: Benn
 :FROM: Reiss
 :END:
-** 
+** 1946-05-27 (vor 1946-05-27)
+   :PROPERTIES:
+   :CUSTOM_ID: reb1946-05-27
+   :TRAD:     
+   :END:
+"Karte" erwähnt in [[#re1946-05-27]].
+** 1946-11-26 (vor 1946-11-26)
    :PROPERTIES:
    :TRAD:     
    :END:
-Erwähnt in [[#]].
+Erwähnt in [[#ze1946-11-26]], identisch mit [[#reb1946-05-27]]?
+
 
