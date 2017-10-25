@@ -210,6 +210,17 @@ Widmung in "Gesammelte Schriften".
 :S: 116-17
 :S_KOM: 355
 :END:
+** 1948-09-10
+   :PROPERTIES:
+   :CUSTOM_ID: ze1948-09-10
+   :TRAD:     
+   :END:
+*** AB1957
+:PROPERTIES:
+:AUSL: 
+:S: 124
+:S_KOM: 357
+:END:
 ** 1949-06-25
    :PROPERTIES:
    :CUSTOM_ID: ze1949-06-25
@@ -311,6 +322,11 @@ In [[#ze1947-06-20]], s.116 erwähnt: "In einem neuerlichen Brief, dem vorletzte
    :END:
 In [[#ze1947-06-20]], s.116 erwähnt: "In einem neuerlichen Brief, dem
 vorletzten"; dies ist also der letzte.
+** 1948-08-30
+   :PROPERTIES:
+   :TRAD:     
+   :END:
+In [[#ze1948-09-10]] erwähnt: "Deine Karte ... vom 30.XIII."
 ** 1949-06-21
    :PROPERTIES:
    :TRAD:     
