@@ -1,0 +1,42 @@
+#+STARTUP: content
+#+STARTUP: showall
+# +STARTUP: showeverything
+#+TITLE: Benn - Pinner
+
+* Pinner, Erna
+:PROPERTIES:
+:EMPF:     1
+:FROM: Benn
+:TO: Pinner, Erna
+:GEB:
+:TOD:
+:END:
+** 1946-11-20
+   :PROPERTIES:
+   :CUSTOM_ID:       pi1946-11-20
+   :END:      
+*** AB1957
+:PROPERTIES:
+:S: 106-07
+:S_KOM: 353-54
+:END:
+** 1947-11-09
+   :PROPERTIES:
+   :CUSTOM_ID:       pi1947-11-09
+   :END:      
+*** AB1957
+:PROPERTIES:
+:S: 119-20
+:S_KOM: 356
+:END:
+
+* Benn
+:PROPERTIES:
+:FROM: Pinner, Erna
+:TO: Benn
+:END:
+** 1946-11-20 (vor 1946-11-20)
+   :PROPERTIES:
+   :TRAD:     Q
+   :END:
+In [[#pi1946-11-20]] erwähnt.
