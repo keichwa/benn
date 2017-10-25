@@ -23,6 +23,17 @@
 :S: 113-14
 :S_KOM: 354-55
 :END:
+** 1948-11-28
+   :PROPERTIES:
+   :CUSTOM_ID: fw1948-11-28
+   :TRAD:     
+   :END:      
+
+*** AB1957
+:PROPERTIES:
+:S: 129-30
+:S_KOM: 357-58
+:END:
 * Benn
 :PROPERTIES:
 :TO: Benn
@@ -33,4 +44,10 @@
    :TRAD:     
    :END:
 In [[#fw1947-04-23-15]] erwähnt: "Brief"
+** 1948-11-03
+   :PROPERTIES:
+   :TRAD:     
+   :END:
+In [[#fw1948-11-28]] erwähnt: "Ihren Brief vom 3.11."
+
 
