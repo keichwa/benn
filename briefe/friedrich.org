@@ -1,0 +1,43 @@
+#+STARTUP: content
+#+STARTUP: showall
+# +STARTUP: showeverything
+#+TITLE: Benn - Heinz Friedrich
+
+* Friedrich, Heinz
+:PROPERTIES:
+:EMPF:     1
+:FROM: Benn
+:TO: Friedrich, Heinz
+:CUSTOM_ID: friedrich_heinz
+:GEB:      
+:TOD:      
+:END:
+** 1948-12-12 (vor 1948-12-12)
+   :PROPERTIES:
+   :CUSTOM_ID: fr1948-12-12a
+   :TRAD:     
+   :END:      
+Erwähnt in [[#fr1948-12-12]]: "mein Telegramm".
+** 1948-12-12
+   :PROPERTIES:
+   :CUSTOM_ID: fr1948-12-12
+   :TRAD:     
+   :END:      
+
+*** AB1957
+:PROPERTIES:
+:S: 130-31
+:S_KOM: 358
+:END:
+* Benn
+:PROPERTIES:
+:TO: Benn
+:FROM: Friedrich, Heinz
+:END:
+** 1948-10-28
+   :PROPERTIES:
+   :TRAD:     
+   :END:
+In [[#fr1948-12-12]] erwähnt: "Ihren ... Brief vom 28 X."
+
+
