@@ -1,0 +1,35 @@
+#+STARTUP: content
+#+STARTUP: showall
+ #+STARTUP: showeverything
+#+TITLE: Benn - Curtius
+
+* Curtius, Ernst Robert
+:PROPERTIES:
+:EMPF:     1
+:FROM_All: Benn
+:TO_All: Curtius, Ernst Robert
+:CUSTOM_ID: curtius_ernst_robert_1913???
+:GEB: 1903
+:TOD: 1981
+:END:
+** 1948-11-25
+  :PROPERTIES:
+  :CUSTOM_ID: cu1948-11-25
+  :TRAD:     
+  :END:
+*** AB1957
+:PROPERTIES:
+:S: 128-29
+:AUSL:
+:S_KOM: 357
+:END:
+* Benn
+:PROPERTIES:
+:TO: Benn
+:FROM: Curtius, Ernst Robert
+:END:
+** 1948-11-25 (vor 1948-11-25)
+   :PROPERTIES:
+   :TRAD:     
+   :END:
+Erwähnt in [[#cu1948-11-25]]: "Übersendung Ihrer Arbeit".
