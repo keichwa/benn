@@ -82,6 +82,56 @@
 :S: 73
 :S_KOM: 349
 :END:
+** 1946-07-30
+  :PROPERTIES:
+  :CUSTOM_ID: ma1946-07-30
+  :TRAD:     
+  :END:
+*** AB1957
+:PROPERTIES:
+:S: 102-03
+:S_KOM: 353
+:END:
+** 1946-09-10
+  :PROPERTIES:
+  :CUSTOM_ID: ma1946-09-10
+  :TRAD:     
+  :END:
+*** AB1957
+:PROPERTIES:
+:S: 103
+:S_KOM: 353
+:END:
+** 1946-09-15
+  :PROPERTIES:
+  :CUSTOM_ID: ma1946-09-15
+  :TRAD:     
+  :END:
+*** AB1957
+:PROPERTIES:
+:S: 105-06
+:S_KOM: 353
+:END:
+** 1947-10-02
+  :PROPERTIES:
+  :CUSTOM_ID: ma1947-10-02
+  :TRAD:     
+  :END:
+*** AB1957
+:PROPERTIES:
+:S: 118-19
+:S_KOM: 355-56
+:END:
+** 1948-01-20
+  :PROPERTIES:
+  :CUSTOM_ID: ma1948-01-20
+  :TRAD:     
+  :END:
+*** AB1957
+:PROPERTIES:
+:S: 122-23
+:S_KOM: 
+:END:
 * Benn
 :PROPERTIES:
 :TO: Benn
@@ -109,3 +159,8 @@ Erwähnt in [[#ma1936-05-11]]: "Ihr Telegramm, Ihre Wünsche".
    :ARCHIV: 
    :END:
 Erwähnt in [[file:oelze.org::#oe1943-11-10][1943-11-10]].
+** 1947-09-25
+   :PROPERTIES:
+   :TRAD:     
+   :END:
+Erwähnt in [[#ma1947-10-02]]: "für Ihren Brief vom 25.IX.".
