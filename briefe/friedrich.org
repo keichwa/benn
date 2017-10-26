@@ -8,9 +8,9 @@
 :EMPF:     1
 :FROM: Benn
 :TO: Friedrich, Heinz
-:CUSTOM_ID: friedrich_heinz
-:GEB:      
-:TOD:      
+:CUSTOM_ID: friedrich_heinz_1922
+:GEB:      1922
+:TOD:      2004
 :END:
 ** 1948-12-12 (vor 1948-12-12)
    :PROPERTIES:
@@ -23,7 +23,6 @@ Erwähnt in [[#fr1948-12-12]]: "mein Telegramm".
    :CUSTOM_ID: fr1948-12-12
    :TRAD:     
    :END:      
-
 *** AB1957
 :PROPERTIES:
 :S: 130-31
