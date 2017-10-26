@@ -42,6 +42,36 @@
 :S: 131
 :S_KOM: 358
 :END:
+** 1949-01-12
+  :PROPERTIES:
+  :CUSTOM_ID: re1949-01-12
+  :TRAD:     
+  :END:
+*** AB1957
+:PROPERTIES:
+:S: 132
+:S_KOM: 358
+:END:
+** 1949-01-25
+  :PROPERTIES:
+  :CUSTOM_ID: re1949-01-25
+  :TRAD:     
+  :END:
+*** AB1957
+:PROPERTIES:
+:S: 133-34
+:S_KOM: 358
+:END:
+** 1949-03-05
+  :PROPERTIES:
+  :CUSTOM_ID: re1949-03-05
+  :TRAD:     
+  :END:
+*** AB1957
+:PROPERTIES:
+:S: 136-39
+:S_KOM: 358-59
+:END:
 
 * Benn
 :PROPERTIES:
@@ -59,5 +89,13 @@
    :TRAD:     
    :END:
 Erwähnt in [[#ze1946-11-26]], identisch mit [[#reb1946-05-27]]?
-
-
+** 1949-01-12 (vor 1949-01-12)
+   :PROPERTIES:
+   :TRAD:     
+   :END:
+Erwähnt in [[#re1949-01-12]]: "Brief".
+** 1949-02-28
+   :PROPERTIES:
+   :TRAD:     
+   :END:
+Erwähnt in [[#re1949-03-05]]: "Ihren Luftpostbrief vom 28. II.".
