@@ -9,7 +9,7 @@
 :FROM: Benn
 :TO: Brentano, Bernard von
 :GEB: 1901
-:TOD: 
+:TOD: 1964
 :END:
 ** 1929-01-10
    :PROPERTIES:
