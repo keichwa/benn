@@ -17,7 +17,6 @@
    :CUSTOM_ID: fw1947-04-23
    :TRAD:     
    :END:      
-
 *** AB1957
 :PROPERTIES:
 :S: 113-14
@@ -28,11 +27,20 @@
    :CUSTOM_ID: fw1948-11-28
    :TRAD:     
    :END:      
-
 *** AB1957
 :PROPERTIES:
 :S: 129-30
 :S_KOM: 357-58
+:END:
+** 1949-03-04
+   :PROPERTIES:
+   :CUSTOM_ID: fw1949-03-04
+   :TRAD:     
+   :END:      
+*** AB1957
+:PROPERTIES:
+:S: 135-36
+:S_KOM: 
 :END:
 * Benn
 :PROPERTIES:
@@ -49,5 +57,12 @@ In [[#fw1947-04-23-15]] erwähnt: "Brief"
    :TRAD:     
    :END:
 In [[#fw1948-11-28]] erwähnt: "Ihren Brief vom 3.11."
+** 1949-02-25
+   :PROPERTIES:
+   :TRAD:     
+   :END:
+In [[#fw1949-03-04]] erwähnt: "Ihren Brief vom 25.II."
+
+
 
 
