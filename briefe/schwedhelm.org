@@ -1,0 +1,37 @@
+#+STARTUP: content
+#+STARTUP: showall
+ #+STARTUP: showeverythingn
+#+TITLE: Benn - Karl Schwedhelm
+
+* Schwedhelm, Karl
+:PROPERTIES:
+:CUSTOM_ID: schwedhelm
+:EMPF:     1
+:FROM: Benn
+:TO: Schwedhelm, Karl
+:GEB: 19
+:TOD: 19
+:END:
+** 1949-02-20
+   :PROPERTIES:
+   :CUSTOM_ID: schw1949-02-20
+   :TRAD:
+   :END:
+*** AB1957
+:PROPERTIES:
+:AUSL: 
+:S: 135
+:S_KOM:
+:END:
+* Benn
+:PROPERTIES:
+:FROM: Schwedhelm, Karl
+:TO: Benn
+:END:
+** 1949-02-14
+   :PROPERTIES:
+   :CUSTOM_ID: schwb1949-02-14
+   :TRAD: 
+   :ORT: 
+   :END:
+   Erwähnt in [[#schw1949-02-20]]: "Schreiben".
