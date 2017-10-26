@@ -19,7 +19,7 @@
    :END:
 *** AB1957
 :PROPERTIES:
-:AUSL: 
+:AUSL: t
 :S: 135
 :S_KOM:
 :END:
