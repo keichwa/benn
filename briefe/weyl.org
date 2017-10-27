@@ -1,0 +1,60 @@
+#+STARTUP: content
+#+STARTUP: showall
+# +STARTUP: showeverything
+#+TITLE: Benn - Johannes Weyl
+
+* Weyl, Johannes
+:PROPERTIES:
+:EMPF:     1
+:FROM: Benn
+:TO: Weyl, Johannes
+:CUSTOM_ID: weyl_johannes
+:GEB:      
+:TOD:      
+:END:
+** 1946-03-15
+   :PROPERTIES:
+   :CUSTOM_ID: we1946-03-15
+   :TRAD:     
+   :END:      
+Eigentlich an den Südverlag Weyl.
+*** AB1957
+:PROPERTIES:
+:S: 98
+:S_KOM: 352
+:END:
+** 1946-03-28
+   :PROPERTIES:
+   :CUSTOM_ID: we1946-03-28
+   :TRAD:     
+   :END:      
+*** AB1957
+:PROPERTIES:
+:S: 98-100
+:S_KOM: 352-53
+:END:
+** 1946-06-10
+   :PROPERTIES:
+   :CUSTOM_ID: we1946-06-10
+   :TRAD:     
+   :END:      
+*** AB1957
+:PROPERTIES:
+:S: 100-02
+:S_KOM: 353
+:END:
+* Benn
+:PROPERTIES:
+:TO: Benn
+:FROM: Weyl, Johannes
+:END:
+** 1946-03-05
+   :PROPERTIES:
+   :TRAD:     
+   :END:
+In [[#we1946-03-15]] erwähnt: "eingeschriebene Sendung vom 5 III."
+** 1946-03-28 (vor 1946-03-28)
+   :PROPERTIES:
+   :TRAD:     
+   :END:
+In [[#we1946-03-28]] erwähnt: "die Zusendung Ihrer 4 Aufsätze".

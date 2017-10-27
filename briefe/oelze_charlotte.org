@@ -27,6 +27,21 @@
     :FAKS:     
     :S_KOM:    499
     :END:
+** 1949-07-30
+   :PROPERTIES:
+   :CUSTOM_ID: oec1949-07-30
+   :TRAD:
+   :ORT: Berlin
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       690
+    :BD:       3
+    :S:        132
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    434
+    :END:
 * Benn
 :PROPERTIES:
 :FROM: Oelze, Charlotte

@@ -81,8 +81,16 @@
 :S: 62-63
 :S_KOM: 348
 :END:      
-
-
+** 1948-05-04
+   :PROPERTIES:
+   :CUSTOM_ID: se1948-05-04
+   :TRAD:     
+   :END:      
+*** AB1957
+:PROPERTIES:
+:S: 123-24
+:S_KOM: 356-57
+:END:      
 * Benn
 :PROPERTIES:
 :TO: Benn
@@ -108,3 +116,8 @@ In [[#se1934-08-27]] erwähnt: "Ihre Karte".
    :TRAD:     
    :END:
 In [[#se1934-09-30]] erwähnt: "Ihren Brief".
+** 1948-05-04 (vor 1948-05-04)
+   :PROPERTIES:
+   :TRAD:     
+   :END:
+In [[#se1948-05-04]] erwähnt: "Ihren Brief".

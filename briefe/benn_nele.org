@@ -4,7 +4,7 @@
 #+TITLE: Benn - Benn, Nele (Tochter)
 # #+COLUMNS: %25ITEM %TAGS %PRIORITY %TODO
 
-* Benn, Ruth
+* Benn, Nele
 :PROPERTIES:
 :EMPF:     1
 :FROM: Benn
@@ -32,6 +32,44 @@
     :FAKS:     
     :S_KOM:  
     :END:
+** 1946-09-11
+   :PROPERTIES:
+   :CUSTOM_ID:       bn1946-09-11
+#   :COLUMNS:  %3BD %S %NR %FAKS
+   :END:
+*** AB1957
+:PROPERTIES:
+:S:        104-05
+:FAKS:     
+:AUSL:
+:S_KOM: 
+:END:      
+*** B1962
+    :PROPERTIES:
+    :S:      
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:  
+    :END:
+** 1947-11-19
+   :PROPERTIES:
+   :CUSTOM_ID:       bn1947-11-19
+#   :COLUMNS:  %3BD %S %NR %FAKS
+   :END:
+*** AB1957
+:PROPERTIES:
+:S:        121-22
+:FAKS:     
+:AUSL:
+:S_KOM: 356
+:END:      
+*** B1962
+    :PROPERTIES:
+    :S:      
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:  
+    :END:
 * Benn
 :PROPERTIES:
 :TO: Benn
@@ -42,3 +80,8 @@
    :TRAD:     
    :END:
 In [[#bn1944-01-27]] erwähnt: "Brief".
+** 1946-11-11 (vor 1946-11-11)
+   :PROPERTIES:
+   :TRAD:     
+   :END:
+In [[#bn1946-09-11]] erwähnt: "Brief".

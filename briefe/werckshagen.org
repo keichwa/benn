@@ -1,0 +1,32 @@
+#+STARTUP: content
+#+STARTUP: showall
+# +STARTUP: showeverything
+#+TITLE: Benn - Johannes Weyl
+
+* Weyl, Johannes
+:PROPERTIES:
+:EMPF:     1
+:FROM: Benn
+:TO: Weyl, Johannes
+:CUSTOM_ID: weyl_johannes
+:GEB:      
+:TOD:      
+:END:
+** 1946-07-30 (vor 1946-07-30)
+   :PROPERTIES:
+   :CUSTOM_ID: wer1946-07-30
+   :TRAD:     
+   :END:      
+Erwähnt in #ma1946-07-30.
+**
+*** AB1957
+:PROPERTIES:
+:S: 
+:S_KOM: 
+:END:
+* Benn
+:PROPERTIES:
+:TO: Benn
+:FROM: Werckshagen
+:END:
+
