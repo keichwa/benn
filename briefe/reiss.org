@@ -69,7 +69,8 @@
   :END:
 *** AB1957
 :PROPERTIES:
-:S: 136-39
+:AUSL: t
+:S: 136-40
 :S_KOM: 358-59
 :END:
 
