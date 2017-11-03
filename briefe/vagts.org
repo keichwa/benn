@@ -1,0 +1,50 @@
+#+STARTUP: content
+#+STARTUP: showall
+# +STARTUP: showeverything
+#+TITLE: Benn - Alfred Vagts
+
+* Vagts, Alfred
+:PROPERTIES:
+:EMPF:     1
+:FROM: Benn
+:TO: Vagts, Alfred
+:CUSTOM_ID: vagts_alfred
+:GEB:      
+:TOD:      
+:END:
+** 1947-06-18
+   :PROPERTIES:
+   :CUSTOM_ID: va1947-06-18
+   :TRAD:     
+   :END:      
+*** AB1957
+:PROPERTIES:
+:S: 114-16
+:S_KOM: 355
+:END:
+** 1949-03-06
+   :PROPERTIES:
+   :CUSTOM_ID: va1949-03-06
+   :TRAD:     
+   :END:      
+*** AB1957
+:PROPERTIES:
+:S: 140-42
+:S_KOM: 359
+:END:
+* Benn
+:PROPERTIES:
+:TO: Benn
+:FROM: Vagts, Alfred
+:END:
+** 1947-05-09
+   :PROPERTIES:
+   :TRAD:     
+   :END:
+In [[#va1947-06-18]] erwähnt: "Brief"
+** 1949-03-06 (vor 1949-03-06)
+   :PROPERTIES:
+   :TRAD:     
+   :END:
+In [[#va1949-03-06]] erwähnt: "Zu Ihrem Brief"
+
