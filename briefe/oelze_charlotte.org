@@ -42,6 +42,31 @@
     :FAKS:     
     :S_KOM:    434
     :END:
+** 1949-11-19
+   :PROPERTIES:
+   :CUSTOM_ID: oec1949-11-19
+   :TRAD:
+   :ORT: Berlin
+   :END:
+Beilage.  Hauptbrief an Oelze: [[#oe1949-11-19]].  [[file:oelze.org::#oe1949-11-19][1949-11-19]]
+*** BOe2016
+    :PROPERTIES:
+    :NR:       747
+    :BD:       3
+    :S:        200-01
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    465
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       452
+    :BD:       2
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
 * Benn
 :PROPERTIES:
 :FROM: Oelze, Charlotte
@@ -52,3 +77,49 @@
    :TRAD:     verloren
    :END:
 Erwähnt in [[#oe1939-10-10]].
+** 1949-11-27
+   :PROPERTIES:
+   :CUSTOM_ID: oecb1949-11-27
+   :TRAD:
+   :ORT: Bremen, Oberneuland
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       751
+    :BD:       3
+    :S:        205-06
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    467
+    :END:
+** 1949-12-18 (nach 1949-12-18)
+   :PROPERTIES:
+   :CUSTOM_ID: oecb1949-12-18
+   :TRAD:
+   :ORT: Bremen
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       762
+    :BD:       3
+    :S:        220
+    :AUSL:     
+    :FAKS:     219 (bildseite der postkarte)
+    :S_KOM:    467
+    :END:
+** 1950-02-14
+   :PROPERTIES:
+   :CUSTOM_ID: oecb1950-02-14
+   :TRAD:
+   :ORT: Bremen
+   :END:
+Als beilage zu [[file:oelze.org::#oeb1950-02-16][1950-02-16]].
+*** BOe2016
+    :PROPERTIES:
+    :NR:       786
+    :BD:       3
+    :S:        256
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    488
+    :END:
