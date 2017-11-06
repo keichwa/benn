@@ -1,5 +1,5 @@
-#+STARTUP: content
 #+STARTUP: showall
+#+STARTUP: content
  #+STARTUP: showeverything
 #+TITLE: Benn - Maraun
 
@@ -131,6 +131,17 @@
 :PROPERTIES:
 :S: 122-23
 :S_KOM: 
+:END:
+** 1949-03-07
+  :PROPERTIES:
+  :CUSTOM_ID: ma1949-03-07
+  :TRAD:     
+  :END:
+*** AB1957
+:PROPERTIES:
+:S: 142-43
+:AUSL: t
+:S_KOM: 359-60
 :END:
 * Benn
 :PROPERTIES:
