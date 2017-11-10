@@ -42,6 +42,16 @@
 :S: 135-36
 :S_KOM: 
 :END:
+** 1949-04-17
+   :PROPERTIES:
+   :CUSTOM_ID: fw1949-04-17
+   :TRAD:     
+   :END:      
+*** AB1957
+:PROPERTIES:
+:S: 146-47
+:S_KOM: 360
+:END:
 * Benn
 :PROPERTIES:
 :TO: Benn
