@@ -146,3 +146,10 @@ Als beilage zu [[file:oelze.org::#oeb1950-02-16][1950-02-16]].
     :FAKS:     
     :S_KOM:    488
     :END:
+** 1950-06-19 (vor 1950-06-19)
+   :PROPERTIES:
+   :TRAD:     verloren
+   :END:
+Erwähnt in [[#oe1950-06-19]]: "ich habe Ihrer verehrten Gattin ... für
+Briefe zu danken."
+
