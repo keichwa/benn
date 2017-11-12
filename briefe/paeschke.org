@@ -1,0 +1,35 @@
+#+STARTUP: showall
+#+STARTUP: content
+ #+STARTUP: showeverything
+#+TITLE: Benn - Paeschke
+
+* Paeschke, Hans
+:PROPERTIES:
+:EMPF:     1
+:FROM_All: Benn
+:TO_All: Paeschke, Hans
+:CUSTOM_ID: paeschke_hans_19
+:GEB: 19
+:TOD: 19
+:END:
+** 1949-03-19
+  :PROPERTIES:
+  :CUSTOM_ID: pa1949-03-19
+  :TRAD:     
+  :END:
+*** AB1957
+:PROPERTIES:
+:S: 143-146
+:AUSL: 
+:S_KOM: 360
+:END:
+* Benn
+:PROPERTIES:
+:TO: Benn
+:FROM: Paeschke, Hans
+:END:
+** 1949-03-19 (vor 1949-03-19)
+   :PROPERTIES:
+   :TRAD:     
+   :END:
+In [[#pa1949-03-19]] erwähnt: "2 Briefe".

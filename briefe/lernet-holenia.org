@@ -1,0 +1,42 @@
+#+STARTUP: content
+#+STARTUP: showall
+ #+STARTUP: showeverything
+#+TITLE: Benn - Lernet-Holenia
+
+* Bense, Max
+:PROPERTIES:
+:EMPF:     1
+:FROM_All: Benn
+:TO_All: Lernet-Holenia, Alexander
+:GEB: 1910
+:TOD: 1990
+:END:
+** ?1933-03-17
+  :PROPERTIES:
+  :CUSTOM_ID: bense1933-03-17
+  :TRAD:     
+  :END:
+*** AB1957
+:PROPERTIES:
+:S: 54-55
+:S_KOM: 
+:END:
+* Benn
+:PROPERTIES:
+:TO: Benn
+:FROM: Lernet-Holenia, Alexander
+:END:
+** 1933-05-27
+   :PROPERTIES:
+   :CUSTOM_ID: lh1933-05-27
+   :TRAD:     
+   :ARCHIV: DLA
+   :END:
+Im kommentar zu [[file:oelze.org::#oe1942-04-11][1942-04-11]].
+** 1943-11-10 (vor 1943-11-10)
+   :PROPERTIES:
+   :CUSTOM_ID: lh1943-11-10
+   :TRAD:     
+   :ARCHIV: 
+   :END:
+Erwähnt in [[file:oelze.org::#oe1943-11-10][1943-11-10]].
