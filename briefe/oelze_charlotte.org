@@ -58,11 +58,34 @@ Beilage.  Hauptbrief an Oelze: [[#oe1949-11-19]].  [[file:oelze.org::#oe1949-11-
     :FAKS:     
     :S_KOM:    465
     :END:
-
 *** BOe
     :PROPERTIES:
     :NR:       452
     :BD:       2
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1950-06-09
+   :PROPERTIES:
+   :CUSTOM_ID: oec1950-06-09
+   :TRAD:
+   :ORT: Berlin
+   :END:
+Widmung in roman von B. v. Brentano (Schwestern)
+*** BOe2016
+    :PROPERTIES:
+    :NR:       823
+    :BD:       3
+    :S:        303
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    507
+    :END:
+*** BOe
+    :PROPERTIES:
+    :NR:       486
+    :BD:       3
     :S:        
     :AUSL:     
     :S_KOM:    
