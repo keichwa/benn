@@ -71,6 +71,16 @@
 :S: 132-33
 :S_KOM: 
 :END:
+** 1949-06-28
+  :PROPERTIES:
+  :CUSTOM_ID: ki1949-06-28
+  :TRAD:     
+  :END:
+*** AB1957
+:PROPERTIES:
+:S: 160
+:S_KOM: 363
+:END:
 * Benn
 :PROPERTIES:
 :TO: Benn
@@ -94,11 +104,3 @@ Erwähnt in [[#ki1943-11-06]]: "Mitteilung".
   :TRAD:     verloren
   :END:
 Erwähnt in [[#ki1949-01-22]]: "Ihren freundlichen Brief vom 3 I. ...".
-
-
-
-
-
-
-
-
