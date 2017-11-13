@@ -1,0 +1,32 @@
+#+STARTUP: content
+#+STARTUP: showall
+# +STARTUP: showeverything
+#+TITLE: Benn - Boveri
+
+* Boveri, Margret
+:PROPERTIES:
+:EMPF:     1
+:FROM: Benn
+:TO: Boveri, Margret
+:GEB:
+:TOD:
+:END:
+** 1949-07-23
+   :PROPERTIES:
+   :CUSTOM_ID:       bo1949-07-23
+   :END:
+*** AB1957
+:PROPERTIES:
+:S: 165
+:S_KOM: 363-64
+:END:
+* Benn
+:PROPERTIES:
+:FROM: Boveri, Margret
+:TO: Benn
+:END:
+** 1949-07-18
+   :PROPERTIES:
+   :TRAD:     Q
+   :END:
+In [[#bo1949-07-23]] erwähnt: "Ihren Brief vom 18 VII."
