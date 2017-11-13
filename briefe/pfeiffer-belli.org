@@ -22,15 +22,24 @@
 :S: 69-70
 :S_KOM: 349
 :END:
-
+** 1949-07-03
+  :PROPERTIES:
+  :CUSTOM_ID: pf1949-07-03
+  :TRAD:     
+  :END:
+*** AB1957
+:PROPERTIES:
+:S: 160-62
+:S_KOM: 363
+:END:
 * Benn
 :PROPERTIES:
 :TO: Benn
 :FROM: Pfeiffer-Belli
 :END:
-** 
+** 1949-06-14
    :PROPERTIES:
    :TRAD:     
    :END:
-Erwähnt in [[#]].
+Erwähnt in [[#pf1949-07-03]]: "Ihr Brief vom 14. VI. 49".
 
