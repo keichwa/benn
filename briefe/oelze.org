@@ -17633,3 +17633,34 @@ In [[#oe1950-05-03]] erwähnt.
     :FAKS:     
     :S_KOM:    509
     :END:
+** 1950-06-20
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1950-06-20
+   :TRAD:
+   :ORT: Bremen, Oberneuland
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       829
+    :BD:       3
+    :S:        309-10
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    510
+    :END:
+** 1950-06-25
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1950-06-25
+   :TRAD:
+   :ORT: Bremen, Oberneuland
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       830
+    :BD:       3
+    :S:        310-11
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    510-11
+    :END:
+
