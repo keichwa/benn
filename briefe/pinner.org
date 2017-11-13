@@ -29,7 +29,15 @@
 :S: 119-20
 :S_KOM: 356
 :END:
-
+** 1949-07-16
+   :PROPERTIES:
+   :CUSTOM_ID:       pi1949-07-16
+   :END: 
+*** AB1957
+:PROPERTIES:
+:S: 162-64
+:S_KOM: 363
+:END:
 * Benn
 :PROPERTIES:
 :FROM: Pinner, Erna
@@ -40,3 +48,9 @@
    :TRAD:     Q
    :END:
 In [[#pi1946-11-20]] erwähnt.
+** 1949-07-09
+   :PROPERTIES:
+   :TRAD:     Q
+   :CUSTOM_ID: pib1949-07-09
+   :END:
+In [[#pi1949-07-16]] erwähnt: "Deinen Brief vom 9. VII."
