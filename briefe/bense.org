@@ -63,6 +63,16 @@ Erwähnt in file:briefe/oelze.org::#oe1935-06-04.
 :S: 77-78
 :S_KOM: 350
 :END:
+** 1949-09-09
+  :PROPERTIES:
+  :CUSTOM_ID: bense1949-09-09
+  :TRAD:     
+  :END:
+*** AB1957
+:PROPERTIES:
+:S: 174-76
+:S_KOM: 365
+:END:
 * Benn
 :PROPERTIES:
 :TO: Benn
