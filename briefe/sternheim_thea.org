@@ -81,7 +81,16 @@
 :S: 53-54
 :S_KOM: 346
 :END:
-
+** 1949-08-12
+   :PROPERTIES:
+   :CUSTOM_ID: stt1949-08-12
+   :TRAD:     
+   :END:
+*** AB1957
+:PROPERTIES:
+:S: 167-73
+:S_KOM: 364-65
+:END:
 * Benn
 :PROPERTIES:
 :TO: Benn
@@ -107,11 +116,8 @@ Karte in [[#stt1932-04-16]] erwähnt.
    :TRAD:     
    :END:
 In [[#stt1932-11-19]] erwähnt.
-
-
-
-
-
-
-
-
+** 1949-08-04
+   :PROPERTIES:
+   :TRAD:     
+   :END:
+In [[#stt1949-08-12]] erwähnt: "Ihren Brief vom 4.VIII."
