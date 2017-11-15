@@ -1,0 +1,32 @@
+#+STARTUP: content
+#+STARTUP: showall
+ #+STARTUP: showeverything
+#+TITLE: Benn - Benseler
+
+* Benseler, Frank
+:PROPERTIES:
+:EMPF:     1
+:FROM: Benn
+:TO: Benseler, Frank
+:GEB: 19
+:TOD: 19
+:END:
+** 1949-10-22
+   :PROPERTIES:
+   :CUSTOM_ID: bens1949-10-22
+   :END:      
+*** AB1957
+:PROPERTIES:
+:S: 178
+:S_KOM: 365
+:END:
+* Benn
+:PROPERTIES:
+:FROM: Benseler, Frank
+:TO: Benn
+:END:
+** 1949-10-13
+   :PROPERTIES:
+   :TRAD:     
+   :END:
+In [[#bens1949-10-22]] erwähnt: "Ihren Brief vom 13 X".
