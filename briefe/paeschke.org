@@ -23,6 +23,17 @@
 :AUSL: 
 :S_KOM: 360
 :END:
+** 1949-09-14
+  :PROPERTIES:
+  :CUSTOM_ID: pa1949-09-14
+  :TRAD:     
+  :END:
+*** AB1957
+:PROPERTIES:
+:AUSL: 
+:S: 176-77
+:S_KOM: 365
+:END:
 * Benn
 :PROPERTIES:
 :TO: Benn
