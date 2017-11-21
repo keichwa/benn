@@ -23,6 +23,17 @@
 :AUSL:
 :S_KOM: 357
 :END:
+** 1950-01-09
+  :PROPERTIES:
+  :CUSTOM_ID: cu1950-01-09
+  :TRAD:     
+  :END:
+*** AB1957
+:PROPERTIES:
+:S: 187-88
+:AUSL:
+:S_KOM: 367-68
+:END:
 * Benn
 :PROPERTIES:
 :TO: Benn
@@ -33,3 +44,8 @@
    :TRAD:     
    :END:
 Erwähnt in [[#cu1948-11-25]]: "Übersendung Ihrer Arbeit".
+** 1950-01-06
+   :PROPERTIES:
+   :TRAD:     
+   :END:
+Erwähnt in [[#cu1950-01-06]]: "Ihren Brief vom 6. I. 50.".
