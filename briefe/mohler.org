@@ -23,6 +23,17 @@
 :AUSL:
 :S_KOM: 366-67
 :END:
+** 1950-06-05
+  :PROPERTIES:
+  :CUSTOM_ID: mo1950-06-05
+  :TRAD:     
+  :END:
+*** AB1957
+:PROPERTIES:
+:S: 192
+:AUSL:
+:S_KOM: 369
+:END:
 * Benn
 :PROPERTIES:
 :TO: Benn
