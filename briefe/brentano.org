@@ -29,6 +29,15 @@
 :S: 177-78
 :S_KOM: 
 :END:
+** 1950-05-01
+   :PROPERTIES:
+   :CUSTOM_ID: bren1950-05-01
+   :END:      
+*** AB1957
+:PROPERTIES:
+:S: 190-91
+:S_KOM: 
+:END:
 * Benn
 :PROPERTIES:
 :FROM: Brentano, Bernard von
