@@ -8,9 +8,9 @@
 :EMPF:     1
 :FROM_All: Benn
 :TO_All: Niedermayer, Max
-:CUSTOM_ID: niedermayer_max_1913???
-:GEB: 1903
-:TOD: 1981
+:CUSTOM_ID: niedermayer_max_1905
+:GEB: 1905
+:TOD: 1968
 :END:
 ** 1948-09-17
   :PROPERTIES:
@@ -28,6 +28,17 @@
 :S: 124-27
 :AUSL: t
 :S_KOM: 357
+:END:
+** 1949-12-15
+  :PROPERTIES:
+  :CUSTOM_ID: ni1949-12-15
+  :TRAD:     
+  :END:
+*** AB1957
+:PROPERTIES:
+:S: 184-85
+:AUSL:
+:S_KOM: 367
 :END:
 * Benn
 :PROPERTIES:
