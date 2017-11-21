@@ -1,0 +1,34 @@
+#+STARTUP: content
+#+STARTUP: showall
+# +STARTUP: showeverything
+#+TITLE: Benn - Thilo Koch
+
+* Koch, Thilo
+:PROPERTIES:
+:EMPF:     1
+:FROM: Benn
+:TO: Koch, Thilo
+:CUSTOM_ID: koch_thilo
+:GEB:      
+:TOD:      
+:END:
+* Benn
+:PROPERTIES:
+:TO: Benn
+:FROM: Koch, Thilo
+:END:
+** 1950-05-26
+   :PROPERTIES:
+   :TRAD:     
+   :END:
+*** AB1957
+:PROPERTIES:
+:S: 191-92
+:S_KOM: 369
+:END:
+
+
+
+
+
+
