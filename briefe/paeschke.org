@@ -34,6 +34,17 @@
 :S: 176-77
 :S_KOM: 365
 :END:
+** 1950-04-18
+  :PROPERTIES:
+  :CUSTOM_ID: pa1950-04-18
+  :TRAD:     
+  :END:
+*** AB1957
+:PROPERTIES:
+:AUSL: 
+:S: 189-90
+:S_KOM: 368-69
+:END:
 * Benn
 :PROPERTIES:
 :TO: Benn
@@ -44,3 +55,8 @@
    :TRAD:     
    :END:
 In [[#pa1949-03-19]] erwähnt: "2 Briefe".
+** 1950-04-18 (vor 1950-04-18)
+   :PROPERTIES:
+   :TRAD:     
+   :END:
+In [[#pa1950-04-18]] erwähnt: "vielen Dank für Ihren Brief".
