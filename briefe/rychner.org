@@ -9,7 +9,7 @@
 :FROM_All: Benn
 :TO_All: Rychner, Max
 :GEB: 1897
-:TOD: 
+:TOD: 1965
 :END:
 ** 1930-09-06
   :PROPERTIES:
@@ -31,7 +31,16 @@
 :S: 53
 :S_KOM: 346
 :END:
-
+** 1950-04-10
+  :PROPERTIES:
+  :CUSTOM_ID: ry1950-04-10
+  :TRAD:     
+  :END:
+*** AB1957
+:PROPERTIES:
+:S: 189
+:S_KOM: 368
+:END:
 * Benn
 :PROPERTIES:
 :TO: Benn
