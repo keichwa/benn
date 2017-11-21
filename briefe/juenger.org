@@ -1,0 +1,51 @@
+#+STARTUP: content
+#+STARTUP: showall
+ #+STARTUP: showeverything
+#+TITLE: Benn - Ernst Jünger
+
+* Jünger, Ernst
+:PROPERTIES:
+:EMPF:     1
+:FROM_All: Benn
+:TO_All: Jünger, Ernst
+:CUSTOM_ID: 
+:GEB: 19
+:TOD: 20
+:END:
+** 1949-12-08
+  :PROPERTIES:
+  :CUSTOM_ID: jue1949-12-08
+  :TRAD:
+  :END:
+*** AB1957
+:PROPERTIES:
+:S: 183
+:AUSL:
+:S_KOM: 367
+:END:
+** 1949-12-26
+  :PROPERTIES:
+  :CUSTOM_ID: jue1949-12-26
+  :TRAD:
+  :END:
+*** AB1957
+:PROPERTIES:
+:S: 186
+:AUSL:
+:S_KOM: 367
+:END:
+* Benn
+:PROPERTIES:
+:TO: Benn
+:FROM: Jünger, Ernst
+:END:
+** 1949-12-08 (vor 1949-12-08)
+   :PROPERTIES:
+   :TRAD:     
+   :END:
+Erwähnt in [[#jue1949-12-08]]: "Ihres Buches mit Widmung."
+** 1949-12-20
+   :PROPERTIES:
+   :TRAD:     
+   :END:
+Erwähnt in [[#jue1949-12-26]]: "Ihr Schreiben vom 20. XII. 49."
