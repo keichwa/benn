@@ -1,0 +1,29 @@
+#+STARTUP: content
+#+STARTUP: showall
+# +STARTUP: showeverything
+#+TITLE: Benn - Karl Otten
+
+* Otten, Karl
+:PROPERTIES:
+:EMPF:     1
+:FROM: Benn
+:TO: Otten, Karl
+:CUSTOM_ID: otten_karl
+:GEB:      
+:TOD:      
+:END:
+* Benn
+:PROPERTIES:
+:TO: Benn
+:FROM: Otten, Karl
+:END:
+** 1949-10-26 (vor 1949-10-26)
+   :PROPERTIES:
+   :TRAD:     
+   :END:
+In [[#pi1949-1026]] erwähnt: "Brief"
+
+
+
+
+
