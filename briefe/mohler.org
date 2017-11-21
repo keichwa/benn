@@ -1,0 +1,35 @@
+#+STARTUP: content
+#+STARTUP: showall
+ #+STARTUP: showeverything
+#+TITLE: Benn - Armin Mohler
+
+* Mohler, Armin
+:PROPERTIES:
+:EMPF:     1
+:FROM_All: Benn
+:TO_All: Mohler, Armin
+:CUSTOM_ID: 
+:GEB: 19
+:TOD: 19
+:END:
+** 1949-11-26
+  :PROPERTIES:
+  :CUSTOM_ID: mo1949-11-26
+  :TRAD:     
+  :END:
+*** AB1957
+:PROPERTIES:
+:S: 181-83
+:AUSL:
+:S_KOM: 366-67
+:END:
+* Benn
+:PROPERTIES:
+:TO: Benn
+:FROM: Mohler, Armin
+:END:
+** 1949-11-17
+   :PROPERTIES:
+   :TRAD:     
+   :END:
+Erwähnt in [[#mo1949-11-26]]: "vielen Dank für Ihren Brief vom 17. XI."
