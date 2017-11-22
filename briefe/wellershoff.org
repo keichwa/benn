@@ -1,0 +1,35 @@
+#+STARTUP: content
+#+STARTUP: showall
+ #+STARTUP: showeverything
+#+TITLE: Benn - Wellershoff
+
+* Wellershoff, Dieter
+:PROPERTIES:
+:EMPF:     1
+:FROM_All: Benn
+:TO_All: Wellershoff, Dieter
+:CUSTOM_ID: wellershoff_
+:GEB: 19
+:TOD: 19
+:END:
+** 1950-11-22
+  :PROPERTIES:
+  :CUSTOM_ID: wel1950-11-22
+  :TRAD:     
+  :END:
+*** AB1957
+:PROPERTIES:
+:S: 201-05
+:AUSL:
+:S_KOM: 371
+:END:
+* Benn
+:PROPERTIES:
+:TO: Benn
+:FROM: Wellershoff, Dieter
+:END:
+** 1950-11-22 (vor 1950-11-22)
+   :PROPERTIES:
+   :TRAD:     
+   :END:
+Erwähnt in [[#wel1950-11-22]]: "Ihren Brief".
