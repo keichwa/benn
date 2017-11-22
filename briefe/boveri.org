@@ -20,6 +20,24 @@
 :S: 165
 :S_KOM: 363-64
 :END:
+** 1950-07-22
+   :PROPERTIES:
+   :CUSTOM_ID:       bo1950-07-22
+   :END:
+*** AB1957
+:PROPERTIES:
+:S: 193-94
+:S_KOM: 369
+:END:
+** 1950-07-26
+   :PROPERTIES:
+   :CUSTOM_ID:       bo1950-07-26
+   :END:
+*** AB1957
+:PROPERTIES:
+:S: 194-95
+:S_KOM: 369-70
+:END:
 * Benn
 :PROPERTIES:
 :FROM: Boveri, Margret
