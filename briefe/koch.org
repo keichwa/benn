@@ -19,12 +19,23 @@
 :END:
 ** 1950-05-26
    :PROPERTIES:
-   :TRAD:     
+   :CUSTOM_ID: ko1950-05-26
+   :TRAD: 
    :END:
 *** AB1957
 :PROPERTIES:
 :S: 191-92
 :S_KOM: 369
+:END:
+** 1950-10-12
+   :PROPERTIES:
+   :CUSTOM_ID: ko1950-10-12
+   :TRAD:     
+   :END:
+*** AB1957
+:PROPERTIES:
+:S: 198-99
+:S_KOM: 371
 :END:
 
 
