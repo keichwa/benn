@@ -2,6 +2,8 @@
 #+STARTUP: showall
  #+STARTUP: showeverything
 #+TITLE: Benn - Bense
+# #+COLUMNS: %25ITEM %4GEB %4TOD %7S(Seite) %7S_KOM
+# :COLUMNS: %7S(Seite) %7S_KOM
 
 * Bense, Max
 :PROPERTIES:
@@ -72,6 +74,16 @@ Erwähnt in file:briefe/oelze.org::#oe1935-06-04.
 :PROPERTIES:
 :S: 174-76
 :S_KOM: 365
+:END:
+** 1950-10-12
+  :PROPERTIES:
+  :CUSTOM_ID: bense1950-10-12
+  :TRAD:     
+  :END:
+*** AB1957
+:PROPERTIES:
+:S: 197-98
+:S_KOM: 370-71
 :END:
 * Benn
 :PROPERTIES:
