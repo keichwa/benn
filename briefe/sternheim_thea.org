@@ -91,6 +91,17 @@
 :S: 167-73
 :S_KOM: 364-65
 :END:
+** 1951-02-08
+   :PROPERTIES:
+   :CUSTOM_ID: stt1951-02-08
+   :TRAD:
+   :ORT: Berlin
+   :END:
+*** AB1957
+:PROPERTIES:
+:S: 205-06
+:S_KOM: 371-72
+:END:
 * Benn
 :PROPERTIES:
 :TO: Benn
