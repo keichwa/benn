@@ -8,8 +8,8 @@
 :EMPF:     1
 :FROM_All: Benn
 :TO_All: Wellershoff, Dieter
-:CUSTOM_ID: wellershoff_
-:GEB: 19
+:CUSTOM_ID: wellershoff_dieter_1925
+:GEB: 1925
 :TOD: 19
 :END:
 ** 1950-11-22
