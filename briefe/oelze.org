@@ -12116,6 +12116,54 @@ Widmung in Doppelleben.
     :AUSL:     
     :S_KOM:    
     :END:
+** 1950-09-09
+   :PROPERTIES:
+   :CUSTOM_ID: oe1950-09-09
+   :TRAD:
+   :ORT: Hornbæk
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       867
+    :BD:       3
+    :S:        344-45
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    527-28
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       509
+    :BD:       3
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1950-09-11
+   :PROPERTIES:
+   :CUSTOM_ID: oe1950-09-11
+   :TRAD:
+   :ORT: Hornbæk
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       868
+    :BD:       3
+    :S:        345-47
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    528
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       510
+    :BD:       3
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
 * Benn
 :PROPERTIES:
 :FROM: Oelze, Friedrich Wilhelm
@@ -18371,4 +18419,19 @@ In [[#oe1950-05-03]] erwähnt.
     :AUSL:     
     :FAKS:     
     :S_KOM:    527
+    :END:
+** 1950-09-16
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1950-09-16
+   :TRAD:
+   :ORT: Baden-Baden
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       869
+    :BD:       3
+    :S:        347-49
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    529
     :END:
