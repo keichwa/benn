@@ -12427,6 +12427,101 @@ Widmung in Doppelleben.
     :AUSL:     
     :S_KOM:    
     :END:
+** 1950-11-24
+   :PROPERTIES:
+   :CUSTOM_ID: oe1950-11-24
+   :TRAD:
+   :ORT: Berlin
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       892
+    :BD:       3
+    :S:        373-74
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    539
+    :END:
+*** BOe
+    :PROPERTIES:
+    :NR:       522
+    :BD:       3
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1950-12-14
+   :PROPERTIES:
+   :CUSTOM_ID: oe1950-12-14
+   :TRAD:
+   :ORT: Berlin
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       894
+    :BD:       3
+    :S:        375-76
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    540-41
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       523
+    :BD:       3
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1950-12-18
+   :PROPERTIES:
+   :CUSTOM_ID: oe1950-12-18
+   :TRAD:
+   :ORT: Berlin
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       897
+    :BD:       3
+    :S:        379
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    542
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       524
+    :BD:       3
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1950-12-27
+   :PROPERTIES:
+   :CUSTOM_ID: oe1950-12-27
+   :TRAD:
+   :ORT: Berlin
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       901
+    :BD:       3
+    :S:        382
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    543
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       525
+    :BD:       3
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
 * Benn
 :PROPERTIES:
 :FROM: Oelze, Friedrich Wilhelm
@@ -18862,4 +18957,95 @@ In [[#oe1950-05-03]] erwähnt.
     :AUSL:     
     :FAKS:     
     :S_KOM:    539
+    :END:
+** 1950-11-26
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1950-11-26
+   :TRAD:
+   :ORT: Bremen, Oberneuland
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       893
+    :BD:       3
+    :S:        374-75
+    :AUSL:     
+    :FAKS:     540 (karte, beilage, beschriftet)
+    :S_KOM:    540
+    :END:
+** 1950-12-14
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1950-12-14
+   :TRAD:
+   :ORT: Bremen, Oberneuland
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       895
+    :BD:       3
+    :S:        376
+    :AUSL:     
+    :FAKS:     377 (bildpostkarte, bildseite)
+    :S_KOM:    541
+    :END:
+** 1950-12-17
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1950-12-17
+   :TRAD:
+   :ORT: Bremen, Oberneuland
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       896
+    :BD:       3
+    :S:        376-79
+    :AUSL:     
+    :FAKS:     378 (bildpostkarte, vorder- und rückseite)
+    :S_KOM:    541-42
+    :END:
+** 1950-12-21
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1950-12-21
+   :TRAD:
+   :ORT: Bremen
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       898
+    :BD:       3
+    :S:        380
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    542
+    :END:
+** 1950-12-22
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1950-12-22
+   :TRAD:
+   :ORT: Bremen, Oberneuland
+   :END:
+Mit gruß von Charlotte Oelze.
+*** BOe2016
+    :PROPERTIES:
+    :NR:       899
+    :BD:       3
+    :S:        380-81
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    542-43
+    :END:
+** 1950-12-24
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1950-12-24
+   :TRAD:
+   :ORT: Bremen, Oberneuland
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       900
+    :BD:       3
+    :S:        381
+    :AUSL:     
+    :FAKS:     543 (bildpostkarte, vorderseite, verkleinert)
+    :S_KOM:    543
     :END:
