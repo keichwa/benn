@@ -12164,6 +12164,269 @@ Widmung in Doppelleben.
     :AUSL:     
     :S_KOM:    
     :END:
+** 1950-09-18
+   :PROPERTIES:
+   :CUSTOM_ID: oe1950-09-18
+   :TRAD:
+   :ORT: Berlin
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       870
+    :BD:       3
+    :S:        350
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    529
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       511
+    :BD:       3
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1950-09-27
+   :PROPERTIES:
+   :CUSTOM_ID: oe1950-09-27
+   :TRAD:
+   :ORT: Berlin
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       872
+    :BD:       3
+    :S:        351-52
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    530
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       512
+    :BD:       3
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1950-09-29
+   :PROPERTIES:
+   :CUSTOM_ID: oe1950-09-29
+   :TRAD:
+   :ORT: Berlin
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       874
+    :BD:       3
+    :S:        353
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    531
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       513
+    :BD:       3
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1950-10-06
+   :PROPERTIES:
+   :CUSTOM_ID: oe1950-10-06
+   :TRAD:
+   :ORT: Berlin
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       877
+    :BD:       3
+    :S:        356
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    531
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       514
+    :BD:       3
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1950-10-10
+   :PROPERTIES:
+   :CUSTOM_ID: oe1950-10-10
+   :TRAD:
+   :ORT: Berlin
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       879
+    :BD:       3
+    :S:        358-59
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    532-33
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       515
+    :BD:       3
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1950-10-28
+   :PROPERTIES:
+   :CUSTOM_ID: oe1950-10-28
+   :TRAD:
+   :ORT: Berlin
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       882
+    :BD:       3
+    :S:        362-63
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    535
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       516
+    :BD:       3
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1950-11-02
+   :PROPERTIES:
+   :CUSTOM_ID: oe1950-11-02
+   :TRAD:
+   :ORT: Berlin
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       884
+    :BD:       3
+    :S:        365
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    536
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       517
+    :BD:       3
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1950-11-08
+   :PROPERTIES:
+   :CUSTOM_ID: oe1950-11-08
+   :TRAD:
+   :ORT: Berlin
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       886
+    :BD:       3
+    :S:        367-68
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    537
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       518
+    :BD:       3
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1950-11-13
+   :PROPERTIES:
+   :CUSTOM_ID: oe1950-11-13
+   :TRAD:
+   :ORT: Berlin
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       887
+    :BD:       3
+    :S:        368-69
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    537
+    :END:
+*** BOe
+    :PROPERTIES:
+    :NR:       519
+    :BD:       3
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1950-11-15
+   :PROPERTIES:
+   :CUSTOM_ID: oe1950-11-15
+   :TRAD:
+   :ORT: Berlin
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       889
+    :BD:       3
+    :S:        370-71
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    538
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       520
+    :BD:       3
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1950-11-23
+   :PROPERTIES:
+   :CUSTOM_ID: oe1950-11-23
+   :TRAD:
+   :ORT: Berlin
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       891
+    :BD:       3
+    :S:        373
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    539
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       521
+    :BD:       3
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
 * Benn
 :PROPERTIES:
 :FROM: Oelze, Friedrich Wilhelm
@@ -18434,4 +18697,169 @@ In [[#oe1950-05-03]] erwähnt.
     :AUSL:     
     :FAKS:     
     :S_KOM:    529
+    :END:
+** 1950-09-24
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1950-09-24
+   :TRAD:
+   :ORT: Baden-Baden
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       871
+    :BD:       3
+    :S:        350-51
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    529-30
+    :END:
+** 1950-09-27
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1950-09-27
+   :TRAD:
+   :ORT: Baden-Baden
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       873
+    :BD:       3
+    :S:        352
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    530-31
+    :END:
+** 1950-09-29
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1950-09-29
+   :TRAD:
+   :ORT: Baden-Baden
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       875
+    :BD:       3
+    :S:        535-54
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    531
+    :END:
+** 1950-10-02
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1950-10-02
+   :TRAD:
+   :ORT: Baden-Baden
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       876
+    :BD:       3
+    :S:        354
+    :AUSL:     
+    :FAKS:     355 (postkarte, vorderseite)
+    :S_KOM:    531
+    :END:
+** 1950-10-08
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1950-10-08
+   :TRAD:
+   :ORT: Bremen, Oberneuland
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       878
+    :BD:       3
+    :S:        356-58
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    531-32
+    :END:
+** 1950-10-18
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1950-10-18
+   :TRAD:
+   :ORT: Bremen, Oberneuland
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       880
+    :BD:       3
+    :S:        359-61
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    534
+    :END:
+** 1950-10-25
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1950-10-25
+   :TRAD:
+   :ORT: Bremen, Oberneuland
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       881
+    :BD:       3
+    :S:        361-62
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    534-35
+    :END:
+** 1950-10-29
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1950-10-29
+   :TRAD:
+   :ORT: Bremen, Oberneuland
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       883
+    :BD:       3
+    :S:        363-64
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    535-36
+    :END:
+** 1950-11-06
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1950-11-06
+   :TRAD:
+   :ORT: Bremen, Oberneuland
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       885
+    :BD:       3
+    :S:        365-67
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    536
+    :END:
+** 1950-11-13
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1950-11-13
+   :TRAD:
+   :ORT: Bremen, Oberneuland
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       888
+    :BD:       3
+    :S:        369-70
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    537-38
+    :END:
+** 1950-11-21
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1950-11-21
+   :TRAD:
+   :ORT: Bremen, Oberneuland
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       890
+    :BD:       3
+    :S:        371-73
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    539
     :END:
