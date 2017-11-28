@@ -1,0 +1,55 @@
+#+STARTUP: content
+#+STARTUP: showall
+ #+STARTUP: showeverything
+#+TITLE: Benn - Reiss-Jacobi
+
+* Reiss-Jacobi, Lotte
+:PROPERTIES:
+:EMPF:     1
+:FROM_All: Benn
+:TO_All: Reiss-Jacobi, Lotte
+:CUSTOM_ID: 
+:GEB: 1
+:TOD: 19
+:END:
+** 1951-05-15
+  :PROPERTIES:
+  :CUSTOM_ID: rej1951-05-15
+  :ORT:      
+  :TRAD:     
+  :END:
+*** AB1957
+:PROPERTIES:
+:AUSL:
+:S: 216-17
+:S_KOM: 373
+:END:
+** 1952-01-24
+  :PROPERTIES:
+  :CUSTOM_ID: rej1952-01-24
+  :ORT:      Berlin
+  :TRAD:     
+  :END:
+*** AB1957
+:PROPERTIES:
+:AUSL:
+:S: 223
+:S_KOM:
+:END:
+* Benn
+:PROPERTIES:
+:TO: Benn
+:FROM: Reiss-Jacobi, Lotte
+:END:
+** 1951-05-15 (vor 1951-05-15)
+   :PROPERTIES:
+   :CUSTOM_ID: rejb1951-05-15
+   :TRAD:     
+   :END:
+Erwähnt in [[#rej1951-05-15]]: "Nachricht [...], die Sie mir schickten."
+** 1952-01-01 (vor 1952-01-01)
+   :PROPERTIES:
+   :CUSTOM_ID: rejb1952-01-01
+   :TRAD:     
+   :END:
+Erwähnt in [[#rej1952-01-24]]: "Ihren Glückwunsch zu Neujahr."
