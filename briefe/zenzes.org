@@ -232,7 +232,6 @@ Widmung in "Gesammelte Schriften".
 :S: 134
 :S_KOM:
 :END:
-
 ** 1949-06-25
    :PROPERTIES:
    :CUSTOM_ID: ze1949-06-25
@@ -244,7 +243,18 @@ Widmung in "Gesammelte Schriften".
 :S: 
 :S_KOM: 
 :END:
-
+** 1951-04-23
+   :PROPERTIES:
+   :CUSTOM_ID: ze1951-04-23
+   :ORT:      Berlin
+   :TRAD:     
+   :END:
+*** AB1957
+:PROPERTIES:
+:AUSL: 
+:S: 214-15
+:S_KOM:
+:END:
 * Benn
 :PROPERTIES:
 :TO: Benn
