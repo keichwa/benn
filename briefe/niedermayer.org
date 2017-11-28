@@ -40,6 +40,17 @@
 :AUSL:
 :S_KOM: 367
 :END:
+** 1951-12-01
+  :PROPERTIES:
+  :CUSTOM_ID: ni1951-12-01
+  :TRAD:     
+  :END:
+*** AB1957
+:PROPERTIES:
+:S: 221-22
+:AUSL:
+:S_KOM: 373-74
+:END:
 * Benn
 :PROPERTIES:
 :TO: Benn
