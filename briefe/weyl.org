@@ -43,6 +43,17 @@ Eigentlich an den Südverlag Weyl.
 :S: 100-02
 :S_KOM: 353
 :END:
+** 1951-04-23
+   :PROPERTIES:
+   :CUSTOM_ID: we1951-04-23
+   :ORT:      Berlin
+   :TRAD:     
+   :END:      
+*** AB1957
+:PROPERTIES:
+:S: 213-14
+:S_KOM: 
+:END:
 * Benn
 :PROPERTIES:
 :TO: Benn
