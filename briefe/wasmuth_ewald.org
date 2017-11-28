@@ -60,8 +60,20 @@ Auch an Ewald Wasmuth, Sophias ([[#wasmuth_sophia_]]) Ehemann. Siehe [[was1929-0
    :END:   
 *** AB1957
 :PROPERTIES:
-:S: 208-210
+:AUSL: t
+:S: 208-10
 :S_KOM: 372
+:END:
+** 1951-04-22
+   :PROPERTIES:
+   :ORT: Berlin
+   :CUSTOM_ID: wae1951-04-22
+   :END:   
+*** AB1957
+:PROPERTIES:
+:AUSL: 
+:S: 212-13
+:S_KOM: 372-73
 :END:
 * Benn
 :PROPERTIES:
@@ -83,3 +95,8 @@ Erwähnt in [[#wae1936-10-18]]: "Brief".
    :TRAD:
    :END:
 Erwähnt in [[#wae1951-03-27]]: "mir geschrieben [...] haben."
+** 1951-04-22 (vor 1951-04-22)
+   :PROPERTIES:
+   :TRAD:
+   :END:
+Erwähnt in [[#wae1951-04-22]]: "vielen Dank für die Nachricht".
