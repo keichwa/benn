@@ -68,6 +68,18 @@
 :AUSL:
 :S_KOM: 
 :END:
+** 1951-11-19
+  :PROPERTIES:
+  :CUSTOM_ID: jue1951-11-19
+  :ORT: Berlin     
+  :TRAD:
+  :END:
+*** AB1957
+:PROPERTIES:
+:S: 220
+:AUSL:
+:S_KOM: 
+:END:
 * Benn
 :PROPERTIES:
 :TO: Benn
@@ -104,3 +116,8 @@ Erwähnt in [[#jue1950-08-14]]: "Ihren Brief".
    :TRAD:     
    :END:
 Erwähnt in [[#jue1951-05-05]]: "Die Karte von Ihren, [...]".
+** 1951-11-17
+   :PROPERTIES:
+   :TRAD:     
+   :END:
+Erwähnt in [[#jue1951-11-19]]: "Ihren Brief vom 17 XI." [und weitere?]
