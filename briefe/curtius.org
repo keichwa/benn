@@ -45,6 +45,18 @@
 :AUSL:
 :S_KOM: 371
 :END:
+** 1951-02-28
+  :PROPERTIES:
+  :CUSTOM_ID: cu1951-02-28
+  :TRAD:     
+  :ORT:      Berlin
+  :END:
+*** AB1957
+:PROPERTIES:
+:S: 207-08
+:AUSL:
+:S_KOM: 372
+:END:
 * Benn
 :PROPERTIES:
 :TO: Benn
@@ -59,4 +71,9 @@ Erwähnt in [[#cu1948-11-25]]: "Übersendung Ihrer Arbeit".
    :PROPERTIES:
    :TRAD:     
    :END:
-Erwähnt in [[#cu1950-01-06]]: "Ihren Brief vom 6. I. 50.".
+Erwähnt in [[#cu1950-01-09]]: "Ihren Brief vom 6. I. 50.".
+** 1951-02-28 (vor 1951-02-28)
+   :PROPERTIES:
+   :TRAD:     
+   :END:
+Erwähnt in [[#cu1951-02-28]]: "für Ihren Brief".
