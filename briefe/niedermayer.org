@@ -51,6 +51,18 @@
 :AUSL:
 :S_KOM: 373-74
 :END:
+** 1951-12-14
+  :PROPERTIES:
+  :CUSTOM_ID: ni1951-12-14
+  :ORT:      Berlin
+  :TRAD:     
+  :END:
+*** AB1957
+:PROPERTIES:
+:S: 222
+:AUSL:
+:S_KOM: 374
+:END:
 * Benn
 :PROPERTIES:
 :TO: Benn
