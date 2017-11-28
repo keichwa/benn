@@ -102,6 +102,28 @@
 :S: 205-06
 :S_KOM: 371-72
 :END:
+** 1951-02-09
+   :PROPERTIES:
+   :CUSTOM_ID: stt1951-02-09
+   :TRAD:
+   :ORT: Berlin
+   :END:
+*** AB1957
+:PROPERTIES:
+:S: 206
+:S_KOM:
+:END:
+** 1951-04-04
+   :PROPERTIES:
+   :CUSTOM_ID: stt1951-04-04
+   :TRAD:
+   :ORT: Berlin
+   :END:
+*** AB1957
+:PROPERTIES:
+:S: 210
+:S_KOM: 372
+:END:
 * Benn
 :PROPERTIES:
 :TO: Benn
@@ -132,3 +154,8 @@ In [[#stt1932-11-19]] erwähnt.
    :TRAD:     
    :END:
 In [[#stt1949-08-12]] erwähnt: "Ihren Brief vom 4.VIII."
+** 1951-04-04 (vor 1951-04-04)
+   :PROPERTIES:
+   :TRAD:     
+   :END:
+In [[#stt1951-04-04]] erwähnt: "Ihre Karte."
