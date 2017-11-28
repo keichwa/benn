@@ -34,6 +34,40 @@
 :AUSL:
 :S_KOM: 367
 :END:
+** 1950-07-04
+  :PROPERTIES:
+  :CUSTOM_ID: jue1950-07-04
+  :TRAD:
+  :END:
+*** AB1957
+:PROPERTIES:
+:S: 193
+:AUSL:
+:S_KOM: 369
+:END:
+** 1950-08-14
+  :PROPERTIES:
+  :CUSTOM_ID: jue1950-08-14
+  :TRAD:
+  :END:
+*** AB1957
+:PROPERTIES:
+:S: 195-96
+:AUSL:
+:S_KOM: 370
+:END:
+** 1951-05-05
+  :PROPERTIES:
+  :CUSTOM_ID: jue1951-05-05
+  :ORT: Berlin     
+  :TRAD:
+  :END:
+*** AB1957
+:PROPERTIES:
+:S: 215-16
+:AUSL:
+:S_KOM: 
+:END:
 * Benn
 :PROPERTIES:
 :TO: Benn
@@ -49,3 +83,24 @@ Erwähnt in [[#jue1949-12-08]]: "Ihres Buches mit Widmung."
    :TRAD:     
    :END:
 Erwähnt in [[#jue1949-12-26]]: "Ihr Schreiben vom 20. XII. 49."
+** 1950-07-04 (vor 1950-07-04)
+   :PROPERTIES:
+   :TRAD:   
+   :END:
+Erwähnt in [[#jue1950-07-04]]: "Ihre freundliche Karte."
+*** AB1957
+:PROPERTIES:
+:S: -
+:AUSL:
+:S_KOM: 369
+:END:
+** 1950-08-14 (vor 1950-08-14)
+   :PROPERTIES:
+   :TRAD:     
+   :END:
+Erwähnt in [[#jue1950-08-14]]: "Ihren Brief".
+** 1951-05-05 (vor 1951-05-05)
+   :PROPERTIES:
+   :TRAD:     
+   :END:
+Erwähnt in [[#jue1951-05-05]]: "Die Karte von Ihren, [...]".
