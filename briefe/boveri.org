@@ -38,6 +38,15 @@
 :S: 194-95
 :S_KOM: 369-70
 :END:
+** 1951-11-20
+   :PROPERTIES:
+   :CUSTOM_ID:       bo1951-11-20
+   :END:
+*** AB1957
+:PROPERTIES:
+:S: 221
+:S_KOM: 373
+:END:
 * Benn
 :PROPERTIES:
 :FROM: Boveri, Margret
@@ -48,3 +57,8 @@
    :TRAD:     Q
    :END:
 In [[#bo1949-07-23]] erwähnt: "Ihren Brief vom 18 VII."
+** 1951-11-20 (vor 1951-11-20)
+   :PROPERTIES:
+   :TRAD:     Q
+   :END:
+In [[#bo1951-11-20]] erwähnt: "danke für die Einladung."
