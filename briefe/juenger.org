@@ -80,6 +80,18 @@
 :AUSL:
 :S_KOM: 
 :END:
+** 1952-03-16
+  :PROPERTIES:
+  :CUSTOM_ID: jue1952-03-16
+  :ORT: Berlin     
+  :TRAD:
+  :END:
+*** AB1957
+:PROPERTIES:
+:S: 230
+:AUSL: ?
+:S_KOM: 375
+:END:
 * Benn
 :PROPERTIES:
 :TO: Benn
@@ -121,3 +133,8 @@ Erwähnt in [[#jue1951-05-05]]: "Die Karte von Ihren, [...]".
    :TRAD:     
    :END:
 Erwähnt in [[#jue1951-11-19]]: "Ihren Brief vom 17 XI." [und weitere?]
+** 1952-03-16 (vor 1952-03-16)
+   :PROPERTIES:
+   :TRAD:     
+   :END:
+Erwähnt in [[#jue1952-03-16]]: "Ihre Karte aus Basel."
