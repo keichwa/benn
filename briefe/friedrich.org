@@ -28,6 +28,17 @@ Erwähnt in [[#fr1948-12-12]]: "mein Telegramm".
 :S: 130-31
 :S_KOM: 358
 :END:
+** 1952-05-23
+   :PROPERTIES:
+   :CUSTOM_ID: fr1952-05-23
+   :TRAD:     
+   :ORT:      Berlin
+   :END:      
+*** AB1957
+:PROPERTIES:
+:S: 233
+:S_KOM: 376
+:END:
 * Benn
 :PROPERTIES:
 :TO: Benn
