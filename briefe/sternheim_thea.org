@@ -124,6 +124,39 @@
 :S: 210
 :S_KOM: 372
 :END:
+** 1952-06-05
+   :PROPERTIES:
+   :CUSTOM_ID: stt1952-06-05
+   :TRAD:
+   :ORT: [Berlin]
+   :END:
+*** AB1957
+:PROPERTIES:
+:S: 234-35
+:S_KOM: 
+:END:
+** 1952-06-07
+   :PROPERTIES:
+   :CUSTOM_ID: stt1952-06-07
+   :TRAD:
+   :ORT: 
+   :END:
+*** AB1957
+:PROPERTIES:
+:S: 235
+:S_KOM: 376
+:END:
+** 1952-06-10
+   :PROPERTIES:
+   :CUSTOM_ID: stt1952-06-10
+   :TRAD:
+   :ORT: 
+   :END:
+*** AB1957
+:PROPERTIES:
+:S: 236
+:S_KOM:
+:END:
 * Benn
 :PROPERTIES:
 :TO: Benn
