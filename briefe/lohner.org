@@ -1,0 +1,36 @@
+#+STARTUP: content
+#+STARTUP: showall
+ #+STARTUP: showeverything
+#+TITLE: Benn - Lohner
+
+* Lohner, Edgar
+:PROPERTIES:
+:EMPF:     1
+:FROM_All: Benn
+:TO_All: Lohner, Edgar
+:CUSTOM_ID: lohner_edgar
+:GEB: 19
+:TOD: 19
+:END:
+** 1952-02-19
+  :PROPERTIES:
+  :CUSTOM_ID: lo1952-02-19
+  :ORT:      Berlin
+  :TRAD:     
+  :END:
+*** AB1957
+:PROPERTIES:
+:S: 226-28
+:AUSL: t
+:S_KOM: 374-75
+:END:
+* Benn
+:PROPERTIES:
+:TO: Benn
+:FROM: Lohner, Edgar
+:END:
+** 1952-02-11
+   :PROPERTIES:
+   :TRAD:     
+   :END:
+Erwähnt in [[#lo1952-02-19]]: "Ihren Brief vom 11. Februar."
