@@ -41,6 +41,16 @@
 :S: 189
 :S_KOM: 368
 :END:
+** 1952-12-21
+  :PROPERTIES:
+  :CUSTOM_ID: ry1952-12-21
+  :TRAD:     
+  :END:
+*** AB1957
+:PROPERTIES:
+:S: 242
+:S_KOM:
+:END:
 * Benn
 :PROPERTIES:
 :TO: Benn
