@@ -1,0 +1,32 @@
+#+STARTUP: content
+#+STARTUP: showall
+ #+STARTUP: showeverything
+#+TITLE: Benn - Holthusen
+
+* Holthusen, Hans Egon
+:PROPERTIES:
+:EMPF:     1
+:FROM_All: Benn
+:TO_All: Holthusen, Hans Egon
+:CUSTOM_ID: holthusen_hans_egon
+:GEB: 19
+:TOD: 19
+:END:
+** 1952-04-19
+  :PROPERTIES:
+  :CUSTOM_ID: ho1952-04-19
+  :ORT:      [München]
+  :TRAD:     
+  :END:
+*** AB1957
+:PROPERTIES:
+:S: 230-31
+:AUSL: 
+:S_KOM: 375-76
+:END:
+* Benn
+:PROPERTIES:
+:TO: Benn
+:FROM: Holthusen, Hans Egon
+:END:
+
