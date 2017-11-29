@@ -45,6 +45,29 @@
 :S: 189-90
 :S_KOM: 368-69
 :END:
+** 1950-08-28
+  :PROPERTIES:
+  :CUSTOM_ID: pa1950-08-28
+  :TRAD:     
+  :END:
+*** AB1957
+:PROPERTIES:
+:AUSL: t
+:S: 196-97
+:S_KOM: 370
+:END:
+** 1952-04-29
+  :PROPERTIES:
+  :CUSTOM_ID: pa1952-04-29
+  :TRAD:     
+  :END:
+*** AB1957
+:PROPERTIES:
+:ORT: Berlin
+:AUSL: 
+:S: 231-32
+:S_KOM: 
+:END:
 * Benn
 :PROPERTIES:
 :TO: Benn
@@ -60,3 +83,13 @@ In [[#pa1949-03-19]] erwähnt: "2 Briefe".
    :TRAD:     
    :END:
 In [[#pa1950-04-18]] erwähnt: "vielen Dank für Ihren Brief".
+** 1950-08-28 (vor 1950-08-28)
+   :PROPERTIES:
+   :TRAD:     
+   :END:
+In [[#pa1950-08-28]] erwähnt: "vielen Dank für Karte und Brief.".
+** 1952-04-25
+   :PROPERTIES:
+   :TRAD:     
+   :END:
+In [[#pa1952-04-29]] erwähnt: "Ihren handschriftlichen Brief vom 25. IV."
