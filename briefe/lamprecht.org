@@ -1,0 +1,36 @@
+#+STARTUP: content
+#+STARTUP: showall
+ #+STARTUP: showeverything
+#+TITLE: Benn - Lamprecht
+
+* Lamprecht, Helmut
+:PROPERTIES:
+:EMPF:     1
+:FROM_All: Benn
+:TO_All: Lamprecht, Helmut
+:CUSTOM_ID: lamprecht_helmut
+:GEB: 19
+:TOD: 19
+:END:
+** 1952-03-04
+  :PROPERTIES:
+  :CUSTOM_ID: la1952-03-04
+  :ORT:      Berlin
+  :TRAD:     
+  :END:
+*** AB1957
+:PROPERTIES:
+:S: 229
+:AUSL: t
+:S_KOM: 375
+:END:
+* Benn
+:PROPERTIES:
+:TO: Benn
+:FROM: Lamprecht, Helmut
+:END:
+** 1952-02-20
+   :PROPERTIES:
+   :TRAD:     
+   :END:
+Erwähnt in [[#la1952-03-04]]: "Ihr Schreiben vom 20. 2. 52".
