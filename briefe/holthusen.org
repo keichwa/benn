@@ -24,9 +24,26 @@
 :AUSL: 
 :S_KOM: 375-76
 :END:
+** 1952-12-09
+  :PROPERTIES:
+  :CUSTOM_ID: ho1952-12-09
+  :ORT:      Berlin
+  :TRAD:     
+  :END:
+*** AB1957
+:PROPERTIES:
+:S: 240-41
+:AUSL: 
+:S_KOM: 377
+:END:
 * Benn
 :PROPERTIES:
 :TO: Benn
 :FROM: Holthusen, Hans Egon
 :END:
+** 1952-12-09 (vor 1952-12-09)
+   :PROPERTIES:
+   :TRAD:     
+   :END:
+In [[#ho1952-12-09]] erwähnt: "daß Sie mir geschrieben haben".
 
