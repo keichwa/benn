@@ -68,6 +68,18 @@
 :S: 231-32
 :S_KOM: 
 :END:
+** 1952-07-17
+  :PROPERTIES:
+  :CUSTOM_ID: pa1952-07-17
+  :TRAD:     
+  :END:
+*** AB1957
+:PROPERTIES:
+:ORT: Berlin
+:AUSL: 
+:S: 237
+:S_KOM: 376 
+:END:
 * Benn
 :PROPERTIES:
 :TO: Benn
