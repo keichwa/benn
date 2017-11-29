@@ -92,6 +92,18 @@
 :AUSL: ?
 :S_KOM: 375
 :END:
+** 1952-06-04
+  :PROPERTIES:
+  :CUSTOM_ID: jue1952-06-04
+  :ORT: Berlin     
+  :TRAD:
+  :END:
+*** AB1957
+:PROPERTIES:
+:S: 234
+:AUSL: 
+:S_KOM: 376
+:END:
 * Benn
 :PROPERTIES:
 :TO: Benn
