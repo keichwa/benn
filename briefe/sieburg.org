@@ -1,0 +1,49 @@
+#+STARTUP: content
+#+STARTUP: showall
+ #+STARTUP: showeverything
+#+TITLE: Benn - Sieburg
+
+* Sieburg, Friedrich
+:PROPERTIES:
+:EMPF:     1
+:FROM_All: Benn
+:TO_All: Sieburg, Friedrich
+:CUSTOM_ID:  sieburg_friedrich
+:GEB: 19
+:TOD: 19
+:END:
+** 1952-07-02
+  :PROPERTIES:
+  :CUSTOM_ID: si1952-07-02
+  :ORT:      Berlin
+  :TRAD:     
+  :END:
+*** AB1957
+:PROPERTIES:
+:S: 236
+:AUSL: 
+:S_KOM: 376
+:END:
+** 1952-08-26
+  :PROPERTIES:
+  :CUSTOM_ID: si1952-08-26
+  :ORT:      Berlin
+  :TRAD:     
+  :END:
+*** AB1957
+:PROPERTIES:
+:S: 237
+:AUSL: 
+:S_KOM: 376
+:END:
+* Benn
+:PROPERTIES:
+:TO: Benn
+:FROM: Sieburg, Friedrich
+:END:
+** 1952-06-29
+   :PROPERTIES:
+   :TRAD:     
+   :END:
+In [[#si1952-07-02]] erwähnt: "Ihren reizenden Brief vom 29. VI."
+
