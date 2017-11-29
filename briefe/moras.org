@@ -1,0 +1,54 @@
+#+STARTUP: content
+#+STARTUP: showall
+ #+STARTUP: showeverything
+#+TITLE: Benn - Moras
+
+* Moras, Joachim
+:PROPERTIES:
+:EMPF:     1
+:FROM_All: Benn
+:TO_All: Moras, Joachim
+:CUSTOM_ID:  moras_joachim
+:GEB: 19
+:TOD: 19
+:END:
+** 1952-09-22
+  :PROPERTIES:
+  :CUSTOM_ID: mor1952-09-22
+  :ORT:      Berlin
+  :TRAD:     
+  :END:
+*** AB1957
+:PROPERTIES:
+:S: 238-39
+:AUSL: 
+:S_KOM: 376-77
+:END:
+** 1952-11-03
+  :PROPERTIES:
+  :CUSTOM_ID: mor1952-11-03
+  :ORT:      Berlin
+  :TRAD:     
+  :END:
+*** AB1957
+:PROPERTIES:
+:S: 239-40
+:AUSL: t
+:S_KOM: 
+:END:
+* Benn
+:PROPERTIES:
+:TO: Benn
+:FROM: Moras, Joachim
+:END:
+** 1952-09-15
+   :PROPERTIES:
+   :TRAD:     
+   :END:
+In [[#mor1952-09-22]] erwähnt: "Ihren freundlichen Brief vom 15. 9. 1952."
+** 1952-10-31
+   :PROPERTIES:
+   :TRAD:     
+   :END:
+In [[#mor1952-11-03]] erwähnt: "ein so netter Brief wie der von Ihren vom 31. X".
+
