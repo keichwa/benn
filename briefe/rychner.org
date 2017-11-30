@@ -51,6 +51,18 @@
 :S: 242
 :S_KOM:
 :END:
+** 1953-03-29
+  :PROPERTIES:
+  :CUSTOM_ID: ry1953-03-29
+  :ORT:      Zürich
+  :TRAD:     
+  :END:
+Auf Züricher Briefpapier.
+*** AB1957
+:PROPERTIES:
+:S: 247-48
+:S_KOM:
+:END:
 * Benn
 :PROPERTIES:
 :TO: Benn
