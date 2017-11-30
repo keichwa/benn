@@ -39,6 +39,17 @@ Erwähnt in [[#fr1948-12-12]]: "mein Telegramm".
 :S: 233
 :S_KOM: 376
 :END:
+** 1953-03-01
+   :PROPERTIES:
+   :CUSTOM_ID: fr1953-03-01
+   :TRAD:     
+   :ORT:      Berlin
+   :END:      
+*** AB1957
+:PROPERTIES:
+:S: 245
+:S_KOM: 378
+:END:
 * Benn
 :PROPERTIES:
 :TO: Benn
@@ -48,6 +59,11 @@ Erwähnt in [[#fr1948-12-12]]: "mein Telegramm".
    :PROPERTIES:
    :TRAD:     
    :END:
-In [[#fr1948-12-12]] erwähnt: "Ihren ... Brief vom 28 X."
+In [[#fr1948-12-12]] erwähnt: "Ihren [...] Brief vom 28 X."
+** 1953-02-24
+   :PROPERTIES:
+   :TRAD:     
+   :END:
+In [[#fr1953-03-01]] erwähnt: "Ihren Brief vom 24. II."
 
 
