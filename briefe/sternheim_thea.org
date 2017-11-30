@@ -168,6 +168,17 @@
 :S: 241
 :S_KOM: 377
 :END:
+** 1953-03-07
+   :PROPERTIES:
+   :CUSTOM_ID: stt1953-03-07
+   :TRAD:
+   :ORT: 
+   :END:
+*** AB1957
+:PROPERTIES:
+:S: 246
+:S_KOM: 378
+:END:
 * Benn
 :PROPERTIES:
 :TO: Benn
@@ -203,3 +214,8 @@ In [[#stt1949-08-12]] erwähnt: "Ihren Brief vom 4.VIII."
    :TRAD:     
    :END:
 In [[#stt1951-04-04]] erwähnt: "Ihre Karte."
+** 1953-05-03
+   :PROPERTIES:
+   :TRAD:     
+   :END:
+In [[#stt1953-03-07]] erwähnt: "Ihren freundlichen Brief vom 5 III."
