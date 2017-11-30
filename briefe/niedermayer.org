@@ -87,6 +87,30 @@
 :AUSL:
 :S_KOM:
 :END:
+** 1953-01-28
+  :PROPERTIES:
+  :CUSTOM_ID: ni1953-01-28
+  :ORT:      [Berlin]
+  :TRAD:     
+  :END:
+*** AB1957
+:PROPERTIES:
+:S: 243
+:AUSL:
+:S_KOM: 377
+:END:
+** 1953-02-04
+  :PROPERTIES:
+  :CUSTOM_ID: ni1953-02-04
+  :ORT:      
+  :TRAD:     
+  :END:
+*** AB1957
+:PROPERTIES:
+:S: 243-44
+:AUSL:
+:S_KOM: 377
+:END:
 * Benn
 :PROPERTIES:
 :TO: Benn
