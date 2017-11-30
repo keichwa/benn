@@ -1,0 +1,33 @@
+#+STARTUP: content
+#+STARTUP: showall
+ #+STARTUP: showeverything
+#+TITLE: Benn - Siems
+
+* Siems, Friedrich
+:PROPERTIES:
+:EMPF:     1
+:FROM_All: Benn
+:TO_All: Siems, Friedrich
+:CUSTOM_ID:  siems_friedrich
+:GEB: 19
+:TOD: 19
+:END:
+** 1953-05-18
+  :PROPERTIES:
+  :CUSTOM_ID: sie1953-05-18
+  :ORT:      Berlin
+  :TRAD:     
+  :END:
+*** AB1957
+:PROPERTIES:
+:S: 248-51
+:AUSL: 
+:S_KOM: 378
+:END:
+* Benn
+:PROPERTIES:
+:TO: Benn
+:FROM: Siems, Friedrich
+:END:
+
+
