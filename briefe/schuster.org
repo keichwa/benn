@@ -33,4 +33,15 @@ Widmung in "Spaltung".
 :S_KOM: 351
 :END:
 Auch an [[file:kraus.org::#kraus_else_c_][Kraus, Else C.]] Partnerin. Siehe [[file:kraus.org::#kr1945-11-18][1945-11-18]]
-
+** 1953-07-16
+   :PROPERTIES:
+   :CUSTOM_ID: schu1953-07-16
+   :TRAD:     
+   :ORT:      Berlin
+   :END:      
+*** AB1957
+:PROPERTIES:
+:S: 251-52
+:S_KOM: 378-79
+:END:
+Auch an [[file:kraus.org::#kraus_else_c_][Kraus, Else C.]] Partnerin. Siehe [[file:kraus.org::#kr1953-07-16][1953-07-16]]
