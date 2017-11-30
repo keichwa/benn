@@ -104,6 +104,19 @@
 :AUSL: 
 :S_KOM: 376
 :END:
+** 1953-03-27
+  :PROPERTIES:
+  :CUSTOM_ID: jue1953-03-27
+  :ORT: Genf[?]
+  :TRAD:
+  :END:
+Auf Genfer Briefpapier.
+*** AB1957
+:PROPERTIES:
+:S: 247
+:AUSL: 
+:S_KOM: 378
+:END:
 * Benn
 :PROPERTIES:
 :TO: Benn
