@@ -1,0 +1,29 @@
+#+STARTUP: showall
+#+STARTUP: content
+ #+STARTUP: showeverything
+#+TITLE: Benn - Else Maraun
+
+* Maraun, Frank
+:PROPERTIES:
+:EMPF:     1
+:FROM_All: Benn
+:TO_All: Maraun, else
+:CUSTOM_ID: maraun_else
+:GEB: 19
+:TOD: 19
+:END:
+** 19
+  :PROPERTIES:
+  :CUSTOM_ID: mae
+  :TRAD:     
+  :END:
+* Benn
+:PROPERTIES:
+:TO: Benn
+:FROM: Maraun, Else
+:END:
+** 1947-09-25 (vor 1947-09-25)
+   :PROPERTIES:
+   :TRAD:     
+   :END:
+Erwähnt in [[#ma1949-11-20]]: "Frau Else für ihren Brief.".

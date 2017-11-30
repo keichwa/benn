@@ -1,0 +1,35 @@
+#+STARTUP: showall
+#+STARTUP: content
+ #+STARTUP: showeverything
+#+TITLE: Benn - Krämer-Badoni
+
+* Krämer-Badoni, Rudolf
+:PROPERTIES:
+:EMPF:     1
+:FROM_All: Benn
+:TO_All: Krämer-Badoni, Rudolf
+:CUSTOM_ID: kraemer-badoni_19
+:GEB: 1913-12-22
+:TOD: 1989-09-18
+:END:
+** 1949-08-02
+  :PROPERTIES:
+  :CUSTOM_ID: kr1949-08-02
+  :TRAD:     
+  :END:
+*** AB1957
+:PROPERTIES:
+:S: 166-67
+:AUSL: 
+:S_KOM: 364
+:END:
+* Benn
+:PROPERTIES:
+:TO: Benn
+:FROM: Krämer-Badoni, Rudolf
+:END:
+** 1949-
+   :PROPERTIES:
+   :TRAD:     
+   :END:
+In [[#]] erwähnt: "2 Briefe".

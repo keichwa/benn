@@ -73,7 +73,25 @@
 :S: 136-40
 :S_KOM: 358-59
 :END:
-
+** 1951-04-20
+  :PROPERTIES:
+  :CUSTOM_ID: re1951-04-20
+  :ORT:      Berlin
+  :TRAD:     
+  :END:
+*** AB1957
+:PROPERTIES:
+:AUSL:
+:S: 212
+:S_KOM: 358-59
+:END:
+** 1951-05-04
+  :PROPERTIES:
+  :CUSTOM_ID: re1951-05-04
+  :ORT:      Wiesbadeb
+  :TRAD:     
+  :END:
+Erwähnt in [[file:reiss-jacobi.org::#rej1951-05-15][1951-05-15]]: "den allerletzten Gruß".
 * Benn
 :PROPERTIES:
 :TO: Benn
@@ -100,3 +118,8 @@ Erwähnt in [[#re1949-01-12]]: "Brief".
    :TRAD:     
    :END:
 Erwähnt in [[#re1949-03-05]]: "Ihren Luftpostbrief vom 28. II.".
+** 1951-04-20 (vor 1951-04-20)
+   :PROPERTIES:
+   :TRAD:     
+   :END:
+Erwähnt in [[#re1951-04-20]]: "Dank für Ihre Briefe!"

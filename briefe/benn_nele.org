@@ -35,7 +35,6 @@
 ** 1946-09-11
    :PROPERTIES:
    :CUSTOM_ID:       bn1946-09-11
-#   :COLUMNS:  %3BD %S %NR %FAKS
    :END:
 *** AB1957
 :PROPERTIES:
@@ -54,7 +53,26 @@
 ** 1947-11-19
    :PROPERTIES:
    :CUSTOM_ID:       bn1947-11-19
+   :END:
+*** AB1957
+:PROPERTIES:
+:S:        121-22
+:FAKS:     
+:AUSL:
+:S_KOM: 356
+:END:      
+*** B1962
+    :PROPERTIES:
+    :S:      
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:  
+    :END:
+
 #   :COLUMNS:  %3BD %S %NR %FAKS
+** 1947-11-19
+   :PROPERTIES:
+   :CUSTOM_ID:       bn1947-11-19
    :END:
 *** AB1957
 :PROPERTIES:

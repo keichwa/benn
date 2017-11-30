@@ -1,0 +1,29 @@
+#+STARTUP: content
+#+STARTUP: showall
+ #+STARTUP: showeverything
+#+TITLE: Benn - Podewils
+
+* Podewils, Clemens Graf
+:PROPERTIES:
+:EMPF:     1
+:FROM_All: Benn
+:TO_All: Podewils, Clemens Graf
+:GEB: 1
+:TOD: 
+:END:
+** 1951-10-04
+  :PROPERTIES:
+  :CUSTOM_ID: pod1951-10-04
+  :TRAD:     
+  :END:
+*** AB1957
+:PROPERTIES:
+:S: 219
+:S_KOM: 373
+:END:
+* Benn
+:PROPERTIES:
+:TO: Benn
+:FROM: Podewils, Clemens Graf
+:END:
+

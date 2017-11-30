@@ -143,6 +143,17 @@
 :AUSL: t
 :S_KOM: 359-60
 :END:
+** 1949-11-20
+  :PROPERTIES:
+  :CUSTOM_ID: ma1949-11-20
+  :TRAD:
+  :END:
+*** AB1957
+:PROPERTIES:
+:S: 180-81
+:AUSL:
+:S_KOM: 366
+:END:
 * Benn
 :PROPERTIES:
 :TO: Benn
@@ -175,3 +186,8 @@ Erwähnt in [[file:oelze.org::#oe1943-11-10][1943-11-10]].
    :TRAD:     
    :END:
 Erwähnt in [[#ma1947-10-02]]: "für Ihren Brief vom 25.IX.".
+** 1947-09-25 (vor 1947-09-25)
+   :PROPERTIES:
+   :TRAD:     
+   :END:
+Erwähnt in [[#ma1949-11-20]]: "für Brief.".

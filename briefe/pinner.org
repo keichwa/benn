@@ -37,7 +37,17 @@
 :PROPERTIES:
 :S: 162-64
 :S_KOM: 363
-:END:
+:END:      
+** 1949-10-26
+   :PROPERTIES:
+   :CUSTOM_ID:       pi1949-10-26-16
+   :END: 
+*** AB1957
+:PROPERTIES:
+:S: 179-80
+:AUSL: 179
+:S_KOM: 365-66
+:END:      
 * Benn
 :PROPERTIES:
 :FROM: Pinner, Erna

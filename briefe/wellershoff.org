@@ -23,6 +23,17 @@
 :AUSL:
 :S_KOM: 371
 :END:
+** 1951-04-13
+  :PROPERTIES:
+  :CUSTOM_ID: wel1951-04-13
+  :TRAD:     
+  :END:
+*** AB1957
+:PROPERTIES:
+:S: 211
+:AUSL: t
+:S_KOM: 372
+:END:
 * Benn
 :PROPERTIES:
 :TO: Benn
@@ -33,3 +44,8 @@
    :TRAD:     
    :END:
 Erwähnt in [[#wel1950-11-22]]: "Ihren Brief".
+** 1951-04-09
+   :PROPERTIES:
+   :TRAD:     
+   :END:
+Erwähnt in [[#wel1951-04-13]]: "In Ihrem Brief vom 9. IV".
