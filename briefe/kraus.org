@@ -23,6 +23,18 @@
 :S_KOM: 351
 :END:
 Auch an [[file:schuster.org::#schuster_alice_][Schuster, Alice]] Partnerin. Siehe [[file:schuster.org::#schu1945-11-18][1945-11-18]]
+** 1953-07-16
+   :PROPERTIES:
+   :CUSTOM_ID: kr1953-07-16
+:ORG: Berlin
+   :TRAD:     
+   :END:      
+*** AB1957
+:PROPERTIES:
+:S: 251-52
+:S_KOM: 378-79
+:END:
+    Auch an [[file:schuster.org::#schuster_alice_][Schuster, Alice]] Partnerin. Siehe [[file:schuster.org::#schu1953-07-16][1953-07-16]]
 * Benn
 :PROPERTIES:
 :TO: Benn
