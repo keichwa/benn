@@ -36,6 +36,18 @@
 :AUSL: t
 :S_KOM: 
 :END:
+** 1953-08-24
+  :PROPERTIES:
+  :CUSTOM_ID: mor1953-08-24
+  :ORT:      Berlin
+  :TRAD:     
+  :END:
+*** AB1957
+:PROPERTIES:
+:S: 252-54
+:AUSL: 
+:S_KOM: 379 
+:END:
 * Benn
 :PROPERTIES:
 :TO: Benn
@@ -51,4 +63,9 @@ In [[#mor1952-09-22]] erwähnt: "Ihren freundlichen Brief vom 15. 9. 1952."
    :TRAD:     
    :END:
 In [[#mor1952-11-03]] erwähnt: "ein so netter Brief wie der von Ihren vom 31. X".
+** 1953-08-24 (vor 1953-08-24)
+   :PROPERTIES:
+   :TRAD:     
+   :END:
+In [[#mor1953-08-24]] erwähnt: "Ihren Brief".
 
