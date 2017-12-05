@@ -36,6 +36,18 @@
 :S: 223
 :S_KOM:
 :END:
+** 1953-12-20
+  :PROPERTIES:
+  :CUSTOM_ID: rej1953-12-20
+  :ORT:      Berlin
+  :TRAD:     
+  :END:
+*** AB1957
+:PROPERTIES:
+:AUSL:
+:S: 257-58
+:S_KOM: 379
+:END:
 * Benn
 :PROPERTIES:
 :TO: Benn
@@ -53,3 +65,9 @@ Erwähnt in [[#rej1951-05-15]]: "Nachricht [...], die Sie mir schickten."
    :TRAD:     
    :END:
 Erwähnt in [[#rej1952-01-24]]: "Ihren Glückwunsch zu Neujahr."
+** 1953-12-01 (nach 1953-12-01, vor 1953-12-20)
+   :PROPERTIES:
+   :CUSTOM_ID: rejb1953-12-01
+   :TRAD:     
+   :END:
+Erwähnt in [[#rej1953-12-20]]: "Ihr Schreiben vom Anfang des Monats."
