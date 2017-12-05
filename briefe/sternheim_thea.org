@@ -179,6 +179,42 @@
 :S: 246
 :S_KOM: 378
 :END:
+** 1953-10-08
+   :PROPERTIES:
+   :CUSTOM_ID: stt1953-10-08
+   :TRAD:
+   :ORT: Berlin
+   :END:
+*** AB1957
+:PROPERTIES:
+:AUSL: t
+:S: 254-55
+:S_KOM: 379
+:END:
+** 1953-11-03
+   :PROPERTIES:
+   :CUSTOM_ID: stt1953-11-03
+   :TRAD:
+   :ORT: Berlin
+   :END:
+*** AB1957
+:PROPERTIES:
+:AUSL: 
+:S: 256-57
+:S_KOM: 379
+:END:
+** 1954-09-14
+   :PROPERTIES:
+   :CUSTOM_ID: stt1954-09-14
+   :TRAD:
+   :ORT: Berlin
+   :END:
+*** AB1957
+:PROPERTIES:
+:AUSL: 
+:S: 276
+:S_KOM: ?
+:END:
 * Benn
 :PROPERTIES:
 :TO: Benn
@@ -219,3 +255,8 @@ In [[#stt1951-04-04]] erwähnt: "Ihre Karte."
    :TRAD:     
    :END:
 In [[#stt1953-03-07]] erwähnt: "Ihren freundlichen Brief vom 5 III."
+** 1953-10-26
+   :PROPERTIES:
+   :TRAD:     
+   :END:
+In [[#stt1953-11-03]] erwähnt: "für Ihren Brief vom 26. 10. 1953."
