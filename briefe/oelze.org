@@ -13170,6 +13170,173 @@ Widmung.
     :AUSL:     
     :S_KOM:    
     :END:
+** 1951-07-05
+   :PROPERTIES:
+   :CUSTOM_ID: oe1951-07-05
+   :TRAD:
+   :ORT: Berlin
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       953
+    :BD:       4
+    :S:        60-61
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    419
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       553
+    :BD:       3
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1951-07-09
+   :PROPERTIES:
+   :CUSTOM_ID: oe1951-07-09
+   :TRAD:
+   :ORT: Berlin
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       954
+    :BD:       4
+    :S:        61
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    419-20
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       554
+    :BD:       3
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1951-07-11
+   :PROPERTIES:
+   :CUSTOM_ID: oe1951-07-11
+   :TRAD:
+   :ORT: Berlin
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       957
+    :BD:       4
+    :S:        64
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    421
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       555
+    :BD:       3
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1951-07-15
+   :PROPERTIES:
+   :CUSTOM_ID: oe1951-07-15
+   :TRAD:
+   :ORT: Berlin
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       958
+    :BD:       4
+    :S:        65
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    421
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       556
+    :BD:       3
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1951-07-16
+   :PROPERTIES:
+   :CUSTOM_ID: oe1951-07-16
+   :TRAD:
+   :ORT: Berlin
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       960
+    :BD:       4
+    :S:        67
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    422
+    :END:
+*** BOe
+    :PROPERTIES:
+    :NR:       557
+    :BD:       3
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1951-07-16
+   :PROPERTIES:
+   :CUSTOM_ID: oe1951-07-16
+   :TRAD:
+   :ORT: Berlin
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       961
+    :BD:       4
+    :S:        68
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    422
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       558
+    :BD:       3
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1951-07-17
+   :PROPERTIES:
+   :CUSTOM_ID: oe1951-07-17
+   :TRAD:
+   :ORT: Berlin
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       963
+    :BD:       4
+    :S:        69-70
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    423
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       559
+    :BD:       3
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
 * Benn
 :PROPERTIES:
 :FROM: Oelze, Friedrich Wilhelm
@@ -20042,4 +20209,79 @@ Mit handschriftlichem Gruß von Charlotte Oelze.
     :AUSL:     
     :FAKS:     
     :S_KOM:    418-19
+    :END:
+** 1951-07-09
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1951-07-09
+   :TRAD:
+   :ORT: Bremen, Oberneuland
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       955
+    :BD:       4
+    :S:        61-63
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    420
+    :END:
+** 1951-07-10
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1951-07-10
+   :TRAD:
+   :ORT: Bremen, Oberneuland
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       956
+    :BD:       4
+    :S:        63-64
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    420
+    :END:
+** 1951-07-15
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1951-07-15
+   :TRAD:
+   :ORT: Bremen, Oberneuland
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       959
+    :BD:       4
+    :S:        65-66
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    421
+    :END:
+** 1951-07-16
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1951-07-16
+   :TRAD:
+   :ORT: Bremen, Oberneuland
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       962
+    :BD:       4
+    :S:        68-69
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    422
+    :END:
+** 1951-07-17
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1951-07-17
+   :TRAD:
+   :ORT: Bremen, Oberneuland
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       964
+    :BD:       4
+    :S:        70-71
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    423
     :END:
