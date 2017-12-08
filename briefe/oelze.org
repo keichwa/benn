@@ -13337,6 +13337,175 @@ Widmung.
     :AUSL:     
     :S_KOM:    
     :END:
+** 1951-07-23
+   :PROPERTIES:
+   :CUSTOM_ID: oe1951-07-23
+   :TRAD:
+   :ORT: Berlin
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       966
+    :BD:       4
+    :S:        72
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    423
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       560
+    :BD:       3
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1951-08-03
+   :PROPERTIES:
+   :CUSTOM_ID: oe1951-08-03
+   :TRAD:
+   :ORT: Berlin
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       969
+    :BD:       4
+    :S:        75-76
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    424-25
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       561
+    :BD:       3
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1951-08-16
+   :PROPERTIES:
+   :CUSTOM_ID: oe1951-08-16
+   :TRAD:
+   :ORT: Berlin
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       971
+    :BD:       4
+    :S:        77-78
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    425-26
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       562
+    :BD:       3
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1951-08-21
+   :PROPERTIES:
+   :CUSTOM_ID: oe1951-08-21
+   :TRAD:
+   :ORT: Marburg
+   :END:
+Gruß auf Karte von H. H. Schaeder, zusammen mir Niedermayer und Schulin.
+*** BOe2016
+    :PROPERTIES:
+    :NR:       973
+    :BD:       4
+    :S:        80
+    :AUSL:     
+    :FAKS:     78 (verkleinert)
+    :S_KOM:    426
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       563
+    :BD:       3
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1951-08-22
+   :PROPERTIES:
+   :CUSTOM_ID: oe1951-08-22
+   :TRAD:
+   :ORT: Bad Ems
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       974
+    :BD:       4
+    :S:        80
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    427
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       564
+    :BD:       3
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1951-08-27
+   :PROPERTIES:
+   :CUSTOM_ID: oe1951-08-27
+   :TRAD:
+   :ORT: Berlin
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       976
+    :BD:       4
+    :S:        81
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    427
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       565
+    :BD:       3
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1951-08-29
+   :PROPERTIES:
+   :CUSTOM_ID: oe1951-08-29
+   :TRAD:
+   :ORT: Berlin
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       977
+    :BD:       4
+    :S:        82
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    427
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       566
+    :BD:       3
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
 * Benn
 :PROPERTIES:
 :FROM: Oelze, Friedrich Wilhelm
@@ -20284,4 +20453,109 @@ Mit handschriftlichem Gruß von Charlotte Oelze.
     :AUSL:     
     :FAKS:     
     :S_KOM:    423
+    :END:
+** 1951-07-22
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1951-07-22
+   :TRAD:
+   :ORT: Bremen, Oberneuland
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       965
+    :BD:       4
+    :S:        71-72
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    423
+    :END:
+** 1951-07-28
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1951-07-28
+   :TRAD:
+   :ORT: Bremen, Oberneuland
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       967
+    :BD:       4
+    :S:        72-73
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    424
+    :END:
+** 1951-07-29 (und 1951-07-28)
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1951-07-29
+   :TRAD:
+   :ORT: Bremen, Oberneuland und Häcklingen
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       968
+    :BD:       4
+    :S:        73-75
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    424
+    :END:
+** 1951-08-08
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1951-08-08
+   :TRAD:
+   :ORT: Bremen, Oberneuland
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       970
+    :BD:       4
+    :S:        76-77
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    425
+    :END:
+** 1951-08-17
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1951-08-17
+   :TRAD:
+   :ORT: Bremen, Oberneuland
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       972
+    :BD:       4
+    :S:        78
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    426
+    :END:
+** 1951-08-26
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1951-08-26
+   :TRAD:
+   :ORT: Bremen
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       975
+    :BD:       4
+    :S:        80-81
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    427
+    :END:
+** 1951-09-03
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1951-09-03
+   :TRAD:
+   :ORT: Bremen, Oberneuland
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       978
+    :BD:       4
+    :S:        82
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    427
     :END:
