@@ -105,6 +105,21 @@ Widmung in roman von B. v. Brentano (Schwestern)
     :FAKS:     
     :S_KOM:    409
     :END:
+** 1951-09-04
+   :PROPERTIES:
+   :CUSTOM_ID: oec1951-09-04
+   :TRAD:
+   :ORT: Berlin
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       979
+    :BD:       4
+    :S:        82-83
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    427-28
+    :END:
 * Benn
 :PROPERTIES:
 :FROM: Oelze, Charlotte
