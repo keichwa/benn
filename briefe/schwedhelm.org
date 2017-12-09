@@ -5,12 +5,12 @@
 
 * Schwedhelm, Karl
 :PROPERTIES:
-:CUSTOM_ID: schwedhelm
+:CUSTOM_ID: schwedhelm_karl_1915
 :EMPF:     1
 :FROM: Benn
 :TO: Schwedhelm, Karl
-:GEB: 19
-:TOD: 19
+:GEB: 1915
+:TOD: 1988
 :END:
 ** 1949-02-20
    :PROPERTIES:
