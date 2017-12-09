@@ -40,3 +40,8 @@ Erwähnt in [[file:oelze.org::#oe1952-01-21][an Oe 1952-01-21]], 437.
    :END:
 Erwähnt in [[file:oelze.org::#oe1952-02-18][1952-02-18 Oe]] und beantwortet mit [[#lo1952-02-19]]: "Ihren
 Brief vom 11. Februar."
+** 1952-02-19
+   :PROPERTIES:
+   :TRAD:     
+   :END:
+Erwähnt in [[file:oelze.org::#oe1952-02-23][1952-02-23 Oe]] und Kalender.
