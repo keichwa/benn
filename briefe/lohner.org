@@ -8,7 +8,7 @@
 :EMPF:     1
 :FROM_All: Benn
 :TO_All: Lohner, Edgar
-:CUSTOM_ID: lohner_edgar
+:CUSTOM_ID: lohner_edgar_1919
 :GEB: 1919
 :TOD: 1975
 :END:
@@ -38,4 +38,5 @@ Erwähnt in [[file:oelze.org::#oe1952-01-21][an Oe 1952-01-21]], 437.
    :PROPERTIES:
    :TRAD:     
    :END:
-Erwähnt in [[#lo1952-02-19]]: "Ihren Brief vom 11. Februar."
+Erwähnt in [[file:oelze.org::#oe1952-02-18][1952-02-18 Oe]] und beantwortet mit [[#lo1952-02-19]]: "Ihren
+Brief vom 11. Februar."
