@@ -13506,6 +13506,246 @@ Gruß auf Karte von H. H. Schaeder, zusammen mir Niedermayer und Schulin.
     :AUSL:     
     :S_KOM:    
     :END:
+** 1951-09-12
+   :PROPERTIES:
+   :CUSTOM_ID: oe1951-09-12
+   :TRAD:
+   :ORT: Berlin
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       981
+    :BD:       4
+    :S:        84-85
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    428
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       567
+    :BD:       3
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1951-09-15
+   :PROPERTIES:
+   :CUSTOM_ID: oe1951-09-15
+   :TRAD:
+   :ORT: Berlin
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       982
+    :BD:       4
+    :S:        85
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    428
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       568
+    :BD:       3
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1951-10-17
+   :PROPERTIES:
+   :CUSTOM_ID: oe1951-10-17
+   :TRAD:
+   :ORT: Berlin
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       985
+    :BD:       4
+    :S:        87
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    430
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       569
+    :BD:       3
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1951-10-25
+   :PROPERTIES:
+   :CUSTOM_ID: oe1951-10-25
+   :TRAD:
+   :ORT: Berlin
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       987
+    :BD:       4
+    :S:        89
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    431
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       570
+    :BD:       3
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1951-11-07
+   :PROPERTIES:
+   :CUSTOM_ID: oe1951-11-07
+   :TRAD:
+   :ORT: Berlin
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       989
+    :BD:       4
+    :S:        90
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    431
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       571
+    :BD:       3
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1951-11-28
+   :PROPERTIES:
+   :CUSTOM_ID: oe1951-11-28
+   :TRAD:
+   :ORT: Berlin
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       991
+    :BD:       4
+    :S:        92
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    432
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       572
+    :BD:       3
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1951-12-10
+   :PROPERTIES:
+   :CUSTOM_ID: oe1951-12-10
+   :TRAD:
+   :ORT: Berlin
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       993
+    :BD:       4
+    :S:        94
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    433
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       573
+    :BD:       3
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1951-12-15
+   :PROPERTIES:
+   :CUSTOM_ID: oe1951-12-15
+   :TRAD:
+   :ORT: Berlin
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       994
+    :BD:       4
+    :S:        95
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    433
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       574
+    :BD:       3
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1951-12-17 (lt. Kalender)
+   :PROPERTIES:
+   :CUSTOM_ID: oe1951-12-17
+   :TRAD:
+   :ORT: Berlin
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       996
+    :BD:       4
+    :S:        98
+    :AUSL:     
+    :FAKS:     97 (verkleinert)
+    :S_KOM:    433
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       576
+    :BD:       3
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1951-12-19
+   :PROPERTIES:
+   :CUSTOM_ID: oe1951-12-19
+   :TRAD:
+   :ORT: Berlin
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       998
+    :BD:       4
+    :S:        98
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    434
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       575
+    :BD:       3
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
 * Benn
 :PROPERTIES:
 :FROM: Oelze, Friedrich Wilhelm
@@ -20558,4 +20798,184 @@ Mit handschriftlichem Gruß von Charlotte Oelze.
     :AUSL:     
     :FAKS:     
     :S_KOM:    427
+    :END:
+** 1951-09-09
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1951-09-09
+   :TRAD:
+   :ORT: Bremen, Oberneuland
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       980
+    :BD:       4
+    :S:        83-84
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    428
+    :END:
+** 1951-09-25
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1951-09-25
+   :TRAD:
+   :ORT: Zürich
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       983
+    :BD:       4
+    :S:        85-86
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    428-29
+    :END:
+** 1951-10-14
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1951-10-14
+   :TRAD:
+   :ORT: Bremen, Oberneuland
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       984
+    :BD:       4
+    :S:        86-87
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    429-30
+    :END:
+** 1951-10-23
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1951-10-23
+   :TRAD:
+   :ORT: Bremen, Oberneuland
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       986
+    :BD:       4
+    :S:        88
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    430
+    :END:
+** 1951-10-29
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1951-10-29
+   :TRAD:
+   :ORT: Bremen, Oberneuland
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       988
+    :BD:       4
+    :S:        89-90
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    431
+    :END:
+** 1951-11-11
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1951-11-11
+   :TRAD:
+   :ORT: Bremen, Oberneuland
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       990
+    :BD:       4
+    :S:        90-91
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    431-32
+    :END:
+** 1951-12-02
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1951-12-02
+   :TRAD:
+   :ORT: Bremen, Oberneuland
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       992
+    :BD:       4
+    :S:        92-94
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    432
+    :END:
+** 1951-12-16
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1951-12-16
+   :TRAD:
+   :ORT: Bremen, Oberneuland
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       995
+    :BD:       4
+    :S:        95-96
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    433
+    :END:
+** 1951-12-17
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1951-12-17
+   :TRAD:
+   :ORT: Bremen, Oberneuland
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       997
+    :BD:       4
+    :S:        98
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    434
+    :END:
+** 1951-12-19
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1951-12-19
+   :TRAD:
+   :ORT: Bremen
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       999
+    :BD:       4
+    :S:        99
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    434
+    :END:
+** 1951-12-25
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1951-12-25
+   :TRAD:
+   :ORT: Bremen, Oberneuland
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       1000
+    :BD:       4
+    :S:        99-101
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    434-35
+    :END:
+** 1951-12-31
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1951-12-31
+   :TRAD:
+   :ORT: Bremen
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       1001
+    :BD:       4
+    :S:        101
+    :AUSL:     
+    :FAKS:     102 (bildpostkarte, vorder- und rückseite, verkleinert)
+    :S_KOM:    435
     :END:
