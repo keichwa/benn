@@ -214,3 +214,11 @@ Grußanhang zu Oelze-Brief [[file:oelze.org::#oeb1951-05-06][1951-05-06]].
     :FAKS:     
     :S_KOM:    411
     :END:
+** 1952-05-02 (vor 1952-05-02)
+   :PROPERTIES:
+   :CUSTOM_ID: oecb1952-05-02
+   :TRAD:
+   :ORT: Rom
+   :END:
+Erwähnt in [[file:oelze.org::#oe1952-05-02][1952-05-02]]: "Karte aus Rom".
+
