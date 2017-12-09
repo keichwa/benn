@@ -8,9 +8,9 @@
 :EMPF:     1
 :FROM_All: Benn
 :TO_All: Holthusen, Hans Egon
-:CUSTOM_ID: holthusen_hans_egon
-:GEB: 19
-:TOD: 19
+:CUSTOM_ID: holthusen_hans_egon_1913
+:GEB: 1913
+:TOD: 1997
 :END:
 ** 1952-04-19
   :PROPERTIES:
