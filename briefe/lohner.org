@@ -9,8 +9,8 @@
 :FROM_All: Benn
 :TO_All: Lohner, Edgar
 :CUSTOM_ID: lohner_edgar
-:GEB: 19
-:TOD: 19
+:GEB: 1919
+:TOD: 1975
 :END:
 ** 1952-02-19
   :PROPERTIES:
@@ -29,6 +29,11 @@
 :TO: Benn
 :FROM: Lohner, Edgar
 :END:
+** 1952-01-15
+   :PROPERTIES:
+   :TRAD:    NB/DLA 
+   :END:
+Erwähnt in [[file:oelze.org::#oe1952-01-21][an Oe 1952-01-21]], 437.
 ** 1952-02-11
    :PROPERTIES:
    :TRAD:     
