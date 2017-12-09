@@ -8,9 +8,9 @@
 :EMPF:     1
 :FROM_All: Benn
 :TO_All: Paeschke, Hans
-:CUSTOM_ID: paeschke_hans_19
-:GEB: 19
-:TOD: 19
+:CUSTOM_ID: paeschke_hans_1911
+:GEB: 1911
+:TOD: 1991
 :END:
 ** 1949-03-19
   :PROPERTIES:
