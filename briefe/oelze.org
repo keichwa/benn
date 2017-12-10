@@ -14341,6 +14341,198 @@ Gruß auf Karte von H. H. Schaeder, zusammen mir Niedermayer und Schulin.
     :AUSL:     
     :S_KOM:    
     :END:
+** 1952-07-29
+   :PROPERTIES:
+   :CUSTOM_ID: oe1952-07-29
+   :TRAD:
+   :ORT: Berlin
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       1046
+    :BD:       4
+    :S:        140
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    455
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       602
+    :BD:       3
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1952-07-30
+   :PROPERTIES:
+   :CUSTOM_ID: oe1952-07-30
+   :TRAD:
+   :ORT: Berlin
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       1047
+    :BD:       4
+    :S:        141
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    455
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       603
+    :BD:       3
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1952-08-05
+   :PROPERTIES:
+   :CUSTOM_ID: oe1952-08-05
+   :TRAD:
+   :ORT: Berlin
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       1050
+    :BD:       4
+    :S:        144-45
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    456-57
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       604
+    :BD:       3
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1952-08-06
+   :PROPERTIES:
+   :CUSTOM_ID: oe1952-08-06
+   :TRAD:
+   :ORT: Berlin
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       1051
+    :BD:       4
+    :S:        145
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    457
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       605
+    :BD:       3
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1952-08-07
+   :PROPERTIES:
+   :CUSTOM_ID: oe1952-08-07
+   :TRAD:
+   :ORT: Berlin
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       1052
+    :BD:       4
+    :S:        146
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    457
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       606
+    :BD:       3
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1952-08-10
+   :PROPERTIES:
+   :CUSTOM_ID: oe1952-08-10
+   :TRAD:
+   :ORT: Berlin
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       1054
+    :BD:       4
+    :S:        146
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    457-58
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       607
+    :BD:       3
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1952-08-14
+   :PROPERTIES:
+   :CUSTOM_ID: oe1952-08-14
+   :TRAD:
+   :ORT: Berlin
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       1058
+    :BD:       4
+    :S:        150
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    459
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       
+    :BD:       
+    :S:        -
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1952-08-27
+   :PROPERTIES:
+   :CUSTOM_ID: oe1952-08-27
+   :TRAD:
+   :ORT: Berlin
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       1061
+    :BD:       4
+    :S:        151-52
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    460
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       608
+    :BD:       3
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
 * Benn
 :PROPERTIES:
 :FROM: Oelze, Friedrich Wilhelm
@@ -21859,4 +22051,124 @@ Erwähnt in [[file:oelze.org::#oe1952-06-24][1952-06-24]].
     :AUSL:     
     :FAKS:     
     :S_KOM:    455
+    :END:
+** 1952-07-28
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1952-07-28
+   :TRAD:
+   :ORT: Bremen, Oberneuland
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       1045
+    :BD:       4
+    :S:        139-40
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    455
+    :END:
+** 1952-08-03
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1952-08-03
+   :TRAD:
+   :ORT: Bremen, Oberneuland
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       1048
+    :BD:       4
+    :S:        141-43
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    456
+    :END:
+** 1952-08-04
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1952-08-04
+   :TRAD:
+   :ORT: Bremen, Oberneuland
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       1049
+    :BD:       4
+    :S:        143-44
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    456
+    :END:
+** 1952-08-10 (vor 1952-08-10)
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1952-08-10
+   :TRAD:
+   :ORT: Bremen
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       1053
+    :BD:       4
+    :S:        146
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    457
+    :END:
+** 1952-08-10
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1952-08-10a
+   :TRAD:
+   :ORT: Bremen, Oberneuland
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       1055
+    :BD:       4
+    :S:        148
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    458
+    :END:
+** 1952-08-10
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1952-08-10b
+   :TRAD:
+   :ORT: Bremen, Oberneuland
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       1056
+    :BD:       4
+    :S:        148-49
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    458-59
+    :END:
+** 1952-08-17
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1952-08-17
+   :TRAD:
+   :ORT: Bremen, Oberneuland
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       1059
+    :BD:       4
+    :S:        150-51
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    459
+    :END:
+** 1952-08-20
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1952-08-20
+   :TRAD:
+   :ORT: Bremen
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       1060
+    :BD:       4
+    :S:        151
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    460
     :END:
