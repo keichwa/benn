@@ -101,6 +101,17 @@
 :S: 216
 :S_KOM:
 :END:      
+** 1954-03-15
+   :PROPERTIES:
+   :CUSTOM_ID: se1954-03-15
+   :ORT: Berlin
+   :TRAD:     
+   :END:      
+*** AB1957
+:PROPERTIES:
+:S: 259-60
+:S_KOM: 379
+:END:      
 * Benn
 :PROPERTIES:
 :TO: Benn
