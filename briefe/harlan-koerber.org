@@ -1,0 +1,29 @@
+#+STARTUP: showall
+#+STARTUP: content
+# +STARTUP: showeverything
+#+TITLE: Benn - Thomas Christoph Harlan-Körber
+
+* Harlan-Körber, Thomas Christoph 
+:PROPERTIES:
+:EMPF:     1
+:FROM: Benn
+:TO: Harlan-Körber, Thomas Christoph 
+:GEB:      19
+:TOD:      2
+:END:
+** 1954-04-19
+   :PROPERTIES:
+   :CUSTOM_ID: hk1954-04-19
+   :ORT: Berlin
+   :TRAD:     
+   :END:      
+*** AB1957
+:PROPERTIES:
+:S: 262-63
+:S_KOM: 380
+:END:
+* Benn
+:PROPERTIES:
+:TO: Benn
+:FROM: Harlan-Körber, Thomas Christoph
+:END:
