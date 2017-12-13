@@ -22,6 +22,17 @@
 :S: 260-62
 :S_KOM: 380
 :END:
+** 1954-04-21
+   :PROPERTIES:
+   :CUSTOM_ID: cl1954-04-21
+   :ORT: [Berlin]
+   :TRAD:     
+   :END:      
+*** AB1957
+:PROPERTIES:
+:S: 263-64
+:S_KOM: 380
+:END:
 * Benn
 :PROPERTIES:
 :TO: Benn
