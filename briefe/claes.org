@@ -1,0 +1,29 @@
+#+STARTUP: showall
+#+STARTUP: content
+# +STARTUP: showeverything
+#+TITLE: Benn - Astrid Claes
+
+* Claes, Astrid
+:PROPERTIES:
+:EMPF:     1
+:FROM: Benn
+:TO: Claes, Astrid
+:GEB:      19
+:TOD:      2
+:END:
+** 1954-10-17
+   :PROPERTIES:
+   :CUSTOM_ID: cl1954-10-17
+   :ORT: [Berlin]
+   :TRAD:     
+   :END:      
+*** AB1957
+:PROPERTIES:
+:S: 260-62
+:S_KOM: 380
+:END:
+* Benn
+:PROPERTIES:
+:TO: Benn
+:FROM: Claes, Astrid
+:END:
