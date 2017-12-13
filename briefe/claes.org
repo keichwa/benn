@@ -11,9 +11,9 @@
 :GEB:      19
 :TOD:      2
 :END:
-** 1954-10-17
+** 1954-04-17
    :PROPERTIES:
-   :CUSTOM_ID: cl1954-10-17
+   :CUSTOM_ID: cl1954-04-17
    :ORT: [Berlin]
    :TRAD:     
    :END:      
