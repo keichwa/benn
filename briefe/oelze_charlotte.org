@@ -135,6 +135,30 @@ Widmung in roman von B. v. Brentano (Schwestern)
     :FAKS:     
     :S_KOM:    459
     :END:
+** 1952-12-19
+   :PROPERTIES:
+   :CUSTOM_ID: oec1952-12-19
+   :TRAD:
+   :ORT: Berlin
+   :END:
+Widmung zusammen mit [[file:oelze.org::#oe1952-12-19][1952-12-19]].
+*** BOe2016
+    :PROPERTIES:
+    :NR:       1090
+    :BD:       4
+    :S:        176
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    470-71
+    :END:
+*** BOe
+    :PROPERTIES:
+    :NR:       624
+    :BD:       3
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
 * Benn
 :PROPERTIES:
 :FROM: Oelze, Charlotte
@@ -236,4 +260,18 @@ Grußanhang zu Oelze-Brief [[file:oelze.org::#oeb1951-05-06][1951-05-06]].
    :ORT: Rom
    :END:
 Erwähnt in [[file:oelze.org::#oe1952-05-02][1952-05-02]]: "Karte aus Rom".
-
+** 1952-12-21
+   :PROPERTIES:
+   :CUSTOM_ID: oecb1952-12-21
+   :TRAD:
+   :ORT: Bremen
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       1091
+    :BD:       4
+    :S:        177
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    471
+    :END:
