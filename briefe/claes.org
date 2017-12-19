@@ -33,8 +33,51 @@
 :S: 263-65
 :S_KOM: 380
 :END:
+** 1954-07-01
+   :PROPERTIES:
+   :CUSTOM_ID: cl1954-07-01
+   :ORT: [Berlin]
+   :TRAD:     
+   :END:      
+*** AB1957
+:PROPERTIES:
+:S: 269
+:S_KOM: 380
+:END:
+** 1954-07-25
+   :PROPERTIES:
+   :CUSTOM_ID: cl1954-07-25
+   :ORT: 
+   :TRAD:     
+   :END:      
+*** AB1957
+:PROPERTIES:
+:S: 269-72
+:S_KOM: 380
+:END:
+** 1954-07-30
+   :PROPERTIES:
+   :CUSTOM_ID: cl1954-07-30
+   :ORT: 
+   :TRAD:     
+   :END:      
+*** AB1957
+:PROPERTIES:
+:S: 272-73
+:S_KOM: 381
+:END:
 * Benn
 :PROPERTIES:
 :TO: Benn
 :FROM: Claes, Astrid
 :END:
+** 1954-07-28 (vor 1954-07-28)
+   :PROPERTIES:
+   :TRAD:     
+   :END:
+In [[#cl1954-07-30]], 273 erwähnt: "Ihr schlimmer Brief"
+** 1954-07-28
+   :PROPERTIES:
+   :TRAD:     
+   :END:
+In [[#cl1954-07-30]] erwähnt: "Netter energischer Brief vom 28. VII.!"
