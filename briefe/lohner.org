@@ -24,6 +24,18 @@
 :AUSL: t
 :S_KOM: 374-75
 :END:
+** 1954-07-31
+  :PROPERTIES:
+  :CUSTOM_ID: lo1954-07-31
+  :ORT:      Berlin
+  :TRAD:     
+  :END:
+*** AB1957
+:PROPERTIES:
+:S: 274-75
+:AUSL: 
+:S_KOM:
+:END:
 * Benn
 :PROPERTIES:
 :TO: Benn
@@ -45,3 +57,15 @@ Brief vom 11. Februar."
    :TRAD:     
    :END:
 Erwähnt in [[file:oelze.org::#oe1952-02-23][1952-02-23 Oe]] und Kalender.
+** 1952-03-10
+   :PROPERTIES:
+   :CUSTOM_ID: lob1952-03-10
+   :TRAD:     NB/DLA
+   :END:
+Erwähnt in [[file:oelze.org::#oe1952-03-23][1952-03-23 an Oe]] mit kommentar 446.
+** 1954-07-27
+   :PROPERTIES:
+   :CUSTOM_ID: lob1954-07-27
+   :TRAD:     NB/DLA
+   :END:
+Erwähnt in [[#lo1954-07-31]]: "Ihren freundlichen Brief vom 27. 7."
