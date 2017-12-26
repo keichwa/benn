@@ -159,6 +159,30 @@ Widmung zusammen mit [[file:oelze.org::#oe1952-12-19][1952-12-19]].
     :AUSL:     
     :S_KOM:    
     :END:
+** 1953-05-02
+   :PROPERTIES:
+   :CUSTOM_ID: oec1953-05-02
+   :TRAD:
+   :ORT: Berlin
+   :END:
+Widmung.
+*** BOe2016
+    :PROPERTIES:
+    :NR:       1117
+    :BD:       4
+    :S:        199
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    481
+    :END:
+*** BOe
+    :PROPERTIES:
+    :NR:       639
+    :BD:       3
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
 * Benn
 :PROPERTIES:
 :FROM: Oelze, Charlotte

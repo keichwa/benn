@@ -11,5 +11,6 @@
 :GEB: 1890
 :TOD: 1943
 :END:
-*** 1935-09-01 (vor 1935-09-01)
+** 1935-09-01 (vor 1935-09-01)
 Wohl mehrere briefe, erwähnt in file:briefe/oelze.org::#oe1935-09-01.
+s. Benn-Jb.

@@ -36,6 +36,18 @@
 :AUSL: 
 :S_KOM: 377
 :END:
+** 1954-05-16
+  :PROPERTIES:
+  :CUSTOM_ID: ho1954-05-16
+  :ORT:      Berlin
+  :TRAD:     
+  :END:
+*** AB1957
+:PROPERTIES:
+:S: 265-66
+:AUSL: 
+:S_KOM: 380
+:END:
 * Benn
 :PROPERTIES:
 :TO: Benn
@@ -46,4 +58,10 @@
    :TRAD:     
    :END:
 In [[#ho1952-12-09]] erwähnt: "daß Sie mir geschrieben haben".
+** 1954-05-16 (vor 1954-05-16)
+   :PROPERTIES:
+   :TRAD:     
+   :END:
+Widmung in [[#ho1954-05-16]] erwähnt.
+
 

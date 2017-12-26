@@ -80,6 +80,32 @@
 :S: 237
 :S_KOM: 376 
 :END:
+** 1954-06-13
+  :PROPERTIES:
+  :CUSTOM_ID: pa1954-06-13
+  :ORT:      Berlin
+  :TRAD:     
+  :END:
+*** AB1957
+:PROPERTIES:
+:ORT: Berlin
+:AUSL: t
+:S: 266-67
+:S_KOM:  
+:END:
+** 1954-06-25
+  :PROPERTIES:
+  :CUSTOM_ID: pa1954-06-25
+  :ORT:      Berlin
+  :TRAD:     
+  :END:
+*** AB1957
+:PROPERTIES:
+:ORT: Berlin
+:AUSL: t
+:S: 267-69
+:S_KOM: 380
+:END:
 * Benn
 :PROPERTIES:
 :TO: Benn
@@ -105,3 +131,13 @@ In [[#pa1950-08-28]] erwähnt: "vielen Dank für Karte und Brief.".
    :TRAD:     
    :END:
 In [[#pa1952-04-29]] erwähnt: "Ihren handschriftlichen Brief vom 25. IV."
+** 1954-05-17
+   :PROPERTIES:
+   :TRAD:     
+   :END:
+In [[#pa1954-06-13]] erwähnt: "am 17 V einen netten persönlichen Brief geschrieben,"
+** 1954-06-25 (vor 1954-06-25)
+   :PROPERTIES:
+   :TRAD:     
+   :END:
+In [[#pa1954-06-25]] erwähnt: "Ihren Brief,"

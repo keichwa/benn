@@ -15405,6 +15405,174 @@ Geburtstagstelegramm erwähnt in [[#oeb1953-01-06][1953-01-06]].
     :AUSL:     
     :S_KOM:    
     :END:
+** 1953-06-30
+   :PROPERTIES:
+   :CUSTOM_ID: oe1953-06-30
+   :TRAD:
+   :ORT: Berlin
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       1132
+    :BD:       4
+    :S:        212-13
+    :AUSL:     
+    :FAKS:     488 (beilage mit notiz, verkleinert)
+    :S_KOM:    488-89
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       645
+    :BD:       3
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1953-07-14
+   :PROPERTIES:
+   :CUSTOM_ID: oe1953-07-14
+   :TRAD:
+   :ORT: Berlin
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       1134
+    :BD:       4
+    :S:        214-15
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    489
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       646
+    :BD:       3
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1953-07-18
+   :PROPERTIES:
+   :CUSTOM_ID: oe1953-07-18
+   :TRAD:
+   :ORT: Berlin
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       1135
+    :BD:       4
+    :S:        216
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    490
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       647
+    :BD:       4
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1953-07-27
+   :PROPERTIES:
+   :CUSTOM_ID: oe1953-07-27
+   :TRAD:
+   :ORT: Berlin
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       1137
+    :BD:       4
+    :S:        217-18
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    490-91
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       648
+    :BD:       3
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1953-07-27
+   :PROPERTIES:
+   :CUSTOM_ID: oe1953-07-27a
+   :TRAD:
+   :ORT: Berlin
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       1138
+    :BD:       4
+    :S:        218
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    491
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       649
+    :BD:       3
+    :S:        
+    :AUSL:     t
+    :S_KOM:    
+    :END:
+** 1953-08-06
+   :PROPERTIES:
+   :CUSTOM_ID: oe1953-08-06
+   :TRAD:
+   :ORT: Heiligenhafen
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       1139
+    :BD:       4
+    :S:        218
+    :AUSL:     
+    :FAKS:     219 (bildpostkarte, vorder- und rückseite, verkleinert)
+    :S_KOM:    491
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       650
+    :BD:       3
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1953-08-10
+   :PROPERTIES:
+   :CUSTOM_ID: oe1953-08-10
+   :TRAD:
+   :ORT: Heiligenhafen
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       1141
+    :BD:       4
+    :S:        222
+    :AUSL:     
+    :FAKS:     221 (bildpostkarte, vorder- und rückseite, verkleinert)
+    :S_KOM:    492
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       651
+    :BD:       3
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
 * Benn
 :PROPERTIES:
 :FROM: Oelze, Friedrich Wilhelm
@@ -23524,4 +23692,49 @@ Empfehlungsschreiben für frau Zimmer.
     :AUSL:     
     :FAKS:     
     :S_KOM:    487
+    :END:
+** 1953-07-12
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1953-07-12
+   :TRAD:
+   :ORT: Bremen, Oberneuland
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       1133
+    :BD:       4
+    :S:        213-14
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    489
+    :END:
+** 1953-07-26
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1953-07-26
+   :TRAD:
+   :ORT: Bremen, Oberneuland
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       1136
+    :BD:       4
+    :S:        216-17
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    490
+    :END:
+** 1953-08-07
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1953-08-07
+   :TRAD:
+   :ORT: Bremen, Oberneuland
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       1140
+    :BD:       4
+    :S:        220
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    491-92
     :END:
