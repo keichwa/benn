@@ -63,6 +63,17 @@ Auf Züricher Briefpapier.
 :S: 247-48
 :S_KOM:
 :END:
+** 1954-10-10
+  :PROPERTIES:
+  :CUSTOM_ID: ry1954-10-10
+  :ORT:     Berlin 
+  :TRAD:     
+  :END:
+*** AB1957
+:PROPERTIES:
+:S: 279
+:S_KOM: 381-82
+:END:
 * Benn
 :PROPERTIES:
 :TO: Benn
@@ -78,3 +89,5 @@ Erwähnt in [[#ry1930-09-06]].
    :TRAD:     
    :END:
 Erwähnt in [[#ry1932-05-12]].
+** 1954-10-05
+Erwähnt in [[#ry1954-10-10][1954-10-10]] und Kommentar in AB1957, 381-82.
