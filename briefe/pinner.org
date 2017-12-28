@@ -48,6 +48,29 @@
 :AUSL: 179
 :S_KOM: 365-66
 :END:      
+** 1955-01-13
+   :PROPERTIES:
+   :CUSTOM_ID:       pi1955-01-13
+:ORT:
+   :END: 
+*** AB1957
+:PROPERTIES:
+:S: 280
+:AUSL: 
+:S_KOM: 382
+:END:
+** 1955-01-18
+   :PROPERTIES:
+   :CUSTOM_ID:       pi1955-01-18
+   :ORT: Berlin      
+   :END: 
+*** AB1957
+:PROPERTIES:
+:S: 280-81
+:AUSL: t
+:S_KOM: 382
+:END:      
+  
 * Benn
 :PROPERTIES:
 :FROM: Pinner, Erna
@@ -64,3 +87,9 @@ In [[#pi1946-11-20]] erwähnt.
    :CUSTOM_ID: pib1949-07-09
    :END:
 In [[#pi1949-07-16]] erwähnt: "Deinen Brief vom 9. VII."
+** 1955-01-18 (vor 1955-01-18)
+   :PROPERTIES:
+   :TRAD:     Q
+   :CUSTOM_ID: pib1955-01-18
+   :END:
+In [[#pi1955-01-18][1955-01-18]] erwähnt: "Dein Brief"
