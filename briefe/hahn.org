@@ -8,8 +8,8 @@
 :EMPF:     1
 :FROM: Benn
 :TO: Hahn, Dorothee
-:GEB: 1900(?)
-:TOD: 
+:GEB: 1895
+:TOD: 1973
 :END:
 ** 1917-09
    :PROPERTIES:
