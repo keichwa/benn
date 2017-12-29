@@ -9,8 +9,8 @@
 :FROM_All: Benn
 :TO_All: Sieburg, Friedrich
 :CUSTOM_ID:  sieburg_friedrich
-:GEB: 19
-:TOD: 19
+:GEB: 1893
+:TOD: 1964
 :END:
 ** 1952-07-02
   :PROPERTIES:
