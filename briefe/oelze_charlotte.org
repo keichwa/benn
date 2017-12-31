@@ -183,6 +183,106 @@ Widmung.
     :AUSL:     
     :S_KOM:    
     :END:
+** 1954-09-05
+   :PROPERTIES:
+   :CUSTOM_ID: oec1954-09-05
+   :TRAD:
+   :ORT: Berlin
+   :STEM:  
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       1225
+    :BD:       4
+    :S:        293
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    529
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       
+    :BD:       
+    :S:        -
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1954-12-09
+   :PROPERTIES:
+   :CUSTOM_ID: oec1954-12-09
+   :TRAD:
+   :ORT: Berlin
+   :STEM:  
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       1253
+    :BD:       4
+    :S:        316
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    539
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       
+    :BD:       
+    :S:        -
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1954-12-16
+   :PROPERTIES:
+   :CUSTOM_ID: oec1954-12-16
+   :TRAD:
+   :ORT: Bremen
+   :STEM:  
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       1254
+    :BD:       4
+    :S:        316
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    540
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       
+    :BD:       
+    :S:        -
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1955-01-03
+   :PROPERTIES:
+   :CUSTOM_ID: oec1955-01-03
+   :TRAD:
+   :ORT: Berlin
+   :STEM:  
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       1257
+    :BD:       4
+    :S:        319
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    541
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       
+    :BD:       
+    :S:        -
+    :AUSL:     
+    :S_KOM:    
+    :END:
 * Benn
 :PROPERTIES:
 :FROM: Oelze, Charlotte
