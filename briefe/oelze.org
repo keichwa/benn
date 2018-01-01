@@ -16350,6 +16350,790 @@ Widmung.
     :AUSL:     
     :S_KOM:    
     :END:
+** 1954-06-15
+   :PROPERTIES:
+   :CUSTOM_ID: oe1954-06-15
+   :TRAD:
+   :ORT: Berlin
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       1206
+    :BD:       4
+    :S:        277-78
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    522
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       680
+    :BD:       3
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1954-07-03
+   :PROPERTIES:
+   :CUSTOM_ID: oe1954-07-03
+   :TRAD:
+   :ORT: Berlin
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       1208
+    :BD:       4
+    :S:        279-80
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    523-24
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       681
+    :BD:       3
+    :S:        
+    :AUSL:     t
+    :S_KOM:    
+    :END:
+** 1954-07-12
+   :PROPERTIES:
+   :CUSTOM_ID: oe1954-07-12
+   :TRAD:
+   :ORT: Berlin
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       1210
+    :BD:       4
+    :S:        281-82
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    524-25
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       682
+    :BD:       3
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1954-07-22
+   :PROPERTIES:
+   :CUSTOM_ID: oe1954-07-22
+   :TRAD:
+   :ORT: Berlin
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       1212
+    :BD:       4
+    :S:        283-84
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    525
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       683
+    :BD:       3
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1954-07-31
+   :PROPERTIES:
+   :CUSTOM_ID: oe1954-07-31
+   :TRAD:
+   :ORT: Berlin
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       1214
+    :BD:       4
+    :S:        285-86
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    526
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       684
+    :BD:       3
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1954-08-04
+   :PROPERTIES:
+   :CUSTOM_ID: oe1954-08-04
+   :TRAD:
+   :ORT: Berlin
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       1215
+    :BD:       4
+    :S:        286
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    526
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       685
+    :BD:       3
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1954-08-08
+   :PROPERTIES:
+   :CUSTOM_ID: oe1954-08-08
+   :TRAD:
+   :ORT: Berlin
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       1217
+    :BD:       4
+    :S:        287-88
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    526-27
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       686
+    :BD:       3
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1954-08-15
+   :PROPERTIES:
+   :CUSTOM_ID: oe1954-08-15
+   :TRAD:
+   :STEM: Soltau
+   :ORT: [Worpswede]
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       1218
+    :BD:       4
+    :S:        288
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    527
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       687
+    :BD:       3
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1954-08-19
+   :PROPERTIES:
+   :CUSTOM_ID: oe1954-08-19
+   :TRAD:
+   :ORT: Berlin
+   :STEM:  
+   :END:
+Widmung.
+*** BOe2016
+    :PROPERTIES:
+    :NR:       1220
+    :BD:       4
+    :S:        289
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    527
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       688
+    :BD:       3
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1954-08-22
+   :PROPERTIES:
+   :CUSTOM_ID: oe1954-08-22
+   :TRAD:
+   :ORT: Berlin
+   :STEM:  
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       1221
+    :BD:       4
+    :S:        289-90
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    528
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       689
+    :BD:       3
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1954-08-27
+   :PROPERTIES:
+   :CUSTOM_ID: oe1954-08-27
+   :TRAD:
+   :ORT: Berlin
+   :STEM:  
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       1223
+    :BD:       4
+    :S:        292
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    528-29
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       690
+    :BD:       3
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1954-09-14
+   :PROPERTIES:
+   :CUSTOM_ID: oe1954-09-14
+   :TRAD:
+   :ORT: Berlin
+   :STEM:  
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       294
+    :BD:       4
+    :S:        294
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    530
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       691
+    :BD:       3
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1954-09-15
+   :PROPERTIES:
+   :CUSTOM_ID: oe1954-09-15
+   :TRAD:
+   :ORT: Berlin
+   :STEM:  
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       1228
+    :BD:       4
+    :S:        294-95
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    530
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       692
+    :BD:       3
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1954-09-21
+   :PROPERTIES:
+   :CUSTOM_ID: oe1954-09-21
+   :TRAD:
+   :ORT: Berlin
+   :STEM:  
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       1230
+    :BD:       4
+    :S:        296
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    531
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       693
+    :BD:       3
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1954-09-23
+   :PROPERTIES:
+   :CUSTOM_ID: oe1954-09-23
+   :TRAD:
+   :ORT: Berlin
+   :STEM:  
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       1231
+    :BD:       4
+    :S:        296-99
+    :AUSL:     
+    :FAKS:     297 (gedichtbeilage, verkleinert)
+    :S_KOM:    531-32
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       694
+    :BD:       3
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1954-09-25
+   :PROPERTIES:
+   :CUSTOM_ID: oe1954-09-25
+   :TRAD:
+   :ORT: Berlin
+   :STEM:  
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       1232
+    :BD:       4
+    :S:        299-300
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    532
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       695
+    :BD:       3
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1954-10-13
+   :PROPERTIES:
+   :CUSTOM_ID: oe1954-10-13
+   :TRAD:
+   :ORT: Berlin
+   :STEM:  
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       1235
+    :BD:       4
+    :S:        301-02
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    533
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       696
+    :BD:       3
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1954-10-21
+   :PROPERTIES:
+   :CUSTOM_ID: oe1954-10-21
+   :TRAD:
+   :ORT: Berlin
+   :STEM:  
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       1237
+    :BD:       4
+    :S:        302
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    534
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       697
+    :BD:       3
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1954-10-23
+   :PROPERTIES:
+   :CUSTOM_ID: oe1954-10-23
+   :TRAD:
+   :ORT: Berlin
+   :STEM:  
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       1239
+    :BD:       4
+    :S:        303-04
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    534-35
+    :END:
+*** BOe
+    :PROPERTIES:
+    :NR:       698
+    :BD:       3
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1954-10-26
+   :PROPERTIES:
+   :CUSTOM_ID: oe1954-10-26
+   :TRAD:
+   :ORT: Berlin
+   :STEM:  
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       1240
+    :BD:       4
+    :S:        304
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    535
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       699
+    :BD:       3
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1954-11-14
+   :PROPERTIES:
+   :CUSTOM_ID: oe1954-11-14
+   :TRAD:
+   :ORT: Berlin
+   :STEM:  
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       1242
+    :BD:       4
+    :S:        305-06
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    535
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       700
+    :BD:       3
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1954-11-16
+   :PROPERTIES:
+   :CUSTOM_ID: oe1954-11-16
+   :TRAD:
+   :ORT: Berlin
+   :STEM:  
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       1244
+    :BD:       4
+    :S:        307-08
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    536
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       701
+    :BD:       3
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1954-11-21
+   :PROPERTIES:
+   :CUSTOM_ID: oe1954-11-21
+   :TRAD:
+   :ORT: Bern
+   :STEM:  
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       1245
+    :BD:       4
+    :S:        308
+    :AUSL:     
+    :FAKS:     309 (bildpostkarte, vorder- und rückseite, verkleinert)
+    :S_KOM:    536
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       702
+    :BD:       3
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1954-11-25
+   :PROPERTIES:
+   :CUSTOM_ID: oe1954-11-25
+   :TRAD:
+   :ORT: [Konstanz]
+   :STEM:  
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       1246
+    :BD:       4
+    :S:        308
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    537
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       
+    :BD:       
+    :S:        -
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1954-11-29
+   :PROPERTIES:
+   :CUSTOM_ID: oe1954-11-29
+   :TRAD:
+   :ORT: Berlin
+   :STEM:  
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       1248
+    :BD:       4
+    :S:        311
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    537-38
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       703
+    :BD:       3
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1954-12-04
+   :PROPERTIES:
+   :CUSTOM_ID: oe1954-12-04
+   :TRAD:
+   :ORT: Berlin
+   :STEM:  
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       1249
+    :BD:       4
+    :S:        312
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    538
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       704
+    :BD:       3
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1954-12-06
+   :PROPERTIES:
+   :CUSTOM_ID: oe1954-12-06
+   :TRAD:
+   :ORT: Berlin
+   :STEM:  
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       1251
+    :BD:       4
+    :S:        313-14
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    538-39
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       705
+    :BD:       3
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1954-12-08
+   :PROPERTIES:
+   :CUSTOM_ID: oe1954-12-08
+   :TRAD:
+   :ORT: Berlin
+   :STEM:  
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       1252
+    :BD:       4
+    :S:        314-16
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    539
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       706
+    :BD:       3
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1954-12-09
+   :PROPERTIES:
+   :CUSTOM_ID: oec1954-12-09
+   :TRAD:
+   :ORT: Berlin
+   :STEM:  
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       1253
+    :BD:       4
+    :S:        316
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    539
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       
+    :BD:       
+    :S:        -
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1954-12-16
+   :PROPERTIES:
+   :CUSTOM_ID: oec1954-12-16
+   :TRAD:
+   :ORT: Bremen
+   :STEM:  
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       1254
+    :BD:       4
+    :S:        316
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    540
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       
+    :BD:       
+    :S:        -
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1954-12-25
+   :PROPERTIES:
+   :CUSTOM_ID: oe1954-12-25
+   :TRAD:
+   :ORT: Berlin
+   :STEM:  
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       1256
+    :BD:       4
+    :S:        318
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    540
+    :END:
+
+*** BOe
+    :PROPERTIES:
+    :NR:       707
+    :BD:       3
+    :S:        
+    :AUSL:     
+    :S_KOM:    
+    :END:
+** 1955-01-12
+   :PROPERTIES:
+   :CUSTOM_ID: oe1955-01-12
+   :TRAD:
+   :ORT: Berlin
+   :STEM:  
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       1259
+    :BD:       4
+    :S:        320
+    :AUSL:     
+    :FAKS:     321 (bildpostkarte, vorder- und rückseite, verkleinert)
+    :S_KOM:    541
+:END:
 * Benn
 :PROPERTIES:
 :FROM: Oelze, Friedrich Wilhelm
