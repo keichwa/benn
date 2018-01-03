@@ -66,6 +66,31 @@
 :S: 272-73
 :S_KOM: 381
 :END:
+** 1954-09-22
+   :PROPERTIES:
+   :CUSTOM_ID: cl1954-09-22
+   :ORT: [Berlin] 
+   :TRAD:     
+   :END:      
+*** AB1957
+:PROPERTIES:
+:AUSL: t
+:S: 277-78
+:S_KOM: 381
+:END:
+** 1955-02-17
+   :PROPERTIES:
+   :CUSTOM_ID: cl1955-02-17
+   :ORT: [Berlin] 
+   :TRAD:     
+   :END:      
+*** AB1957
+:PROPERTIES:
+:AUSL: 
+:S: 282-83
+:S_KOM: 382
+:END:
+
 * Benn
 :PROPERTIES:
 :TO: Benn
@@ -81,3 +106,8 @@ In [[#cl1954-07-30]], 273 erwähnt: "Ihr schlimmer Brief"
    :TRAD:     
    :END:
 In [[#cl1954-07-30]] erwähnt: "Netter energischer Brief vom 28. VII.!"
+** 1955-02-17 (vor 1955-02-17)
+   :PROPERTIES:
+   :TRAD:     
+   :END:
+In [[#cl1955-02-17][1955-02-17]] erwähnt: "den letzten [Brief] mit dem schönen Gedicht".

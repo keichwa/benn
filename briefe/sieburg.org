@@ -36,6 +36,18 @@
 :AUSL: 
 :S_KOM: 376
 :END:
+** 1955-06-22
+  :PROPERTIES:
+  :CUSTOM_ID: si1955-06-22
+  :ORT:      Berlin
+  :TRAD:     
+  :END:
+*** AB1957
+:PROPERTIES:
+:S: 288-89
+:AUSL: 
+:S_KOM: 383
+:END:
 * Benn
 :PROPERTIES:
 :TO: Benn

@@ -70,7 +70,17 @@
 :AUSL: t
 :S_KOM: 382
 :END:      
-  
+** 1955-04-24
+   :PROPERTIES:
+   :CUSTOM_ID:       pi1955-04-24
+   :ORT: Berlin      
+   :END: 
+*** AB1957
+:PROPERTIES:
+:S: 286
+:AUSL: t
+:S_KOM: 382
+:END:  
 * Benn
 :PROPERTIES:
 :FROM: Pinner, Erna

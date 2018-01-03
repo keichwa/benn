@@ -213,7 +213,7 @@
 :PROPERTIES:
 :AUSL: 
 :S: 276
-:S_KOM: ?
+:S_KOM:
 :END:
 * Benn
 :PROPERTIES:

@@ -123,6 +123,30 @@
 :AUSL: t
 :S_KOM: 379
 :END:
+** 1954-12-30
+  :PROPERTIES:
+  :CUSTOM_ID: ni1954-12-30
+  :ORT:      [Berlin]
+  :TRAD:     
+  :END:
+*** AB1957
+:PROPERTIES:
+:S: 279-80
+:AUSL: 
+:S_KOM:
+:END:
+** 1955-04-20
+  :PROPERTIES:
+  :CUSTOM_ID: ni1955-04-20
+  :ORT:      Berlin
+  :TRAD:     
+  :END:
+*** AB1957
+:PROPERTIES:
+:S: 284-85
+:AUSL: t
+:S_KOM: 382
+:END:
 * Benn
 :PROPERTIES:
 :TO: Benn
@@ -133,3 +157,8 @@
    :TRAD:     
    :END:
 Erwähnt in [[#ni1948-09-18]]: "Ihren Brief vom 23.8."
+** 1954-12-24
+   :PROPERTIES:
+   :TRAD:     
+   :END:
+Erwähnt in [[#ni1954-12-30][1954-12-30]]: "Ihren handgeschriebenen Brief vom 24 XII"

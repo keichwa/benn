@@ -106,6 +106,19 @@
 :S: 267-69
 :S_KOM: 380
 :END:
+** 1955-04-10
+  :PROPERTIES:
+  :CUSTOM_ID: pa1955-04-10
+  :ORT:      Berlin
+  :TRAD:     
+  :END:
+*** AB1957
+:PROPERTIES:
+:ORT: Berlin
+:AUSL: t
+:S: 283-84
+:S_KOM: 382
+:END:
 * Benn
 :PROPERTIES:
 :TO: Benn

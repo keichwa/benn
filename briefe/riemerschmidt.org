@@ -1,0 +1,36 @@
+#+STARTUP: content
+#+STARTUP: showall
+ #+STARTUP: showeverything
+#+TITLE: Benn - Ulrich Riemerschmidt
+
+* Riemerschmidt, Ulrich
+:PROPERTIES:
+:EMPF:     1
+:FROM_All: Benn
+:TO_All: Riemerschmidt, Ulrich
+:CUSTOM_ID: 
+:GEB: 19
+:TOD: 19
+:END:
+** 1955-06-10
+  :PROPERTIES:
+  :CUSTOM_ID: ri1955-06-10
+  :TRAD:     
+  :ORT:      Berlin
+  :END:
+*** AB1957
+:PROPERTIES:
+:S: 288
+:AUSL:
+:S_KOM: 383
+:END:
+* Benn
+:PROPERTIES:
+:TO: Benn
+:FROM: Riemerschmidt, Ulrich
+:END:
+** 1955
+   :PROPERTIES:
+   :TRAD:     
+   :END:
+Erwähnt in 

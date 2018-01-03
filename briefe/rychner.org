@@ -74,10 +74,43 @@ Auf Züricher Briefpapier.
 :S: 279
 :S_KOM: 381-82
 :END:
+** 1955-06-05
+  :PROPERTIES:
+  :CUSTOM_ID: ry1955-06-05
+  :ORT:     Berlin
+  :TRAD:     
+  :END:
+*** AB1957
+:PROPERTIES:
+:S: 287
+:S_KOM: 383
+:END:
+** 1955-06-28
+  :PROPERTIES:
+  :CUSTOM_ID: ry1955-06-28
+  :ORT:     Berlin
+  :TRAD:     
+  :END:
+*** AB1957
+:PROPERTIES:
+:S: 289-90
+:S_KOM:
+:END:
+** 1955-07-30
+  :PROPERTIES:
+  :CUSTOM_ID: ry1955-07-30
+  :ORT:     Berlin
+  :TRAD:     
+  :END:
+*** AB1957
+:PROPERTIES:
+:S: 290-91
+:S_KOM: 383
+:END:
 * Benn
 :PROPERTIES:
 :TO: Benn
-:FROM: Rychner
+:FROM: Rychner, Max
 :END:
 ** 1930-09-06 (vor 1930-09-06)
    :PROPERTIES:
@@ -91,3 +124,5 @@ Erwähnt in [[#ry1930-09-06]].
 Erwähnt in [[#ry1932-05-12]].
 ** 1954-10-05
 Erwähnt in [[#ry1954-10-10][1954-10-10]] und Kommentar in AB1957, 381-82.
+** 1955-06-28 (vor 1955-06-28)
+Erwähnt in [[#ry1955-06-28][1955-06-28]]: "Ihre Schreiben".

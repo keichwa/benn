@@ -23,6 +23,19 @@
 :S: 135
 :S_KOM:
 :END:
+** 1955-01-22
+   :PROPERTIES:
+   :CUSTOM_ID: schw1955-01-22
+   :ORT:      Berlin
+   :TRAD:
+   :END:
+*** AB1957
+:PROPERTIES:
+:AUSL: 
+:S: 281-82
+:S_KOM: 382
+:END:
+
 * Benn
 :PROPERTIES:
 :FROM: Schwedhelm, Karl
@@ -35,3 +48,11 @@
    :ORT: 
    :END:
    Erwähnt in [[#schw1949-02-20]]: "Schreiben".
+** 1955-01-22 (vor 1955-01-22)
+   :PROPERTIES:
+   :CUSTOM_ID: 
+   :TRAD: 
+   :ORT: 
+   :END:
+   Erwähnt in [[#schw1955-01-22][1955-01-22]]: "vielen Dank für Ihren Neujahrs- und
+   Weihnachtsgruß".

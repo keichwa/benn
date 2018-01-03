@@ -117,6 +117,18 @@ Auf Genfer Briefpapier.
 :AUSL: 
 :S_KOM: 378
 :END:
+** 1955-04-24
+  :PROPERTIES:
+  :CUSTOM_ID: jue1955-04-24
+  :ORT: Berlin
+  :TRAD:
+  :END:
+*** AB1957
+:PROPERTIES:
+:S: 285
+:AUSL: t
+:S_KOM: 
+:END:
 * Benn
 :PROPERTIES:
 :TO: Benn
