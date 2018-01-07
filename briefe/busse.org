@@ -1,0 +1,32 @@
+#+STARTUP: content
+#+STARTUP: showall
+ #+STARTUP: showeverything
+#+TITLE: Benn - Busse
+
+* Busse, Carl Hermann
+:PROPERTIES:
+:EMPF:     1
+:FROM: Benn
+:TO: Busse, Carl Hermann
+:GEB: 1872
+:TOD: 1918
+:END:
+** 1905-02-07
+   :PROPERTIES:
+   :CUSTOM_ID: bu1905-02-07
+   :TRAD:
+   :ORT: Berlin
+   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       2
+    :S:        11-12
+    :AUSL:     
+    :FAKS:     10 (seite 1)
+    :S_KOM:    372-73
+    :END:
+* Benn
+:PROPERTIES:
+:FROM: Busse, Carl Hermann
+:TO: Benn
+:END:
