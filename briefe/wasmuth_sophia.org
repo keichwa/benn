@@ -15,8 +15,18 @@
 ** 1929-02-21
    :PROPERTIES:
    :CUSTOM_ID: was1929-02-21
-   :END:   
-Auch an Ewald Wasmuth, den Ehemann ([[#wasmuth_ewald_1890]]).   
+   :TRAD: DLA/Wasmuth
+   :END:
+Auch an Ewald Wasmuth, den Ehemann ([[#wasmuth_ewald_1890]]): [[file:wasmuth_ewald.org::#wae1929-02-21][1929-02-21]].   
+*** AB2017
+    :PROPERTIES:
+    :NR:       40
+    :S:        44-45
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    398
+    :VORL:     
+    :END:
 *** AB1957
 :PROPERTIES:
 :S: 30
