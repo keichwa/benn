@@ -1,0 +1,49 @@
+#+STARTUP: content
+#+STARTUP: showall
+ #+STARTUP: showeverything
+#+TITLE: Benn - Ernestine Costa
+
+* Costa, Ernestine
+:PROPERTIES:
+:EMPF:     1
+:FROM: Benn
+:TO: Costa, Ernestine
+:GEB: 1900
+:TOD: 1959
+:END:
+** 1920-03-31
+   :PROPERTIES:
+   :CUSTOM_ID: co1920-03-31
+   :TRAD: DLA/Benn
+   :ORT: [Berlin]
+   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       19
+    :S:        26
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    386
+    :VORL:     
+    :END:
+** 1925-07-23
+   :PROPERTIES:
+   :CUSTOM_ID: co1925-07-23
+   :TRAD: DLA/Benn
+   :ORT: [Berlin]
+   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       26
+    :S:        35
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    391
+    :VORL:     
+    :END:
+* Benn
+:PROPERTIES:
+:FROM: Costa, Ernestine
+:TO: Benn
+:END:
+
