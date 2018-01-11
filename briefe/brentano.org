@@ -14,7 +14,17 @@
 ** 1929-01-10
    :PROPERTIES:
    :CUSTOM_ID: bren1929-01-10
+   :TRAD: u
    :END:      
+*** AB2017
+    :PROPERTIES:
+    :NR:       37
+    :S:        43
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    397
+    :VORL:     AB1957
+    :END:
 *** AB1957
 :PROPERTIES:
 :S: 28-29
