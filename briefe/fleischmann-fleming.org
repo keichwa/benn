@@ -44,7 +44,17 @@
 ** 1929-02-03
    :PROPERTIES:
    :CUSTOM_ID: fl1929-02-03
+:TRAD: DLA/Benn
    :END:      
+*** AB2017
+    :PROPERTIES:
+    :NR:       38
+    :S:        43
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    397
+    :VORL:     
+    :END:
 *** AB1957
 :PROPERTIES:
 :S: 29
