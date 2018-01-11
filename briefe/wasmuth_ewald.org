@@ -10,13 +10,28 @@
 :FROM: Benn
 :TO: Wasmuth, Ewald
 :GEB: 1890
-:TOD: 
+:TOD: 1963
 :END:
+** 1927-12-25
+   :PROPERTIES:
+   :CUSTOM_ID: wae1927-12-25
+   :TRAD: DLA/Wasmuth
+   :ORT: [Berlin]
+   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       36
+    :S:        42
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    396-97
+    :VORL:     
+    :END:
 ** 1929-02-21
    :PROPERTIES:
    :CUSTOM_ID: wae1929-02-21
    :END:   
-Auch an Ewald Wasmuth, Sophias ([[#wasmuth_sophia_]]) Ehemann. Siehe [[was1929-02-21]].
+Auch an Sophia Wasmuth ( [[#wasmuth_sophia_]]), Ehefrau. Siehe [[file:wasmuth_sophia.org::#was1929-02-21][1929-02-21]].
 ** 1929-03-04
    :PROPERTIES:
    :CUSTOM_ID: wae1929-03-04
