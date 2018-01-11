@@ -1,0 +1,49 @@
+#+STARTUP: content
+#+STARTUP: showall
+ #+STARTUP: showeverything
+#+TITLE: Benn - Gustav Mayer
+
+* Mayer, Gustav
+:PROPERTIES:
+:EMPF:     1
+:FROM: Benn
+:TO: Mayer, Gustav
+:GEB: 1871
+:TOD: 1948
+:END:
+** 1915-10-17
+   :PROPERTIES:
+   :CUSTOM_ID: may1915-10-17
+   :TRAD:
+   :ORT: Brüssel
+   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       16
+    :S:        24
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    384
+    :VORL:     
+    :END:
+** 1916-03-08
+   :PROPERTIES:
+   :CUSTOM_ID: may1916-03-08
+   :TRAD:
+   :ORT: Brüssel
+   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       17
+    :S:        25
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    384-85
+    :VORL:     
+    :END:
+* Benn
+:PROPERTIES:
+:FROM: Mayer, Gustav
+:TO: Benn
+:END:
+
