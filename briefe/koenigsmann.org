@@ -1,0 +1,109 @@
+#+STARTUP: content
+#+STARTUP: showall
+ #+STARTUP: showeverything
+#+TITLE: Benn - Koenigsmann
+
+* Koenigsmann, Leonhard
+:PROPERTIES:
+:EMPF:     1
+:FROM: Benn
+:TO: Koenigsmann, Leonhard
+:GEB: 1885
+:TOD: 1973
+:END:
+** 1909-08 (1909-08 Ende)
+   :PROPERTIES:
+   :CUSTOM_ID: koe1909-08 (1909-08 Ende)
+   :TRAD:
+   :ORT: Mohrin
+   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       3
+    :S:        13-15
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    373-76
+    :END:
+** 1910/1911
+   :PROPERTIES:
+   :CUSTOM_ID: koe1910_1911
+   :TRAD:
+   :ORT: 
+   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       4
+    :S:        15-16
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    376
+    :END:
+** 1912-05-02
+   :PROPERTIES:
+   :CUSTOM_ID: koe1912-05-02
+   :TRAD:
+   :ORT: [Prenzlau]
+   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       5
+    :S:        16-18
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    376-78
+    :END:
+** 1912-08-12
+   :PROPERTIES:
+   :CUSTOM_ID: koe1912-08-12
+   :TRAD:
+   :ORT: Sassnitz
+   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       6
+    :S:        18
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    378-79
+    :END:
+** 1912-08-12 (nach 1912-08-12)
+   :PROPERTIES:
+   :CUSTOM_ID: koe1912-08-12a
+   :TRAD:
+   :ORT: 
+   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       7
+    :S:        19
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    379
+    :END:
+** 1913-03-04
+   :PROPERTIES:
+   :CUSTOM_ID: koe1913-03-04
+   :TRAD:
+   :ORT: Berlin (Westend)
+   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       8
+    :S:        20
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    379-80
+    :END:
+* Benn
+:PROPERTIES:
+:FROM: Koenigsmann, Leonhard
+:TO: Benn
+:END:
+** 1912-08-12 (nach 1912-08-12)
+   :PROPERTIES:
+   :CUSTOM_ID: koeb1912-08-12
+   :TRAD:
+   :ORT: 
+   :END:
+In [[#koe1912-08-12a][1912-08-12 (nach 1912-08-12)]] erwähnt: "alles was Du schreibst".
