@@ -8,14 +8,25 @@
 :EMPF:     1
 :FROM: Benn
 :TO: Fleischmann-Fleming, Elsa
-:CUSTOM_ID: fleischmann-fleming
-:GEB: 
-:TOD: 
+:CUSTOM_ID: fleischmann-fleming_1888
+:GEB: 1888
+:TOD: 1976
 :END:
 ** 1921-06-25
    :PROPERTIES:
    :CUSTOM_ID: fl1921-06-25
+   :TRAD: DLA/Benn
+   :ORT: [Berlin]
    :END:      
+*** AB2017
+    :PROPERTIES:
+    :NR:       22
+    :S:        29
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    387
+    :VORL:     
+    :END:
 *** AB1957
 :PROPERTIES:
 :S: 14-15
