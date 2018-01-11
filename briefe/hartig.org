@@ -1,0 +1,32 @@
+#+STARTUP: showall
+#+STARTUP: content
+# +STARTUP: showeverything
+#+TITLE: Benn - Rudolf Hartig
+
+* Hartig, Rudolf
+:PROPERTIES:
+:EMPF:     1
+:FROM: Benn
+:TO: Hartig, Rudolf
+:GEB: 1893
+:TOD: 1962
+:END:
+** 1913-04-03
+   :PROPERTIES:
+   :CUSTOM_ID: har1913-04-03
+   :ORT: Berlin
+   :TRAD:     
+   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       9
+    :S:        21
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    381
+    :END:
+* Benn
+:PROPERTIES:
+:TO: Benn
+:FROM: Hartig, Rudolf
+:END:
