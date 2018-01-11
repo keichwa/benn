@@ -9,8 +9,8 @@
 :FROM: Benn
 :TO: Vagts, Alfred
 :CUSTOM_ID: vagts_alfred
-:GEB:      
-:TOD:      
+:GEB:      1892
+:TOD:      1986
 :END:
 ** 1947-06-18
    :PROPERTIES:
