@@ -1,0 +1,49 @@
+#+STARTUP: content
+#+STARTUP: showall
+ #+STARTUP: showeverything
+#+TITLE: Benn - Elsa Wagner
+
+* Wagner, Elsa
+:PROPERTIES:
+:EMPF:     1
+:FROM: Benn
+:TO: Wagner, Elsa
+:GEB: 1881
+:TOD: 1975
+:END:
+** 1925-07-14
+   :PROPERTIES:
+   :CUSTOM_ID: wag1925-07-14
+   :TRAD: AdK/Wagner
+   :ORT: Berlin
+   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       25
+    :S:        31-35
+    :AUSL:     
+    :FAKS:     32/33 (s. 2 und 4, verkleinert)
+    :S_KOM:    390-91
+    :VORL:     
+    :END:
+** 1926-02-22
+   :PROPERTIES:
+   :CUSTOM_ID: wag1926-02-22
+   :TRAD: AdK/Wagner
+   :ORT: [Berlin]
+   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       30
+    :S:        38
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    393
+    :VORL:     
+    :END:
+* Benn
+:PROPERTIES:
+:FROM: Wagner, Elsa
+:TO: Benn
+:END:
+
