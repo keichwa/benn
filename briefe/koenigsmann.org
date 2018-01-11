@@ -95,6 +95,21 @@
     :FAKS:     
     :S_KOM:    379-80
     :END:
+* 1914-05-10
+  :PROPERTIES:
+  :CUSTOM_ID: koe1914-05-10
+  :TRAD:
+  :ORT: Frankfurt am Main
+  :END:
+** AB2017
+   :PROPERTIES:
+   :NR:       15
+   :S:        24
+   :AUSL:     
+   :FAKS:     
+   :S_KOM:    383-84
+   :VORL:     
+   :END:
 * Benn
 :PROPERTIES:
 :FROM: Koenigsmann, Leonhard
