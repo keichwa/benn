@@ -1,0 +1,36 @@
+#+STARTUP: content
+#+STARTUP: showall
+ #+STARTUP: showeverythingn
+#+TITLE: Benn - Franz Blei
+
+* Blei, Franz
+:PROPERTIES:
+:CUSTOM_ID: blei_franz_1903
+:EMPF:     1
+:FROM: Benn
+:TO: Blei, Franz
+:GEB: 1871
+:TOD: 1942
+:END:
+* 1931-04-19
+  :PROPERTIES:
+  :CUSTOM_ID: bl1931-04-19
+  :TRAD: u
+  :ORT: [Berlin]
+  :END:
+** AB2017
+   :PROPERTIES:
+   :NR:       48
+   :S:        51-52
+   :AUSL:     
+   :FAKS:     
+   :S_KOM:    404-05
+   :VORL:     www
+   :END:
+* Benn
+:PROPERTIES:
+:FROM: Blei, Franz
+:TO: Benn
+:END:
+** 1931-04-18
+In [[#bl1931-04-19][1931-04-19]] erwähnt: "Ihren Brief vom 18. d. M."
