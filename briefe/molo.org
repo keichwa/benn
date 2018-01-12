@@ -1,0 +1,37 @@
+#+STARTUP: content
+#+STARTUP: showall
+ #+STARTUP: showeverythingn
+#+TITLE: Benn - Walter von Molo
+
+* Molo, Walter von
+:PROPERTIES:
+:CUSTOM_ID: molo_1880
+:EMPF:     1
+:FROM: Benn
+:TO: Molo, Walter von
+:GEB: 1880
+:TOD: 1958
+:END:
+* 1931-04-19
+  :PROPERTIES:
+  :CUSTOM_ID: mol1931-04-19
+  :TRAD: AdK/Molo
+  :ORT: [Berlin]
+  :END:
+** AB2017
+   :PROPERTIES:
+   :NR:       49
+   :S:        52
+   :AUSL:     
+   :FAKS:     
+   :S_KOM:    405
+   :VORL:     
+   :END:
+
+* Benn
+:PROPERTIES:
+:FROM: Molo, Walter von
+:TO: Benn
+:END:
+** 1931-04-19 (vor 1931-04-19)
+In [[#mol1931-04-19][1931-04-19]] erwähnt: "Ihren reizenden Gruß!"
