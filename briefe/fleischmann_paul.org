@@ -9,11 +9,10 @@
 :FROM: Benn
 :TO: Fleischmann, Paul
 :CUSTOM_ID: fleischmann_paul
-:GEB: 
-:TOD: 
+:GEB: 1879
+:TOD: 1957
 :END:
-
-** 1935-03-31
+** TODO 1935-03-31
    :PROPERTIES:
    :CUSTOM_ID: flp1935-03-31
    :END: 
@@ -23,6 +22,21 @@ Auch an #fleischmann-fleming
 :S: 64-65
 :S_KOM: 348
 :END:
+* 1931-08-16
+  :PROPERTIES:
+  :CUSTOM_ID: flp1931-08-16
+  :TRAD: DLA/Benn
+  :ORT: 
+  :END:
+** AB2017
+   :PROPERTIES:
+   :NR:       50
+   :S:        53
+   :AUSL:     
+   :FAKS:     
+   :S_KOM:    405-06
+   :VORL:     
+   :END:
 * Benn
 :PROPERTIES:
 :FROM: Fleischmann, Paul
