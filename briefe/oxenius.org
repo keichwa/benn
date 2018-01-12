@@ -1,0 +1,38 @@
+#+STARTUP: content
+#+STARTUP: showall
+ #+STARTUP: showeverything
+#+TITLE: Benn - Kurt Oxenius
+
+* Oxenius, Kurt
+:PROPERTIES:
+:EMPF:     1
+:FROM: Benn
+:TO: Oxenius, Kurt
+:GEB: 1898
+:TOD: 1956
+:END:
+* 1930-09-16
+  :PROPERTIES:
+  :CUSTOM_ID: ox1930-09-16
+  :TRAD: Heinrich-Heine-Institut, Rheinisches Literaturarchiv / Teilnachlass Kurt Oxenius
+  :ORT: [Berlin]
+  :END:
+** AB2017
+   :PROPERTIES:
+   :NR:       46
+   :S:        50
+   :AUSL:     
+   :FAKS:     
+   :S_KOM:    402
+   :VORL:     
+   :END:
+* Benn
+:PROPERTIES:
+:FROM: Oxenius, Kurt
+:TO: Benn
+:END:
+** 1930-09-09
+:PROPERTIES:
+:TRAD: n
+:END:
+In [[#ox1930-09-16][1930-09-16]] erwähnt: "Ihren ... Brief vom 9. d.M."
