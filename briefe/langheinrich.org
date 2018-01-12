@@ -26,7 +26,6 @@
     :S_KOM:    395
     :VORL:     www
     :END:
-
 * Benn
 :PROPERTIES:
 :FROM: Langheinrich, Leonard
