@@ -10,12 +10,23 @@
 :FROM: Benn
 :TO: Gabel, Richard
 :GEB: 1903
-:TOD: 
+:TOD: 1964
 :END:
 ** 1931-02-23
    :PROPERTIES:
    :CUSTOM_ID: ga1931-02-23
+   :TRAD:     u
    :END:   
+*** AB2017
+    :PROPERTIES:
+    :NR:       47
+    :S:        51
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    403-04
+    :VORL:     AB1957
+    :END:
+
 *** AB1957
 :PROPERTIES:
 :S: 41-42
