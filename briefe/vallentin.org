@@ -1,0 +1,50 @@
+#+STARTUP: content
+#+STARTUP: showall
+ #+STARTUP: showeverything
+#+TITLE: Benn - Antonina Vallentin
+
+* Vallentin, Antonina
+:PROPERTIES:
+:EMPF:     1
+:FROM: Benn
+:TO: Vallentin, Antonina
+:GEB: 1893
+:TOD: 1957
+:END:
+** 1919-06-26
+   :PROPERTIES:
+   :CUSTOM_ID: val1919-06-26
+   :TRAD: DLA/Benn
+   :ORT: 
+   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       18
+    :S:        25-26
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    385
+    :VORL:     
+    :END:
+** 1932-01-09
+   :PROPERTIES:
+   :CUSTOM_ID: val1932-01-09
+   :TRAD: DLA/Benn
+   :ORT: Berlin
+   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       56
+    :S:        57-58
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    408-09
+    :VORL:     
+    :END:
+* Benn
+:PROPERTIES:
+:FROM: Vallentin, Antonina
+:TO: Benn
+:END:
+** 1931-12-29
+In [[#val1932-01-09][1932-01-09]] erwähnt: "Ihren ... Brief vom 29/ Dezember".
