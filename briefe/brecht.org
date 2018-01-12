@@ -1,0 +1,36 @@
+#+STARTUP: content
+#+STARTUP: showall
+ #+STARTUP: showeverything
+#+TITLE: Benn - Bertolt Brecht
+
+* Brecht, Bertolt
+:PROPERTIES:
+:EMPF:     1
+:FROM: Benn
+:TO: Brecht, Bertolt
+:GEB: 1898
+:TOD: 1956
+:END:
+* 1929-10-16
+  :PROPERTIES:
+  :CUSTOM_ID: brecht1929-10-16
+  :TRAD: AdK/Brecht
+  :ORT: Berlin
+  :END:
+** AB2017
+   :PROPERTIES:
+   :NR:       44
+   :S:        48-49
+   :AUSL:     
+   :FAKS:     
+   :S_KOM:    401
+   :VORL:     
+   :END:
+
+* Benn
+:PROPERTIES:
+:FROM: Brecht, Bertolt
+:TO: Benn
+:END:
+** 1929-07-07
+
