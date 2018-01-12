@@ -26,11 +26,10 @@
    :S_KOM:    401
    :VORL:     
    :END:
-
 * Benn
 :PROPERTIES:
 :FROM: Brecht, Bertolt
 :TO: Benn
 :END:
-** 1929-07-07
+
 
