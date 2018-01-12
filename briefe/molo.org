@@ -12,21 +12,51 @@
 :GEB: 1880
 :TOD: 1958
 :END:
-* 1931-04-19
-  :PROPERTIES:
-  :CUSTOM_ID: mol1931-04-19
-  :TRAD: AdK/Molo
-  :ORT: [Berlin]
-  :END:
-** AB2017
+** 1931-04-19
    :PROPERTIES:
-   :NR:       49
-   :S:        52
-   :AUSL:     
-   :FAKS:     
-   :S_KOM:    405
-   :VORL:     
+   :CUSTOM_ID: mol1931-04-19
+   :TRAD: AdK/Molo
+   :ORT: [Berlin]
    :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       49
+    :S:        52
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    405
+    :VORL:     
+    :END:
+** 1931-09-29
+   :PROPERTIES:
+   :CUSTOM_ID: mol1931-09-29
+   :TRAD: AdK/Molo
+   :ORT: 
+   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       53
+    :S:        55
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    407
+    :VORL:     
+    :END:
+** 1932-01-30
+   :PROPERTIES:
+   :CUSTOM_ID: mol1932-01-30
+   :TRAD: AdK/Molo
+   :ORT: [Berlin]
+   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       58
+    :S:        58
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    409
+    :VORL:     
+    :END:
 
 * Benn
 :PROPERTIES:
