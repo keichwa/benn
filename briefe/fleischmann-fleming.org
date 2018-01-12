@@ -69,21 +69,21 @@
 :S: 47
 :S_KOM: 345
 :END:
-* 1931-08-23
-  :PROPERTIES:
-  :CUSTOM_ID: fl1931-08-23
-  :TRAD: DLA/Benn
-  :ORT: 
-  :END:
-** AB2017
+** 1931-08-23
    :PROPERTIES:
-   :NR:       51
-   :S:        54
-   :AUSL:     
-   :FAKS:     
-   :S_KOM:    406
-   :VORL:     
+   :CUSTOM_ID: fl1931-08-23
+   :TRAD: DLA/Benn
+   :ORT: 
    :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       51
+    :S:        54
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    406
+    :VORL:     
+    :END:
 * Benn
 :PROPERTIES:
 :FROM: Fleischmann-Fleming, Elsa
