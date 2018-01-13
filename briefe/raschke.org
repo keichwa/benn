@@ -1,0 +1,36 @@
+#+STARTUP: content
+#+STARTUP: showall
+ #+STARTUP: showeverythingn
+#+TITLE: Benn - Martin Raschke
+
+* Raschke, Martin
+:PROPERTIES:
+:CUSTOM_ID: 
+:EMPF:     1
+:FROM: Benn
+:TO: Raschke, Martin
+:GEB: 1905
+:TOD: 1943
+:END:
+** 1933-11-12
+   :PROPERTIES:
+   :CUSTOM_ID: ras1933-11-12
+   :TRAD: SLUB/Raschke
+   :ORT: [Berlin]
+   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       65
+    :S:        63
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    415
+    :VORL:     
+    :END:
+
+* Benn
+:PROPERTIES:
+:FROM: Raschke, Martin
+:TO: Benn
+:END:
+
