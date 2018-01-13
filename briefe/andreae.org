@@ -12,12 +12,12 @@
 :GEB: 1880
 :TOD: 1958
 :END:
-* 1932-06-07
-  :PROPERTIES:
-  :CUSTOM_ID: an1932-06-07
-  :TRAD: Stadtarchiv Zürich / Nachlass Andreae
-  :ORT: Berlin
-  :END:
+** 1932-06-07
+   :PROPERTIES:
+   :CUSTOM_ID: an1932-06-07
+   :TRAD: Stadtarchiv Zürich / Nachlass Andreae
+   :ORT: Berlin
+   :END:
 ** AB2017
    :PROPERTIES:
    :NR:       59
