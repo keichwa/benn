@@ -1,0 +1,35 @@
+#+STARTUP: content
+#+STARTUP: showall
+ #+STARTUP: showeverythingn
+#+TITLE: Benn - Werner Beumelburg
+
+* Beumelburg, Werner
+:PROPERTIES:
+:CUSTOM_ID:
+:EMPF:     1
+:FROM: Benn
+:TO: Beumelburg, Werner
+:GEB: 1899
+:TOD: 1963
+:END:
+** 1934-01-29
+   :PROPERTIES:
+   :CUSTOM_ID: beu1934-01-29
+   :TRAD: AdK/HA
+   :ORT: Berlin
+   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       67
+    :S:        64-65
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    417
+    :VORL:     
+    :END:
+
+* Benn
+:PROPERTIES:
+:FROM: Beumelburg, Werner
+:TO: Benn
+:END:
