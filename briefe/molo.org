@@ -64,15 +64,45 @@
    :TRAD: AdK/Molo
    :ORT: [Berlin]
    :END:
-** AB2017
+*** AB2017
+    :PROPERTIES:
+    :NR:       60
+    :S:        59
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    410
+    :VORL:     
+    :END:
+** 1933-08-17
    :PROPERTIES:
-   :NR:       60
-   :S:        59
-   :AUSL:     
-   :FAKS:     
-   :S_KOM:    410
-   :VORL:     
+   :CUSTOM_ID: mol1933-08-17
+   :TRAD: AdK/Molo
+   :ORT: [Berlin]
    :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       62
+    :S:        60-61
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    411-13
+    :VORL:     
+    :END:
+** 1933-08-27
+   :PROPERTIES:
+   :CUSTOM_ID: mol1933-08-27
+   :TRAD: AdK/Molo
+   :ORT: [Berlin]
+   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       63
+    :S:        61
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    413
+    :VORL:     
+    :END:
 * Benn
 :PROPERTIES:
 :FROM: Molo, Walter von
