@@ -33,6 +33,21 @@
 :S: 57-58
 :S_KOM: 
 :END:
+** 1934-04-02
+   :PROPERTIES:
+   :CUSTOM_ID: bense1934-04-02
+   :TRAD: DLA/Bense
+   :ORT: Berlin
+   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       70
+    :S:        67
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    418
+    :VORL:     
+    :END:
 ** 1934-10-30
   :PROPERTIES:
   :CUSTOM_ID: bense1934-10-30
