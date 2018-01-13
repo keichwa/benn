@@ -1,0 +1,35 @@
+#+STARTUP: content
+#+STARTUP: showall
+ #+STARTUP: showeverythingn
+#+TITLE: Benn - Alexander Amersdorffer
+
+* Amersdorffer, Alexander
+:PROPERTIES:
+:CUSTOM_ID: molo_1880
+:EMPF:     1
+:FROM: Benn
+:TO: Amersdorffer, Alexander
+:GEB: 1875
+:TOD: 1946
+:END:
+** 1933-05-10
+   :PROPERTIES:
+   :CUSTOM_ID: am1933-05-10
+   :TRAD: AdK/HA
+   :ORT: [Berlin]
+   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       61
+    :S:        60
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    410-11
+    :VORL:     
+    :END:
+* Benn
+:PROPERTIES:
+:FROM: Amersdorffer, Alexander
+:TO: Benn
+:END:
+
