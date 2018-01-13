@@ -9,8 +9,8 @@
 :EMPF:     1
 :FROM: Benn
 :TO: Zsolnay, Paul
-:GEB: 1875
-:TOD: 1946
+:GEB: 1895
+:TOD: 1961
 :END:
 ** 1934-01-12
    :PROPERTIES:
