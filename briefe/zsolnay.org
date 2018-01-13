@@ -1,0 +1,35 @@
+#+STARTUP: content
+#+STARTUP: showall
+ #+STARTUP: showeverythingn
+#+TITLE: Benn - Paul Zsolnay
+
+* Zsolnay, Paul
+:PROPERTIES:
+:CUSTOM_ID:
+:EMPF:     1
+:FROM: Benn
+:TO: Zsolnay, Paul
+:GEB: 1875
+:TOD: 1946
+:END:
+** 1934-01-12
+   :PROPERTIES:
+   :CUSTOM_ID: zs1934-01-12
+   :TRAD: DLA/Stucken
+   :ORT: Berlin
+   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       66
+    :S:        64
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    415-16
+    :VORL:     
+    :END:
+
+* Benn
+:PROPERTIES:
+:FROM: Zsolnay, Paul
+:TO: Benn
+:END:
