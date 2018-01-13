@@ -5,7 +5,7 @@
 
 * Amersdorffer, Alexander
 :PROPERTIES:
-:CUSTOM_ID: molo_1880
+:CUSTOM_ID:
 :EMPF:     1
 :FROM: Benn
 :TO: Amersdorffer, Alexander
