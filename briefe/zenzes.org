@@ -8,9 +8,12 @@
 :EMPF:     1
 :FROM: Benn
 :TO: Zenzes, Gertrud
-:GEB:      1898
-:TOD:      
+:TO_2: Cassel, Gertrud
+:GEB:      1894
+:TOD:      1970
 :END:
+GEB checken: 1898?
+GEBNAME: Cassel; Heirat nach 1922
 ** 1921-12-29
    :PROPERTIES:
    :CUSTOM_ID: ze1921-12-29
@@ -51,7 +54,7 @@
 :S: 18-19
 :S_KOM:
 :END:
-** 1922 (wohl 1922a)
+** 1922 (wohl 1922)
    :PROPERTIES:
    :CUSTOM_ID: ze1922a
    :TRAD:     
@@ -82,6 +85,21 @@ Widmung in "Gesammelte Schriften".
 :S: 20
 :S_KOM: 343
 :END:
+** 1922-07-31
+   :PROPERTIES:
+   :CUSTOM_ID: ze1922-07-31
+   :TRAD: DLA/Benn
+   :ORT: [Berlin]
+   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       23
+    :S:        30
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    387-88
+    :VORL:     
+    :END:
 ** 1922-09-18
    :PROPERTIES:
    :CUSTOM_ID: ze1922-09-18
@@ -103,6 +121,66 @@ Widmung in "Gesammelte Schriften".
 :FAKS: 22 (1. seite)
 :S_KOM:
 :END:
+** 1924-07-30
+   :PROPERTIES:
+   :CUSTOM_ID: ze1924-07-30
+   :TRAD: DLA/Benn
+   :ORT: [Berlin]
+   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       24
+    :S:        30-31
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    388-89
+    :VORL:     
+    :END:
+** 1925-08-17
+   :PROPERTIES:
+   :CUSTOM_ID: ze1925-08-17
+   :TRAD: DLA/Benn
+   :ORT: Berlin
+   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       27
+    :S:        36
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    391-92
+    :VORL:     
+    :END:
+** 1925-10-19
+   :PROPERTIES:
+   :CUSTOM_ID: ze1925-10-19
+   :TRAD: DLA/Benn
+   :ORT: [Berlin]
+   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       28
+    :S:        36-37
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    392-93
+    :VORL:     
+    :END:
+** 1926-02-23
+   :PROPERTIES:
+   :CUSTOM_ID: ze1926-02-23
+   :TRAD: DLA/Benn
+   :ORT: [Berlin]
+   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       31
+    :S:        38-39
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    393-94
+    :VORL:     
+    :END:
 ** 1926-09-04
    :PROPERTIES:
    :CUSTOM_ID: ze1926-09-04
@@ -158,8 +236,17 @@ Widmung in "Gesammelte Schriften".
 ** 1933-09-23
    :PROPERTIES:
    :CUSTOM_ID: ze1933-09-23
-   :TRAD:     
+   :TRAD:     DLA/Benn
    :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       64
+    :S:        62-63
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    414
+    :VORL:     
+    :END:
 *** BZ2006
 :PROPERTIES:
 :AUSL:
