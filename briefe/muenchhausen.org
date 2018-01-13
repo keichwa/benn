@@ -11,16 +11,29 @@
 :GEB: 1874
 :TOD: 1945
 :END:
-** 1934
+** 1934-04-12
    :PROPERTIES:
-   :CUSTOM_ID:       
-   :END:      
-*** BMue1981
+   :CUSTOM_ID: mue1934-04-12
+:TRAD: SHLB Kiel/Blunck (abschrift)
+:ORT: Berlin
+   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       71
+    :S:        67-71
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    419-20
+    :VORL:     
+    :END:
+
+*** TODO BMue1981
 :PROPERTIES:
 :S:        
 :AUSL:
 :S_KOM:      
 :END:      
+"Nicht auffindbar" [ ]
 * Benn
 :PROPERTIES:
 :FROM_All: Münchhausen, Boerries von
