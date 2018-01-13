@@ -18,15 +18,15 @@
    :TRAD: Stadtarchiv Zürich / Nachlass Andreae
    :ORT: Berlin
    :END:
-** AB2017
-   :PROPERTIES:
-   :NR:       59
-   :S:        59
-   :AUSL:     
-   :FAKS:     
-   :S_KOM:    409
-   :VORL:     
-   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       59
+    :S:        59
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    409
+    :VORL:     
+    :END:
 * Benn
 :PROPERTIES:
 :FROM: Andreae, Volkmar
