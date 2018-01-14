@@ -1,29 +1,29 @@
 #+STARTUP: content
 #+STARTUP: showall
 # +STARTUP: showeverything
-#+TITLE: Benn - Büller-Klinkowström, Ellinor
+#+TITLE: Benn - Büller-Klinkowström, Elinor
 # #+COLUMNS: %25ITEM %TAGS %PRIORITY %TODO
 
-* Büller-Klinkowström, Ellinor
+* Büller-Klinkowström, Elinor
 :PROPERTIES:
 :EMPF:     1
 :FROM: Benn
-:TO: Büller-Klinkowström, Ellinor
+:TO: Büller-Klinkowström, Elinor
 :GEB:      1886
 :TOD:      1944
 :END:
-** 1932-12-21
+** 1935-06-04
    :PROPERTIES:
-   :CUSTOM_ID:       oe1932-12-21
-#   :COLUMNS:  %3BD %S %NR %FAKS
+   :CUSTOM_ID: bue1935-06-04
+   :TRAD: p
+   :ORT: [Hannover]
    :END:
-*** BOe2016
-:PROPERTIES:
-:NR:       1
-:BD:       I
-:S:        21
-:FAKS:     20; 21
-:AUSL:
-:S_KOM:      333
-:END:      
-
+*** AB2017
+    :PROPERTIES:
+    :NR:       78
+    :S:        78
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    425-26
+    :VORL:     
+    :END:
