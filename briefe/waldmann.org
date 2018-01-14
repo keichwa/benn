@@ -1,0 +1,35 @@
+#+STARTUP: content
+#+STARTUP: showall
+ #+STARTUP: showeverythingn
+#+TITLE: Benn - Anton Waldmann
+
+* Waldmann, Anton
+:PROPERTIES:
+:CUSTOM_ID:
+:EMPF:     1
+:FROM: Benn
+:TO: Waldmann, Anton
+:GEB: 1878
+:TOD: 1941
+:END:
+** 1938-04-01
+   :PROPERTIES:
+   :CUSTOM_ID: wal1938-04-01
+   :TRAD: DLA/Benn (durchschlag)
+   :ORT: Berlin
+   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       90
+    :S:        97-101
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    438-40
+    :VORL:     
+    :END:
+
+* Benn
+:PROPERTIES:
+:FROM: Waldmann, Anton
+:TO: Benn
+:END:
