@@ -1,0 +1,35 @@
+#+STARTUP: content
+#+STARTUP: showall
+ #+STARTUP: showeverythingn
+#+TITLE: Benn - Herta von Wedemeyer
+
+* Wedemeyer, Herta von
+:PROPERTIES:
+:CUSTOM_ID:
+:EMPF:     1
+:FROM: Benn
+:TO: Wedemeyer, Herta von
+:GEB: 1887
+:TOD: 1941
+:END:
+** 1937-12-01
+   :PROPERTIES:
+   :CUSTOM_ID: wed1937-12-01
+   :TRAD: DLA/Benn
+   :ORT: Berlin
+   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       87
+    :S:        91
+    :AUSL:     
+    :FAKS:     92 (bildpostkarte, vorder- und rückseite, verkleinert)
+    :S_KOM:    435-36
+    :VORL:     
+    :END:
+
+* Benn
+:PROPERTIES:
+:FROM: Wedemeyer, Herta von
+:TO: Benn
+:END:
