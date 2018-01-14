@@ -12,31 +12,42 @@
 :GEB: 1879
 :TOD: 1957
 :END:
+** 1931-08-16
+   :PROPERTIES:
+   :CUSTOM_ID: flp1931-08-16
+   :TRAD: DLA/Benn
+   :ORT: 
+   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       50
+    :S:        53
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    405-06
+    :VORL:     
+    :END:
 ** TODO 1935-03-31
    :PROPERTIES:
    :CUSTOM_ID: flp1935-03-31
-   :END: 
+   :TRAD: DLA/Benn
+   :ORT: Hannover
+   :END:
 Auch an #fleischmann-fleming
+*** AB2017
+    :PROPERTIES:
+    :NR:       77
+    :S:        77
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    424-25
+    :VORL:     
+    :END:
 *** AB1957
 :PROPERTIES:
 :S: 64-65
 :S_KOM: 348
 :END:
-* 1931-08-16
-  :PROPERTIES:
-  :CUSTOM_ID: flp1931-08-16
-  :TRAD: DLA/Benn
-  :ORT: 
-  :END:
-** AB2017
-   :PROPERTIES:
-   :NR:       50
-   :S:        53
-   :AUSL:     
-   :FAKS:     
-   :S_KOM:    405-06
-   :VORL:     
-   :END:
 * Benn
 :PROPERTIES:
 :FROM: Fleischmann, Paul
