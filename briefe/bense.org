@@ -61,8 +61,17 @@
 ** 1935-02-17
   :PROPERTIES:
   :CUSTOM_ID: bense1935-02-17
-  :TRAD:     
+  :TRAD:     DLA/Bense
   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       76
+    :S:        76
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    424
+    :VORL:     
+    :END:
 *** AB1957
 :PROPERTIES:
 :S: 63
