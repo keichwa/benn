@@ -18,6 +18,7 @@
    :TRAD: DLA/Benn
    :ORT: Berlin
    :END:
+Zusammen mit Herta Benn.
 *** AB2017
     :PROPERTIES:
     :NR:       87
