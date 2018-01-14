@@ -1,0 +1,35 @@
+#+STARTUP: content
+#+STARTUP: showall
+ #+STARTUP: showeverythingn
+#+TITLE: Benn - Edit von Coler
+
+* Coler, Edit von
+:PROPERTIES:
+:CUSTOM_ID:
+:EMPF:     1
+:FROM: Benn
+:TO: Coler, Edit von
+:GEB: 1895
+:TOD: 1949
+:END:
+* 1937-10-03
+  :PROPERTIES:
+  :CUSTOM_ID: col1937-10-03
+  :TRAD: DLA/Benn
+  :ORT: Berlin
+  :END:
+** AB2017
+   :PROPERTIES:
+   :NR:       86
+   :S:        90-91
+   :AUSL:     
+   :FAKS:     
+   :S_KOM:    435
+   :VORL:     
+   :END:
+
+* Benn
+:PROPERTIES:
+:FROM: Coler, Edit von
+:TO: Benn
+:END:
