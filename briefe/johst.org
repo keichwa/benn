@@ -13,6 +13,21 @@
 :END:
 ** 1936-05-09
 In [[#oe1936-05-12]] erwähnt (114, mit kommentar s. 450).
+* 1937-09-02
+  :PROPERTIES:
+  :CUSTOM_ID: joh1937-09-02
+  :TRAD: DLA/Benn (durchschlag)
+  :ORT: Berlin
+  :END:
+** AB2017
+   :PROPERTIES:
+   :NR:       85
+   :S:        88-90
+   :AUSL:     
+   :FAKS:     
+   :S_KOM:    434
+   :VORL:     
+   :END:
 * Benn
 ** 1936-05-12
    :PROPERTIES:
