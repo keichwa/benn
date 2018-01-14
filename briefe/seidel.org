@@ -51,6 +51,21 @@
 :S: 57
 :S_KOM: 347
 :END:
+** 1934-05-21
+   :PROPERTIES:
+   :CUSTOM_ID: se1934-05-21
+   :TRAD: DLA/Seidel
+   :ORT: Berlin
+   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       74
+    :S:        74-75
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    422-23
+    :VORL:     
+    :END:
 ** 1934-08-27
    :PROPERTIES:
    :CUSTOM_ID: se1934-08-27
