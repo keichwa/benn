@@ -10,13 +10,22 @@
 :TO_All: Pfeiffer-Belli, Erich
 :CUSTOM_ID: 
 :GEB: 1901
-:TOD: 19
+:TOD: 1989
 :END:
 ** 1936-04-30
   :PROPERTIES:
   :CUSTOM_ID: pf1936-04-30
-  :TRAD:     
+  :TRAD:  DLA/Pfeiffer-Belli
   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       79
+    :S:        79
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    427
+    :VORL:     
+    :END:
 *** AB1957
 :PROPERTIES:
 :S: 69-70
