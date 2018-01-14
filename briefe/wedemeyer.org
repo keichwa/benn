@@ -28,6 +28,22 @@ Zusammen mit Herta Benn.
     :S_KOM:    435-36
     :VORL:     
     :END:
+** 1938-05-08
+   :PROPERTIES:
+   :CUSTOM_ID: wed1938-05-08
+   :TRAD: DLA/Benn
+   :ORT: Berlin
+   :END:
+Zusammen mit Herta Benn.
+*** AB2017
+    :PROPERTIES:
+    :NR:       91
+    :S:        101-02
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    440
+    :VORL:     
+    :END:
 
 * Benn
 :PROPERTIES:
