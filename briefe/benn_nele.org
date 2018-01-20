@@ -44,6 +44,52 @@
     :S_KOM:    436-37
     :VORL:     
     :END:
+** 1939-06-14
+   :PROPERTIES:
+   :CUSTOM_ID: bn1939-06-14
+   :TRAD: AdK/Benn
+   :ORT: [Berlin]
+   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       92
+    :S:        102-03
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    441
+    :VORL:     
+    :END:
+
+** 1939-10-17
+   :PROPERTIES:
+   :CUSTOM_ID: bn1939-10-17
+   :TRAD: AdK/Benn
+   :ORT: Berlin
+   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       93
+    :S:        103-04
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    442
+    :VORL:     
+    :END:
+** 1940-06-30
+   :PROPERTIES:
+   :CUSTOM_ID: bn1940-06-30
+   :TRAD: AdK/Benn
+   :ORT: [Berlin]
+   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       94
+    :S:        104-05
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    442
+    :VORL:     
+    :END:
 ** 1944-01-27
    :PROPERTIES:
    :CUSTOM_ID:       bn1944-01-27
@@ -98,8 +144,6 @@
     :FAKS:     
     :S_KOM:  
     :END:
-
-#   :COLUMNS:  %3BD %S %NR %FAKS
 ** 1947-11-19
    :PROPERTIES:
    :CUSTOM_ID:       bn1947-11-19
