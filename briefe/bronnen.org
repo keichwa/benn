@@ -1,0 +1,35 @@
+#+STARTUP: content
+#+STARTUP: showall
+ #+STARTUP: showeverything
+#+TITLE: Benn - Arnolt Bronnen
+
+* Bronnen, Arnolt
+:PROPERTIES:
+:EMPF:     1
+:FROM: Benn
+:TO: Bronnen, Arnolt
+:GEB: 1895
+:TOD: 1959
+:END:
+** 1944-06-13
+   :PROPERTIES:
+   :CUSTOM_ID: bro1944-06-13
+   :TRAD: DLA/Bronnen
+   :ORT: [Landsberg]
+   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       103
+    :S:        113
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    446-47
+    :VORL:     
+    :END:
+* Benn
+:PROPERTIES:
+:FROM: Bronnen, Arnolt
+:TO: Benn
+:END:
+** 1944-06-13 (vor 1944-06-13)
+Erwähnt in [[#bro1944-06-13][1944-06-13]]: "Ihren Brief".
