@@ -54,8 +54,18 @@
 ** 1943-10-17
   :PROPERTIES:
   :CUSTOM_ID: ki1943-10-17
-  :TRAD:     
+  :TRAD:     u
+:ORT: Landsberg
   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       100
+    :S:        110-11
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    444-45
+    :VORL:     AB1957
+    :END:
 *** AB1957
 :PROPERTIES:
 :S: 91-92
