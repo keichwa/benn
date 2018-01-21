@@ -9,13 +9,23 @@
 :FROM_All: Benn
 :TO_All: Kilpper, Gustav
 :GEB: 1879
-:TOD: 
+:TOD: 1963
 :END:
 ** 1942-02-12
   :PROPERTIES:
   :CUSTOM_ID: ki1942-02-12
-  :TRAD:     
+  :TRAD:     u
+  :ORT:      Berlin
   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       96
+    :S:        107
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    443
+    :VORL:     AB1957
+    :END:
 *** AB1957
 :PROPERTIES:
 :S: 89-90
@@ -24,8 +34,18 @@
 ** 1943-01-11
   :PROPERTIES:
   :CUSTOM_ID: ki1943-01-11
-  :TRAD:     
+  :TRAD:     u
+  :ORT:      Berlin
   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       97
+    :S:        107-08
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    443
+    :VORL:     AB1957
+    :END:
 *** AB1957
 :PROPERTIES:
 :S: 90-91
