@@ -1,0 +1,33 @@
+#+STARTUP: content
+#+STARTUP: showall
+ #+STARTUP: showeverything
+#+TITLE: Benn - Hermann Kasack
+
+* Kasack, Hermann
+:PROPERTIES:
+:EMPF:     1
+:FROM: Benn
+:TO: Kasack, Hermann
+:GEB: 1896
+:TOD: 1966
+:END:
+** 1945-03-30
+   :PROPERTIES:
+   :CUSTOM_ID: kas1945-03-30
+   :TRAD: DLA/Unseld
+   :ORT: Berlin
+   :END:
+** AB2017
+   :PROPERTIES:
+   :NR:       104
+   :S:        114
+   :AUSL:     
+   :FAKS:     
+   :S_KOM:    447
+   :VORL:     
+   :END:
+* Benn
+:PROPERTIES:
+:FROM: Kasack, Hermann
+:TO: Benn
+:END:
