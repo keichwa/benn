@@ -82,6 +82,21 @@
 :S: 73
 :S_KOM: 349
 :END:
+** 1943-11-06
+   :PROPERTIES:
+   :CUSTOM_ID: ma1943-11-06
+   :TRAD: DLA/Benn
+   :ORT: Landsberg
+   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       102
+    :S:        112-13
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    445
+    :VORL:     
+    :END:
 ** 1946-07-30
   :PROPERTIES:
   :CUSTOM_ID: ma1946-07-30
@@ -91,7 +106,7 @@
 :PROPERTIES:
 :S: 102-03
 :S_KOM: 353
-:END:
+:END:      
 ** 1946-09-10
   :PROPERTIES:
   :CUSTOM_ID: ma1946-09-10
