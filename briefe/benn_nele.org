@@ -90,6 +90,36 @@
     :S_KOM:    442
     :VORL:     
     :END:
+** 1943-05-24
+   :PROPERTIES:
+   :CUSTOM_ID: bn1943-05-24
+   :TRAD: AdK/Benn
+   :ORT: Berlin
+   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       98
+    :S:        108-09
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    443-44
+    :VORL:     
+    :END:
+** 1943-10-14
+   :PROPERTIES:
+   :CUSTOM_ID: bn1943-10-14
+   :TRAD: AdK/Benn
+   :ORT: Landsberg
+   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       99
+    :S:        109-10
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    444
+    :VORL:     
+    :END:
 ** 1944-01-27
    :PROPERTIES:
    :CUSTOM_ID:       bn1944-01-27
