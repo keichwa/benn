@@ -1,0 +1,51 @@
+#+STARTUP: content
+#+STARTUP: showall
+ #+STARTUP: showeverything
+#+TITLE: Benn - Doris von Wedemeyer
+
+* Wedemeyer, Doris von
+:PROPERTIES:
+:CUSTOM_ID:
+:EMPF:     1
+:FROM: Benn
+:TO: Wedemeyer, Doris von
+:GEB: 1812
+:TOD: ?
+:END:
+** 1945-08-02
+   :PROPERTIES:
+   :CUSTOM_ID: weded1945-08-02
+   :TRAD: DLA/Benn
+   :ORT: 
+   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       
+    :S:        449
+    :AUSL:     t
+    :FAKS:     
+    :S_KOM:    449 (kommentar zu nr. 107)
+    :VORL:     
+    :END:
+** 1945-12-08
+   :PROPERTIES:
+   :CUSTOM_ID: weded1945-12-08
+   :TRAD: DLA/Benn
+   :ORT: Berlin
+   :END:
+** AB2017
+   :PROPERTIES:
+   :NR:       107
+   :S:        117-19
+   :AUSL:     
+   :FAKS:     
+   :S_KOM:    449-50
+   :VORL:     
+   :END:
+* Benn
+:PROPERTIES:
+:FROM: Wedemeyer, Doris von
+:TO: Benn
+:END:
+** 1945-11-29
+Erwähnt in [[#weded1945-12-08][1945-12-08]]: "Deinen Brief vom 29.XI"
