@@ -147,6 +147,42 @@
 :AUSL: t
 :S_KOM: 382
 :END:
+** 1956-02-16
+  :PROPERTIES:
+  :CUSTOM_ID: ni1956-02-16
+  :ORT:      Berlin
+  :TRAD:     
+  :END:
+*** AB1957
+:PROPERTIES:
+:S: 305-06
+:AUSL: t
+:S_KOM: 384
+:END:
+** 1956-04-08
+  :PROPERTIES:
+  :CUSTOM_ID: ni1956-04-08
+  :ORT:      Berlin
+  :TRAD:     
+  :END:
+*** AB1957
+:PROPERTIES:
+:S: 310-11
+:AUSL: 
+:S_KOM:
+:END:
+** 1956-05-16
+  :PROPERTIES:
+  :CUSTOM_ID: ni1956-05-16
+  :ORT:      Berlin
+  :TRAD:     
+  :END:
+*** AB1957
+:PROPERTIES:
+:S: 316-17
+:AUSL: 
+:S_KOM:
+:END:
 * Benn
 :PROPERTIES:
 :TO: Benn
@@ -162,3 +198,8 @@ Erwähnt in [[#ni1948-09-18]]: "Ihren Brief vom 23.8."
    :TRAD:     
    :END:
 Erwähnt in [[#ni1954-12-30][1954-12-30]]: "Ihren handgeschriebenen Brief vom 24 XII"
+** 1956-02-15
+   :PROPERTIES:
+   :TRAD:     
+   :END:
+Erwähnt in [[#ni1956-02-16][1956-02-16]]: "für Brief vom 15. II."
