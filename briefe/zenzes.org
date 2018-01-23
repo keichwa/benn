@@ -121,6 +121,13 @@ Widmung in "Gesammelte Schriften".
 :S: 20
 :S_KOM: 343
 :END:
+*** B1962
+    :PROPERTIES:
+    :S:        11-12
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    186
+    :END:
 ** 1922-07-31
    :PROPERTIES:
    :CUSTOM_ID: ze1922-07-31
@@ -157,24 +164,6 @@ Widmung in "Gesammelte Schriften".
 :FAKS: 22 (1. seite)
 :S_KOM:
 :END:
-** 1924-05-24
-   :PROPERTIES:
-   :CUSTOM_ID: ze1924-05-24
-   :TRAD:     
-   :END:
-Widmung mit gedicht.
-*** AB1957
-:PROPERTIES:
-:S: 19
-:S_KOM:
-:END:
-*** B1962
-    :PROPERTIES:
-    :S:        11-12
-    :AUSL:     
-    :FAKS:     
-    :S_KOM:    186
-    :END:
 ** 1924-07-30
    :PROPERTIES:
    :CUSTOM_ID: ze1924-07-30
