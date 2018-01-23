@@ -48,6 +48,54 @@
 :AUSL: 
 :S_KOM: 383
 :END:
+** 1955-11-11
+  :PROPERTIES:
+  :CUSTOM_ID: si1955-11-11
+  :ORT:      Berlin
+  :TRAD:     
+  :END:
+*** AB1957
+:PROPERTIES:
+:S: 298-99
+:AUSL: 
+:S_KOM: 384
+:END:
+** 1956-03-23
+  :PROPERTIES:
+  :CUSTOM_ID: si1956-03-23
+  :ORT:      Berlin
+  :TRAD:     
+  :END:
+*** AB1957
+:PROPERTIES:
+:S: 308
+:AUSL: 
+:S_KOM: 385
+:END:
+** 1956-04-29 (und 1956-05-02)
+  :PROPERTIES:
+  :CUSTOM_ID: si1956-04-29
+  :ORT:      Berlin
+  :TRAD:     
+  :END:
+*** AB1957
+:PROPERTIES:
+:S: 312
+:AUSL: 
+:S_KOM: 385
+:END:
+** 1956-05-09
+  :PROPERTIES:
+  :CUSTOM_ID: si1956-05-09
+  :ORT:      [Berlin]
+  :TRAD:     
+  :END:
+*** AB1957
+:PROPERTIES:
+:S: 315-16
+:AUSL: 
+:S_KOM: 
+:END:
 * Benn
 :PROPERTIES:
 :TO: Benn
@@ -58,4 +106,18 @@
    :TRAD:     
    :END:
 In [[#si1952-07-02]] erwähnt: "Ihren reizenden Brief vom 29. VI."
-
+** 1955-11-11 (vor 1955-11-11)
+   :PROPERTIES:
+   :TRAD:     
+   :END:
+In [[#si1955-11-11][1955-11-11]] erwähnt: "Dank für Buch u Widmung"
+** 1956-03-23 (vor 1956-03-23)
+   :PROPERTIES:
+   :TRAD:     
+   :END:
+In [[#si1956-03-23][1956-03-23]] erwähnt: "Ihren freundlichen Brief"
+** 1956-04-09
+   :PROPERTIES:
+   :TRAD:     
+   :END:
+   In [[#si1956-04-29][1956-04-29 (und 1956-05-02)]] erwähnt: "für den Brief vom 9.IV."
