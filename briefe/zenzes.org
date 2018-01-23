@@ -148,6 +148,13 @@ Widmung in "Gesammelte Schriften".
    :CUSTOM_ID: ze1922-09-18
    :TRAD:     
    :END:
+*** B1962
+    :PROPERTIES:
+    :S:        12
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:
+    :END:
 *** AB1957
 :PROPERTIES:
 :S: 20-21
@@ -156,8 +163,16 @@ Widmung in "Gesammelte Schriften".
 ** 1922-12-31
    :PROPERTIES:
    :CUSTOM_ID: ze1922-12-31
+:ORT: Berlin
    :TRAD:     
    :END:
+*** B1962
+    :PROPERTIES:
+    :S:        12-13
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    
+    :END:
 *** AB1957
 :PROPERTIES:
 :S: 21
