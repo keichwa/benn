@@ -121,6 +121,17 @@
 :S: 160
 :S_KOM: 363
 :END:
+** 1956-05-11
+  :PROPERTIES:
+  :CUSTOM_ID: ki1956-05-11
+  :ORT:      [Berlin]
+  :TRAD:     
+  :END:
+*** AB1957
+:PROPERTIES:
+:S: 316
+:S_KOM: 385
+:END:
 * Benn
 :PROPERTIES:
 :TO: Benn
@@ -144,3 +155,9 @@ Erwähnt in [[#ki1943-11-06]]: "Mitteilung".
   :TRAD:     verloren
   :END:
 Erwähnt in [[#ki1949-01-22]]: "Ihren freundlichen Brief vom 3 I. ...".
+** 1956-05-11 (vor 1956-05-11)
+  :PROPERTIES:
+  :CUSTOM_ID: kib1956-05-11
+  :TRAD:     
+  :END:
+Erwähnt in [[#ki1956-05-11][1956-05-11]]: "Ihren Brief".
