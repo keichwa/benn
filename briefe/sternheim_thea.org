@@ -8,9 +8,23 @@
 :EMPF:     1
 :FROM: Benn
 :TO: Sternheim, Thea
-:GEB:      
-:TOD:      
+:GEB:      1883
+:TOD:      1971
 :END:
+** 1925-11-24
+   :PROPERTIES:
+   :CUSTOM_ID: stt1925-11-24
+   :TRAD:
+   :ORT:  
+   :END:
+*** BSt2004
+    :PROPERTIES:
+    :NR:       18
+    :S:        15
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    370
+    :END:
 ** 1928-05-04
    :PROPERTIES:
    :CUSTOM_ID: stt1928-05-04
