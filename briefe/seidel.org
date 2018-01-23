@@ -127,6 +127,17 @@
 :S: 259-60
 :S_KOM: 379
 :END:      
+** 1956-05-08
+   :PROPERTIES:
+   :CUSTOM_ID: se1956-05-08
+   :ORT: [Berlin]
+   :TRAD:     
+   :END:      
+*** AB1957
+:PROPERTIES:
+:S: 315
+:S_KOM:
+:END:      
 * Benn
 :PROPERTIES:
 :TO: Benn
@@ -162,3 +173,5 @@ In [[#se1948-05-04]] erwähnt: "Ihren Brief".
    :TRAD:     
    :END:
 In [[#se1951-05-08]] erwähnt: "Ihr Telegramm zu meinem Geburtstag."
+** 1956-05-08 (vor 1956-05-08)
+In [[#se1956-05-08][1956-05-08]] erwähnt: "Ihr gütiges Telegramm".
