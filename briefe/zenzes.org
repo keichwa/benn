@@ -244,6 +244,13 @@ Widmung in "Gesammelte Schriften".
    :CUSTOM_ID: ze1926-09-04
    :TRAD:     
    :END:
+*** B1962
+    :PROPERTIES:
+    :S:        13-14
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    186
+    :END:
 *** AB1957
 :PROPERTIES:
 :S: 23-24
@@ -254,6 +261,13 @@ Widmung in "Gesammelte Schriften".
    :CUSTOM_ID: ze1926-11-23
    :TRAD:     
    :END:
+*** B1962
+    :PROPERTIES:
+    :S:        14-15
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    186
+    :END:
 *** AB1957
 :PROPERTIES:
 :S: 24-25
@@ -264,6 +278,13 @@ Widmung in "Gesammelte Schriften".
    :CUSTOM_ID: ze1928-05-01
    :TRAD:     
    :END:
+*** B1962
+    :PROPERTIES:
+    :S:        15-16
+    :AUSL:     t
+    :FAKS:     
+    :S_KOM:    186
+    :END:
 *** AB1957
 :PROPERTIES:
 :S: 25-27
