@@ -17,6 +17,7 @@ GEBNAME: Cassel; Heirat nach 1922
 ** 1921-12-29
    :PROPERTIES:
    :CUSTOM_ID: ze1921-12-29
+   :ORT:      [Berlin]
    :TRAD:     
    :END:
 *** AB1957
@@ -24,6 +25,13 @@ GEBNAME: Cassel; Heirat nach 1922
 :S: 15-16
 :S_KOM: 342
 :END:
+*** B1962
+    :PROPERTIES:
+    :S:        7-8
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    186
+    :END:
 ** 1922 (wohl anfang 1922)
    :PROPERTIES:
    :CUSTOM_ID: ze1922
@@ -34,6 +42,13 @@ GEBNAME: Cassel; Heirat nach 1922
 :S: 16-17
 :S_KOM:
 :END:
+*** B1962
+    :PROPERTIES:
+    :S:        8-9
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    
+    :END:
 ** 1922-03-21
    :PROPERTIES:
    :CUSTOM_ID: ze1922-03-21
@@ -44,6 +59,13 @@ GEBNAME: Cassel; Heirat nach 1922
 :S: 17
 :S_KOM: 342
 :END:
+*** B1962
+    :PROPERTIES:
+    :S:        9
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    186
+    :END:
 ** 1922-04-15
    :PROPERTIES:
    :CUSTOM_ID: ze1922-04-15
@@ -54,6 +76,13 @@ GEBNAME: Cassel; Heirat nach 1922
 :S: 18-19
 :S_KOM:
 :END:
+*** B1962
+    :PROPERTIES:
+    :S:        10
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    
+    :END:
 ** 1922 (wohl 1922)
    :PROPERTIES:
    :CUSTOM_ID: ze1922a
@@ -64,6 +93,13 @@ GEBNAME: Cassel; Heirat nach 1922
 :S: 19
 :S_KOM:
 :END:
+*** B1962
+    :PROPERTIES:
+    :S:        11
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    
+    :END:
 ** 1922-05-03
    :PROPERTIES:
    :CUSTOM_ID: ze1922-05-03
@@ -121,6 +157,24 @@ Widmung in "Gesammelte Schriften".
 :FAKS: 22 (1. seite)
 :S_KOM:
 :END:
+** 1924-05-24
+   :PROPERTIES:
+   :CUSTOM_ID: ze1924-05-24
+   :TRAD:     
+   :END:
+Widmung mit gedicht.
+*** AB1957
+:PROPERTIES:
+:S: 19
+:S_KOM:
+:END:
+*** B1962
+    :PROPERTIES:
+    :S:        11-12
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    186
+    :END:
 ** 1924-07-30
    :PROPERTIES:
    :CUSTOM_ID: ze1924-07-30
