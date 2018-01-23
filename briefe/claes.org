@@ -8,8 +8,8 @@
 :EMPF:     1
 :FROM: Benn
 :TO: Claes, Astrid
-:GEB:      19
-:TOD:      2
+:GEB:      1928
+:TOD:      2011
 :END:
 ** 1954-04-17
    :PROPERTIES:
@@ -90,7 +90,30 @@
 :S: 282-83
 :S_KOM: 382
 :END:
-
+** 1955-09-15
+   :PROPERTIES:
+   :CUSTOM_ID: cl1955-09-15
+   :ORT: [Berlin]
+   :TRAD:     
+   :END:   
+*** AB1957
+:PROPERTIES:
+:AUSL: 
+:S: 293-94
+:S_KOM: 383
+:END:
+** 1956-05-07
+   :PROPERTIES:
+   :CUSTOM_ID: cl1956-05-07
+   :ORT: [Berlin]
+   :TRAD:     
+   :END:   
+*** AB1957
+:PROPERTIES:
+:AUSL: t
+:S: 314
+:S_KOM:
+:END:
 * Benn
 :PROPERTIES:
 :TO: Benn
@@ -111,3 +134,8 @@ In [[#cl1954-07-30]] erwähnt: "Netter energischer Brief vom 28. VII.!"
    :TRAD:     
    :END:
 In [[#cl1955-02-17][1955-02-17]] erwähnt: "den letzten [Brief] mit dem schönen Gedicht".
+** 1955-09-12
+   :PROPERTIES:
+   :TRAD:     
+   :END:
+In [[#cl1955-09-15][1955-09-15]] erwähnt: "Ihren letzten Brief vom 12. IX"
