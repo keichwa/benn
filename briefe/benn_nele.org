@@ -138,6 +138,21 @@
     :FAKS:     
     :S_KOM:  
     :END:
+** 1946-05-13
+   :PROPERTIES:
+   :CUSTOM_ID: bn1946-05-13
+   :TRAD: AdK/Benn
+   :ORT: [Berlin]
+   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       112
+    :S:        126
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    455-56
+    :VORL:     
+    :END:
 ** 1946-09-11
    :PROPERTIES:
    :CUSTOM_ID:       bn1946-09-11
