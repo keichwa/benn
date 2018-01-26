@@ -1,0 +1,37 @@
+#+STARTUP: content
+#+STARTUP: showall
+ #+STARTUP: showeverything
+#+TITLE: Benn - Traute Weingarten
+
+* Weingarten, Traute
+:PROPERTIES:
+:CUSTOM_ID:
+:EMPF:     1
+:FROM:     Benn
+:TO: Weingarten, Traute
+:GEB: 1894
+:TOD: 1980
+:END:
+** 1945-12-24
+   :PROPERTIES:
+   :CUSTOM_ID: wein1945-12-24
+   :TRAD: AdK/Werckshagen1945-12-24
+   :ORT: Berlin
+   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       108
+    :S:        120
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    450
+    :VORL:     
+    :END:
+
+* Benn
+:PROPERTIES:
+:FROM: Weingarten, Traute
+:TO: Benn
+:END:
+** 1945-12-24 (vor 1945-12-24)
+Erwähnt in [[#wein1945-12-24][1945-12-24]]: "freundliche Karte"
