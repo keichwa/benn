@@ -1,0 +1,21 @@
+#+STARTUP: content
+#+STARTUP: showall
+# +STARTUP: showeverything
+#+TITLE: Benn - Benn, Herta (2. Frau)
+# #+COLUMNS: %25ITEM %TAGS %PRIORITY %TODO
+
+* Benn, Herta
+:PROPERTIES:
+:EMPF:     1
+:FROM: Benn
+:TO: Benn, Herta
+:GEB:      19
+:TOD:      1945
+:END:
+* Benn
+:PROPERTIES:
+:TO: Benn
+:FROM: Benn, Herta
+:END:
+** 1945-07-27 (vor 1945-07-27)
+Erwähnt in [[file:benn_nele.org::#bn1946-07-27][1946-07-27]]: "mir einen Brief von Herta brachte".
