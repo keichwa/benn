@@ -46,3 +46,19 @@
     :S_KOM:    452
     :VORL:     
     :END:
+** 1946-05-06
+:PROPERTIES:
+:TRAD: u
+:CUSTOM_ID: claab1946-05-06
+:END:
+Telegramm erwähnt in [[#wer1946-05-10][1946-05-10]], s. 454 (kommentar zu no. 111).
+** 1946-05-10
+:PROPERTIES:
+:TRAD: DLA/Benn
+:CUSTOM_ID: claab1946-05-10
+:END:
+*** AB2017
+:PROPERTIES:
+:AUSL: auszug
+:S: 454 (kommentar zu no. 111).
+:END:
