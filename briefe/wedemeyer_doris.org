@@ -42,6 +42,21 @@
     :S_KOM:    449-50
     :VORL:     
     :END:
+** 1946-02-19
+   :PROPERTIES:
+   :CUSTOM_ID: weded1946-02-19
+   :TRAD: DLA/Benn1946-02-19
+   :ORT: [Berlin]
+   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       109
+    :S:        120
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    451
+    :VORL:     
+    :END:
 * Benn
 :PROPERTIES:
 :FROM: Wedemeyer, Doris von
@@ -49,3 +64,5 @@
 :END:
 ** 1945-11-29
 Erwähnt in [[#weded1945-12-08][1945-12-08]]: "Deinen Brief vom 29.XI"
+** 1946-01-17
+Erwähnt in [[#weded1946-02-19][1946-02-19]]: "Deinen Brief vom 17 I.46."
