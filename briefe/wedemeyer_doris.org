@@ -9,7 +9,7 @@
 :EMPF:     1
 :FROM: Benn
 :TO: Wedemeyer, Doris von
-:GEB: 1812
+:GEB: 1912
 :TOD: ?
 :END:
 ** 1945-08-02
@@ -33,15 +33,15 @@
    :TRAD: DLA/Benn
    :ORT: Berlin
    :END:
-** AB2017
-   :PROPERTIES:
-   :NR:       107
-   :S:        117-19
-   :AUSL:     
-   :FAKS:     
-   :S_KOM:    449-50
-   :VORL:     
-   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       107
+    :S:        117-19
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    449-50
+    :VORL:     
+    :END:
 * Benn
 :PROPERTIES:
 :FROM: Wedemeyer, Doris von
