@@ -153,17 +153,51 @@
     :S_KOM:    455-56
     :VORL:     
     :END:
+** 1946-06-21
+   :PROPERTIES:
+   :CUSTOM_ID: bn1946-06-21
+   :TRAD: AdK/Benn
+   :ORT: 
+   :END:
+Im kommentar zu [[*1946-07-27][1946-07-27]], s. 457 erwähnt.
+*** AB2017
+    :PROPERTIES:
+    :NR:       
+    :S:        457 (kommentar zu nr. 114)
+    :AUSL:     auszug
+    :FAKS:     
+    :S_KOM:    
+    :VORL:     
+    :END:
+** 1946-07-27
+   :PROPERTIES:
+   :CUSTOM_ID: bn1946-07-27
+   :TRAD: AdK/Benn
+   :ORT: [Berlin]
+   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       114
+    :S:        128-29
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    457-58
+    :VORL:     
+    :END:
 ** 1946-09-11
    :PROPERTIES:
+   :TRAD: u
    :CUSTOM_ID:       bn1946-09-11
    :END:
-*** AB1957
-:PROPERTIES:
-:S:        104-05
-:FAKS:     
-:AUSL:
-:S_KOM: 
-:END:      
+*** AB2017
+    :PROPERTIES:
+    :NR:       115
+    :S:        129-30
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    458-59
+    :VORL:     www und AB1957
+    :END:
 *** B1962
     :PROPERTIES:
     :S:      
@@ -171,6 +205,13 @@
     :FAKS:     
     :S_KOM:  
     :END:
+*** AB1957
+:PROPERTIES:
+:S:        104-05
+:FAKS:     
+:AUSL:
+:S_KOM: 
+:END:      
 ** 1947-11-19
    :PROPERTIES:
    :CUSTOM_ID:       bn1947-11-19
@@ -223,13 +264,32 @@ In [[#bn1944-01-27]] erwähnt: "Brief".
    :TRAD:     
    :END:
 In dem kommentar zu [[file:wedemeyer_doris.org::#weded1946-02-19][1946-02-19]] erwähnt.
+** 1946-04-20 (vor 1946-04-20)
+   :PROPERTIES:
+   :CUSTOM_ID: bnb1946-04-20
+   :TRAD:     u
+   :END:
+"Deinen Brief aus Hamburg" in [[#bn1946-05-13][1946-05-13]] erwähnt, im kommentar s. 455
+AH 11a zitiert: "Brief von Nele aus Hamburg".
+** 1946-04-27
+   :PROPERTIES:
+   :CUSTOM_ID: bnb1946-04-27
+   :TRAD:     u
+   :END:
+"Deinen Brief vom 27. IV" in [[#bn1946-05-13][1946-05-13]] erwähnt.
 ** 1946-05-10 (vor 1946-05-10)
    :PROPERTIES:
    :TRAD:     v
    :END:
 In [[file:werckshagen.org::#wer1946-05-10][1946-05-10]] erwähnt: "Meine Tochter schrieb mir".
-** 1946-11-11 (vor 1946-11-11)
+** 1946-05-30
+   :PROPERTIES:
+   :CUSTOM_ID: bnb1946-05-30
+   :TRAD:     v
+   :END:
+Mit [[#bn1946-06-21][1946-06-21]] beantwortet.
+** 1946-09-11 (vor 1946-09-11)
    :PROPERTIES:
    :TRAD:     
    :END:
-In [[#bn1946-09-11]] erwähnt: "Brief".
+In [[#bn1946-09-11]] erwähnt: "Deinen Brief aus Schweden".
