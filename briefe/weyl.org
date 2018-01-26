@@ -69,3 +69,14 @@ In [[#we1946-03-15]] erwähnt: "eingeschriebene Sendung vom 5 III."
    :TRAD:     
    :END:
 In [[#we1946-03-28]] erwähnt: "die Zusendung Ihrer 4 Aufsätze".
+** 1946-04-21
+   :PROPERTIES:
+   :TRAD:    DLA/Benn
+:CUSTOM_ID: web1946-04-21
+   :END:
+*** AB2017
+:PROPERTIES:
+:AUSL: paraphrase
+:S: 455 (kommentar zu no. 111).
+:END:
+
