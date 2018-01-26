@@ -18,10 +18,9 @@
    :END:
 *** AB1957
 :PROPERTIES:
-:S: 27
-:S_KOM: 343-44
-:END:
-
+:S:        27
+:S_KOM:    343-44
+:END:      
 * Benn
 :PROPERTIES:
 :TO: Benn
@@ -33,3 +32,15 @@
    :ORT:      
    :END:
 Erwähnt in [[#oe1943-06-27]] erwähnt.
+** 1946-03-09
+   :PROPERTIES:
+   :TRAD:     
+   :ORT:      
+   :END:
+Nachgewiesen im kommentar zu [[file:benn_nele.org::#bn1946-05-13][1946-05-13]] (AH 11a).
+** 1946-04-18
+   :PROPERTIES:
+   :TRAD:     
+   :ORT:      
+   :END:
+Nachgewiesen im kommentar zu [[file:benn_nele.org::#bn1946-05-13][1946-05-13]] (AH 11a).
