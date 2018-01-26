@@ -45,7 +45,7 @@
 ** 1946-02-19
    :PROPERTIES:
    :CUSTOM_ID: weded1946-02-19
-   :TRAD: DLA/Benn1946-02-19
+   :TRAD: DLA/Benn
    :ORT: [Berlin]
    :END:
 *** AB2017
