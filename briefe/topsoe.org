@@ -21,6 +21,7 @@
    :TRAD:    DLA/Benn 
    :ORT:      
    :END:
+Wohl auch erwähnt in [[file:benn_nele.org::#bn1946-07-27][1946-07-27]].
 ** AB2017
    :PROPERTIES:
    :NR:       
@@ -30,4 +31,9 @@
    :S_KOM:    456
    :VORL:     
    :END:
-
+** 1946-09-11 (vor 1946-09-11)
+   :PROPERTIES:
+   :TRAD:    u
+   :ORT:      
+   :END:
+Erwähnt in [[file:benn_nele.org::#bn1946-09-11][1946-09-11]]: "Preben gab in seinem letzten Brief".
