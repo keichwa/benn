@@ -1,0 +1,33 @@
+#+STARTUP: content
+#+STARTUP: showall
+# +STARTUP: showeverything
+#+TITLE: Benn - Topsøe, Preben
+
+* Topsøe, Preben
+:PROPERTIES:
+:EMPF:     1
+:FROM: Benn
+:TO: Topsøe, Preben
+:GEB:      
+:TOD:      
+:END:
+* Benn
+:PROPERTIES:
+:TO: Benn
+:FROM: Topsøe, Preben
+:END:
+** 1946-06-23
+   :PROPERTIES:
+   :TRAD:    DLA/Benn 
+   :ORT:      
+   :END:
+** AB2017
+   :PROPERTIES:
+   :NR:       
+   :S:        456 (kommentar zu no. 112)
+   :AUSL:     auszug
+   :FAKS:     
+   :S_KOM:    456
+   :VORL:     
+   :END:
+
