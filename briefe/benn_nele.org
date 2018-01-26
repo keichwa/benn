@@ -208,6 +208,11 @@ In [[#bn1944-01-27]] erwähnt: "Brief".
    :TRAD:     
    :END:
 In dem kommentar zu [[file:wedemeyer_doris.org::#weded1946-02-19][1946-02-19]] erwähnt.
+** 1946-05-10 (vor 1946-05-10)
+   :PROPERTIES:
+   :TRAD:     v
+   :END:
+In [[file:werckshagen.org::#wer1946-05-10][1946-05-10]] erwähnt: "Meine Tochter schrieb mir".
 ** 1946-11-11 (vor 1946-11-11)
    :PROPERTIES:
    :TRAD:     
