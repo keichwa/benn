@@ -14,7 +14,18 @@
 ** 1913-04-12
    :PROPERTIES:
    :CUSTOM_ID: br1913-04-12
-   :END:      
+   :TRAD:     u
+   :ORT:      [Berlin]
+   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       10
+    :S:        21
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    381-82
+    :VORL:     AB1957
+    :END:
 *** AB1957
 :PROPERTIES:
 :S: 10-11
@@ -23,7 +34,16 @@
 ** 1913-05-18 (wohl 1913)
    :PROPERTIES:
    :CUSTOM_ID: br1913-05-18
-   :END:      
+   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       11
+    :S:        22
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    382
+    :VORL:     AB1957
+    :END:
 *** AB1957
 :PROPERTIES:
 :S: 11
@@ -33,6 +53,15 @@
    :PROPERTIES:
    :CUSTOM_ID: br1913-09-02
    :END:      
+*** AB2017
+    :PROPERTIES:
+    :NR:       13
+    :S:        23
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    382-83
+    :VORL:     AB1957
+    :END:
 *** AB1957
 :PROPERTIES:
 :S: 11-12

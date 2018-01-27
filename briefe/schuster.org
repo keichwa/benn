@@ -8,8 +8,8 @@
 :EMPF:     1
 :FROM: Benn
 :TO: Schuster, Alice
-:CUSTOM_ID: schuster_alice_
-:GEB: 
+:CUSTOM_ID: schuster_alice_1893
+:GEB: 1983
 :TOD: 
 :END:
 ** 1926-02-20 (und 1926-02-27)
@@ -32,7 +32,7 @@ Widmung in "Spaltung".
 :S: 95-97
 :S_KOM: 351
 :END:
-Auch an [[file:kraus.org::#kraus_else_c_][Kraus, Else C.]] Partnerin. Siehe [[file:kraus.org::#kr1945-11-18][1945-11-18]]
+Auch an [[file:kraus.org::#kraus_else_c_1890][Kraus, Else C.]] Partnerin. Siehe [[file:kraus.org::#kr1945-11-18][1945-11-18]]
 ** 1953-07-16
    :PROPERTIES:
    :CUSTOM_ID: schu1953-07-16
@@ -44,7 +44,18 @@ Auch an [[file:kraus.org::#kraus_else_c_][Kraus, Else C.]] Partnerin. Siehe [[fi
 :S: 251-52
 :S_KOM: 378-79
 :END:
-Auch an [[file:kraus.org::#kraus_else_c_][Kraus, Else C.]] Partnerin. Siehe [[file:kraus.org::#kr1953-07-16][1953-07-16]]
+** 1955-12-01
+   :PROPERTIES:
+   :CUSTOM_ID: schu1955-12-01
+   :ORT:      Berlin
+   :TRAD:     
+   :END:
+*** AB1957
+:PROPERTIES:
+:S: 300
+:S_KOM: 384
+:END:
+Auch an [[file:kraus.org::#kraus_else_c_1890][Kraus, Else C.]] Partnerin. Siehe [[file:kraus.org::#kr1955-12-01][1955-12-01]]
 * Benn
 ** 1953-07-16 (vor 1953-07-16)
 Erwähnt in [[#schu1953-07-16]]: Karte. {auch bei kraus eintragen!}

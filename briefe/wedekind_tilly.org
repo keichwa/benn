@@ -11,7 +11,7 @@
 :GEB:      
 :TOD:      
 :END:
-** 1928-05-04?
+** 1928-05-04 (1928-05-04?)
    :PROPERTIES:
    :CUSTOM_ID: stt1928-05-04
    :TRAD:     

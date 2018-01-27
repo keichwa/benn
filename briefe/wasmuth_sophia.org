@@ -41,10 +41,37 @@ Auch an Ewald Wasmuth, den Ehemann ([[#wasmuth_ewald_1890]]): [[file:wasmuth_ewa
 :S: 31
 :S_KOM:
 :END:
+** 1929-03-09
+   :PROPERTIES:
+   :CUSTOM_ID: was1929-03-09
+   :TRAD: DLA/Wasmuth
+   :ORT: [Berlin]
+   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       41
+    :S:        45
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    399
+    :VORL:     
+    :END:      
 ** 1929-05-10
    :PROPERTIES:
    :CUSTOM_ID: was1929-05-10
-   :END:   
+   :ORT:      Berlin
+   :TRAD:     DLA/Wasmuth
+    :END:      
+*** AB2017
+    :PROPERTIES:
+    :NR:       42
+    :S:        46-47
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    399
+    :VORL:     
+    :END:
+
 *** AB1957
 :PROPERTIES:
 :S: 33-32
@@ -65,4 +92,4 @@ Karten in [[#was1929-02-21]] erwähnt; zugleich an Lili.
    :PROPERTIES:
    :TRAD:     verloren
    :END:
-In [[#was1929-02-21]] erwähnt.
+Brief in [[#was1929-02-21]] erwähnt.

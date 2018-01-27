@@ -36,6 +36,18 @@
 :AUSL: 
 :S_KOM:
 :END:
+** 1955-10-01
+  :PROPERTIES:
+  :CUSTOM_ID: lo1955-10-01
+  :ORT:      Berlin
+  :TRAD:     
+  :END:
+*** AB1957
+:PROPERTIES:
+:S: 295-96
+:AUSL: 
+:S_KOM: 383
+:END:
 * Benn
 :PROPERTIES:
 :TO: Benn
@@ -69,3 +81,9 @@ Erwähnt in [[file:oelze.org::#oe1952-03-23][1952-03-23 an Oe]] mit kommentar 44
    :TRAD:     NB/DLA
    :END:
 Erwähnt in [[#lo1954-07-31]]: "Ihren freundlichen Brief vom 27. 7."
+** 1955-08-31
+   :PROPERTIES:
+   :CUSTOM_ID: lob1955-08-31
+   :TRAD:     
+   :END:
+Erwähnt in [[#lo1955-10-01][1955-10-01]]: "Ihren Brief vom 31. 8."

@@ -27,3 +27,6 @@
     :S_KOM:    425-26
     :VORL:     
     :END:
+* Benn
+** 1935-06-03
+Erwähnt in [[#bue1935-06-04][1935-06-04]]: "in Deinem gestrigen Brief."

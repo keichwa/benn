@@ -1,0 +1,39 @@
+#+STARTUP: content
+#+STARTUP: showall
+ #+STARTUP: showeverything
+#+TITLE: Benn - Carl Meinhard
+
+* Meinhard, Carl
+:PROPERTIES:
+:EMPF:     1
+:FROM: Benn
+:TO: Meinhard, Carl
+:GEB: 1875
+:TOD: 1949
+:END:
+** 1930-09-07
+   :PROPERTIES:
+   :CUSTOM_ID: mein1930-09-07
+   :TRAD: Theaterwissenschaftliche Sammlung, Univ. Köln
+   :ORT: Berlin
+   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       45
+    :S:        49-50
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    401-02
+    :VORL:     
+    :END:
+
+* Benn
+:PROPERTIES:
+:FROM: Meinhard, Carl
+:TO: Benn
+:END:
+** 1930-09-04
+:PROPERTIES:
+:TRAD: u
+:END:
+Erwähnt in [[#mein1930-09-07][1930-09-07]]: "Ihren Brief vom 4. 9."

@@ -1,0 +1,36 @@
+#+STARTUP: content
+#+STARTUP: showall
+ #+STARTUP: showeverything
+#+TITLE: Benn - Edschmid
+
+* Edschmid, Kasimir
+:PROPERTIES:
+:EMPF:     1
+:FROM_All: Benn
+:TO_All: Edschmid, Kasimir
+:CUSTOM_ID: 
+:GEB: 19
+:TOD: 19
+:END:
+** 1955-10-05
+  :PROPERTIES:
+  :CUSTOM_ID: ed1955-10-05
+  :ORT:      [Berlin]
+  :TRAD:     
+  :END:
+*** AB1957
+:PROPERTIES:
+:S: 296-98
+:AUSL: 
+:S_KOM: 384
+:END:
+* Benn
+:PROPERTIES:
+:TO: Benn
+:FROM: Edschmid, Kasimir
+:END:
+** 195
+   :PROPERTIES:
+   :TRAD:    NB/DLA
+   :END:
+Erwähnt in 

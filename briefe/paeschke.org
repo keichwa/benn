@@ -119,6 +119,32 @@
 :S: 283-84
 :S_KOM: 382
 :END:
+** 1955-12-25
+  :PROPERTIES:
+  :CUSTOM_ID: pa1955-12-25
+  :ORT:      Berlin
+  :TRAD:     
+  :END:
+*** AB1957
+:PROPERTIES:
+:ORT: Berlin
+:AUSL: t
+:S: 300-01
+:S_KOM: 
+:END:
+** 1956-01-06
+  :PROPERTIES:
+  :CUSTOM_ID: pa1956-01-06
+  :ORT:      Berlin
+  :TRAD:     
+  :END:
+*** AB1957
+:PROPERTIES:
+:ORT: Berlin
+:AUSL: 
+:S: 304
+:S_KOM: 384
+:END:
 * Benn
 :PROPERTIES:
 :TO: Benn
@@ -154,3 +180,13 @@ In [[#pa1954-06-13]] erwähnt: "am 17 V einen netten persönlichen Brief geschri
    :TRAD:     
    :END:
 In [[#pa1954-06-25]] erwähnt: "Ihren Brief,"
+** 1955-12-21
+   :PROPERTIES:
+   :TRAD:     
+   :END:
+In [[#pa1955-12-25][1955-12-25]] erwähnt: "Dank für freundlichen Brief vom 21. 12."
+** 1956-01-06 (vor 1956-01-06)
+   :PROPERTIES:
+   :TRAD:     
+   :END:
+In [[#pa1956-01-06][1956-01-06]] erwähnt: "einen sehr sehr netten Brief geschrieben."

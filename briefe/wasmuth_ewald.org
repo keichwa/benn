@@ -82,7 +82,17 @@ Auch an Sophia Wasmuth ([[file:wasmuth_sophia.org::#wasmuth_sophia_][Wasmuth, So
 ** 1936-10-18
    :PROPERTIES:
    :CUSTOM_ID: wae1936-10-18
+   :TRAD: DLA/Wasmuth
    :END:   
+*** AB2017
+    :PROPERTIES:
+    :NR:       81
+    :S:        81-82
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    428-29
+    :VORL:     
+    :END:
 *** AB1957
 :PROPERTIES:
 :S: 73-75

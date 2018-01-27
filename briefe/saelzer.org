@@ -1,0 +1,32 @@
+#+STARTUP: showall
+#+STARTUP: content
+# +STARTUP: showeverything
+#+TITLE: Benn - Elisabeth Sälzer
+
+* Sälzer, Elisabeth
+:PROPERTIES:
+:EMPF:     1
+:FROM: Benn
+:TO: Sälzer, Elisabeth
+:GEB:      1885
+:TOD:      1974
+:END:
+** 1904-08-15
+   :PROPERTIES:
+   :CUSTOM_ID: sa1904-08-15
+   :TRAD:
+   :ORT: Sellin
+   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       1
+    :S:        9
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    371-72
+    :END:
+* Benn
+:PROPERTIES:
+:TO: Benn
+:FROM: Sälzer, Elisabeth
+:END:

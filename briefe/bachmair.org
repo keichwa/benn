@@ -1,0 +1,48 @@
+#+STARTUP: showall
+#+STARTUP: content
+# +STARTUP: showeverything
+#+TITLE: Benn - Heinrich F. S. Bachmair
+
+* Bachmair, Heinrich F. S.
+:PROPERTIES:
+:EMPF:     1
+:FROM: Benn
+:TO: Bachmair, Heinrich F. S.
+:GEB: 1889
+:TOD: 1960
+:END:
+** 1913-08-17
+   :PROPERTIES:
+   :CUSTOM_ID: bac1913-08-17
+:TRAD: 
+   :ORT:      Berlin
+   :END:      
+*** AB2017
+    :PROPERTIES:
+    :NR:       13
+    :S:        22
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    382
+    :VORL: DLA/Bachmair     
+    :END:
+** 1914-01-07
+   :PROPERTIES:
+   :CUSTOM_ID: bac1914-01-07
+:TRAD: 
+   :ORT:      Berlin
+   :END:      
+*** AB2017
+    :PROPERTIES:
+    :NR:       14
+    :S:        23-24
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    383
+    :VORL:     DLA/Bachmair
+    :END:
+* Benn
+:PROPERTIES:
+:TO: Benn
+:FROM: Bachmair, Heinrich F. S.
+:END:

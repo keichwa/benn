@@ -48,6 +48,18 @@
 :AUSL: 
 :S_KOM: 380
 :END:
+** 1956-05-05
+  :PROPERTIES:
+  :CUSTOM_ID: ho1956-05-05
+  :ORT:      Berlin
+  :TRAD:     
+  :END:
+*** AB1957
+:PROPERTIES:
+:S: 313
+:AUSL: 
+:S_KOM: 385
+:END:
 * Benn
 :PROPERTIES:
 :TO: Benn

@@ -80,6 +80,39 @@
 :S: 286
 :AUSL: t
 :S_KOM: 382
+:END:
+** 1955-08-25
+   :PROPERTIES:
+   :CUSTOM_ID:       pi1955-08-25
+   :ORT: Berlin      
+   :END: 
+*** AB1957
+:PROPERTIES:
+:S: 292-93
+:AUSL: 
+:S_KOM: 383
+:END:  
+** 1956-01-05
+   :PROPERTIES:
+   :CUSTOM_ID:       pi1956-01-05
+   :ORT: Berlin      
+   :END: 
+*** AB1957
+:PROPERTIES:
+:S: 303-04
+:AUSL: 
+:S_KOM: 384
+:END:  
+** 1956-04-25
+   :PROPERTIES:
+   :CUSTOM_ID:       pi1956-04-25
+   :ORT: [Berlin]
+   :END: 
+*** AB1957
+:PROPERTIES:
+:S: 311-12
+:AUSL: 
+:S_KOM: 385
 :END:  
 * Benn
 :PROPERTIES:
@@ -103,3 +136,21 @@ In [[#pi1949-07-16]] erwähnt: "Deinen Brief vom 9. VII."
    :CUSTOM_ID: pib1955-01-18
    :END:
 In [[#pi1955-01-18][1955-01-18]] erwähnt: "Dein Brief"
+** 1955-08-25 (vor 1955-08-25)
+   :PROPERTIES:
+   :TRAD:     Q
+   :CUSTOM_ID: pib1955-08-25
+   :END:
+In [[#pi1955-08-25][1955-08-25]] erwähnt: "Deinem lieben Brief"
+** 1956-01-05 (vor 1956-01-05)
+   :PROPERTIES:
+   :TRAD:     Q
+   :CUSTOM_ID: pib1956-01-05
+   :END:
+In [[#pi1956-01-05][1956-01-05]] erwähnt: "mir zu Neujahr geschrieben zu haben."
+** 1956-04-25 (vor 1956-04-25)
+   :PROPERTIES:
+   :TRAD:     Q
+   :CUSTOM_ID: 
+   :END:
+In [[#pi1956-04-25][1956-04-25]] erwähnt: "lieb von Dir, mir zu schreiben."

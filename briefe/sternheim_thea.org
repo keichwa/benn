@@ -17,6 +17,7 @@
    :TRAD:
    :ORT:  
    :END:
+Widmung.
 *** BSt2004
     :PROPERTIES:
     :NR:       18

@@ -399,3 +399,18 @@ Erwähnt in [[file:oelze.org::#oe1952-05-02][1952-05-02]]: "Karte aus Rom".
     :FAKS:     
     :S_KOM:    471
     :END:
+** 1956-04-09
+   :PROPERTIES:
+   :CUSTOM_ID: oecb1956-04-09
+   :TRAD:
+   :ORT: Olympia
+   :END:
+*** BOe2016
+    :PROPERTIES:
+    :NR:       1333
+    :BD:       4
+    :S:        381
+    :AUSL:     
+    :FAKS:     566 (bildpostkarte, vorderseite, verkleinert)
+    :S_KOM:    567
+    :END:

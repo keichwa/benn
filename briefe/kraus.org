@@ -8,25 +8,35 @@
 :EMPF:     1
 :FROM: Benn
 :TO: Kraus, Else C.
-:CUSTOM_ID: kraus_else_c_
-:GEB:      
-:TOD:      
+:CUSTOM_ID: kraus_else_c_1890
+:GEB:      1890
+:TOD:      1979
 :END:
 ** 1945-11-18
    :PROPERTIES:
    :CUSTOM_ID: kr1945-11-18
-   :TRAD:     
+   :TRAD:  u   
+   :ORT:      [Berlin]
    :END:      
+*** AB2017
+    :PROPERTIES:
+    :NR:       106
+    :S:        115-17
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    448-49
+    :VORL:     AB1957
+    :END:
 *** AB1957
 :PROPERTIES:
 :S: 95-97
 :S_KOM: 351
 :END:
-Auch an [[file:schuster.org::#schuster_alice_][Schuster, Alice]] Partnerin. Siehe [[file:schuster.org::#schu1945-11-18][1945-11-18]]
+Auch an [[file:schuster.org::#schuster_alice_1893][Schuster, Alice]] Partnerin. Siehe [[file:schuster.org::#schu1945-11-18][1945-11-18]]
 ** 1953-07-16
    :PROPERTIES:
    :CUSTOM_ID: kr1953-07-16
-:ORG: Berlin
+:ORT: Berlin
    :TRAD:     
    :END:      
 *** AB1957
@@ -34,14 +44,27 @@ Auch an [[file:schuster.org::#schuster_alice_][Schuster, Alice]] Partnerin. Sieh
 :S: 251-52
 :S_KOM: 378-79
 :END:
-    Auch an [[file:schuster.org::#schuster_alice_][Schuster, Alice]] Partnerin. Siehe [[file:schuster.org::#schu1953-07-16][1953-07-16]]
+    Auch an [[file:schuster.org::#schuster_alice_1893][Schuster, Alice]] Partnerin. Siehe [[file:schuster.org::#schu1953-07-16][1953-07-16]]
+** 1955-12-01
+   :PROPERTIES:
+   :CUSTOM_ID: kr1955-12-01
+:ORT: Berlin
+   :TRAD:     
+   :END:      
+*** AB1957
+:PROPERTIES:
+:S: 300
+:S_KOM: 384
+:END:
+    Auch an [[file:schuster.org::#schuster_alice_1893][Schuster, Alice]] Partnerin. Siehe [[file:schuster.org::#schu1955-12-01][1955-12-01]]
 * Benn
 :PROPERTIES:
 :TO: Benn
 :FROM: Kraus, Else C.
 :END:
-** 1945-11-18 (vor 1945-11-18)
+** TODO 1945-11-18 (vor 1945-11-18)
    :PROPERTIES:
    :TRAD:     
    :END:
-In [[#kr1945-11-18]] erwähnt: "vielen Dank für Euren Brief".
+In [[#kr1945-11-18]] erwähnt: "vielen Dank für Euren Brief". [auch bei schuster eintragen!]
+

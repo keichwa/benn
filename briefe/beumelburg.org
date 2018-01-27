@@ -28,9 +28,9 @@
     :VORL:     
     :END:
 
-** 1934-04-1
+** 1934-04-18
    :PROPERTIES:
-   :CUSTOM_ID: beu1934-04-1
+   :CUSTOM_ID: beu1934-04-18
    :TRAD: SHLB Kiel/Blunck
    :ORT: [Berlin]
    :END:

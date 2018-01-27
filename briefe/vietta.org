@@ -15,14 +15,22 @@
 ** 1936-11-08
   :PROPERTIES:
   :CUSTOM_ID: vi1936-11-08 
-  :TRAD:     
+  :TRAD:     DLA/Vietta
   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       82
+    :S:        83-84
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    430
+    :VORL:     
+    :END:
 *** AB1957
 :PROPERTIES:
 :S: 75-76
 :S_KOM: 350
 :END:
-
 * Benn
 :PROPERTIES:
 :TO: Benn

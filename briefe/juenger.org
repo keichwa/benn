@@ -129,6 +129,30 @@ Auf Genfer Briefpapier.
 :AUSL: t
 :S_KOM: 
 :END:
+** 1955-12
+  :PROPERTIES:
+  :CUSTOM_ID: jue1955-12
+  :ORT: [Berlin]
+  :TRAD:
+  :END:
+*** AB1957
+:PROPERTIES:
+:S: 303
+:AUSL: 
+:S_KOM: 
+:END:
+** 1956-03-27
+  :PROPERTIES:
+  :CUSTOM_ID: jue1956-03-27
+  :ORT: Berlin
+  :TRAD:
+  :END:
+*** AB1957
+:PROPERTIES:
+:S: 308-09
+:AUSL: 
+:S_KOM: 385
+:END:
 * Benn
 :PROPERTIES:
 :TO: Benn

@@ -1,0 +1,34 @@
+#+STARTUP: content
+#+STARTUP: showall
+ #+STARTUP: showeverything
+#+TITLE: Benn - Max Krell
+
+* Krell, Max
+:PROPERTIES:
+:EMPF:     1
+:FROM: Benn
+:TO: Krell, Max
+:GEB: 1897
+:TOD: 1962
+:END:
+** 1920-11-06
+   :PROPERTIES:
+   :CUSTOM_ID: kre1920-11-06
+   :TRAD: DLA/Benn, Kopien
+   :ORT: [Berlin]
+   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       20
+    :S:        27
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    386
+    :VORL:     
+    :END:
+* Benn
+:PROPERTIES:
+:FROM: Krell, Max
+:TO: Benn
+:END:
+

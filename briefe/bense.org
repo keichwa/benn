@@ -82,8 +82,18 @@ Erwähnt in file:briefe/oelze.org::#oe1935-06-04.
 ** 1937-03-21
   :PROPERTIES:
   :CUSTOM_ID: bense1937-03-21
-  :TRAD:     
+  :TRAD:     DLA/Bense
+:ORT: Hannover
   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       83
+    :S:        84-85
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    431-32
+    :VORL:     
+    :END:
 *** AB1957
 :PROPERTIES:
 :S: 77-78

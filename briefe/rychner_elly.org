@@ -1,0 +1,35 @@
+#+STARTUP: content
+#+STARTUP: showall
+ #+STARTUP: showeverything
+#+TITLE: Benn - Elly Rychner
+
+* Rychner, Elly
+:PROPERTIES:
+:EMPF:     1
+:FROM_All: Benn
+:TO_All: Rychner, Elly
+:GEB: 18
+:TOD: 19
+:END:
+** 1955-06-28
+  :PROPERTIES:
+  :CUSTOM_ID: rye1955-06-28
+  :ORT:     Berlin
+  :TRAD:     
+  :END:
+Zugleich an Max Rychner: [[file:rychner.org::#ry1955-06-28][1955-06-28]]
+*** AB1957
+:PROPERTIES:
+:S: 289-90
+:S_KOM:
+:END:
+* Benn
+:PROPERTIES:
+:TO: Benn
+:FROM: Rychner, Elly
+:END:
+** 1955-06-28 (vor 1955-06-28)
+Erwähnt in [[#rye1955-06-28][1955-06-28]]: "Ihre Schreiben".
+** 1955-12-25 (vor 1955-12-25)
+Erwähnt in [[file:rychner.org::#ry1955-12-25][1955-12-25]], 301: "an Ihre Gattin schreiben, da sie mir
+einen so langen interessanten Brief vor einiger Zeit schrieb".
