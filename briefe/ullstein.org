@@ -9,8 +9,8 @@
 :FROM_All: Benn
 :TO_All: Ullstein, Heinz
 :CUSTOM_ID: 
-:GEB: 19
-:TOD: 19
+:GEB: 1893
+:TOD: 1973
 :END:
 ** 1955-04-27
   :PROPERTIES:
