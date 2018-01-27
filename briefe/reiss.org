@@ -57,6 +57,21 @@
 :S: 111-13
 :S_KOM: 354
 :END:
+** 1947-11-09
+   :PROPERTIES:
+   :CUSTOM_ID: 1947-11-09
+   :TRAD: DLA/Reiss
+   :ORT: [Berlin]
+   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       129
+    :S:        147-48
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    470
+    :VORL:     
+    :END:
 ** 1948-12-19
   :PROPERTIES:
   :CUSTOM_ID: re1948-12-19
@@ -138,6 +153,11 @@ Erwähnt in [[file:zenzes.org::#ze1946-11-26][1946-11-26 Zenzes]], identisch mit
    :TRAD:    u 
    :END:
 Erwähnt in [[#re1947-04-23][1947-04-23]]: "Ihr Brief vom 10. ds. Ms."
+** 1947-07
+   :PROPERTIES:
+   :TRAD:    u 
+   :END:
+Erwähnt in [[#1947-11-09][1947-11-09]]: "Ihr Brief vom Juli 47".
 ** 1949-01-12 (vor 1949-01-12)
    :PROPERTIES:
    :TRAD:     
