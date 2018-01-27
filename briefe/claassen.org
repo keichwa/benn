@@ -51,7 +51,7 @@
 :TRAD: u
 :CUSTOM_ID: claab1946-05-06
 :END:
-Telegramm erwähnt in [[#wer1946-05-10][1946-05-10]], s. 454 (kommentar zu no. 111).
+Telegramm erwähnt in [[#wer1946-05-10][1946-05-10]], s. 454 (kommentar zu nr. 111).
 ** 1946-05-10
 :PROPERTIES:
 :TRAD: DLA/Benn
@@ -60,5 +60,5 @@ Telegramm erwähnt in [[#wer1946-05-10][1946-05-10]], s. 454 (kommentar zu no. 1
 *** AB2017
 :PROPERTIES:
 :AUSL: auszug
-:S: 454 (kommentar zu no. 111).
+:S: 454 (kommentar zu nr. 111).
 :END:
