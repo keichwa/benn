@@ -1,0 +1,44 @@
+#+STARTUP: content
+#+STARTUP: showall
+ #+STARTUP: showeverything
+#+TITLE: Benn - Ernst Rowohlt
+
+* Rowohlt, Ernst
+:PROPERTIES:
+:CUSTOM_ID:
+:EMPF:     1
+:FROM:     Benn
+:TO: Rowohlt, Ernst
+:GEB: 18
+:TOD: 19
+:END:
+** 1946-09-07 (wohl 1946-09-07)
+:PROPERTIES:
+:CUSTOM_ID: ro1946-09-07
+:TRAD: 
+:END:
+Erwähnt im [[file:claassen.org::#claa1946-11-20][kommentar zu 1946-11-20]], s. 462 mit verweis auf AH 11a.
+* Benn
+:PROPERTIES:
+:FROM: Rowohlt, Ernst
+:TO: Benn
+:END:
+** 1946-03-14
+:PROPERTIES:
+:CUSTOM_ID: rob1946-03-14
+:TRAD: DLA/Benn
+:END:
+Erwähnt im [[file:claassen.org::#claa1946-11-20][kommentar zu 1946-11-20]], s. 462.
+** 1946-09-07 (vor 1946-09-07)
+:PROPERTIES:
+:CUSTOM_ID: rob1946-09-07
+:TRAD: 
+:END:
+Erwähnt im [[file:claassen.org::#claa1946-11-20][kommentar zu 1946-11-20]], s. 462.
+** 1946-10-25
+:PROPERTIES:
+:CUSTOM_ID: rob1946-09-07
+:TRAD: 
+:END:
+Erwähnt im [[file:claassen.org::#claa1946-11-20][kommentar zu 1946-11-20]], s. 462.
+
