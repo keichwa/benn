@@ -227,24 +227,6 @@ Im kommentar zu [[*1946-07-27][1946-07-27]], s. 457 erwähnt.
     :S_KOM:    
     :VORL:     
     :END:
-** 1947-11-19
-   :PROPERTIES:
-   :CUSTOM_ID:       bn1947-11-19
-   :END:
-*** AB1957
-:PROPERTIES:
-:S:        121-22
-:FAKS:     
-:AUSL:
-:S_KOM: 356
-:END:      
-*** B1962
-    :PROPERTIES:
-    :S:      
-    :AUSL:     
-    :FAKS:     
-    :S_KOM:  
-    :END:
 ** 1946-11-23
    :PROPERTIES:
    :CUSTOM_ID: bn1946-11-23
@@ -274,6 +256,35 @@ Im kommentar zu [[*1946-07-27][1946-07-27]], s. 457 erwähnt.
     :FAKS:     
     :S_KOM:    465
     :VORL:     
+    :END:
+** 1947-11-19
+   :PROPERTIES:
+   :CUSTOM_ID: bn1947-11-19
+   :TRAD: AdK/Benn
+   :ORT: Berlin
+   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       130
+    :S:        148-50
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    471
+    :VORL:     
+    :END:
+*** AB1957
+:PROPERTIES:
+:S:        121-22
+:FAKS:     
+:AUSL:
+:S_KOM: 356
+:END:      
+*** B1962
+    :PROPERTIES:
+    :S:      
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:  
     :END:
 * Benn
 :PROPERTIES:
