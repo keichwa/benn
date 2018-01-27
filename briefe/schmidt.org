@@ -12,6 +12,21 @@
 :GEB:      18
 :TOD:      19
 :END:
+** 1947-07-03
+   :PROPERTIES:
+   :CUSTOM_ID: schm1947-07-03
+   :TRAD: DLA/Benn
+   :ORT: Berlin
+   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       
+    :S:        467-68 (kommentar zu nr. 126)
+    :AUSL:     auszug
+    :FAKS:     
+    :S_KOM:    
+    :VORL:     
+    :END:
 ** 1947-07-16
    :PROPERTIES:
    :CUSTOM_ID: schm1947-07-16
@@ -25,6 +40,21 @@
     :AUSL:     
     :FAKS:     
     :S_KOM:    467-68
+    :VORL:     
+    :END:
+** 1947-08-03
+   :PROPERTIES:
+   :CUSTOM_ID: schm1947-08-03
+   :TRAD: DLA/Benn
+   :ORT: Berlin
+   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       
+    :S:        468 (kommentar zu nr. 126)
+    :AUSL:     auszug
+    :FAKS:     
+    :S_KOM:    
     :VORL:     
     :END:
 * Benn
@@ -42,3 +72,18 @@ Erwähnt in [[#schm1947-07-16][1947-07-16]]: "Brief vom 24.6."
 :TRAD: DLA/Benn
 :END:
 Erwähnt in [[#schm1947-07-16][1947-07-16]]: "Schreiben vom 8.7.47"
+** 1947-07-20
+:PROPERTIES:
+:CUSTOM_ID: schmb1947-07-20
+:TRAD: DLA/Benn
+:END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       
+    :S:        468 (kommentar zu nr. 126)
+    :AUSL:     auszug
+    :FAKS:     
+    :S_KOM:    
+    :VORL:     
+    :END:
+
