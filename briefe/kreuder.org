@@ -1,0 +1,48 @@
+#+STARTUP: content
+#+STARTUP: showall
+ #+STARTUP: showeverything
+#+TITLE: Benn - Ernst Kreuder
+
+* Kreuder, Ernst
+:PROPERTIES:
+:EMPF:     1
+:FROM: Benn
+:TO: Kreuder, Ernst
+:GEB: 1903
+:TOD: 1972
+:END:
+** 1947-08-08
+   :PROPERTIES:
+   :CUSTOM_ID: kreu1947-08-08
+   :TRAD: DLA/Kreuder
+   :ORT: Berlin
+   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       127
+    :S:        145-46
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    468-69
+    :VORL:     
+    :END:
+* Benn
+:PROPERTIES:
+:FROM: Kreuder, Ernst
+:TO: Benn
+:END:
+** 1947-08-16
+   :PROPERTIES:
+   :CUSTOM_ID: kreub1947-08-16
+   :TRAD: DLA/Benn
+   :ORT: Berlin
+   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       
+    :S:        468 und 469 (im kommentar zu nr. 127)
+    :AUSL:     paraphrase
+    :FAKS:     
+    :S_KOM:    
+    :VORL:     
+    :END:
