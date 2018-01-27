@@ -8,8 +8,8 @@
 :EMPF:     1
 :FROM: Benn
 :TO: Pinner, Erna
-:GEB:
-:TOD:
+:GEB: 1890
+:TOD: 1987
 :END:
 ** 1946-11-20
    :PROPERTIES:
@@ -33,7 +33,18 @@
 ** 1947-11-09
    :PROPERTIES:
    :CUSTOM_ID:       pi1947-11-09
+   :TRAD:     Exilarchiv/Nachlass Pinner
+   :ORT:      Berlin
    :END:      
+*** AB2017
+    :PROPERTIES:
+    :NR:       128
+    :S:        146-47
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    469
+    :VORL:     
+    :END:
 *** AB1957
 :PROPERTIES:
 :S: 119-20
