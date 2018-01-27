@@ -489,6 +489,19 @@ die Zeitungsauschnitte".
    :TRAD:     
    :END:
 In [[#ze1946-11-26]] erwähnt: "Brief".
+** 1947-01-02
+   :PROPERTIES:
+   :TRAD:    DLA/Benn 
+   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       
+    :S:        465 (kommentar zu nr. 124)
+    :AUSL:     auszug
+    :FAKS:     
+    :S_KOM:    
+    :VORL:     
+    :END:
 ** 1947-01-25
    :PROPERTIES:
    :TRAD:     
