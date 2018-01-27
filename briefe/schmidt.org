@@ -1,0 +1,44 @@
+#+STARTUP: content
+#+STARTUP: showall
+# +STARTUP: showeverything
+#+TITLE: Benn - Herbert Schmidt (Vermieter)
+
+* Schmidt, Herbert
+:PROPERTIES:
+:EMPF:     1
+:FROM: Benn
+:TO: Schmidt, Herbert
+:CUSTOM_ID: 
+:GEB:      18
+:TOD:      19
+:END:
+** 1947-07-16
+   :PROPERTIES:
+   :CUSTOM_ID: schm1947-07-16
+   :TRAD: DLA/Benn
+   :ORT: Berlin
+   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       126
+    :S:        143-45
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    467-68
+    :VORL:     
+    :END:
+* Benn
+:PROPERTIES:
+:TO: Benn
+:FROM: Schmidt, Herbert
+:END:
+** 1947-06-24
+:PROPERTIES:
+:TRAD: DLA/Benn
+:END:
+Erwähnt in [[#schm1947-07-16][1947-07-16]]: "Brief vom 24.6."
+** 1947-07-08
+:PROPERTIES:
+:TRAD: DLA/Benn
+:END:
+Erwähnt in [[#schm1947-07-16][1947-07-16]]: "Schreiben vom 8.7.47"
