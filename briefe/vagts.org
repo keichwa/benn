@@ -8,15 +8,25 @@
 :EMPF:     1
 :FROM: Benn
 :TO: Vagts, Alfred
-:CUSTOM_ID: vagts_alfred
+:CUSTOM_ID: vagts_alfred_1892
 :GEB:      1892
 :TOD:      1986
 :END:
 ** 1947-06-18
    :PROPERTIES:
    :CUSTOM_ID: va1947-06-18
-   :TRAD:     
+   :TRAD:     UB Bielefeld / Nachlass Vagts
+   :ORT:      [Berlin]
    :END:      
+*** AB2017
+    :PROPERTIES:
+    :NR:       125
+    :S:        142-43
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    466-67
+    :VORL:     
+    :END:
 *** AB1957
 :PROPERTIES:
 :S: 114-16
@@ -39,9 +49,9 @@
 :END:
 ** 1947-05-09
    :PROPERTIES:
-   :TRAD:     
+   :TRAD:     DLA/Benn
    :END:
-In [[#va1947-06-18]] erwähnt: "Brief"
+In [[#va1947-06-18]] erwähnt: "Ihr Brief vom 9. V".
 ** 1949-03-06 (vor 1949-03-06)
    :PROPERTIES:
    :TRAD:     
