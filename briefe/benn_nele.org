@@ -212,6 +212,21 @@ Im kommentar zu [[*1946-07-27][1946-07-27]], s. 457 erwähnt.
 :AUSL:
 :S_KOM: 
 :END:      
+** 1946-10-10
+   :PROPERTIES:
+   :CUSTOM_ID: bn1946-10-10
+   :TRAD: AdK/Benn
+   :ORT: 
+   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       
+    :S:        462 (kommentar zu nr. 118)
+    :AUSL:     auszug
+    :FAKS:     
+    :S_KOM:    
+    :VORL:     
+    :END:
 ** 1947-11-19
    :PROPERTIES:
    :CUSTOM_ID:       bn1947-11-19
