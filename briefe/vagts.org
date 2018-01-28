@@ -32,11 +32,37 @@
 :S: 114-16
 :S_KOM: 355
 :END:
+** 1949-02-04
+   :PROPERTIES:
+   :CUSTOM_ID: va1949-02-04
+   :TRAD:     UB Bielefeld / Nachlass Vagts
+   :ORT:      Berlin
+   :END:      
+*** AB2017
+    :PROPERTIES:
+    :NR:       
+    :S:        482 (kommentar zu nr. 143)
+    :AUSL:     paraphrase
+    :FAKS:     
+    :S_KOM:    482
+    :VORL:     
+    :END:
+
 ** 1949-03-06
    :PROPERTIES:
    :CUSTOM_ID: va1949-03-06
-   :TRAD:     
+   :TRAD:     UB Bielefeld / Nachlass Vagts
+   :ORT:      Berlin
    :END:      
+*** AB2017
+    :PROPERTIES:
+    :NR:       143
+    :S:        169-70
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    482-83
+    :VORL:     
+    :END:
 *** AB1957
 :PROPERTIES:
 :S: 140-42
