@@ -8,14 +8,15 @@
 :EMPF:     1
 :FROM_All: Benn
 :TO_All: Curtius, Ernst Robert
-:CUSTOM_ID: curtius_ernst_robert_1913???
-:GEB: 1903
-:TOD: 1981
+:CUSTOM_ID: curtius_ernst_robert_1886
+:GEB: 1886
+:TOD: 1956
 :END:
 ** 1948-11-25
   :PROPERTIES:
   :CUSTOM_ID: cu1948-11-25
-  :TRAD:     
+  :ORT:      Berlin
+  :TRAD:     UB Bonn / Nachlass Curtius
   :END:
 *** AB1957
 :PROPERTIES:
