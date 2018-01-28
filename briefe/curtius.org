@@ -12,12 +12,23 @@
 :GEB: 1886
 :TOD: 1956
 :END:
+** 1948-10-20
+Zusendung der Stad. Gedichte lt. kommentar zu [[#cu1948-11-25][1948-11-25]].
 ** 1948-11-25
   :PROPERTIES:
   :CUSTOM_ID: cu1948-11-25
   :ORT:      Berlin
   :TRAD:     UB Bonn / Nachlass Curtius
   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       134
+    :S:        155-56
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    474
+    :VORL:     
+    :END:
 *** AB1957
 :PROPERTIES:
 :S: 128-29
@@ -75,11 +86,16 @@
 :TO: Benn
 :FROM: Curtius, Ernst Robert
 :END:
-** 1948-11-25 (vor 1948-11-25)
+** TODO 1948-09-18
    :PROPERTIES:
    :TRAD:     
    :END:
 Erwähnt in [[#cu1948-11-25]]: "Übersendung Ihrer Arbeit".
+Check Datum.
+*** TODO LPBD
+:PROPERTIES:
+:S: 184-85
+:END:
 ** 1950-01-06
    :PROPERTIES:
    :TRAD:     
