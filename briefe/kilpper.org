@@ -104,7 +104,7 @@
 ** 1949-01-22
   :PROPERTIES:
   :CUSTOM_ID: ki1949-01-22
-  :TRAD:     
+  :TRAD:     u
   :END:
 *** AB1957
 :PROPERTIES:
@@ -152,9 +152,10 @@ Erwähnt in [[#ki1943-11-06]]: "Mitteilung".
 ** 1949-01-03
   :PROPERTIES:
   :CUSTOM_ID: kib1949-01-03
-  :TRAD:     verloren
+  :TRAD:     DLA/Benn
   :END:
 Erwähnt in [[#ki1949-01-22]]: "Ihren freundlichen Brief vom 3 I. ...".
+Lt. kommentar zu [[#ki1949-01-22][1949-01-22]] in DLA/Benn überliefert.
 ** 1956-05-11 (vor 1956-05-11)
   :PROPERTIES:
   :CUSTOM_ID: kib1956-05-11
