@@ -44,6 +44,13 @@ Erwähnt in [[#schi1948-04-29][1948-04-29]].
     :FAKS:     
     :S_KOM:    9-12
     :END:
+** TODO 1948-05-17 (nach 1948-05-10 und vor 1948-05-17)
+   :PROPERTIES:
+   :CUSTOM_ID: schi1948-05-17
+   :TRAD: u
+   :END:
+In [[file:seelig.org::#see1948-05-17][1948-05-17]] erwähnt ("und habe Herrn Sch. in diesem Sinne geschrieben"),
+aber im kommentar nicht genannt.
 ** 1948-12-12
    :PROPERTIES:
    :CUSTOM_ID: schi1948-12-12
