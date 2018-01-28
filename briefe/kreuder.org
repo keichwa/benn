@@ -26,6 +26,21 @@
     :S_KOM:    468-69
     :VORL:     
     :END:
+** 1949-02-19
+   :PROPERTIES:
+   :CUSTOM_ID: kreu1949-02-19
+   :TRAD: DLA/Kreuder
+   :ORT: Berlin
+   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       141
+    :S:        162-65
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    479-80
+    :VORL:     
+    :END:
 * Benn
 :PROPERTIES:
 :FROM: Kreuder, Ernst
@@ -35,7 +50,7 @@
    :PROPERTIES:
    :CUSTOM_ID: kreub1947-08-16
    :TRAD: DLA/Benn
-   :ORT: Berlin
+   :ORT: 
    :END:
 *** AB2017
     :PROPERTIES:
@@ -46,3 +61,24 @@
     :S_KOM:    
     :VORL:     
     :END:
+** 1948-07-30
+   :PROPERTIES:
+   :CUSTOM_ID: kreub1948-07-30
+   :TRAD: DLA/Benn
+   :ORT: 
+   :END:
+Nachgewiesen im kommentar zu [[#kreu1949-02-19][1949-02-19 AB2017]].
+** 1949-02-10
+   :PROPERTIES:
+   :CUSTOM_ID: kreub1949-02-10
+   :TRAD: 
+   :ORT: 
+   :END:
+Erwähnt in [[#kreu1949-02-19][1949-02-19]]: "Ihren Brief vom 10. II".
+** 1949-03-29
+   :PROPERTIES:
+   :CUSTOM_ID: kreub1949-03-29
+   :TRAD: DLA/Benn
+   :ORT: 
+   :END:
+Nachgewiesen im kommentar zu [[#kreu1949-02-19][1949-02-19 AB2017, s. 480]].
