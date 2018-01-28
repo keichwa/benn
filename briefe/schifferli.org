@@ -87,7 +87,8 @@ Erwähnt in bib:LBr1960, s. 13: "letzter" brief.
    :TRAD: 
    :ORT: 
    :END:
-   Erwähnt in [[#schi1947-11-23]]: "Brief".
+   Erwähnt in [[#schi1947-11-23]] ("Brief") und in [[file:benn_nele.org::#bn1947-12-04][1947-12-04]] ("Anbei
+   Abschrift des so nettn Briefes des Verlegers.").
 ** 1948-04-27
    :PROPERTIES:
    :CUSTOM_ID: schib1948-04-27
