@@ -87,6 +87,21 @@
     :S_KOM:    464-65
     :VORL:     
     :END:
+** 1948-05-17
+   :PROPERTIES:
+   :CUSTOM_ID: weded1948-05-17
+   :TRAD: DLA/Benn
+   :ORT: [Berlin]
+   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       132
+    :S:        152-53
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    472
+    :VORL:     
+    :END:
 * Benn
 :PROPERTIES:
 :FROM: Wedemeyer, Doris von
@@ -100,3 +115,7 @@ Erwähnt in [[#weded1946-02-19][1946-02-19]]: "Deinen Brief vom 17 I.46."
 Erwähnt in [[#weded1946-06-01][1946-06-01]]: "Deinen freundlichen Brief"
 ** 1946-11-25 (vor 1946-11-25)
 Erwähnt in [[#weded1946-11-25][1946-11-25]]: "Deinen letzten Brief."
+** 1948-05-17 (vor 1948-05-17)
+"Telegramm" in [[#weded1948-05-17][1948-05-17]] erwähnt.
+** 1948-05-17 (vor 1948-05-17)
+In [[#weded1948-05-17][1948-05-17]] erwähnt: "Deinen langen Brief".
