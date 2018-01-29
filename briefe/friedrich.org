@@ -12,22 +12,56 @@
 :GEB:      1922
 :TOD:      2004
 :END:
-** 1948-12-12 (vor 1948-12-12)
+** 1948-11-20 (wohl 1948-11-20, vor 1948-12-12 und nach 1948-10-28)
    :PROPERTIES:
-   :CUSTOM_ID: fr1948-12-12a
-   :TRAD:     
+   :CUSTOM_ID: fr1948-11-20
+   :TRAD:     DLA/Benn (entwurf)
    :END:      
 Erwähnt in [[#fr1948-12-12]]: "mein Telegramm".
+*** AB2017
+    :PROPERTIES:
+    :NR:       
+    :S:        475 (kommentar zu nr. 135)
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    475
+    :VORL:     
+    :END:
 ** 1948-12-12
    :PROPERTIES:
    :CUSTOM_ID: fr1948-12-12
-   :TRAD:     
+   :TRAD:     BStB / Nachlass H. Friedrich
+   :ORT:      Berlin
    :END:      
+*** AB2017
+    :PROPERTIES:
+    :NR:       135
+    :S:        156-57
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    475-76
+    :VORL:     
+    :END:
 *** AB1957
 :PROPERTIES:
 :S: 130-31
 :S_KOM: 358
 :END:
+** 1949-05-22
+   :PROPERTIES:
+   :CUSTOM_ID: fr1949-05-22
+   :TRAD: BStB / Nachlass H. Friedrich
+   :ORT: Berlin
+   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       147
+    :S:        177-79
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    487-88
+    :VORL:     
+    :END:
 ** 1952-05-23
    :PROPERTIES:
    :CUSTOM_ID: fr1952-05-23
@@ -57,13 +91,34 @@ Erwähnt in [[#fr1948-12-12]]: "mein Telegramm".
 :END:
 ** 1948-10-28
    :PROPERTIES:
-   :TRAD:     
+   :TRAD:     DLA/Benn
    :END:
 In [[#fr1948-12-12]] erwähnt: "Ihren [...] Brief vom 28 X."
+*** AB2017
+    :PROPERTIES:
+    :NR:       
+    :S:        475 (kommentar zu nr. 135)
+    :AUSL:     paraphrase
+    :FAKS:     
+    :S_KOM:    
+    :VORL:     
+    :END:
+** 1949-05-27
+   :PROPERTIES:
+   :TRAD:     DLA/Benn
+   :END:
+In [[#fr1949-05-22][1949-05-22 kommentar]] erwähnt.
+*** AB2017
+    :PROPERTIES:
+    :NR:       
+    :S:        487 (kommentar zu nr. 147)
+    :AUSL:     paraphrase
+    :FAKS:     
+    :S_KOM:    
+    :VORL:     
+    :END:
 ** 1953-02-24
    :PROPERTIES:
    :TRAD:     
    :END:
 In [[#fr1953-03-01]] erwähnt: "Ihren Brief vom 24. II."
-
-
