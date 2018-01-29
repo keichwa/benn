@@ -286,6 +286,36 @@ Im kommentar zu [[*1946-07-27][1946-07-27]], s. 457 erwähnt.
     :FAKS:     
     :S_KOM:  
     :END:
+** 1947-12-04
+   :PROPERTIES:
+   :CUSTOM_ID: bn1947-12-04
+   :TRAD: AdK/Benn
+   :ORT: Berlin
+   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       131
+    :S:        150-52
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    471-72
+    :VORL:     
+    :END:
+** 1949-04-27
+   :PROPERTIES:
+   :CUSTOM_ID: bn1949-04-27
+   :TRAD: AdK/Benn
+   :ORT: [Berlin]
+   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       146
+    :S:        174-77
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    486-87
+    :VORL:     
+    :END:
 * Benn
 :PROPERTIES:
 :TO: Benn
@@ -336,3 +366,21 @@ In [[#bn1946-09-11]] erwähnt: "Deinen Brief aus Schweden".
    :TRAD:     u
    :END:
 In [[#bn1946-11-23][1946-11-23]] erwähnt: "Dein Brief vom 6. bezw. 11.XI.".
+** 1947-11-17
+   :PROPERTIES:
+   :CUSTOM_ID: bnb1947-11-17
+   :TRAD:     DLA/Benn
+   :END:
+Im kommentar zu [[#bn1947-12-04][1947-12-04]] nachgewiesen.
+** 1949-04-20
+   :PROPERTIES:
+   :CUSTOM_ID: bnb1949-04-20
+   :TRAD:     DLA/Benn
+   :END:
+"Deinen Brief" in [[#bn1949-04-27][1949-04-27]] erwähnt und im kommentar dort nachgewiesen.
+** 1949-04-23
+   :PROPERTIES:
+   :CUSTOM_ID: bnb1949-04-23
+   :TRAD:     u
+   :END:
+"Eure Karte mit Frau Ellen Jerking vom 23. IV." in [[#bn1949-04-27][1949-04-27]] erwähnt.
