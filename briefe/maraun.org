@@ -194,6 +194,27 @@
 :AUSL: t
 :S_KOM: 
 :END:
+** 1949-04-20
+   :PROPERTIES:
+   :CUSTOM_ID: ma1949-04-20
+   :TRAD: DLA/Benn
+   :ORT: [Berlin]
+   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       145
+    :S:        173-74
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    485
+    :VORL:     
+    :END:
+*** TODO AB1957
+:PROPERTIES:
+:S: 147-50
+:AUSL: t
+:S_KOM: 
+:END:
 ** 1949-11-20
   :PROPERTIES:
   :CUSTOM_ID: ma1949-11-20
@@ -262,3 +283,10 @@ Beilage Ihres Vortrags".
    :TRAD:     u
    :END:
 Erwähnt in [[#ma1948-12-28][1948-12-28]] (AH 14h): "Ihre köstlichen Geschenkbriefe".
+** 1949-04-04
+   :PROPERTIES:
+   :CUSTOM_ID: mab1949-04-04
+   :TRAD:     DLA/Benn
+   :END:
+Erwähnt in [[#ma1949-04-17][1949-04-17]] ("charmanten Brief") und im kommentar dort
+nachgewiesen.
