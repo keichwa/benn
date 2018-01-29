@@ -35,6 +35,27 @@ Zusendung der Stad. Gedichte lt. kommentar zu [[#cu1948-11-25][1948-11-25]].
 :AUSL:
 :S_KOM: 357
 :END:
+** 1949-06-07
+   :PROPERTIES:
+   :CUSTOM_ID: cu1949-06-07
+   :TRAD: UB Bonn / Nachlass Curtius
+   :ORT: Berlin
+   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       148
+    :S:        179-80
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    488-89
+    :VORL:     
+    :END:
+*** TODO AB1957
+:PROPERTIES:
+:S: 158-59
+:AUSL:
+:S_KOM: 
+:END:
 ** 1950-01-09
   :PROPERTIES:
   :CUSTOM_ID: cu1950-01-09
@@ -95,6 +116,15 @@ Check Datum.
 *** TODO LPBD
 :PROPERTIES:
 :S: 184-85
+:END:
+** 1949-05-27
+   :PROPERTIES:
+   :TRAD:     DLA/Benn
+   :END:
+"Ihren Brief vom 27. V.: erwähnt in [[#cu1949-06-07][1949-06-07]].
+*** TODO ÜGB
+:PROPERTIES:
+:S: 181-82
 :END:
 ** 1950-01-06
    :PROPERTIES:
