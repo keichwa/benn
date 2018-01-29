@@ -32,6 +32,21 @@
 :S: 114-16
 :S_KOM: 355
 :END:
+** 1947-11-08
+   :PROPERTIES:
+   :CUSTOM_ID: va1947-11-08
+   :TRAD:     UB Bielefeld / Nachlass Vagts
+   :ORT:      [Berlin]?
+   :END:      
+*** AB2017
+    :PROPERTIES:
+    :NR:       
+    :S:        483 (kommentar zu nr. 143)
+    :AUSL:     paraphrase
+    :FAKS:     
+    :S_KOM:    483
+    :VORL:     
+    :END:
 ** 1949-02-04
    :PROPERTIES:
    :CUSTOM_ID: va1949-02-04
@@ -78,6 +93,11 @@
    :TRAD:     DLA/Benn
    :END:
 In [[#va1947-06-18]] erwähnt: "Ihr Brief vom 9. V".
+** 1948-12-12
+   :PROPERTIES:
+   :TRAD:     DLA/Benn? oder Bielefeld?
+   :END:
+In [[#va1949-03-06][1949-03-06 kommentar]] erwähnt.
 ** 1949-03-06 (vor 1949-03-06)
    :PROPERTIES:
    :TRAD:     
