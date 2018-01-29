@@ -147,6 +147,21 @@
 :S: 122-23
 :S_KOM: 
 :END:
+** 1948-12-28
+   :PROPERTIES:
+   :CUSTOM_ID: ma1948-12-28
+   :TRAD: DLA/Benn
+   :ORT: Berlin
+   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       137
+    :S:        158-60
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    476-77
+    :VORL:     
+    :END:
 ** 1949-03-07
   :PROPERTIES:
   :CUSTOM_ID: ma1949-03-07
@@ -157,6 +172,27 @@
 :S: 142-43
 :AUSL: t
 :S_KOM: 359-60
+:END:
+** 1949-04-17
+   :PROPERTIES:
+   :CUSTOM_ID: ma1949-04-17
+   :TRAD: DLA/Benn
+   :ORT: [Berlin]
+   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       144
+    :S:        170-73
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    483-85
+    :VORL:     
+    :END:
+*** TODO AB1957
+:PROPERTIES:
+:S: 147-50
+:AUSL: t
+:S_KOM: 
 :END:
 ** 1949-11-20
   :PROPERTIES:
@@ -206,3 +242,23 @@ Erwähnt in [[#ma1947-10-02]]: "für Ihren Brief vom 25.IX.".
    :TRAD:     
    :END:
 Erwähnt in [[#ma1949-11-20]]: "für Brief.".
+** 1948-12-03
+   :PROPERTIES:
+   :TRAD: DLA/Benn    
+   :END:
+Erwähnt in [[#ma1948-12-28][1948-12-28]] (AH 14h): "Luftpostbrief vom 3 XII 48 mit der
+Beilage Ihres Vortrags".
+*** AB2017
+    :PROPERTIES:
+    :NR:       
+    :S:        476 (kommentar zu nr. 137)
+    :AUSL:     paraphrase
+    :FAKS:     
+    :S_KOM:    
+    :VORL:     
+    :END:
+** 1948-12-23 (vor 1948-12-25)
+   :PROPERTIES:
+   :TRAD:     u
+   :END:
+Erwähnt in [[#ma1948-12-28][1948-12-28]] (AH 14h): "Ihre köstlichen Geschenkbriefe".
