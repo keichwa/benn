@@ -188,9 +188,9 @@
     :S_KOM:    483-85
     :VORL:     
     :END:
-*** TODO AB1957
+*** AB1957
 :PROPERTIES:
-:S: 147-50
+:S: 147-50 (147-49)
 :AUSL: t
 :S_KOM: 
 :END:
@@ -209,12 +209,27 @@
     :S_KOM:    485
     :VORL:     
     :END:
-*** TODO AB1957
+*** AB1957
 :PROPERTIES:
-:S: 147-50
-:AUSL: t
+:S: 147-50 (149-50)
+:AUSL: t ?
 :S_KOM: 
 :END:
+** 1949-07-25
+   :PROPERTIES:
+   :CUSTOM_ID: ma1949-07-25
+   :TRAD: DLA/Benn
+   :ORT: [Berlin]
+   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       154
+    :S:        189-92
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    494-96
+    :VORL:     
+    :END:
 ** 1949-11-20
   :PROPERTIES:
   :CUSTOM_ID: ma1949-11-20
@@ -289,4 +304,18 @@ Erwähnt in [[#ma1948-12-28][1948-12-28]] (AH 14h): "Ihre köstlichen Geschenkbr
    :TRAD:     DLA/Benn
    :END:
 Erwähnt in [[#ma1949-04-17][1949-04-17]] ("charmanten Brief") und im kommentar dort
+nachgewiesen.
+** 1949-05-15
+   :PROPERTIES:
+   :CUSTOM_ID: mab1949-05-15
+   :TRAD:     DLA/Benn
+   :END:
+Wohl erwähnt in [[#ma1949-07-25][1949-07-25]] ("Ihr Brief per Bahnpost ist angekommen")
+und im kommentar dort nachgewiesen.
+** 1949-07-21
+   :PROPERTIES:
+   :CUSTOM_ID: mab1949-07-21
+   :TRAD:     DLA/Benn
+   :END:
+Erwähnt in [[#ma1949-07-25][1949-07-25]] ("Ihren Brief vom 21.") und im kommentar dort
 nachgewiesen.
