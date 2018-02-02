@@ -15,8 +15,18 @@
 ** 1949-08-02
   :PROPERTIES:
   :CUSTOM_ID: kr1949-08-02
-  :TRAD:     
+  :TRAD:     DLA/Krämer-Badoni
+  :ORT:      [Berlin]
   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       156
+    :S:        194-95
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    496-97
+    :VORL:     
+    :END:
 *** AB1957
 :PROPERTIES:
 :S: 166-67
