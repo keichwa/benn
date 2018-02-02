@@ -165,6 +165,21 @@
 :S: 136-40
 :S_KOM: 358-59
 :END:
+** 1949-12-20
+   :PROPERTIES:
+   :CUSTOM_ID: re1949-12-20
+   :TRAD: DLA/Reiss
+   :ORT: Berlin
+   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       163
+    :S:        205
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    502
+    :VORL:     
+    :END:
 ** 1951-04-20
   :PROPERTIES:
   :CUSTOM_ID: re1951-04-20
@@ -232,6 +247,12 @@ Erwähnt in [[#re1949-03-05]]: "Ihren Luftpostbrief vom 28. II.".
    :END:
 RB
 Erwähnt in [[#re1949-03-05][1949-03-05 kommentar]].
+** 1949-11-22
+   :PROPERTIES:
+   :TRAD:    q 
+   :END:
+RB
+Erwähnt in [[#re1949-12-20][1949-12-20 kommentar]].
 ** 1950 (Sommer 1950 oder später) 
 Erwähnt in [[file:reiss-jacobi.org::#rej1953-12-20][1953-12-20]]: "eines langen Briefes von ihm, in dem er Ihren Sommeraufenthalt 1950 schilderte."
 ** 1951-04-20 (vor 1951-04-20)
