@@ -103,6 +103,21 @@
     :S_KOM:    413
     :VORL:     
     :END:
+** 1949-10-28
+   :PROPERTIES:
+   :CUSTOM_ID: mol1949-10-28
+   :TRAD: AdK/Molo
+   :ORT: Berlin
+   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       160
+    :S:        201-02
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    500
+    :VORL:     
+    :END:
 * Benn
 :PROPERTIES:
 :FROM: Molo, Walter von
@@ -110,3 +125,10 @@
 :END:
 ** 1931-04-19 (vor 1931-04-19)
 In [[#mol1931-04-19][1931-04-19]] erwähnt: "Ihren reizenden Gruß!"
+** 1949-10-19
+   :PROPERTIES:
+   :CUSTOM_ID: molb1949-10-19
+   :TRAD: DLA/Benn
+   :ORT: 
+   :END:
+Erwähnt in [[#mol1949-10-28][1949-10-28]].
