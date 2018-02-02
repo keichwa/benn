@@ -9,14 +9,24 @@
 :FROM_All: Benn
 :TO_All: Mohler, Armin
 :CUSTOM_ID: 
-:GEB: 19
-:TOD: 19
+:GEB: 1920
+:TOD: 2003
 :END:
 ** 1949-11-26
   :PROPERTIES:
   :CUSTOM_ID: mo1949-11-26
-  :TRAD:     
+  :TRAD:  DLA/Mohler
+  :ORT:     Berlin
   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       162
+    :S:        203-05
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    501
+    :VORL:     
+    :END:
 *** AB1957
 :PROPERTIES:
 :S: 181-83
@@ -52,6 +62,11 @@
 :END:
 ** 1949-11-17
    :PROPERTIES:
-   :TRAD:     
+   :TRAD:     DLA/Benn
    :END:
 Erwähnt in [[#mo1949-11-26]]: "vielen Dank für Ihren Brief vom 17. XI."
+** 1949-12-03
+   :PROPERTIES:
+   :TRAD:     DLA/Benn
+   :END:
+Im kommentar zu [[#mo1949-11-26][1949-11-26]] nachgewiesen.
