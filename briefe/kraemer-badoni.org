@@ -33,6 +33,21 @@
 :AUSL: 
 :S_KOM: 364
 :END:
+** 1950-03-25
+   :PROPERTIES:
+   :CUSTOM_ID: kr1950-03-25
+   :TRAD: DLA/Krämer-Badoni
+   :ORT: Berlin
+   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       166
+    :S:        211
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    505
+    :VORL:     
+    :END:
 * Benn
 :PROPERTIES:
 :TO: Benn
