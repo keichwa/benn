@@ -59,7 +59,6 @@
     :S_KOM:    441
     :VORL:     
     :END:
-
 ** 1939-10-17
    :PROPERTIES:
    :CUSTOM_ID: bn1939-10-17
@@ -316,6 +315,66 @@ Im kommentar zu [[*1946-07-27][1946-07-27]], s. 457 erwähnt.
     :S_KOM:    486-87
     :VORL:     
     :END:
+** 1949-06-14
+   :PROPERTIES:
+   :CUSTOM_ID: bn1949-06-14
+   :TRAD: AdK/Benn
+   :ORT: [Berlin]
+   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       149
+    :S:        180-83
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    489-91
+    :VORL:     
+    :END:
+** 1949-08-24
+   :PROPERTIES:
+   :CUSTOM_ID: bn1949-08-24
+   :TRAD: AdK/Benn
+   :ORT: Berlin
+   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       157
+    :S:        195-97
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    497-98
+    :VORL:     
+    :END:
+** 1950-04-27
+   :PROPERTIES:
+   :CUSTOM_ID: bn1950-04-27
+   :TRAD: AdK/Benn
+   :ORT: Berlin
+   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       
+    :S:        508 (kommentar zu nr. 169)
+    :AUSL:     t
+    :FAKS:     
+    :S_KOM:    508
+    :VORL:     
+    :END:
+** 1950-04-30
+   :PROPERTIES:
+   :CUSTOM_ID: bn1950-04-30
+   :TRAD: AdK/Benn
+   :ORT: Berlin
+   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       169
+    :S:        213
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    508-509
+    :VORL:     
+    :END:
 * Benn
 :PROPERTIES:
 :TO: Benn
@@ -384,3 +443,17 @@ Im kommentar zu [[#bn1947-12-04][1947-12-04]] nachgewiesen.
    :TRAD:     u
    :END:
 "Eure Karte mit Frau Ellen Jerking vom 23. IV." in [[#bn1949-04-27][1949-04-27]] erwähnt.
+** 1949-06-14 (vor 1949-06-14)
+"deinen neulichen Brief" erwähnt in [[#bn1949-06-14][1949-06-14]].
+** 1949-08-18
+   :PROPERTIES:
+   :CUSTOM_ID: bnb1949-08-18
+   :TRAD:     DLA/Benn
+   :END:
+In [[#bn1949-08-24][1949-08-24]] erwähnt: "deinen kleinen verrückten Brief vom 18. VIII".
+** 1950-04-27 (vor 1950-04-27)
+   :PROPERTIES:
+   :CUSTOM_ID: bnb1950-04-27
+   :TRAD:     
+   :END:
+In [[#bn1950-04-27][1950-04-27]] erwähnt: "Deine Frage"
