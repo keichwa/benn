@@ -102,8 +102,18 @@ Erwähnt in file:briefe/oelze.org::#oe1935-06-04.
 ** 1949-09-09
   :PROPERTIES:
   :CUSTOM_ID: bense1949-09-09
-  :TRAD:     
+  :TRAD:     DLA/Bense
+  :ORT:      Berlin
   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       158
+    :S:        198
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    498
+    :VORL:     
+    :END:
 *** AB1957
 :PROPERTIES:
 :S: 174-76
@@ -112,8 +122,18 @@ Erwähnt in file:briefe/oelze.org::#oe1935-06-04.
 ** 1950-10-12
   :PROPERTIES:
   :CUSTOM_ID: bense1950-10-12
-  :TRAD:     
+  :TRAD:     DLA/Bense
+  :ORT:      Berlin
   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       175
+    :S:        218-19
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    512-13
+    :VORL:     
+    :END:
 *** AB1957
 :PROPERTIES:
 :S: 197-98
@@ -146,3 +166,15 @@ Erwähnt in [[#bense1935-02-17]].
    :TRAD:     verloren
    :END:
 Buchsendung in [[#oe1937-03-05]] erwähnt.
+** 1950-10-12 (vor 1950-10-12)
+   :PROPERTIES:
+   :TRAD:     
+   :END:
+[[#bense1950-10-12][1950-10-12]]
+* Bense an Niedermayer
+** 1949-08-27
+   :PROPERTIES:
+   :CUSTOM_ID: benseb1949-08-27
+   :TRAD:     verloren
+   :END:
+In [[#bense1949-09-09][1949-09-09]] erwähnt.
