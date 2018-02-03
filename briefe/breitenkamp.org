@@ -1,0 +1,42 @@
+#+STARTUP: content
+#+STARTUP: showall
+# +STARTUP: showeverything
+#+TITLE: Benn - Edward C. Fechter
+
+* Fechter, Edward C.
+:PROPERTIES:
+:EMPF:     1
+:FROM: Benn
+:TO: Fechter, Edward C.
+:CUSTOM_ID: fechter_edward_c_1913
+:GEB:      1913
+:TOD:      1995
+:END:      
+** 1951-03-16
+   :PROPERTIES:
+   :CUSTOM_ID: breit1951-03-16
+   :TRAD: DLA/Benn
+   :ORT: Berlin
+   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       183
+    :S:        230-32
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    521
+    :VORL:     
+    :END:
+
+* Benn
+:PROPERTIES:
+:TO: Benn
+:FROM: Fechter, Edward C.
+:END:
+** 1951-02-15
+   :PROPERTIES:
+   :CUSTOM_ID: breitb1951-02-15
+   :TRAD: DLA/Benn
+   :ORT: 
+   :END:
+Erwähnt in [[#breit1951-03-16][1951-03-16]].
