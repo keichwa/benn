@@ -122,9 +122,19 @@ Auch an Sophia Wasmuth ([[file:wasmuth_sophia.org::#wasmuth_sophia_][Wasmuth, So
 :END:
 ** 1951-04-22
    :PROPERTIES:
-   :ORT: Berlin
    :CUSTOM_ID: wae1951-04-22
+   :TRAD: DLA/Wasmuth
+   :ORT: Berlin
    :END:   
+*** AB2017
+    :PROPERTIES:
+    :NR:       187
+    :S:        236
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    524
+    :VORL:     
+    :END:
 *** AB1957
 :PROPERTIES:
 :AUSL: 
@@ -151,8 +161,9 @@ Erwähnt in [[#wae1936-10-18]]: "Brief".
    :TRAD:
    :END:
 Erwähnt in [[#wae1951-03-27]]: "mir geschrieben [...] haben."
-** 1951-04-22 (vor 1951-04-22)
+** 1951-04-03
    :PROPERTIES:
-   :TRAD:
+   :TRAD: DLA/Benn
    :END:
-Erwähnt in [[#wae1951-04-22]]: "vielen Dank für die Nachricht".
+Erwähnt in [[#wae1951-04-22]]: "vielen Dank für die Nachricht", und im
+kommentar (AB2017) nachgewiesen.
