@@ -1,0 +1,36 @@
+#+STARTUP: content
+#+STARTUP: showall
+# +STARTUP: showeverything
+#+TITLE: Benn - Paul Fechter
+
+* Fechter, Paul
+:PROPERTIES:
+:EMPF:     1
+:FROM: Benn
+:TO: Fechter, Paul
+:CUSTOM_ID: fechter_paul_1880
+:GEB:      1880
+:TOD:      1958
+:END:      
+** 1951-01-24
+   :PROPERTIES:
+   :CUSTOM_ID: fe1951-01-24
+   :TRAD: DLA/Fechter
+   :ORT: Berlin
+   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       181
+    :S:        228-29
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    519
+    :VORL:     
+    :END:
+
+* Benn
+:PROPERTIES:
+:TO: Benn
+:FROM: Fechter, Paul
+:END:
+
