@@ -9,8 +9,23 @@
 :FROM_All: Benn
 :TO_All: Podewils, Clemens Graf
 :GEB: 1
-:TOD: 
-:END:
+:TOD: 1905
+:END: 1978
+** 1950-04-28
+   :PROPERTIES:
+   :CUSTOM_ID: pod1950-04-28
+   :TRAD: Archiv der BAdSK
+   :ORT: Berlin
+   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       168
+    :S:        212
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    506
+    :VORL:     
+    :END:
 ** 1951-10-04
   :PROPERTIES:
   :CUSTOM_ID: pod1951-10-04
@@ -26,4 +41,15 @@
 :TO: Benn
 :FROM: Podewils, Clemens Graf
 :END:
-
+** 1950-04-26
+  :PROPERTIES:
+  :CUSTOM_ID: podb1950-04-26
+  :TRAD:     DLA/Benn
+  :END:
+Erwähnt in [[#pod1950-04-28][1950-04-28]]; dort nachgewiesen im kommentar.
+** 1950-05-20
+  :PROPERTIES:
+  :CUSTOM_ID: podb1950-05-20
+  :TRAD:     DLA/Benn
+  :END:
+Erwähnt in [[#pod1950-04-28][1950-04-28]]; dort nachgewiesen im kommentar.
