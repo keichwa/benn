@@ -10,13 +10,22 @@
 :TO_All: Wellershoff, Dieter
 :CUSTOM_ID: wellershoff_dieter_1925
 :GEB: 1925
-:TOD: 19
+:TOD: 
 :END:
 ** 1950-11-22
   :PROPERTIES:
   :CUSTOM_ID: wel1950-11-22
-  :TRAD:     
+  :TRAD: u    
   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       178
+    :S:        222-25
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    516-17
+    :VORL:     AB1957
+    :END:
 *** AB1957
 :PROPERTIES:
 :S: 201-05
@@ -39,11 +48,11 @@
 :TO: Benn
 :FROM: Wellershoff, Dieter
 :END:
-** 1950-11-22 (vor 1950-11-22)
+** 1950-11-11
    :PROPERTIES:
-   :TRAD:     
+   :TRAD:    DLA/Benn 
    :END:
-Erwähnt in [[#wel1950-11-22]]: "Ihren Brief".
+Wohl erwähnt in [[#wel1950-11-22]]: "Ihren Brief"; so im kommentar nachgewiesen.
 ** 1951-04-09
    :PROPERTIES:
    :TRAD:     
