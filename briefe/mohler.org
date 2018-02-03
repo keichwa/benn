@@ -36,8 +36,18 @@
 ** 1950-06-05
   :PROPERTIES:
   :CUSTOM_ID: mo1950-06-05
-  :TRAD:     
-  :END:
+  :TRAD:     DLA/Mohler
+  :ORT:      [Berlin]
+  :END:      
+*** AB2017
+    :PROPERTIES:
+    :NR:       174
+    :S:        217-18
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    512
+    :VORL:     
+    :END:
 *** AB1957
 :PROPERTIES:
 :S: 192
@@ -70,3 +80,5 @@ Erwähnt in [[#mo1949-11-26]]: "vielen Dank für Ihren Brief vom 17. XI."
    :TRAD:     DLA/Benn
    :END:
 Im kommentar zu [[#mo1949-11-26][1949-11-26]] nachgewiesen.
+** 1950-06-05 (vor 1950-06-05)
+"Zusendung" erwähnt in [[#mo1950-06-05][1950-06-05]].
