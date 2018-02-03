@@ -53,8 +53,8 @@
 :TO: Benn
 :FROM: Krämer-Badoni, Rudolf
 :END:
-** 1949-
+** 1950-03-18
    :PROPERTIES:
-   :TRAD:     
+   :TRAD:    DLA/Benn 
    :END:
-In [[#]] erwähnt: "2 Briefe".
+In [[#kr1950-03-25][1950-03-25]] erwähnt: "Brief vom 18. III.", und im kommentar nachgewiesen.
