@@ -26,6 +26,21 @@
     :S_KOM:    506
     :VORL:     
     :END:
+** 1950-12-02
+   :PROPERTIES:
+   :CUSTOM_ID: pod1950-12-02
+   :TRAD: Archiv der BAdSK
+   :ORT: Berlin
+   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       179
+    :S:        226-27
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    518
+    :VORL:     
+    :END:
 ** 1951-10-04
   :PROPERTIES:
   :CUSTOM_ID: pod1951-10-04
