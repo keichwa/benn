@@ -102,7 +102,18 @@ Auch an Sophia Wasmuth ([[file:wasmuth_sophia.org::#wasmuth_sophia_][Wasmuth, So
    :PROPERTIES:
    :ORT: Berlin
    :CUSTOM_ID: wae1951-03-27
+   :TRAD: DLA/Wasmuth
+   :ORT: Berlin
    :END:   
+*** AB2017
+    :PROPERTIES:
+    :NR:       184
+    :S:        232-34
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    521-22
+    :VORL:     
+    :END:
 *** AB1957
 :PROPERTIES:
 :AUSL: t
