@@ -38,3 +38,8 @@
    :END:
 In [[file:pinner.org::#pi1949-10-26][1949-10-26]] erwähnt: "Brief" sowie [[#ot1949-11-20][1949-11-20]] (im kommentar dort
 nachgewiesen).
+** 1950-10-06
+   :PROPERTIES:
+   :TRAD:     DLA/Benn
+   :END:
+Erwähnt in [[#bn1950-10-29][1950-10-29 kommentar]].
