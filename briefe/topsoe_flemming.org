@@ -1,0 +1,20 @@
+#+STARTUP: content
+#+STARTUP: showall
+# +STARTUP: showeverything
+#+TITLE: Benn - Topsøe, Flemming
+
+* Topsøe, Flemming
+:PROPERTIES:
+:EMPF:     1
+:FROM: Benn
+:TO: Topsøe, Flemming
+:GEB:      1885
+:TOD:      1954
+:END:
+* Benn
+:PROPERTIES:
+:TO: Benn
+:FROM: Topsøe, Flemming
+:END:
+** 1950-10-29 (vor 1950-10-29)
+Erwähnt in [[file:benn_nele.org::#bn1950-10-29][1950-10-29]].
