@@ -180,6 +180,21 @@
     :S_KOM:    502
     :VORL:     
     :END:
+** 1950-04-10
+   :PROPERTIES:
+   :CUSTOM_ID: reiss1950-04-10
+   :TRAD: DLA/Reiss
+   :ORT: [Berlin]
+   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       167
+    :S:        211-12
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    505
+    :VORL:     
+    :END:
 ** 1951-04-20
   :PROPERTIES:
   :CUSTOM_ID: re1951-04-20
