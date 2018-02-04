@@ -1,0 +1,13 @@
+#+STARTUP: content
+#+STARTUP: showall
+ #+STARTUP: showeverything
+#+TITLE: Benn - Jacobi
+
+* Jacobi, Lotte
+:PROPERTIES:
+:EMPF:     1
+:FROM: Benn
+:TO: Jacobi, Lotte
+:SEE: [[file:reiss-jacobi.org::#reiss-jacobi_1896][Reiss-Jacobi, Lotte]]
+:END:
+
