@@ -12,6 +12,21 @@
 :GEB:      1902
 :TOD:      1977
 :END:
+** 1951-05-08
+   :PROPERTIES:
+   :CUSTOM_ID: grass1951-05-08
+   :TRAD: u
+   :ORT: Berlin
+   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       
+    :S:        528 (kommentar zu nr. 195)
+    :AUSL:     t ?
+    :FAKS:     
+    :S_KOM:    528
+    :VORL: www    
+    :END:
 ** 1951-06-06
    :PROPERTIES:
    :CUSTOM_ID: grass1951-06-06
@@ -28,11 +43,14 @@
     :VORL:     
     :END:
 
+
 * Benn
 :PROPERTIES:
 :TO: Benn
 :FROM: Grassmann, Hans
 :END:
+** 1951-06-08 (vor 1951-06-08)
+Erwähnt in [[#grass1951-06-06][1951-06-06 kommentar]].
 ** 1951-05-14
 :PROPERTIES:
 :TRAD: DLA/Benn
