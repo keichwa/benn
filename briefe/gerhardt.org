@@ -1,0 +1,21 @@
+#+STARTUP: content
+#+STARTUP: showall
+# +STARTUP: showeverything
+#+TITLE: Benn - Rainer Maria Gerhardt
+
+* Gerhardt, Rainer Maria
+:PROPERTIES:
+:EMPF:     1
+:FROM: Benn
+:TO: Gerhardt, Rainer Maria
+:CUSTOM_ID: gerhardt_rainer maria_1921
+:GEB:      1921
+:TOD:      1954
+:END:      
+Erwähnt und pauschal nachgewiesen in [[#cu1951-08-01][1951-08-01 und kommentar]].
+* Benn
+:PROPERTIES:
+:TO: Benn
+:FROM: Gerhardt, Rainer Maria
+:END:
+
