@@ -1,0 +1,40 @@
+#+STARTUP: content
+#+STARTUP: showall
+# +STARTUP: showeverything
+#+TITLE: Benn - Grassmann, Hans
+# #+COLUMNS: %25ITEM %TAGS %PRIORITY %TODO
+
+* Grassmann, Hans
+:PROPERTIES:
+:EMPF:     1
+:FROM: Grassmann
+:TO: Grassmann, Hans
+:GEB:      1902
+:TOD:      1977
+:END:
+** 1951-06-06
+   :PROPERTIES:
+   :CUSTOM_ID: grass1951-06-06
+   :TRAD: DLA/Linder
+   :ORT: Berlin
+   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       195
+    :S:        242-43
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    528-29
+    :VORL:     
+    :END:
+
+* Benn
+:PROPERTIES:
+:TO: Benn
+:FROM: Grassmann, Hans
+:END:
+** 1951-05-14
+:PROPERTIES:
+:TRAD: DLA/Benn
+:END:
+Erwähnt in [[#grass1951-06-06][1951-06-06]].
