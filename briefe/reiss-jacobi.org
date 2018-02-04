@@ -8,22 +8,31 @@
 :EMPF:     1
 :FROM_All: Benn
 :TO_All: Reiss-Jacobi, Lotte
-:CUSTOM_ID: 
-:GEB: 1
-:TOD: 19
+:CUSTOM_ID: reiss-jacobi_1896
+:GEB: 1896
+:TOD: 1990
 :END:
 ** 1951-05-15
   :PROPERTIES:
   :CUSTOM_ID: rej1951-05-15
-  :ORT:      
-  :TRAD:     
+   :TRAD: DLA/Reiss
+   :ORT: [Berlin]
   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       192
+    :S:        239
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    526
+    :VORL:     
+    :END:
 *** AB1957
 :PROPERTIES:
 :AUSL:
 :S: 216-17
 :S_KOM: 373
-:END:
+:END:      
 ** 1952-01-24
   :PROPERTIES:
   :CUSTOM_ID: rej1952-01-24
