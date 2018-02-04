@@ -234,7 +234,7 @@
 ** 1951-05-04
   :PROPERTIES:
   :CUSTOM_ID: re1951-05-04
-  :ORT:      Wiesbadeb
+  :ORT:      Wiesbaden
   :TRAD:     
   :END:
 Erwähnt in [[file:reiss-jacobi.org::#rej1951-05-15][1951-05-15]]: "den allerletzten Gruß".
