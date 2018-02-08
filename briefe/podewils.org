@@ -66,6 +66,21 @@
     :S_KOM:    534
     :VORL:     
     :END:
+** 1952-04-10
+   :PROPERTIES:
+   :CUSTOM_ID: pod1952-04-10
+   :TRAD: Archiv der BAdSK
+   :ORT: 
+   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       
+    :S:        539-40 (kommentar zu nr. 210)
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    539-40
+    :VORL:     
+    :END:
 * Benn
 :PROPERTIES:
 :TO: Benn
