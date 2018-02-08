@@ -174,6 +174,21 @@ Zusendung der Stad. Gedichte lt. kommentar zu [[#cu1948-11-25][1948-11-25]].
     :S_KOM:    531-32
     :VORL:     
     :END:
+** 1951-10-17
+   :PROPERTIES:
+   :CUSTOM_ID: cu1951-10-17
+   :TRAD: UB Bonn / Nachlass Curtius
+   :ORT: Berlin
+   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       204
+    :S:        251
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    534-35
+    :VORL:     
+    :END:
 * Benn
 :PROPERTIES:
 :TO: Benn
@@ -232,6 +247,22 @@ Erwähnt und nachgewiesen in [[#cu1951-08-01][1951-08-01 und kommentar]].
     :AUSL:     paraphrase
     :FAKS:     
     :S_KOM:    531
+    :VORL:     
+    :END:
+** 1951-10-15
+  :PROPERTIES:
+  :CUSTOM_ID: cub1951-10-15
+  :TRAD:     DLA/Benn
+  :ORT:      Berlin
+  :END:
+Erwähnt in [[file:jancke.org::*1951-10-07][1951-10-07 kommentar]].
+*** AB2017
+    :PROPERTIES:
+    :NR:       
+    :S:        534-35 (kommentar zu nr. 204)
+    :AUSL:     paraphrase
+    :FAKS:     
+    :S_KOM:    535
     :VORL:     
     :END:
 
