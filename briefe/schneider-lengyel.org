@@ -12,6 +12,21 @@
 :GEB:      1903
 :TOD:      1972
 :END:
+** 1951-12-28
+   :PROPERTIES:
+   :CUSTOM_ID: schneider1951-12-28
+   :TRAD: DLA/Fritz Werner, Slg. Benn
+   :ORT: 
+   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       
+    :S:        535 (kommentar zu nr. 205)
+    :AUSL:     paraphrase
+    :FAKS:     
+    :S_KOM:    535
+    :VORL:     
+    :END:
 ** 1952-01-08
    :PROPERTIES:
    :CUSTOM_ID: schneider1952-01-08
@@ -32,4 +47,12 @@
 :TO: Benn
 :FROM: Schneider-Lengyel, Ilse
 :END:
-
+** 1950-07-22
+*** AB2017
+:PROPERTIES:
+:S: 535 (kommentar zu nr. 205)
+:AUSL: paraphrase
+:S_KOM: 535
+:END:
+** 1952-01-08 (vor 1952-01-08)
+Erwähnt in [[#schneider1952-01-08][1952-01-08]]: "schönen Brief".
