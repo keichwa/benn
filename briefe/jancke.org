@@ -1,0 +1,36 @@
+#+STARTUP: content
+#+STARTUP: showall
+# +STARTUP: showeverything
+#+TITLE: Benn - Oskar Jancke
+
+* Jancke, Oskar
+:PROPERTIES:
+:EMPF:     1
+:FROM: Benn
+:TO: Jancke, Oskar
+:CUSTOM_ID: jancke_oskar_1898
+:GEB:      1898
+:TOD:      1957
+:END:      
+** 1951-09-19
+   :PROPERTIES:
+   :CUSTOM_ID: jancke1951-09-19
+   :TRAD: DLA/Lehmann
+   :ORT: Berlin
+   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       200
+    :S:        247
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    532-33
+    :VORL:     
+    :END:
+
+* Benn
+:PROPERTIES:
+:TO: Benn
+:FROM: Jancke, Oskar
+:END:
+
