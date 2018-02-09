@@ -1,0 +1,41 @@
+#+STARTUP: content
+#+STARTUP: showall
+# +STARTUP: showeverything
+#+TITLE: Benn - Werner Warsinsky
+
+*  Warsinsky, Werner
+:PROPERTIES:
+:EMPF:     1
+:FROM: Benn
+:TO:  Warsinsky, Werner
+:CUSTOM_ID:  warsinsky_werner_1910
+:GEB:      1910
+:TOD:      1992
+:END:      
+** 1953-06-09
+   :PROPERTIES:
+   :CUSTOM_ID: war1953-06-09
+   :TRAD: SLB Dortmund / Nachwort Warsinsky
+   :ORT: Berlin
+   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       226
+    :S:        270-71
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    549
+    :VORL:     
+    :END:
+* Benn
+:PROPERTIES:
+:TO: Benn
+:FROM:  Warsinsky, Werner
+:END:
+** 1953-06-04
+   :PROPERTIES:
+   :CUSTOM_ID: warb1953-06-04
+   :TRAD: DLA/Benn
+   :ORT: 
+   :END:
+Erwähnt in [[#war1953-06-09][1953-06-09]] und dort im kommentar nachgewiesen.
