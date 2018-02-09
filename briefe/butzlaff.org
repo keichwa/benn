@@ -10,7 +10,7 @@
 :TO:  Butzlaff, Wolfgang
 :CUSTOM_ID:  butzlaff_wolfgang_1925
 :GEB:      1925
-:TOD:      201
+:TOD:      2014
 :END:      
 ** 1952-05-25
    :PROPERTIES:
