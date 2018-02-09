@@ -175,3 +175,17 @@ In [[#fr1953-03-01]] erwähnt: "Ihren Brief vom 24. II."
     :S_KOM:    545
     :VORL:     
     :END:
+** 1953-03-11
+   :PROPERTIES:
+   :CUSTOM_ID: frb1953-03-11
+   :TRAD:     DLA/Benn
+   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       
+    :S:        545 (kommentar zu nr. 220)
+    :AUSL:     paraphrase
+    :FAKS:     
+    :S_KOM:    545
+    :VORL:     
+    :END:
