@@ -27,10 +27,69 @@
     :S_KOM:    532-33
     :VORL:     
     :END:
-
+** 1951-09-23
+   :PROPERTIES:
+   :CUSTOM_ID: jancke1951-09-23
+   :TRAD: u
+   :ORT: 
+   :END:
+Erwähnt in AH 16c.
+*** AB2017
+    :PROPERTIES:
+    :NR:       
+    :S:        533 (kommentar zu nr. 200)
+    :AUSL:     paraphrase
+    :FAKS:     
+    :S_KOM:    533
+    :VORL:     
+    :END:
+** 1951-10-07
+   :PROPERTIES:
+   :CUSTOM_ID: jancke1951-10-07
+   :TRAD: DLA/Lehmann
+   :ORT: Berlin
+   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       203
+    :S:        250-51
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    534
+    :VORL:     
+    :END:
 * Benn
 :PROPERTIES:
 :TO: Benn
 :FROM: Jancke, Oskar
 :END:
-
+** 1951-09-16
+:PROPERTIES:
+:CUSTOM_ID: janckeb1951-09-16
+:TRAD: DLA/Benn
+:END:
+Erwähnt in [[#jancke1951-09-19][1951-09-19]]: "Ihr Schreiben vom 16. IX".
+*** AB2017
+    :PROPERTIES:
+    :NR:       
+    :S:        532 (kommentar zu nr. 200)
+    :AUSL:     paraphrase
+    :FAKS:     
+    :S_KOM:    532
+    :VORL:     
+    :END:
+** 1951-10-01
+:PROPERTIES:
+:CUSTOM_ID: janckeb1951-10-01
+:TRAD: DLA/Benn
+:END:
+Erwähnt in [[#jancke1951-10-07][1951-10-07]]: "Ihren Brief vom 2. X.".
+*** AB2017
+    :PROPERTIES:
+    :NR:       
+    :S:        534 (kommentar zu nr. 203)
+    :AUSL:     nachgewiesen
+    :FAKS:     
+    :S_KOM:    534
+    :VORL:     
+    :END:

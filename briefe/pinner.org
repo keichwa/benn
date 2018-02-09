@@ -72,8 +72,18 @@
 :END:      
 ** 1949-10-26
    :PROPERTIES:
-   :CUSTOM_ID:       pi1949-10-26-16
+   :CUSTOM_ID:       pi1949-10-26
+   :TRAD:     Exilarchiv/Nachlass Pinner
    :END: 
+*** AB2017
+    :PROPERTIES:
+    :NR:       159
+    :S:        199-201
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    499
+    :VORL:     
+    :END:
 *** AB1957
 :PROPERTIES:
 :S: 179-80
@@ -168,6 +178,12 @@ In [[#pi1949-07-16]] erwähnt: "lange zurückliegenden Brief"
    :CUSTOM_ID: pib1949-07-09
    :END:
 In [[#pi1949-07-16]] erwähnt: "Deinen Brief vom 9. VII."
+** 1949-08-22
+   :PROPERTIES:
+   :TRAD:    DLA/Benn
+   :CUSTOM_ID: pib1949-08-22
+   :END:
+In [[#pi1949-10-26][1949-10-26]] erwähnt.
 ** 1955-01-18 (vor 1955-01-18)
    :PROPERTIES:
    :TRAD:     Q

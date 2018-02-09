@@ -241,6 +241,49 @@
 :AUSL:
 :S_KOM: 366
 :END:
+** 1949-12-18
+   :PROPERTIES:
+   :CUSTOM_ID: ma1949-12-18
+   :TRAD: DLA/Benn
+   :ORT: Berlin
+   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       
+    :S:        503 (kommentar zu nr. 165)
+    :END:
+Telegramm in [[#ma1950-01-12][1950-01-12]] erwähnt.
+** 1950-01-12
+   :PROPERTIES:
+   :CUSTOM_ID: ma1950-01-12
+   :TRAD: DLA/Benn
+   :ORT: Berlin
+   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       165
+    :S:        208-10
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    503-04
+    :VORL:     
+    :END:
+** 1951-04-07
+   :PROPERTIES:
+   :CUSTOM_ID: ma1951-04-07
+   :TRAD: DLA/Benn
+   :ORT: Berlin
+   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       185
+    :S:        234-35
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    522-24
+    :VORL:     
+    :END:
+
 * Benn
 :PROPERTIES:
 :TO: Benn
@@ -318,4 +361,24 @@ und im kommentar dort nachgewiesen.
    :TRAD:     DLA/Benn
    :END:
 Erwähnt in [[#ma1949-07-25][1949-07-25]] ("Ihren Brief vom 21.") und im kommentar dort
+nachgewiesen.
+** 1951-01-25
+   :PROPERTIES:
+   :CUSTOM_ID: mab1951-01-25
+   :TRAD:     DLA/Benn
+   :END:
+Erwähnt in [[#ma1951-04-07][1951-04-07 kommentar zu nr. 185]].
+** 1951-03-28 (vor 1951-03-28)
+   :PROPERTIES:
+   :CUSTOM_ID: mab1951-03-28a
+   :TRAD:     
+   :END:
+Erwähnt in [[#ma1951-04-07][1951-04-07]] ("Den über Paris") und im kommentar dort
+nachgewiesen.
+** 1951-03-28 (vor 1951-03-28)
+   :PROPERTIES:
+   :CUSTOM_ID: mab1951-03-28
+   :TRAD:     
+   :END:
+Erwähnt in [[#ma1951-04-07][1951-04-07]] ("Ihren letzten Brief") und im kommentar dort
 nachgewiesen.

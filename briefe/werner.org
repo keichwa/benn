@@ -8,9 +8,9 @@
 :EMPF:     1
 :FROM: Benn
 :TO: Werner, Fritz
-:CUSTOM_ID: werner_fritz
-:GEB:      
-:TOD:      
+:CUSTOM_ID: werner_fritz_1907
+:GEB:      1907
+:TOD:      1996
 :END:
 ** 1947-04-23
    :PROPERTIES:
@@ -67,6 +67,11 @@ In [[#fw1947-04-23-15]] erwähnt: "Brief"
    :TRAD:     
    :END:
 In [[#fw1948-11-28]] erwähnt: "Ihren Brief vom 3.11."
+** 1948-12-14
+   :PROPERTIES:
+   :TRAD:    DLA/Benn 
+   :END:
+Im kommentar zu [[file:maraun.org::#ma1948-12-28][1948-12-28]] genannt.
 ** 1949-02-25
    :PROPERTIES:
    :TRAD:     

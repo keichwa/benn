@@ -1,0 +1,42 @@
+#+STARTUP: content
+#+STARTUP: showall
+# +STARTUP: showeverything
+#+TITLE: Benn - Alfred Andersch
+
+* Andersch, Alfred
+:PROPERTIES:
+:EMPF:     1
+:FROM: Benn
+:TO: Andersch, Alfred
+:CUSTOM_ID: andersch_alfred_1914
+:GEB:      1914
+:TOD:      1980
+:END:      
+** 1951-08-05
+   :PROPERTIES:
+   :CUSTOM_ID: an1951-08-05
+   :TRAD: DLA/Andersch
+   :ORT: Berlin
+   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       197
+    :S:        245
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    530-31
+    :VORL:     
+    :END:
+
+* Benn
+:PROPERTIES:
+:TO: Benn
+:FROM: Andersch, Alfred
+:END:
+** 1951-08-05 (vor 1951-08-05)
+Erwähnt in [[#an1951-08-05][1951-08-05]]: "Ihren Brief".
+
+** 1951-08-08
+Erwähnt in [[#an1951-08-05][1951-08-05 kommentar]]: "Korrekturabzug".
+** 1951-08-13 (vor 1951-08-13)
+Erwähnt in [[#an1951-08-05][1951-08-05 kommentar]]: Antwort auf "Bitte und Anfrage".

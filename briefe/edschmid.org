@@ -24,13 +24,25 @@
 :AUSL: 
 :S_KOM: 384
 :END:
+** 1956-04-05
+  :PROPERTIES:
+  :CUSTOM_ID: ed1956-04-05
+  :ORT:      Berlin
+  :TRAD:     
+  :END:
+*** AB1957
+:PROPERTIES:
+:S: 309-10
+:AUSL: 
+:S_KOM: 385
+:END:
 * Benn
 :PROPERTIES:
 :TO: Benn
 :FROM: Edschmid, Kasimir
 :END:
-** 195
+** 1956-04-05 (vor 1956-04-05)
    :PROPERTIES:
-   :TRAD:    NB/DLA
+   :TRAD:    
    :END:
-Erwähnt in 
+Telegramm erwähnt in [[#ed1956-04-05][1956-04-05]].

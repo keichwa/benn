@@ -34,13 +34,38 @@
 ** 1949-07-03
   :PROPERTIES:
   :CUSTOM_ID: pf1949-07-03
-  :TRAD:     
+  :TRAD:     DLA/Pfeiffer-Belli
+  :ORT:      Berlin
   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       151
+    :S:        184-85
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    492
+    :VORL:     
+    :END:
 *** AB1957
 :PROPERTIES:
 :S: 160-62
 :S_KOM: 363
 :END:
+** 1949-07-18
+   :PROPERTIES:
+   :CUSTOM_ID: pf1949-07-18
+   :TRAD: DLA/Pfeiffer-Belli
+   :ORT: Berlin
+   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       153
+    :S:        188-89
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    493-94
+    :VORL:     
+    :END:
 * Benn
 :PROPERTIES:
 :TO: Benn
@@ -51,4 +76,8 @@
    :TRAD:     
    :END:
 Erwähnt in [[#pf1949-07-03]]: "Ihr Brief vom 14. VI. 49".
-
+** 1949-07-13
+   :PROPERTIES:
+   :TRAD:    DLA/Pfeiffer-Belli 
+   :END:
+Erwähnt in [[#pf1949-07-18][1949-07-18]]: "Ihren Brief vom 13. VII."

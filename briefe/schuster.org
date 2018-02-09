@@ -27,6 +27,15 @@ Widmung in "Spaltung".
    :CUSTOM_ID: schu1945-11-18
    :TRAD:     
    :END:      
+*** AB2017
+    :PROPERTIES:
+    :NR:       106
+    :S:        115-17
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    448-49
+    :VORL:     AB1957
+    :END:
 *** AB1957
 :PROPERTIES:
 :S: 95-97

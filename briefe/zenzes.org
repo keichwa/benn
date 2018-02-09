@@ -496,8 +496,8 @@ In [[#ze1946-11-26]] erwähnt: "Brief".
 *** AB2017
     :PROPERTIES:
     :NR:       
-    :S:        465 (kommentar zu nr. 124)
-    :AUSL:     auszug
+    :S:        465 UND 466 (kommentar zu nr. 124)
+    :AUSL:     2 auszüge
     :FAKS:     
     :S_KOM:    
     :VORL:     

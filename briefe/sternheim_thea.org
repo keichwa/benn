@@ -11,6 +11,29 @@
 :GEB:      1883
 :TOD:      1971
 :END:
+** 1918-02-26 (vor 1918-02-26)
+   :PROPERTIES:
+   :CUSTOM_ID: stt1918-02-26
+   :TRAD:
+   :ORT:  
+   :END:
+Widmung (Diesterweg) erwähnt in [[bibtex:BSt2004]], 12 (nr. 10)
+** 1920-05-10 (vor 1920-05-10)
+   :PROPERTIES:
+   :CUSTOM_ID: stt1920-05-10
+   :TRAD:
+   :ORT:  
+   :END:
+Widmung(?) (Das moderne Ich) erwähnt in [[bibtex:BSt2004]], 12 (nr. 12):
+"Gottfried Benn schickt mir sein neues Buch mit herzlichen Worten."
+** 1925-01-20
+   :PROPERTIES:
+   :CUSTOM_ID: stt1925-01-20
+   :TRAD:
+   :ORT:  
+   :END:
+In [[bibtex:BSt2004]], 15 (nr. 17) erwähnt: "Ein sehr liebevoller Brief
+Gottfried Benns an mich."
 ** 1925-11-24
    :PROPERTIES:
    :CUSTOM_ID: stt1925-11-24
@@ -235,6 +258,9 @@ Widmung.
 :TO: Benn
 :FROM: Sternheim, Thea
 :END:
+** 1925-11-27 (vor 1925-11-27)
+In [[bibtex:BSt2004]], 16 (nr. 20) erwähnt: "Ich bringe meinen Brief an
+Benn zur Post."
 ** 1928-05-04 (vor 1928-05-04)
    :PROPERTIES:
    :TRAD:     
@@ -275,3 +301,13 @@ In [[#stt1953-03-07]] erwähnt: "Ihren freundlichen Brief vom 5 III."
    :TRAD:     
    :END:
 In [[#stt1953-11-03]] erwähnt: "für Ihren Brief vom 26. 10. 1953."
+* Tagebuch Thea Sternheim
+** 1918-02-26
+*** BSt2004
+    :PROPERTIES:
+    :NR:       10
+    :S:        12
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    369
+    :END:

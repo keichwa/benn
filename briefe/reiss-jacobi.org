@@ -8,6 +8,7 @@
 :EMPF:     1
 :FROM_All: Benn
 :TO_All: Reiss-Jacobi, Lotte
+:NAME_2: Jacobi, Lotte
 :CUSTOM_ID: reiss-jacobi_1896
 :GEB: 1896
 :TOD: 1990

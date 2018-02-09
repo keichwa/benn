@@ -1,0 +1,43 @@
+#+STARTUP: content
+#+STARTUP: showall
+# +STARTUP: showeverything
+#+TITLE: Benn - Helmut Heißenbüttel
+
+* Heißenbüttel, Helmut
+:PROPERTIES:
+:EMPF:     1
+:FROM: Benn
+:TO: Heißenbüttel, Helmut
+:CUSTOM_ID: heissenbuettel_helmut_1913
+:GEB:      1921
+:TOD:      1996
+:END:      
+** 1951-05-07
+   :PROPERTIES:
+   :CUSTOM_ID: hei1951-05-07
+   :TRAD: AdK/Heißenbüttel
+   :ORT: Berlin
+   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       188
+    :S:        237
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    525
+    :VORL:     
+    :END:
+
+* Benn
+:PROPERTIES:
+:TO: Benn
+:FROM: Heißenbüttel, Helmut
+:END:
+** 1951-05-02
+   :PROPERTIES:
+   :CUSTOM_ID: heib1951-05-02
+   :TRAD: DLA/Benn
+   :ORT: Berlin
+   :END:
+Erwähnt in [[#hei1951-05-07][1951-05-07]] und paraphrase im kommentar und dort
+nachgewiesen: "Ihren Brief".
