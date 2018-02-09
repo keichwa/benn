@@ -26,4 +26,9 @@ In [[#oe1936-05-17]] erwähnt.  Adressat lt. kommentar s. 451.
    :TRAD:     
    :END:
 In [[#po1933-08-14]] erwähnt.
-
+** 1953-03-13 (vor 1953-03-13)
+   :PROPERTIES:
+   :CUSTOM_ID:
+   :TRAD:     u
+   :END:
+ In [[#bn1953-03-13][1953-03-13]] erwähnt.
