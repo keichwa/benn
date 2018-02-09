@@ -1,0 +1,52 @@
+#+STARTUP: content
+#+STARTUP: showall
+# +STARTUP: showeverything
+#+TITLE: Benn - Wolfgang  Butzlaff
+
+*  Butzlaff, Wolfgang
+:PROPERTIES:
+:EMPF:     1
+:FROM: Benn
+:TO:  Butzlaff, Wolfgang
+:CUSTOM_ID:  butzlaff_wolfgang_1925
+:GEB:      1925
+:TOD:      201
+:END:      
+** 1952-05-25
+   :PROPERTIES:
+   :CUSTOM_ID: bu1952-05-25
+   :TRAD: u
+   :ORT: Berlin
+   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       213
+    :S:        260
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    541
+    :VORL:     erstdruck(?)
+    :END:
+
+* Benn
+:PROPERTIES:
+:TO: Benn
+:FROM:  Butzlaff, Wolfgang
+:END:
+** 1952-05-25 (vor 1952-05-25)
+   :PROPERTIES:
+   :CUSTOM_ID: bub1952-05-25
+   :TRAD: DLA/Benn
+   :ORT: 
+   :END:
+Erwähnt in [[#bu1952-05-25][1952-05-25]] und im kommentar nachgewiesen.
+*** TODO AB2017
+    :PROPERTIES:
+    :NR:       
+    :S:        541 (kommentar zu nr. 213)
+    :AUSL:     paraphrase
+    :FAKS:     
+    :S_KOM:    541
+    :VORL:     
+    :END:
+Nach VI, 10?
