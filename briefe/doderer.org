@@ -1,0 +1,36 @@
+#+STARTUP: content
+#+STARTUP: showall
+# +STARTUP: showeverything
+#+TITLE: Benn - Heimito von Doderer
+
+*  Doderer, Heimito von
+:PROPERTIES:
+:EMPF:     1
+:FROM: Benn
+:TO:  Doderer, Heimito von
+:CUSTOM_ID:  doderer_heimito_von_1896
+:GEB:      1896
+:TOD:      1966
+:END:      
+** 1952-10-12
+   :PROPERTIES:
+   :CUSTOM_ID: dod1952-10-12
+   :TRAD: ÖNB / Nachlass Doderer
+   :ORT: Berlin
+   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       217
+    :S:        263
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    543-44
+    :VORL:     
+    :END:
+
+* Benn
+:PROPERTIES:
+:TO: Benn
+:FROM:  Doderer, Heimito von
+:END:
+
