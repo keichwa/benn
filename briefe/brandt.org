@@ -1,0 +1,50 @@
+#+STARTUP: content
+#+STARTUP: showall
+# +STARTUP: showeverything
+#+TITLE: Benn - Ingeborg Brandt
+
+* Brandt, Ingeborg
+:PROPERTIES:
+:EMPF:     1
+:FROM: Benn
+:TO: Brandt, Ingeborg
+:GEB:      1920
+:TOD:      1983
+:END:
+** 1953-04-08
+   :PROPERTIES:
+   :CUSTOM_ID: bra1953-04-08
+   :TRAD: SUB Hamburg / LA: Gottfried Benn, 1
+   :ORT: Berlin
+   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       223
+    :S:        268
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    547-48
+    :VORL:     
+    :END:
+
+* Benn
+:PROPERTIES:
+:TO: Benn
+:FROM: Brandt, Ingeborg
+:END:
+** 1953-03-19
+   :PROPERTIES:
+   :CUSTOM_ID: brab1953-03-19
+   :TRAD: DLA/Benn
+   :ORT: 
+   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR: 
+    :S:        547 (kommentar zu nr. 223)
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    547
+    :VORL:     
+    :END:
+
