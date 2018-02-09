@@ -1,0 +1,42 @@
+#+STARTUP: content
+#+STARTUP: showall
+# +STARTUP: showeverything
+#+TITLE: Benn - Bremer Senat für das Bildungswesen
+
+* Bremer Senat für das Bildungswesen
+:PROPERTIES:
+:EMPF:     1
+:FROM: Benn
+:TO: Bremer Senat für das Bildungswesen
+:GEB:      
+:TOD:      
+:END:
+** 1953-04-18
+   :PROPERTIES:
+   :CUSTOM_ID: bremen1953-04-18
+   :TRAD: StA Bremen / R. A. Schröder-Stiftung
+   :ORT: Berlin
+   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       224
+    :S:        269
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    548
+    :VORL:     
+    :END:
+
+* Benn
+:PROPERTIES:
+:TO: Benn
+:FROM: Bremer Senat für das Bildungswesen
+:END:
+** 1953-04-13
+   :PROPERTIES:
+   :CUSTOM_ID: bremenb1953-04-13
+   :TRAD: DLA/Benn
+   :ORT: 
+   :END:
+Erwähnt und nachgewiesen in [[#bremen1953-04-18][1953-04-18 (und kommentar)]].
+
