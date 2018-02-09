@@ -33,13 +33,13 @@
 :TO: Benn
 :FROM:  Butzlaff, Wolfgang
 :END:
-** 1952-05-25 (vor 1952-05-25)
+** 1952-04-19
    :PROPERTIES:
-   :CUSTOM_ID: bub1952-05-25
+   :CUSTOM_ID: bub1952-04-19
    :TRAD: DLA/Benn
    :ORT: 
    :END:
-Erwähnt in [[#bu1952-05-25][1952-05-25]] und im kommentar nachgewiesen.
+Erwähnt in [[#bu1952-05-25][1952-05-25]] und im kommentar nachgewiesen: "Ihr Schreiben vom 19 IV."
 *** TODO AB2017
     :PROPERTIES:
     :NR:       
