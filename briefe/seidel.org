@@ -96,6 +96,21 @@
 :S: 62-63
 :S_KOM: 348
 :END:      
+** 1935-01-02
+   :PROPERTIES:
+   :CUSTOM_ID: se1935-01-02
+   :TRAD: DLA/Seidel
+   :ORT: 
+   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       
+    :S:        544 (kommentar zu nr. 218)
+    :AUSL:     zitat
+    :FAKS:     
+    :S_KOM:    544
+    :VORL:     
+    :END:
 ** 1948-05-04
    :PROPERTIES:
    :CUSTOM_ID: se1948-05-04
