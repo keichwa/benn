@@ -1,7 +1,7 @@
 #+STARTUP: content
 #+STARTUP: showall
 # +STARTUP: showeverything
-#+TITLE: Benn - Benn, Ilse
+#+TITLE: Benn - Benn, Ilse (3. Ehefrau)
 # #+COLUMNS: %25ITEM %TAGS %PRIORITY %TODO
 
 * Benn, Ilse
@@ -10,9 +10,99 @@
 :FROM: Benn
 :TO: Benn, Ilse
 :NAME_2: Kaul
-:GEB:      
-:TOD:      
+:GEB:      1913
+:TOD:      1995
 :END:
+** 1946-11-23
+   :PROPERTIES:
+   :CUSTOM_ID: bi1946-11-23
+   :TRAD: DLA/Benn
+   :ORT: [Berlin]
+   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       121
+    :S:        137
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    464
+    :VORL:     
+    :END:
+** 1952-04-03
+   :PROPERTIES:
+   :CUSTOM_ID: bi1952-04-03
+   :TRAD: DLA/Benn
+   :ORT: Meran
+   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       207
+    :S:        255-56
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    537-38
+    :VORL:     
+    :END:
+** 1952-04-08
+   :PROPERTIES:
+   :CUSTOM_ID: bi1952-04-08
+   :TRAD: DLA/Benn
+   :ORT: Meran
+   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       208
+    :S:        256
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    538
+    :VORL:     
+    :END:
+** 1952-04-08
+   :PROPERTIES:
+   :CUSTOM_ID: bi1952-04-08a
+   :TRAD: DLA/Benn
+   :ORT: Meran
+   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       209
+    :S:        257
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    539
+    :VORL:     
+    :END:
+** 1952-04-10
+   :PROPERTIES:
+   :CUSTOM_ID: bi1952-04-10
+   :TRAD: DLA/Benn
+   :ORT: Meran
+   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       210
+    :S:        257-58
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    539-40
+    :VORL:     
+    :END:
+** 1952-04-11
+   :PROPERTIES:
+   :CUSTOM_ID: bi1952-04-11
+   :TRAD: DLA/Benn
+   :ORT: Meran
+   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       211
+    :S:        258
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    540
+    :VORL:     
+    :END:
 * Benn
 :PROPERTIES:
 :FROM: Benn, Ilse
@@ -23,3 +113,13 @@
    :TRAD:     verloren
    :END:
 Telegramm erwähnt in [[#oec1949-07-30]].
+** 1952-04-03 (vor 1952-04-03)
+   :PROPERTIES:
+   :TRAD:     u
+   :END:
+Erwähnt in [[#bi1952-04-03][1952-04-03]]: "Post von Dir."
+** 1952-04-05
+   :PROPERTIES:
+   :TRAD:     u
+   :END:
+Erwähnt in [[#bi1952-04-08a][1952-04-08]]: "Dein Brief vom 4/5."
