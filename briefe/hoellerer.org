@@ -1,0 +1,71 @@
+#+STARTUP: content
+#+STARTUP: showall
+ #+STARTUP: showeverything
+#+TITLE: Benn - Höllerer
+
+* Höllerer, Walter
+:PROPERTIES:
+:EMPF:     1
+:FROM_All: Benn
+:TO_All: Höllerer, Walter
+:CUSTOM_ID: hoelllerer_walter
+:GEB: 19
+:TOD: 19
+:END:
+** 1956-01-23
+  :PROPERTIES:
+  :CUSTOM_ID: hoe1956-01-23
+  :ORT:      [Berlin]
+  :TRAD:     
+  :END:
+*** AB1957
+:PROPERTIES:
+:S: 305
+:AUSL: 
+:S_KOM: 
+:END:
+** 1952-12-09
+  :PROPERTIES:
+  :CUSTOM_ID: ho1952-12-09
+  :ORT:      Berlin
+  :TRAD:     
+  :END:
+*** AB1957
+:PROPERTIES:
+:S: 240-41
+:AUSL: 
+:S_KOM: 377
+:END:
+** 1954-05-16
+  :PROPERTIES:
+  :CUSTOM_ID: ho1954-05-16
+  :ORT:      Berlin
+  :TRAD:     
+  :END:
+*** AB1957
+:PROPERTIES:
+:S: 265-66
+:AUSL: 
+:S_KOM: 380
+:END:
+* Benn
+:PROPERTIES:
+:TO: Benn
+:FROM: Holthusen, Hans Egon
+:END:
+** 1952-12-09 (vor 1952-12-09)
+   :PROPERTIES:
+   :TRAD:     
+   :END:
+In [[#ho1952-12-09]] erwähnt: "daß Sie mir geschrieben haben".
+** 1954-05-16 (vor 1954-05-16)
+   :PROPERTIES:
+   :TRAD:     
+   :END:
+Widmung in [[#ho1954-05-16]] erwähnt.
+** 1956-01-23 (vor 1956-01-23)
+   :PROPERTIES:
+   :TRAD:     
+   :END:
+Erwähnt in [[#hoe1956-01-23][1956-01-23]]: "Dank für reizenden Brief."
+Widmung in [[#ho1954-05-16]] erwähnt.
