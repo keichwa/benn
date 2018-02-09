@@ -8,8 +8,8 @@
 :EMPF:     1
 :FROM: Benn
 :TO: Porada, Käthe von
-:GEB:
-:TOD:
+:GEB: 1891
+:TOD: 1985
 :END:
 ** 1933-07-04
    :PROPERTIES:
@@ -222,7 +222,7 @@
 :AUSL:
 :S_KOM:    
 :END:     
-q** 1933-10-05
+** 1933-10-05
    :PROPERTIES:
    :CUSTOM_ID:       po1933-10-05
    :END:      
@@ -318,6 +318,21 @@ Beilage: Bekenntnis zum Expressionismus; [[*BPo1966][BPo1966]], 143.
 :AUSL:
 :S_KOM:    146
 :END:     
+** 1952-10-07
+   :PROPERTIES:
+   :CUSTOM_ID: po1952-10-07
+   :TRAD: u
+   :ORT: Berlin
+   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       216
+    :S:        262
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    542-43
+    :VORL:     www
+    :END:
 ** 1954-08-24
    :PROPERTIES:
    :CUSTOM_ID:       po1954-08-24
@@ -359,7 +374,13 @@ Beilage: Bekenntnis zum Expressionismus; [[*BPo1966][BPo1966]], 143.
    :TRAD:     Q
    :END:
 In [[#po1952-05-09]] erwähnt; dort vermutet vom 1952-05-06 lt. poststempel.
-
+Auch erwähnt in [[#po1952-10-07][1952-10-07 kommentar]].
+** 1952-10-04
+   :PROPERTIES:
+   :CUSTOM_ID: pob1952-10-04
+   :TRAD:     Q
+   :END:
+Erwähnt in [[#po1952-10-07][1952-10-07 kommentar]].
 ** 1954-06-26
    :PROPERTIES:
    :TRAD:     Q
