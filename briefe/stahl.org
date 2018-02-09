@@ -1,0 +1,41 @@
+#+STARTUP: content
+#+STARTUP: showall
+# +STARTUP: showeverything
+#+TITLE: Benn - Hermann Stahl
+
+*  Stahl, Hermann
+:PROPERTIES:
+:EMPF:     1
+:FROM: Benn
+:TO:  Stahl, Hermann
+:CUSTOM_ID:  stahl_hermann_1908
+:GEB:      1908
+:TOD:      1998
+:END:      
+** 1952-11-06
+   :PROPERTIES:
+   :CUSTOM_ID: sta1952-11-06
+   :TRAD: AdK/Stahl
+   :ORT: Berlin
+   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       218
+    :S:        265
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    544
+    :VORL:     
+    :END:
+
+* Benn
+:PROPERTIES:
+:TO: Benn
+:FROM:  Stahl, Hermann
+:END:
+** 1952-10-18
+:PROPERTIES:
+:CUSTOM_ID: stab1952-10-18
+:TRAD: DLA/Benn
+:END:
+Erwähnt in [[#sta1952-11-06][1952-11-06]] und im kommentar dort nachgewiesen.
