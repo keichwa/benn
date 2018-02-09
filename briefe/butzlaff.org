@@ -14,7 +14,7 @@
 :END:      
 ** 1952-05-25
    :PROPERTIES:
-   :CUSTOM_ID: bu1952-05-25
+   :CUSTOM_ID: butz1952-05-25
    :TRAD: u
    :ORT: Berlin
    :END:
@@ -35,7 +35,7 @@
 :END:
 ** 1952-04-19
    :PROPERTIES:
-   :CUSTOM_ID: bub1952-04-19
+   :CUSTOM_ID: butzb1952-04-19
    :TRAD: DLA/Benn
    :ORT: 
    :END:
