@@ -1,0 +1,49 @@
+#+STARTUP: content
+#+STARTUP: showall
+# +STARTUP: showeverything
+#+TITLE: Benn - Ernst Johann
+
+*  Johann, Ernst
+:PROPERTIES:
+:EMPF:     1
+:FROM: Benn
+:TO:  Johann, Ernst
+:CUSTOM_ID:  johann_ernst_1909
+:GEB:      1909
+:TOD:      1980
+:END:      
+** 1953-05-25
+   :PROPERTIES:
+   :CUSTOM_ID: joha1953-05-25
+   :TRAD: DLA/Fritz Werner, Slg. Benn
+   :ORT: Berlin
+   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       225
+    :S:        270
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    548-49
+    :VORL:     
+    :END:
+* Benn
+:PROPERTIES:
+:TO: Benn
+:FROM:  Johann, Ernst
+:END:
+** 1953-05-20
+   :PROPERTIES:
+   :CUSTOM_ID: johab1953-05-20
+   :TRAD: DLA/Benn
+   :ORT: 
+   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR: 
+    :S:  548 (kommentar zu nr. 225)
+    :AUSL:     paraphrase
+    :FAKS:     
+    :S_KOM:    548
+    :VORL:     
+    :END:
