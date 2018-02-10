@@ -42,6 +42,21 @@
     :S_KOM:    544-45
     :VORL:     
     :END:
+** 1953-06-12
+   :PROPERTIES:
+   :CUSTOM_ID: fech1953-06-12
+   :TRAD: DLA/Fechter
+   :ORT: Berlin
+   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       227
+    :S:        271-72
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    549-50
+    :VORL:     
+    :END:
 * Benn
 :PROPERTIES:
 :TO: Benn
