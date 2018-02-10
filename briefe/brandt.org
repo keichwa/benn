@@ -26,6 +26,36 @@
     :S_KOM:    547-48
     :VORL:     
     :END:
+** 1953-06-13
+   :PROPERTIES:
+   :CUSTOM_ID: bra1953-06-13
+   :TRAD: Axel Springer Unternehmensarchiv
+   :ORT: Berlin
+   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       228
+    :S:        272-73
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    551
+    :VORL:     
+    :END:
+** 1953-07-03
+   :PROPERTIES:
+   :CUSTOM_ID: bra1953-07-03
+   :TRAD: Axel Springer Unternehmensarchiv
+   :ORT: Berlin
+   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       229
+    :S:        273-74
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    551
+    :VORL:     
+    :END:
 
 * Benn
 :PROPERTIES:
@@ -47,4 +77,51 @@
     :S_KOM:    547
     :VORL:     
     :END:
-
+** 1953-05-17
+   :PROPERTIES:
+   :CUSTOM_ID: brab1953-05-17
+   :TRAD: DLA/Benn
+   :ORT: 
+   :END:
+Erwähnt in [[#bra1953-06-13][1953-06-13]].
+*** AB2017
+    :PROPERTIES:
+    :NR: 
+    :S:        551 (kommentar zu nr. 228)
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    551
+    :VORL:     
+    :END:
+** 1953-06-10
+   :PROPERTIES:
+   :CUSTOM_ID: brab1953-06-10
+   :TRAD: DLA/Benn
+   :ORT: 
+   :END:
+Erwähnt in [[#bra1953-06-13][1953-06-13]].
+*** AB2017
+    :PROPERTIES:
+    :NR: 
+    :S:        551 (kommentar zu nr. 228)
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    551
+    :VORL:     
+    :END:
+** 1953-06-26
+   :PROPERTIES:
+   :CUSTOM_ID: brab1953-06-26
+   :TRAD: DLA/Benn
+   :ORT: 
+   :END:
+Erwähnt in [[#bra1953-07-03][1953-07-03]].
+*** AB2017
+    :PROPERTIES:
+    :NR: 
+    :S:        551 (kommentar zu nr. 229)
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    551
+    :VORL:     
+    :END:
