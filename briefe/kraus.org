@@ -36,9 +36,18 @@ Auch an [[file:schuster.org::#schuster_alice_1893][Schuster, Alice]] Partnerin. 
 ** 1953-07-16
    :PROPERTIES:
    :CUSTOM_ID: kr1953-07-16
-:ORT: Berlin
-   :TRAD:     
+   :ORT:      Berlin
+   :TRAD:     u
    :END:      
+*** AB2017
+    :PROPERTIES:
+    :NR:       230
+    :S:        274-75
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    551
+    :VORL:     AB1957
+    :END:
 *** AB1957
 :PROPERTIES:
 :S: 251-52
