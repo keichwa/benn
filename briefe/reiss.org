@@ -294,8 +294,11 @@ RB
 Erwähnt in [[#re1949-12-20][1949-12-20 kommentar]].
 ** 1950-05-14
 Erwähnt in [[#re1950-05-17][1950-05-17]]
-** 1950 (Sommer 1950 oder später) 
-Erwähnt in [[file:reiss-jacobi.org::#rej1953-12-20][1953-12-20]]: "eines langen Briefes von ihm, in dem er Ihren Sommeraufenthalt 1950 schilderte."
+** 1950-07-23
+Erwähnt in [[file:reiss-jacobi.org::#rej1953-12-20][1953-12-20]]: "eines langen Briefes von ihm, in dem er Ihren
+Sommeraufenthalt 1950 schilderte."  Nachgewiesen im kommentar AB2017.
+*** RB
+:S: 32 
 ** 1951-01-29 (wohl vor 1951-01-29)
    :PROPERTIES:
    :TRAD:     
