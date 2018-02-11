@@ -50,8 +50,17 @@
   :PROPERTIES:
   :CUSTOM_ID: rej1953-12-20
   :ORT:      Berlin
-  :TRAD:     
+  :TRAD:     DLA/Reiss
   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       237
+    :S:        281-82
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    556
+    :VORL:     
+    :END:
 *** AB1957
 :PROPERTIES:
 :AUSL:
@@ -75,9 +84,18 @@ Erwähnt in [[#rej1951-05-15]]: "Nachricht [...], die Sie mir schickten."
    :TRAD:     
    :END:
 Erwähnt in [[#rej1952-01-24]]: "Ihren Glückwunsch zu Neujahr."
-** 1953-12-01 (nach 1953-12-01, vor 1953-12-20)
+** 1953-11-22
    :PROPERTIES:
    :CUSTOM_ID: rejb1953-12-01
-   :TRAD:     
+   :TRAD:   DLA/Benn  
    :END:
-Erwähnt in [[#rej1953-12-20]]: "Ihr Schreiben vom Anfang des Monats."
+Erwähnt in [[#rej1953-12-20][1953-12-20]]: "Ihr Schreiben vom Anfang des Monats."
+*** AB2017
+    :PROPERTIES:
+    :NR:       
+    :S:        556 (kommentar zu nr. 237)
+    :AUSL:     paraphrase mit zitat
+    :FAKS:     
+    :S_KOM:    556
+    :VORL:     
+    :END:
