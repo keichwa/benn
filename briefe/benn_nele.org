@@ -453,6 +453,23 @@ Erwähnt in [[#bn1950-10-29][1950-10-29 kommentar]].
     :S_KOM:    546-47
     :VORL:     
     :END:
+** 1953-07-27 (vor 1953-07-27)
+"Danktelegramm" erwähnt in [[#bn1953-07-27][1953-07-27]].
+** 1953-07-27
+   :PROPERTIES:
+   :CUSTOM_ID: bn1953-07-27
+   :TRAD: AdK/Benn
+   :ORT: Berlin
+   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       231
+    :S:        275-76
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    552
+    :VORL:     
+    :END:
 * Benn
 :PROPERTIES:
 :TO: Benn
@@ -559,3 +576,11 @@ In [[#bn1952-07-26][1952-07-26]] erwähnt.
    :TRAD:     u
    :END:
 In [[#bn1953-03-13][1953-03-13]] erwähnt.
+** 1953-07-27 (vor 1953-07-27)
+   :PROPERTIES:
+   :CUSTOM_ID: bnb1953-07-27
+   :TRAD:     u
+   :END:
+In [[#bn1953-07-27][1953-07-27]] erwähnt: "Karte aus Mainz."
+** 1953-10-22 (vor 1953-10-22)
+Erwähnt in [[#vi1953-10-22][1953-10-22]]: "meine Tochter ... schrieb mir".
