@@ -27,6 +27,21 @@
     :S_KOM:    500
     :VORL:     
     :END:
+** 1954-04-07
+   :PROPERTIES:
+   :CUSTOM_ID: ot1954-04-07
+   :TRAD: DLA/Otten
+   :ORT: Berlin
+   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       241
+    :S:        287
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    559
+    :VORL:     
+    :END:
 * Benn
 :PROPERTIES:
 :TO: Benn
@@ -43,3 +58,8 @@ nachgewiesen).
    :TRAD:     DLA/Benn
    :END:
 Erwähnt in [[#bn1950-10-29][1950-10-29 kommentar]].
+** 1954-04-03
+   :PROPERTIES:
+   :TRAD:     DLA/Benn
+   :END:
+Erwähnt in [[#ot1954-04-07][1954-04-07]].
