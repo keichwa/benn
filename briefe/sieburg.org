@@ -45,6 +45,21 @@
 :AUSL: 
 :S_KOM: 376
 :END:
+** 1954-10-05
+   :PROPERTIES:
+   :CUSTOM_ID: si1954-10-05
+   :TRAD: DLA/Sieburg
+   :ORT: Berlin
+   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       255
+    :S:        297
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    568
+    :VORL:     
+    :END:
 ** 1955-06-22
   :PROPERTIES:
   :CUSTOM_ID: si1955-06-22
@@ -115,6 +130,16 @@
    :TRAD:    DLA/Benn 
    :END:
 In [[#si1952-07-02]] erwähnt: "Ihren reizenden Brief vom 29. VI."
+** 1954-10-02
+   :PROPERTIES: sib1954-10-02
+   :TRAD:    DLA/Benn 
+   :END:
+*** AB2017
+:PROPERTIES:
+:S: 568 (kommentar zu nr. 255)
+:AUSL: paraphrase
+:S_KOM: 568
+:END:
 ** 1955-11-11 (vor 1955-11-11)
    :PROPERTIES:
    :TRAD:     
