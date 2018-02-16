@@ -9,8 +9,8 @@
 :FROM_All: Benn
 :TO_All: Edschmid, Kasimir
 :CUSTOM_ID: 
-:GEB: 19
-:TOD: 19
+:GEB: 1890
+:TOD: 1966
 :END:
 ** 1955-10-05
   :PROPERTIES:
