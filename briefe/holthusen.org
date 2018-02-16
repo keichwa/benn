@@ -40,8 +40,17 @@
   :PROPERTIES:
   :CUSTOM_ID: ho1954-05-16
   :ORT:      Berlin
-  :TRAD:     
+  :TRAD:     u
   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       247
+    :S:        292
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    563
+    :VORL:     AB1957
+    :END:
 *** AB1957
 :PROPERTIES:
 :S: 265-66
