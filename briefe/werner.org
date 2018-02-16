@@ -52,6 +52,21 @@
 :S: 146-47
 :S_KOM: 360
 :END:
+** 1954-04-18
+   :PROPERTIES:
+   :CUSTOM_ID: fw1954-04-18
+   :TRAD: DLA/Fritz Werner, Slg. Benn
+   :ORT: Berlin
+   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       244
+    :S:        290
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    561-62
+    :VORL:     
+    :END:
 * Benn
 :PROPERTIES:
 :TO: Benn
@@ -77,7 +92,9 @@ Im kommentar zu [[file:maraun.org::#ma1948-12-28][1948-12-28]] genannt.
    :TRAD:     
    :END:
 In [[#fw1949-03-04]] erwähnt: "Ihren Brief vom 25.II."
-
-
-
-
+** 1954-03-31
+   :PROPERTIES:
+   :CUSTOM_ID: fwb1954-03-31
+   :TRAD:    DLA/Benn 
+   :END:
+In [[#fw1954-04-18][1954-04-18]] erwähnt: "Dank für Brief".  Im kommentar nachgewiesen.
