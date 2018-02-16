@@ -123,6 +123,21 @@
 :AUSL: t
 :S_KOM: 379
 :END:
+** 1954-03-23
+   :PROPERTIES:
+   :CUSTOM_ID: ni1954-03-23
+   :TRAD: u
+   :ORT: Berlin
+   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       240
+    :S:        286-87
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    558-59
+    :VORL:     www
+    :END:
 ** 1954-12-30
   :PROPERTIES:
   :CUSTOM_ID: ni1954-12-30
