@@ -1,0 +1,50 @@
+#+STARTUP: content
+#+STARTUP: showall
+ #+STARTUP: showeverything
+#+TITLE: Benn - Pyritz
+
+* Pyritz, Hans
+:PROPERTIES:
+:EMPF:     1
+:FROM_All: Benn
+:TO_All: Pyritz, Hans
+:CUSTOM_ID: 
+:GEB: 1905
+:TOD: 1958
+:END:
+** 1954-12-10
+   :PROPERTIES:
+   :CUSTOM_ID: py1954-12-10
+   :TRAD: ?
+   :ORT: Berlin
+   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       257
+    :S:        299
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    570
+    :VORL:     
+    :END:
+
+* Benn
+:PROPERTIES:
+:TO: Benn
+:FROM: Pyritz, Hans
+:END:      
+** 1954-09-22
+   :PROPERTIES:
+   :CUSTOM_ID: pyb1954-09-22
+   :TRAD: DLA/Benn
+   :ORT:
+   :END:
+Erwähnt in [[#py1954-12-10][1954-12-10]].
+** 1954-12-08
+   :PROPERTIES:
+   :CUSTOM_ID: pyb1954-12-08
+   :TRAD: DLA/Benn
+   :ORT:
+   :END:
+Erwähnt in [[#py1954-12-10][1954-12-10]]
+
