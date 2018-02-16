@@ -1,0 +1,50 @@
+#+STARTUP: content
+#+STARTUP: showall
+ #+STARTUP: showeverything
+#+TITLE: Benn - Tiessen
+
+* Tiessen, Heinz
+:PROPERTIES:
+:EMPF:     1
+:FROM_All: Benn
+:TO_All: Tiessen, Heinz
+:CUSTOM_ID: 
+:GEB: 1887
+:TOD: 1971
+:END:
+** 1954-04-12
+   :PROPERTIES:
+   :CUSTOM_ID: ti1954-04-12
+   :TRAD: AdK/Tiessen
+   :ORT: Berlin
+   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       243
+    :S:        289
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    560-61
+    :VORL:     
+    :END:
+** 1954-04-15 (wohl 1954-04-15)
+   :PROPERTIES:
+   :CUSTOM_ID: ti1954-04-15
+   :TRAD: AdK/Tiessen
+   :ORT: 
+   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       
+    :S:        560-61 (kommentar zu nr. 243)
+    :AUSL:     paraphrase mit zitat
+    :FAKS:     
+    :S_KOM:    560-61
+    :VORL:     
+    :END:
+* Benn
+:PROPERTIES:
+:TO: Benn
+:FROM: Tiessen, Heinz
+:END:      
+
