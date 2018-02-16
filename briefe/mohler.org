@@ -80,6 +80,21 @@
     :S_KOM:    562
     :VORL:     
     :END:
+** 1954-11-04
+   :PROPERTIES:
+   :CUSTOM_ID: mo1954-11-04
+   :TRAD: DLA/Mohler
+   :ORT: [Berlin]
+   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       256
+    :S:        298
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    568-70
+    :VORL:     
+    :END:
 * Benn
 :PROPERTIES:
 :TO: Benn
