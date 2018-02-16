@@ -1,0 +1,78 @@
+#+STARTUP: content
+#+STARTUP: showall
+ #+STARTUP: showeverything
+#+TITLE: Benn - Tumler
+
+* Tumler, Franz
+:PROPERTIES:
+:EMPF:     1
+:FROM_All: Benn
+:TO_All: Tumler, Franz
+:CUSTOM_ID: 
+:GEB: 1912
+:TOD: 1998
+:END:
+** 1954-05-05
+   :PROPERTIES:
+   :CUSTOM_ID: tu1954-05-05
+   :TRAD: DLA/Tumler
+   :ORT: Berlin
+   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       246
+    :S:        291
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    562-63
+    :VORL:     
+    :END:
+** 1954-07-15
+   :PROPERTIES:
+   :CUSTOM_ID: tu1954-07-15
+   :TRAD: DLA/Tumler
+   :ORT: Berlin
+   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       251
+    :S:        294
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    565
+    :VORL:     
+    :END:
+** 1954-12-23
+   :PROPERTIES:
+   :CUSTOM_ID: tu1954-12-23
+   :TRAD: DLA/Tumler
+   :ORT: Berlin
+   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       258
+    :S:        299-300
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    571
+    :VORL:     
+    :END:
+* Benn
+:PROPERTIES:
+:TO: Benn
+:FROM: Tumler, Franz
+:END:      
+** 1954-05-05 (vor 1954-05-05)
+   :PROPERTIES:
+   :CUSTOM_ID: tub1954-05-05
+   :TRAD: DLA/Benn
+   :ORT:
+   :END:
+Erwähnt in [[#tu1954-05-05][1954-05-05]].
+** 1954-12-23 (vor 1954-12-23)
+   :PROPERTIES:
+   :CUSTOM_ID: tub1954-12-23
+   :TRAD: ?
+   :ORT:
+   :END:
+Erwähnt in [[#tu1954-12-23][1954-12-23]]: "Ihren freundlichen schönen Brief."
