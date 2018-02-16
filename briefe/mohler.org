@@ -65,6 +65,21 @@
 :AUSL:
 :S_KOM: 376
 :END:
+** 1954-04-26
+   :PROPERTIES:
+   :CUSTOM_ID: mo1954-04-26
+   :TRAD: DLA/Mohler
+   :ORT: Berlin
+   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       245
+    :S:        291
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    562
+    :VORL:     
+    :END:
 * Benn
 :PROPERTIES:
 :TO: Benn
@@ -82,3 +97,9 @@ Erwähnt in [[#mo1949-11-26]]: "vielen Dank für Ihren Brief vom 17. XI."
 Im kommentar zu [[#mo1949-11-26][1949-11-26]] nachgewiesen.
 ** 1950-06-05 (vor 1950-06-05)
 "Zusendung" erwähnt in [[#mo1950-06-05][1950-06-05]].
+** 1954-04-22
+   :PROPERTIES:
+   :CUSTOM_ID: mob1954-04-22
+   :TRAD:     DLA/Benn
+   :END:
+Im kommentar zu [[#mo1954-04-26][1954-04-26]] nachgewiesen.
