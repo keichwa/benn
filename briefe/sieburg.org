@@ -140,6 +140,16 @@ In [[#si1952-07-02]] erwähnt: "Ihren reizenden Brief vom 29. VI."
 :AUSL: paraphrase
 :S_KOM: 568
 :END:
+** 1954-11-01
+   :PROPERTIES: sib1954-11-01
+   :TRAD:    DLA/Benn 
+   :END:
+*** AB2017
+:PROPERTIES:
+:S: 568 (kommentar zu nr. 256)
+:AUSL: nachgewiesen
+:S_KOM: 
+:END:
 ** 1955-11-11 (vor 1955-11-11)
    :PROPERTIES:
    :TRAD:     
