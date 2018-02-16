@@ -37,8 +37,17 @@
   :PROPERTIES:
   :CUSTOM_ID: lo1954-07-31
   :ORT:      Berlin
-  :TRAD:     
+  :TRAD:     DLA/Lohner
   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       252
+    :S:        294-95
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    565-66
+    :VORL:     
+    :END:
 *** AB1957
 :PROPERTIES:
 :S: 274-75
@@ -89,7 +98,7 @@ Erwähnt in [[file:oelze.org::#oe1952-03-23][1952-03-23 an Oe]] mit kommentar 44
    :CUSTOM_ID: lob1954-07-27
    :TRAD:     NB/DLA
    :END:
-Erwähnt in [[#lo1954-07-31]]: "Ihren freundlichen Brief vom 27. 7."
+Erwähnt in [[#lo1954-07-31]]: "Ihren freundlichen Brief vom 27. 7." und [[file:oelze.org::#oe1954-07-31][1954-07-31]].
 ** 1955-08-31
    :PROPERTIES:
    :CUSTOM_ID: lob1955-08-31
