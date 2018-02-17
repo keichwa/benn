@@ -136,9 +136,18 @@
 ** 1955-08-25
    :PROPERTIES:
    :CUSTOM_ID:       pi1955-08-25
+   :TRAD: Frankfurt/M. DNB, Exilarchiv / Nachlass Pinner
    :ORT: Berlin      
    :END: 
-*** AB1957
+*** AB2017
+    :PROPERTIES:
+    :NR:       268
+    :S:        307-08
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    576-77
+    :VORL:     
+    :END:*** AB1957
 :PROPERTIES:
 :S: 292-93
 :AUSL: 
@@ -200,12 +209,12 @@ In [[#pi1949-10-26][1949-10-26]] erwähnt.
    :CUSTOM_ID: pib1955-01-18
    :END:
 In [[#pi1955-01-18][1955-01-18]] erwähnt: "Dein Brief"
-** 1955-08-25 (vor 1955-08-25)
+** 1955-08-05
    :PROPERTIES:
-   :TRAD:     Q
-   :CUSTOM_ID: pib1955-08-25
+   :TRAD:     DLA/Benn
+   :CUSTOM_ID: pib1955-08-05
    :END:
-In [[#pi1955-08-25][1955-08-25]] erwähnt: "Deinem lieben Brief"
+In [[#pi1955-08-25][1955-08-25]] erwähnt und nachgewiesen: "Deinem lieben Brief"
 ** 1956-01-05 (vor 1956-01-05)
    :PROPERTIES:
    :TRAD:     Q
