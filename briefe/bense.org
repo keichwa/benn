@@ -154,6 +154,21 @@ Erwähnt in file:briefe/oelze.org::#oe1935-06-04.
     :S_KOM:    564
     :VORL:     
     :END:
+** 1955-03-13
+   :PROPERTIES:
+   :CUSTOM_ID: bense1955-03-13
+   :TRAD: DLA/Bense
+   :ORT: Berlin
+   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       262
+    :S:        302-03
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    573-74
+    :VORL:     
+    :END:
 * Benn
 :PROPERTIES:
 :TO: Benn
