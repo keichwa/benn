@@ -1,0 +1,72 @@
+#+STARTUP: content
+#+STARTUP: showall
+# +STARTUP: showeverything
+#+TITLE: Benn - Reinhold Schneider
+
+* Schneider, Reinhold
+:PROPERTIES:
+:EMPF:     1
+:FROM: Benn
+:TO: Schneider, Reinhold
+:CUSTOM_ID: schneider_reinhold_1903
+:GEB:      1903
+:TOD:      1958
+:END:      
+** 1955-11-21
+   :PROPERTIES:
+   :CUSTOM_ID: schn1955-11-21
+   :TRAD: DLA/Fritz Werner, Slg. Benn
+   :ORT: Berlin
+   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       273
+    :S:        313
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    582
+    :VORL:     
+    :END:
+** 1955-11-27
+   :PROPERTIES:
+   :CUSTOM_ID: schn1955-11-27
+   :TRAD: DLA/Fritz Werner, Slg. Benn
+   :ORT: 
+   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       
+    :S:        582 (kommentar zu nr. 273)
+    :AUSL:     paraphrase
+    :FAKS:     
+    :S_KOM:    582
+    :VORL:     
+    :END:
+** 1955-12-27
+   :PROPERTIES:
+   :CUSTOM_ID: schn1955-12-27
+   :TRAD: DLA/Fritz Werner, Slg. Benn
+   :ORT: [Berlin]
+   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       277
+    :S:        317
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    585
+    :VORL:     
+    :END:
+* Benn
+:PROPERTIES:
+:TO: Benn
+:FROM: Schneider, Reinhold
+:END:
+** 1955-12-19
+   :PROPERTIES:
+   :CUSTOM_ID: schnb1955-12-19
+   :TRAD: DLA/Benn
+   :ORT: 
+   :END:
+Bildpostkarte erwähnt in [[#schn1955-12-27][1955-12-27]]: "Ihre Karte", und im kommentar nachgewiesen.
+
