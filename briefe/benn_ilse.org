@@ -103,6 +103,21 @@
     :S_KOM:    540
     :VORL:     
     :END:
+** 1956-01-06
+   :PROPERTIES:
+   :CUSTOM_ID: bi1956-01-06
+   :TRAD: DLA/Benn
+   :ORT: [Berlin]
+   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       279
+    :S:        318
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    586
+    :VORL:     
+    :END:
 * Benn
 :PROPERTIES:
 :FROM: Benn, Ilse
