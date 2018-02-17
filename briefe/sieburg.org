@@ -85,8 +85,17 @@
   :PROPERTIES:
   :CUSTOM_ID: si1955-11-11
   :ORT:      Berlin
-  :TRAD:     
+  :TRAD:     DLA/Sieburg
   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       272
+    :S:        312
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    580-81
+    :VORL:     
+    :END:
 *** AB1957
 :PROPERTIES:
 :S: 298-99
