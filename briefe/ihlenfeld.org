@@ -27,6 +27,21 @@
     :VORL:     
     :END:
 
+** 1955-12-13
+   :PROPERTIES:
+   :CUSTOM_ID: ih1955-12-13
+   :TRAD: AdK/Ihlenfeld
+   :ORT: Berlin
+   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       276
+    :S:        316
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    584-85
+    :VORL:     
+    :END:
 * Benn
 :PROPERTIES:
 :FROM: Ihlenfeld, Kurt
