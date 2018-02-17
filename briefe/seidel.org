@@ -157,6 +157,21 @@
 :S: 259-60
 :S_KOM: 379
 :END:      
+** 1955-10-18
+   :PROPERTIES:
+   :CUSTOM_ID: se1955-10-18
+   :TRAD: DLA/Seidel
+   :ORT: Berlin
+   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       271
+    :S:        311
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    580
+    :VORL:     
+    :END:
 ** 1956-05-08
    :PROPERTIES:
    :CUSTOM_ID: se1956-05-08
@@ -208,5 +223,17 @@ In [[#se1949-07-30][1949-07-30]] erwähnt und auf den 25. datiert: "Ihr Brief vo
    :TRAD:     
    :END:
 In [[#se1951-05-08]] erwähnt: "Ihr Telegramm zu meinem Geburtstag."
+** 1955-10-16
+   :PROPERTIES:
+   :CUSTOM_ID: seb1955-10-16
+   :TRAD:     DLA/Benn
+   :END:
+In [[#se1955-10-18][1955-10-18]] erwähnt und nachgewiesen.
+*** AB2017
+:PROPERTIES:
+:S: 580 (kommentar zu nr. 271)
+:AUSL: paraphrase mit zitat
+:S_KOM: 580
+:END:
 ** 1956-05-08 (vor 1956-05-08)
 In [[#se1956-05-08][1956-05-08]] erwähnt: "Ihr gütiges Telegramm".
