@@ -27,7 +27,21 @@
     :S_KOM:    530-31
     :VORL:     
     :END:
-
+** 1955-07-30
+   :PROPERTIES:
+   :CUSTOM_ID: an1955-07-30
+   :TRAD: DLA/Andersch
+   :ORT: Berlin
+   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       267
+    :S:        306
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    576
+    :VORL:     
+    :END:
 * Benn
 :PROPERTIES:
 :TO: Benn
@@ -35,8 +49,14 @@
 :END:
 ** 1951-08-05 (vor 1951-08-05)
 Erwähnt in [[#an1951-08-05][1951-08-05]]: "Ihren Brief".
-
 ** 1951-08-08
 Erwähnt in [[#an1951-08-05][1951-08-05 kommentar]]: "Korrekturabzug".
 ** 1951-08-13 (vor 1951-08-13)
 Erwähnt in [[#an1951-08-05][1951-08-05 kommentar]]: Antwort auf "Bitte und Anfrage".
+** 1955-07-26
+   :PROPERTIES:
+   :CUSTOM_ID: anb1955-07-26
+   :TRAD: DLA/Benn
+   :ORT: 
+   :END:
+Erwähnt in [[#an1955-07-30][1955-07-30]]: "Schreiben vom 26. VII".
