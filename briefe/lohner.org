@@ -58,8 +58,17 @@
   :PROPERTIES:
   :CUSTOM_ID: lo1955-10-01
   :ORT:      Berlin
-  :TRAD:     
+  :TRAD:     DLA/Lohner
   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       269
+    :S:        308-09
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    578-79
+    :VORL:     
+    :END:
 *** AB1957
 :PROPERTIES:
 :S: 295-96
@@ -99,11 +108,19 @@ Erwähnt in [[file:oelze.org::#oe1952-03-23][1952-03-23 an Oe]] mit kommentar 44
    :TRAD:     NB/DLA
    :END:
 Erwähnt in [[#lo1954-07-31]]: "Ihren freundlichen Brief vom 27. 7." und [[file:oelze.org::#oe1954-07-31][1954-07-31]].
-** 1955-08-31
+** 1955-08-30
    :PROPERTIES:
-   :CUSTOM_ID: lob1955-08-31
-   :TRAD:     
+   :CUSTOM_ID: lob1955-08-30
+   :TRAD:     DLA/Benn
    :END:
-Erwähnt in [[#lo1955-10-01][1955-10-01]]: "Ihren Brief vom 31. 8."  Evetuell identisch
+Erwähnt in [[#lo1955-10-01][1955-10-01]]: "Ihren Brief vom 31. 8."  Wohl identisch
 mit: "Lohner schrieb mir" ([[file:niedermayer.org::#ni1954-09-01][1954-09-01]]).
-
+*** AB2017
+    :PROPERTIES:
+    :NR:       
+    :S:        578 (kommentar zu nr. 269)
+    :AUSL:     paraphrase mit zitat
+    :FAKS:     
+    :S_KOM:    578-79
+    :VORL:     
+    :END:
