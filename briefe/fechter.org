@@ -162,6 +162,21 @@
     :S_KOM:    574-75
     :VORL:     
     :END:
+** 1955-06-29
+   :PROPERTIES:
+   :CUSTOM_ID: fe1955-06-29
+   :TRAD: DLA/Fechter
+   :ORT: Berlin
+   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       
+    :S:        575 (im kommentar zu nr. 265)
+    :AUSL:     paraphrase mit zitat
+    :FAKS:     
+    :S_KOM:    575
+    :VORL:     
+    :END:
 * Benn
 :PROPERTIES:
 :TO: Benn
