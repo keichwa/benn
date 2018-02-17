@@ -102,6 +102,21 @@
     :S_KOM:    557-58
     :VORL:     
     :END:
+** 1955-01-28
+   :PROPERTIES:
+   :CUSTOM_ID: fe1955-01-28
+   :TRAD: DLA/Fechter
+   :ORT: Berlin
+   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       261
+    :S:        302
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    572-73
+    :VORL:     
+    :END:
 * Benn
 :PROPERTIES:
 :TO: Benn
