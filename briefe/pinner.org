@@ -105,7 +105,17 @@
    :PROPERTIES:
    :CUSTOM_ID:       pi1955-01-18
    :ORT: Berlin      
+   :TRAD:     Exilarchiv/Nachlass Pinner
    :END: 
+*** AB2017
+    :PROPERTIES:
+    :NR:       259
+    :S:        300-01
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    571
+    :VORL:     
+    :END:
 *** AB1957
 :PROPERTIES:
 :S: 280-81
