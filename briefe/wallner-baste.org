@@ -41,6 +41,21 @@
     :S_KOM:    572
     :VORL:     
     :END:
+** 1956-01-31
+   :PROPERTIES:
+   :CUSTOM_ID: wall1956-01-31
+   :TRAD: AdK/Wallner-Basté
+   :ORT: Berlin
+   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       281
+    :S:        320-22
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    588-89
+    :VORL:     
+    :END:
 
 * Benn
 :PROPERTIES:
