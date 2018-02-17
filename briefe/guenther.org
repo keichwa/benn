@@ -1,0 +1,42 @@
+#+STARTUP: content
+#+STARTUP: showall
+# +STARTUP: showeverything
+#+TITLE: Benn - Joachim Günther
+
+* Günther, Joachim
+:PROPERTIES:
+:EMPF:     1
+:FROM: Benn
+:TO: Günther, Joachim
+:CUSTOM_ID: guenther_joachim_1905
+:GEB:      1905
+:TOD:      1990
+:END:      
+** 1956-01-27
+   :PROPERTIES:
+   :CUSTOM_ID: gue1956-01-27
+   :TRAD: DLA/Benn
+   :ORT: Berlin
+   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       280
+    :S:        318-19
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    586-88
+    :VORL:     
+    :END:
+* Benn
+:PROPERTIES:
+:TO: Benn
+:FROM: Günther, Joachim
+:END:
+** 1956-01-25
+   :PROPERTIES:
+   :CUSTOM_ID: gueb1956-01-25
+   :TRAD: DLA/Benn
+   :ORT:
+   :END:
+Erwähnt [[#gue1956-01-27][1956-01-27]] und dort im kommentar nachgewiesen.
+
