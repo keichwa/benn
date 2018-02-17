@@ -96,6 +96,21 @@
     :S_KOM:    553-54
     :VORL:     
     :END:
+** 1956-02-11
+   :PROPERTIES:
+   :CUSTOM_ID: pod1956-02-11
+   :TRAD: Archiv der BAdSK
+   :ORT: Berlin
+   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       283
+    :S:        323-24
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    590
+    :VORL:     
+    :END:
 * Benn
 :PROPERTIES:
 :TO: Benn
@@ -127,5 +142,21 @@ Erwähnt in [[#pod1951-10-04][1951-10-04 kommentar]].
     :AUSL:     
     :FAKS:     
     :S_KOM:    534
+    :VORL:     
+    :END:
+** 1956-02-23
+   :PROPERTIES:
+   :CUSTOM_ID: podb1956-02-23
+   :TRAD: 
+   :ORT: 
+   :END:
+Erwähnt in [[#pod1956-02-11][1956-02-11 kommentar]].
+*** AB2017
+    :PROPERTIES:
+    :NR:       
+    :S:        590 (kommentar zu nr. 283)
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    590
     :VORL:     
     :END:
