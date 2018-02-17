@@ -1,0 +1,48 @@
+#+STARTUP: content
+#+STARTUP: showall
+# +STARTUP: showeverything
+#+TITLE: Benn - Gert H. Theunissen
+
+* Theunissen, Gert H.
+:PROPERTIES:
+:EMPF:     1
+:FROM: Benn
+:TO: Theunissen, Gert H.
+:CUSTOM_ID: theunissen_gert_h_1907
+:GEB:      1907
+:TOD:      1974
+:END:      
+** 1955-10-17
+   :PROPERTIES:
+   :CUSTOM_ID: th1955-10-17
+   :TRAD: DLA/Benn
+   :ORT: Berlin
+   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       270
+    :S:        310
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    579
+    :VORL:     
+    :END:
+* Benn
+:PROPERTIES:
+:TO: Benn
+:FROM: Theunissen, Gert H.
+:END:
+** 1955-10-14
+   :PROPERTIES:
+   :CUSTOM_ID: thb1955-10-14
+   :TRAD: DLA/Benn
+   :ORT:
+   :END:
+Nachgewiesen in [[#th1955-10-17][1955-10-17 kommentar]].
+** 1955-11-04
+   :PROPERTIES:
+   :CUSTOM_ID: thb1955-11-04
+   :TRAD: DLA/Benn
+   :ORT:
+   :END:
+Nachgewiesen in [[#th1955-10-17][1955-10-17 kommentar]].
