@@ -178,8 +178,18 @@
 ** 1956-04-25
    :PROPERTIES:
    :CUSTOM_ID:       pi1956-04-25
-   :ORT: [Berlin]
+   :TRAD: Frankfurt/M. DNB, Exilarchiv / Nachlass Pinner
+   :ORT: Berlin
    :END: 
+*** AB2017
+    :PROPERTIES:
+    :NR:       289
+    :S:        327-28
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    594
+    :VORL:     
+    :END:
 *** AB1957
 :PROPERTIES:
 :S: 311-12
@@ -232,9 +242,9 @@ In [[#pi1955-08-25][1955-08-25]] erwähnt und nachgewiesen: "Deinem lieben Brief
    :CUSTOM_ID: pib1956-01-05
    :END:
 In [[#pi1956-01-05][1956-01-05]] erwähnt: "mir zu Neujahr geschrieben zu haben."
-** 1956-04-25 (vor 1956-04-25)
+** 1956-04-23
    :PROPERTIES:
-   :TRAD:     Q
+   :TRAD:    DLA/Benn
    :CUSTOM_ID: 
    :END:
-In [[#pi1956-04-25][1956-04-25]] erwähnt: "lieb von Dir, mir zu schreiben."
+In [[#pi1956-04-25][1956-04-25]] erwähnt: "lieb von Dir, mir zu schreiben." und dort nachgewiesen.
