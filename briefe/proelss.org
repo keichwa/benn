@@ -1,0 +1,49 @@
+#+STARTUP: content
+#+STARTUP: showall
+# +STARTUP: showeverything
+#+TITLE: Benn - Maria Proells
+
+* Proells, Maria
+:PROPERTIES:
+:EMPF:     1
+:FROM: Benn
+:TO: Proells, Maria
+:CUSTOM_ID: proells_maria_1890
+:GEB:      1890
+:TOD:      1962
+:END:      
+** 1956-02-28
+   :PROPERTIES:
+   :CUSTOM_ID: pr1956-02-28
+   :TRAD: DLA/Benn
+   :ORT: Berlin
+   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       284
+    :S:        324-25
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    591
+    :VORL:     
+    :END:
+* Benn
+:PROPERTIES:
+:TO: Benn
+:FROM: Proells, Maria
+:END:
+** 1956-02-13
+   :PROPERTIES:
+   :CUSTOM_ID: prb1956-02-13
+   :TRAD: DLA/Benn
+   :ORT:
+   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       
+    :S:        591 (kommentar zu nr. 284)
+    :AUSL:     paraphrase mit zitat
+    :FAKS:     
+    :S_KOM:    591
+    :VORL:     
+    :END:
