@@ -1,0 +1,34 @@
+#+STARTUP: content
+#+STARTUP: showall
+# +STARTUP: showeverything
+#+TITLE: Benn - Magdalene Krause
+
+* Krause, Magdalene
+:PROPERTIES:
+:EMPF:     1
+:FROM: Benn
+:TO: Krause, Magdalene
+:CUSTOM_ID: krause_magdalene_1904
+:GEB:      1904
+:TOD:      1990
+:END:      
+** 1956-04-08
+   :PROPERTIES:
+   :CUSTOM_ID: krause1956-04-08
+   :TRAD: u
+   :ORT: Berlin
+   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       287
+    :S:        326
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    592
+    :VORL:     www
+    :END:
+* Benn
+:PROPERTIES:
+:TO: Benn
+:FROM: Krause, Magdalene
+:END:
