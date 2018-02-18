@@ -27,6 +27,66 @@
     :S_KOM:    591
     :VORL:     
     :END:
+** 1956-03-23
+   :PROPERTIES:
+   :CUSTOM_ID: pr1956-03-23
+   :TRAD: DLA/Benn
+   :ORT: Berlin
+   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       286
+    :S:        326
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    592
+    :VORL:     
+    :END:
+** 1956-04-19
+   :PROPERTIES:
+   :CUSTOM_ID: pr1956-04-19
+   :TRAD: DLA/Benn, Kopien
+   :ORT: Berlin
+   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       288
+    :S:        327
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    592-93
+    :VORL:     
+    :END:
+** 1956-04-23
+   :PROPERTIES:
+   :CUSTOM_ID: pr1956-04-23
+   :TRAD: DLA/Benn, Kopien
+   :ORT: 
+   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       
+    :S:        593 (kommentar zu nr. 288)
+    :AUSL:     paraphrase mit zitat
+    :FAKS:     
+    :S_KOM:    593
+    :VORL:     
+    :END:
+** 1956-05-22
+   :PROPERTIES:
+   :CUSTOM_ID: pr1956-05-22
+   :TRAD: DLA/Benn
+   :ORT: [Berlin]
+   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       293
+    :S:        330
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    596-97
+    :VORL:     
+    :END:
 * Benn
 :PROPERTIES:
 :TO: Benn
@@ -45,5 +105,50 @@
     :AUSL:     paraphrase mit zitat
     :FAKS:     
     :S_KOM:    591
+    :VORL:     
+    :END:
+** 1956-03-02
+   :PROPERTIES:
+   :CUSTOM_ID: prb1956-03-02
+   :TRAD: DLA/Benn
+   :ORT:
+   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       
+    :S:        592 (kommentar zu nr. 286)
+    :AUSL:     paraphrase
+    :FAKS:     
+    :S_KOM:    591
+    :VORL:     
+    :END:
+** 1956-03-28
+   :PROPERTIES:
+   :CUSTOM_ID: prb1956-03-28
+   :TRAD: DLA/Benn
+   :ORT:
+   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       
+    :S:        593 (kommentar zu nr. 288)
+    :AUSL:     paraphrase
+    :FAKS:     
+    :S_KOM:    593
+    :VORL:     
+    :END:
+** 1956-05-21
+   :PROPERTIES:
+   :CUSTOM_ID: prb1956-05-21
+   :TRAD: DLA/Benn
+   :ORT:
+   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       
+    :S:        597 (kommentar zu nr. 293)
+    :AUSL:     paraphrase mit zitat
+    :FAKS:     
+    :S_KOM:    597
     :VORL:     
     :END:
