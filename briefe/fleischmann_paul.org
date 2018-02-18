@@ -51,16 +51,16 @@ Auch an #fleischmann-fleming
 ** 1956-05-08
    :PROPERTIES:
    :CUSTOM_ID: flp1956-05-08
-   :TRAD: 
+   :TRAD: DLA/Benn
    :ORT: Berlin
    :END:
 *** AB2017
     :PROPERTIES:
-    :NR:       
-    :S:        
+    :NR:       291
+    :S:        329
     :AUSL:     
     :FAKS:     
-    :S_KOM:    
+    :S_KOM:    595-96
     :VORL:     
     :END:
 *** AB1957
@@ -73,5 +73,20 @@ Auch an #fleischmann-fleming
 :FROM: Fleischmann, Paul
 :TO: Benn
 :END:
-** 1956-05-08 (vor 1956-05-08)
+** 1956-05-06
+   :PROPERTIES:
+   :CUSTOM_ID: flpb1956-05-06
+   :TRAD: DLA/Benn
+   :ORT: 
+   :END:
 Erwähnt in [[#flp1956-05-08][1956-05-08]]: "Ihr Schreiben".
+*** AB2017
+    :PROPERTIES:
+    :NR:
+    :S:        595 (kommentar zu nr. 290)
+    :AUSL:     paraphrase mit zitat
+    :FAKS:     
+    :S_KOM:    595-96
+    :VORL:     
+    :END:
+
