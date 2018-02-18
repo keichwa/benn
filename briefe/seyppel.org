@@ -1,0 +1,51 @@
+#+STARTUP: content
+#+STARTUP: showall
+# +STARTUP: showeverything
+#+TITLE: Benn - Joachim Seyppel
+
+* Seyppel, Joachim
+:PROPERTIES:
+:EMPF:     1
+:FROM: Benn
+:TO: Seyppel, Joachim
+:CUSTOM_ID: 
+:GEB:      1919
+:TOD:      2012
+:END:
+** 1956-04-28
+   :PROPERTIES:
+   :CUSTOM_ID: seyppel1956-04-28
+   :TRAD: DLA/Benn
+   :ORT: Berlin
+   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       290
+    :S:        328
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    594-95
+    :VORL:     
+    :END:
+
+* Benn
+:PROPERTIES:
+:TO: Benn
+:FROM: Seyppel, Joachim
+:END:
+** 1956-04-24
+   :PROPERTIES:
+   :CUSTOM_ID: seyppelb1956-04-24
+   :TRAD: DLA/Benn
+   :ORT: 
+   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR: 
+    :S:  594 (kommentar zu nr. 290)
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    595
+    :VORL:     
+    :END:
+
