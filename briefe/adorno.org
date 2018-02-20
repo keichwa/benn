@@ -1,0 +1,47 @@
+#+STARTUP: content
+#+STARTUP: showall
+# +STARTUP: showeverything
+#+TITLE: Benn - Theodor W. Adorno
+
+* Adorno, Theodor W.
+:PROPERTIES:
+:EMPF:     1
+:FROM: Benn
+:TO: Adorno, Theodor W.
+:CUSTOM_ID: adorno_theodor_w_1903
+:GEB:      1903
+:TOD:      1969
+:END:      
+** 1955-11-30
+   :PROPERTIES:
+   :CUSTOM_ID: ad1955-11-30
+   :TRAD: AdK/Benn
+   :ORT: Berlin
+   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       274
+    :S:        313-15
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    583
+    :VORL:     
+    :END:
+* Benn
+:PROPERTIES:
+:TO: Benn
+:FROM: Adorno, Theodor W.
+:END:
+** 1955-11-14
+   :PROPERTIES:
+   :TRAD:    DLA/Benn 
+   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       
+    :S:        583 (kommentar zu nr. 274)
+    :AUSL:     paraphrase
+    :FAKS:     
+    :S_KOM:    583
+    :VORL:     
+    :END:

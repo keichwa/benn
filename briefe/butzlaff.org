@@ -1,7 +1,7 @@
 #+STARTUP: content
 #+STARTUP: showall
 # +STARTUP: showeverything
-#+TITLE: Benn - Wolfgang  Butzlaff
+#+TITLE: Benn - Wolfgang Butzlaff
 
 *  Butzlaff, Wolfgang
 :PROPERTIES:

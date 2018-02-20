@@ -27,7 +27,6 @@
     :S_KOM:    560
     :VORL:     
     :END:
-
 * Benn
 :PROPERTIES:
 :TO: Benn

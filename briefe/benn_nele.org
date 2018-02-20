@@ -470,6 +470,36 @@ Erwähnt in [[#bn1950-10-29][1950-10-29 kommentar]].
     :S_KOM:    552
     :VORL:     
     :END:
+** 1954-02-26
+   :PROPERTIES:
+   :CUSTOM_ID: bn1954-02-26
+   :TRAD: AdK/Benn
+   :ORT: Berlin
+   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       239
+    :S:        284-86
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    558
+    :VORL:     
+    :END:
+** 1955-06-30
+   :PROPERTIES:
+   :CUSTOM_ID: bn1955-06-30
+   :TRAD: AdK/Benn
+   :ORT: Berlin
+   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       266
+    :S:        306
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    576
+    :VORL:     
+    :END:
 * Benn
 :PROPERTIES:
 :TO: Benn
@@ -584,3 +614,7 @@ In [[#bn1953-03-13][1953-03-13]] erwähnt.
 In [[#bn1953-07-27][1953-07-27]] erwähnt: "Karte aus Mainz."
 ** 1953-10-22 (vor 1953-10-22)
 Erwähnt in [[#vi1953-10-22][1953-10-22]]: "meine Tochter ... schrieb mir".
+** 1954-02-26 (vor 1954-02-26)
+Erwähnt in [[#bn1954-02-26][1954-02-26]]: "einen so langen Brief von Dir zu bekommen."
+** 1955-06-29
+Erwähnt in [[#bn1955-06-30][1955-06-30]]: "Deinen lieben Brief vom 29. VI"

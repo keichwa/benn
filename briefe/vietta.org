@@ -31,6 +31,21 @@
 :S: 75-76
 :S_KOM: 350
 :END:
+** 1953-10-22
+   :PROPERTIES:
+   :CUSTOM_ID: vi1953-10-22
+   :TRAD: DLA/Vietta
+   :ORT: Berlin
+   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       232
+    :S:        276-77
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    552-53
+    :VORL:     
+    :END:
 * Benn
 :PROPERTIES:
 :TO: Benn
@@ -46,5 +61,15 @@ Erwähnt in [[#vi1936-11-08]]: "Brief".
    :TRAD:     
    :END:
 Erwähnt in [[#vi1936-11-08]]: "Brief".
-
-
+** 1953-10-02
+   :PROPERTIES:
+   :CUSTOM_ID: vib1953-10-02
+   :TRAD:    DLA/Benn 
+   :END:
+Erwähnt in [[#vi1953-10-22][1953-10-22]]: "Brief aus Hamburg".
+** 1953-10-19
+   :PROPERTIES:
+   :CUSTOM_ID: vib1953-10-19
+   :TRAD:    DLA/Benn 
+   :END:
+Erwähnt in [[#vi1953-10-22][1953-10-22]]: "einem aus dem Schwarzwald".

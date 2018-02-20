@@ -138,6 +138,21 @@
     :S_KOM:    558-59
     :VORL:     www
     :END:
+** 1954-09-01
+   :PROPERTIES:
+   :CUSTOM_ID: ni1954-09-01
+   :TRAD: AdK/Benn
+   :ORT: Berlin
+   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       254
+    :S:        296-97
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    566-67
+    :VORL:     
+    :END:
 ** 1954-12-30
   :PROPERTIES:
   :CUSTOM_ID: ni1954-12-30
