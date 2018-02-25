@@ -1,0 +1,34 @@
+#+STARTUP: content
+#+STARTUP: showall
+# +STARTUP: showeverything
+#+TITLE: Benn - Hilde Nommensen
+
+* Nommensen, Hilde
+:PROPERTIES:
+:EMPF:     1
+:FROM: Benn
+:TO: Nommensen, Hilde
+:CUSTOM_ID: nommensen_hilde_
+:GEB:      
+:TOD:      
+:END:      
+** 1946-01-30
+   :PROPERTIES:
+   :CUSTOM_ID: no1946-01-30
+   :TRAD: u
+   :ORT: 
+   :END:
+*** AB2017
+    :PROPERTIES:
+    :NR:       
+    :S:        465 (kommentar zu nr. 122)
+    :AUSL:     zitat
+    :FAKS:     
+    :S_KOM:    465
+    :VORL:     Jb 2, s. 94
+    :END:
+* Benn
+:PROPERTIES:
+:TO: Benn
+:FROM: Nommensen, Hilde
+:END:
