@@ -14,8 +14,8 @@
 * 1929-02-09
   :PROPERTIES:
   :CUSTOM_ID: welt1929-02-09
-  :TRAD: u
-  :ORT: [Berlin]
+  :TRAD: Stuttgart, WLB, Bibliothek f. Zeitgeschichte
+  :ORT: Berlin
   :END:
 ** AB2017
    :PROPERTIES:
@@ -24,7 +24,16 @@
    :AUSL:     
    :FAKS:     
    :S_KOM:    398
-   :VORL:     nach Faks.
+   :VORL:     westerhoff_2015:_heimkehr (Faks.)
+   :END:
+** westerhoff_2015:_heimkehr
+   :PROPERTIES:
+   :NR:       
+   :S:        48
+   :AUSL:     
+   :FAKS:     48
+   :S_KOM:    48-49
+   :VORL:     
    :END:
 * Benn
 :PROPERTIES:
