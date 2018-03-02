@@ -58,7 +58,13 @@
 :S: 61-62
 :S_KOM: 
 :END:
-** 1935-02-17
+** TODO 1935-02-12
+  :PROPERTIES:
+  :CUSTOM_ID: bense1935-02-12
+  :TRAD:     DLA/Bense
+  :END:
+Erwähnt und nachgewiesen [[file:oelze.org::#oe1935-06-04][1935-06-04 kommentar]].
+** TODO 1935-02-17
   :PROPERTIES:
   :CUSTOM_ID: bense1935-02-17
   :TRAD:     DLA/Bense
@@ -190,6 +196,13 @@ In [[#bense1934-06-13]] erwähnt: "Ihr Schreiben".
    :TRAD: 
    :END:      
 Erwähnt in [[#bense1935-02-17]].
+** 1935-05-20
+   :PROPERTIES:
+   :CUSTOM_ID: benseb1935-05-20
+   :TRAD: NB/DLA
+   :END:      
+Erwähnt und nachgewiesen [[file:oelze.org::#oe1935-06-04][1935-06-04 kommentar]].
+*** bense2003
 
 ** 1937-03-05 (vor 1937-03-05)
    :PROPERTIES:
