@@ -277,9 +277,9 @@
     :AUSL:     
     :S_KOM:    
     :END:
-** 1934-07-27
+** 1934-07-24
    :PROPERTIES:
-   :CUSTOM_ID: oe1934-07-27
+   :CUSTOM_ID: oe1934-07-24
    :TRAD:
    :END:      
 *** BOe2016
@@ -291,7 +291,6 @@
     :FAKS:     
     :S_KOM:    399
     :END:
-
 *** BOe
     :PROPERTIES:
     :NR:       10
@@ -16461,7 +16460,6 @@ Widmung.
     :FAKS:     
     :S_KOM:    526
     :END:
-
 *** BOe
     :PROPERTIES:
     :NR:       684
@@ -18216,7 +18214,7 @@ In [[#oe1933-01-27]] erwähnt.
    :TRAD:     verloren
    :END:      
 In [[#oe1933-07-03]] erwähnt.
-** 1933-08-01
+** 1933-08-01 (wohl 1933-08-01 oder wenig früher)
    :PROPERTIES:
    :TRAD:     verloren
    :END:      
@@ -18244,7 +18242,7 @@ In [[#oe1933-08-02]] erwähnt.
    :CUSTOM_ID: oeb1934-06-13
    :TRAD: verloren
    :END:      
-   In [[#oe1934-07-27]] erwähnt.
+   In [[#oe1934-07-24]] erwähnt: "Ihre Briefe".
 ** 1934-08-22 (vor 1934-08-22)
    :PROPERTIES:
    :CUSTOM_ID: oeb1934-08-22
