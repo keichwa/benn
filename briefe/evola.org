@@ -1,0 +1,82 @@
+#+STARTUP: content
+#+STARTUP: showall
+# +STARTUP: showeverything
+#+TITLE: Benn - Julius Evola
+
+* Evola, Julius
+:PROPERTIES:
+:EMPF:     1
+:FROM: Benn
+:TO: Evola, Julius
+:CUSTOM_ID: evola_julius
+:GEB:      1898
+:TOD:      1975
+:END:
+* Benn
+:PROPERTIES:
+:TO: Benn
+:FROM: Evola, Julius
+:END:
+** 1934-07-20
+   :PROPERTIES:
+   :CUSTOM_ID: evb1934-07-20
+   :TRAD:     NB/DLA
+   :END:      
+Erwähnt in [[file:oelze.org::#oe1935-04-07][1935-04-07 kommentar]].
+*** BOe2016
+    :PROPERTIES:
+    :NR:       
+    :BD:       1
+    :S:        407 (im kommentar zu nr. 24)
+    :AUSL:     nachweis
+    :FAKS:     
+    :S_KOM:    407
+    :END:
+** 1934-08-09
+   :PROPERTIES:
+   :CUSTOM_ID: evb1934-08-09
+   :TRAD:     NB/DLA
+   :END:      
+Erwähnt in [[file:oelze.org::#oe1935-04-07][1935-04-07 kommentar]].
+*** BOe2016
+    :PROPERTIES:
+    :NR:       
+    :BD:       1
+    :S:        407 (im kommentar zu nr. 24)
+    :AUSL:     nachweis
+    :FAKS:     
+    :S_KOM:    407
+    :END:
+
+
+** 1935-03-17
+   :PROPERTIES:
+   :CUSTOM_ID: evb1935-03-17
+   :TRAD:     NB/DLA
+   :END:      
+Erwähnt in [[file:oelze.org::#oe1935-04-07][1935-04-07 kommentar]].
+*** BOe2016
+    :PROPERTIES:
+    :NR:       
+    :BD:       1
+    :S:        407 (im kommentar zu nr. 24)
+    :AUSL:     paraphrase
+    :FAKS:     
+    :S_KOM:    407
+    :END:
+** 1955-11-13
+   :PROPERTIES:
+   :CUSTOM_ID: evb1955-11-13
+   :TRAD:     NB/DLA
+   :END:      
+Erwähnt in [[file:oelze.org::#oe1935-04-07][1935-04-07 kommentar]].
+*** BOe2016
+    :PROPERTIES:
+    :NR:       
+    :BD:       1
+    :S:        407 (im kommentar zu nr. 24)
+    :AUSL:     nachweis
+    :FAKS:     
+    :S_KOM:    407
+    :END:
+
