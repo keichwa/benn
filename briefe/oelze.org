@@ -722,7 +722,6 @@ Widmung
     :FAKS:     
     :S_KOM:    411
     :END:
-
 *** BOe
     :PROPERTIES:
     :NR:       29
@@ -19037,6 +19036,12 @@ In [[#oe1935-12-26]] erwähnt; unklar.
     :FAKS:     
     :S_KOM:    456
     :END:
+** 1936-06-07 (oder vor 1936-06-07)
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1936-06-07a
+   :TRAD: verloren
+   :END:      
+"Telegramm" erwähnt [[#oe1936-06-07][1936-06-07]].
 ** 1936-06-07
    :PROPERTIES:
    :CUSTOM_ID: oeb1936-06-07
