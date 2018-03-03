@@ -11,6 +11,20 @@
 :GEB: 1879
 :TOD: 1963
 :END:
+** 1935-05-26 (vor 1935-05-26)
+  :PROPERTIES:
+  :CUSTOM_ID: ki1935-05-26
+  :TRAD:     u
+  :ORT:      
+  :END:
+Erwähnt in [[file:oelze.org::#oe1936-05-26][1936-05-26]].
+** 1935-05-29 (vor 1935-05-29)
+  :PROPERTIES:
+  :CUSTOM_ID: ki1935-05-29
+  :TRAD:     verloren
+  :ORT:      
+  :END:
+Erwähnt in [[file:oelze.org::#oe1936-05-29][1936-05-29]].
 ** 1942-02-12
   :PROPERTIES:
   :CUSTOM_ID: ki1942-02-12
