@@ -2927,7 +2927,6 @@ Erwähnt in [[#oeb1936-04-09]]
     :FAKS:     
     :S_KOM:    488-89
     :END:
-
 *** BOe
     :PROPERTIES:
     :NR:       124
@@ -3041,7 +3040,6 @@ Erwähnt in [[#oeb1936-04-09]]
     :FAKS:     
     :S_KOM:    492-93
     :END:
-
 *** BOe
     :PROPERTIES:
     :NR:       129
@@ -3068,9 +3066,8 @@ Erwähnt in [[#oeb1936-04-09]]
     :S:        249
     :AUSL:     
     :FAKS:     
-    :S_KOM:    493-96
+    :S_KOM:    493-94
     :END:
-
 *** BOe
     :PROPERTIES:
     :NR:       130
@@ -3078,6 +3075,21 @@ Erwähnt in [[#oeb1936-04-09]]
     :S:        
     :AUSL:     
     :S_KOM:    
+    :END:
+** 1937-12-31 (vor 1937-12-31) (entwurf)
+   :PROPERTIES:
+   :CUSTOM_ID: oe1937-12-31a
+   :TRAD: NB/DLA
+   :TRANS: entwurf
+   :END:      
+*** BOe2016
+    :PROPERTIES:
+    :NR:       
+    :BD:       1
+    :S:        494-95 (nach kommentar zu nr. 218)
+    :AUSL:     
+    :FAKS:     
+    :S_KOM:    495-96
     :END:
 ** 1937-12-31
    :PROPERTIES:
@@ -3116,7 +3128,6 @@ Erwähnt in [[#oeb1936-04-09]]
     :FAKS:     252
     :S_KOM:    497
     :END:
-
 *** BOe
     :PROPERTIES:
     :NR:       132
@@ -19711,6 +19722,12 @@ Erwähnt in [[#oe1937-11-15]]: "Ihre mannigfachen Sendungen".
    :TRAD: verloren
    :END:      
 Erwähnt in [[#oe1937-12-29]].
+** 1938-01-23 (vor 1938-01-23)
+   :PROPERTIES:
+   :CUSTOM_ID: oeb1938-01-23
+   :TRAD: verloren
+   :END:      
+"Telegramm" erwähnt in [[#oe1938-01-21][1938-01-21]].
 ** 1938-02-26 (vor 1938-02-26)
    :PROPERTIES:
    :CUSTOM_ID: oeb1938-02-26
